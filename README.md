@@ -1,7 +1,8 @@
 ## __cfbfastR-data__ 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?style=social)](https://twitter.com/cfbfastR) [![Twitter Follow](https://img.shields.io/twitter/follow/saiemgilani?style=social)](https://twitter.com/saiemgilani)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cfbfastR?color=blue&label=%40cfbfastR&logo=twitter&style=for-the-badge)](https://twitter.com/cfbfastR) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/saiemgilani?color=blue&label=%40saiemgilani&logo=twitter&style=for-the-badge)](https://twitter.com/saiemgilani) 
+<a href="https://github.com/saiemgilani" target="blank"><img src="https://img.shields.io/github/followers/saiemgilani?color=eee&logo=Github&style=for-the-badge" alt="@saiemgilani" /></a>
 
-![social_card_data_repo.png](https://raw.githubusercontent.com/saiemgilani/cfbfastR-data/master/social_card_data_repo.png)
 ### __cfbfastR data 2014-2020__
 
 ## RDS
