@@ -1,0 +1,767 @@
+"game_id","season","week","season_type","start_date","start_time_tbd","neutral_site","conference_game","attendance","venue_id","venue","home_id","home_team","home_conference","home_points","home_post_win_prob","away_id","away_team","away_conference","away_points","away_post_win_prob","excitement_index"
+272422433,2007,1,"regular","2007-08-30T19:00:00.000Z",NA,FALSE,FALSE,22022,3817,"Malone Stadium",2433,"Louisiana Monroe","Sun Belt",17,NA,202,"Tulsa","Conference USA",35,NA,NA
+272422132,2007,1,"regular","2007-08-30T19:00:00.000Z",NA,FALSE,FALSE,20223,3854,"Nippert Stadium",2132,"Cincinnati","Big East",59,NA,2546,"Southeast Missouri State",NA,3,NA,NA
+272420164,2007,1,"regular","2007-08-30T19:00:00.000Z",NA,FALSE,FALSE,43091,3754,"High Point Solutions Stadium",164,"Rutgers","Big East",38,NA,2084,"Buffalo","Mid-American",3,NA,NA
+272422050,2007,1,"regular","2007-08-30T19:00:00.000Z",NA,FALSE,TRUE,7885,3919,"Scheumann Stadium",2050,"Ball State","Mid-American",13,NA,193,"Miami (OH)","Mid-American",14,NA,NA
+272420097,2007,1,"regular","2007-08-30T19:30:00.000Z",NA,FALSE,FALSE,0,3873,"Papa John's Cardinal Stadium",97,"Louisville","Big East",73,NA,93,"Murray State",NA,10,NA,NA
+272420166,2007,1,"regular","2007-08-30T20:00:00.000Z",NA,FALSE,FALSE,12682,3601,"Aggie Memorial Stadium",166,"New Mexico State","Western Athletic",35,NA,2545,"Southeastern Louisiana",NA,14,NA,NA
+272420066,2007,1,"regular","2007-08-30T20:00:00.000Z",NA,FALSE,FALSE,47313,3772,"Jack Trice Stadium",66,"Iowa State","Big 12",14,NA,2309,"Kent State","Mid-American",23,NA,NA
+272420344,2007,1,"regular","2007-08-30T20:00:00.000Z",NA,FALSE,TRUE,50112,3693,"Davis Wade Stadium",344,"Mississippi State","SEC",0,NA,99,"LSU","SEC",45,NA,NA
+272420328,2007,1,"regular","2007-08-30T20:05:00.000Z",NA,FALSE,FALSE,15102,3905,"Romney Stadium",328,"Utah State","Western Athletic",16,NA,2439,"UNLV","Mountain West",23,NA,NA
+272420068,2007,1,"regular","2007-08-30T21:05:00.000Z",NA,FALSE,FALSE,30278,3653,"Albertsons Stadium",68,"Boise State","Western Athletic",56,NA,2692,"Weber State",NA,7,NA,NA
+272420204,2007,1,"regular","2007-08-30T22:00:00.000Z",NA,FALSE,TRUE,40409,3893,"Reser Stadium",204,"Oregon State","Pac-10",24,NA,254,"Utah","Mountain West",7,NA,NA
+272430218,2007,1,"regular","2007-08-31T19:30:00.000Z",NA,FALSE,FALSE,30368,3806,"Lincoln Financial Field",218,"Temple","Mid-American",19,NA,2426,"Navy","FBS Independents",30,NA,NA
+272430183,2007,1,"regular","2007-08-31T20:00:00.000Z",NA,FALSE,FALSE,40329,1964,"Carrier Dome",183,"Syracuse","Big East",12,NA,264,"Washington","Pac-10",42,NA,NA
+272440194,2007,1,"regular","2007-09-01T12:00:00.000Z",NA,FALSE,FALSE,105038,3861,"Ohio Stadium",194,"Ohio State","Big Ten",38,NA,2754,"Youngstown State",NA,6,NA,NA
+272440127,2007,1,"regular","2007-09-01T12:00:00.000Z",NA,FALSE,FALSE,67796,3936,"Spartan Stadium",127,"Michigan State","Big Ten",55,NA,5,"UAB","Conference USA",18,NA,NA
+272440038,2007,1,"regular","2007-09-01T12:00:00.000Z",NA,FALSE,FALSE,68133,NA,NA,38,"Colorado","Big 12",31,NA,36,"Colorado State","Mountain West",28,NA,NA
+272440259,2007,1,"regular","2007-09-01T12:04:00.000Z",NA,FALSE,FALSE,66233,3799,"Lane Stadium",259,"Virginia Tech","ACC",17,NA,151,"East Carolina","Conference USA",7,NA,NA
+272442390,2007,1,"regular","2007-09-01T12:04:00.000Z",NA,FALSE,FALSE,39830,NA,NA,2390,"Miami","ACC",31,NA,276,"Marshall","Conference USA",3,NA,NA
+272440213,2007,1,"regular","2007-09-01T12:07:00.000Z",NA,FALSE,FALSE,107678,3632,"Beaver Stadium",213,"Penn State","Big Ten",59,NA,2229,"Florida International","Sun Belt",0,NA,NA
+272440130,2007,1,"regular","2007-09-01T12:07:00.000Z",NA,FALSE,FALSE,109218,3558,"Michigan Stadium",130,"Michigan","Big Ten",32,NA,2026,"Appalachian State",NA,34,NA,NA
+272440077,2007,1,"regular","2007-09-01T12:07:00.000Z",NA,FALSE,FALSE,16199,3911,"Ryan Field",77,"Northwestern","Big Ten",27,NA,111,"Northeastern",NA,0,NA,NA
+272440057,2007,1,"regular","2007-09-01T12:30:00.000Z",NA,FALSE,FALSE,90086,3634,"Ben Hill Griffin Stadium",57,"Florida","SEC",49,NA,98,"Western Kentucky","FBS Independents",3,NA,NA
+272442005,2007,1,"regular","2007-09-01T14:00:00.000Z",NA,FALSE,FALSE,39364,3713,"Falcon Stadium",2005,"Air Force","Mountain West",34,NA,2569,"South Carolina State",NA,3,NA,NA
+272442751,2007,1,"regular","2007-09-01T14:00:00.000Z",NA,FALSE,FALSE,0,NA,NA,2751,"Wyoming","Mountain West",23,NA,258,"Virginia","ACC",3,NA,NA
+272440150,2007,1,"regular","2007-09-01T14:00:00.000Z",NA,FALSE,FALSE,17251,3982,"Wallace Wade Stadium",150,"Duke","ACC",14,NA,41,"Connecticut","Big East",45,NA,NA
+272442459,2007,1,"regular","2007-09-01T15:30:00.000Z",NA,FALSE,FALSE,61500,NA,NA,2459,"Northern Illinois","Mid-American",3,NA,2294,"Iowa","Big Ten",16,NA,NA
+272440277,2007,1,"regular","2007-09-01T15:30:00.000Z",NA,FALSE,FALSE,60563,3842,"Mountaineer Field at Milan Puskar Stadium",277,"West Virginia","Big East",62,NA,2711,"Western Michigan","Mid-American",24,NA,NA
+272440158,2007,1,"regular","2007-09-01T15:30:00.000Z",NA,FALSE,FALSE,0,3834,"Memorial Stadium",158,"Nebraska","Big 12",52,NA,2440,"Nevada","Western Athletic",10,NA,NA
+272440356,2007,1,"regular","2007-09-01T15:30:00.000Z",NA,FALSE,FALSE,62352,NA,NA,356,"Illinois","Big Ten",34,NA,142,"Missouri","Big 12",40,NA,NA
+272442483,2007,1,"regular","2007-09-01T15:30:00.000Z",NA,FALSE,FALSE,57662,3626,"Autzen Stadium",2483,"Oregon","Pac-10",48,NA,248,"Houston","Conference USA",27,NA,NA
+272440235,2007,1,"regular","2007-09-01T15:30:00.000Z",NA,FALSE,FALSE,0,3805,"Liberty Bowl Memorial Stadium",235,"Memphis","Conference USA",21,NA,145,"Ole Miss","SEC",23,NA,NA
+272440103,2007,1,"regular","2007-09-01T15:30:00.000Z",NA,FALSE,TRUE,42292,3615,"Alumni Stadium",103,"Boston College","ACC",38,NA,154,"Wake Forest","ACC",28,NA,NA
+272440087,2007,1,"regular","2007-09-01T15:30:00.000Z",NA,FALSE,FALSE,80795,3855,"Notre Dame Stadium",87,"Notre Dame","FBS Independents",3,NA,59,"Georgia Tech","ACC",33,NA,NA
+272440275,2007,1,"regular","2007-09-01T15:36:00.000Z",NA,FALSE,TRUE,81547,347,"Camp Randall Stadium",275,"Wisconsin","Big Ten",42,NA,265,"Washington State","Pac-10",21,NA,NA
+272440024,2007,1,"regular","2007-09-01T15:41:00.000Z",NA,FALSE,TRUE,38860,3940,"Stanford Stadium",24,"Stanford","Pac-10",17,NA,26,"UCLA","Pac-10",45,NA,NA
+272442226,2007,1,"regular","2007-09-01T16:00:00.000Z",NA,FALSE,TRUE,11398,NA,NA,2226,"Florida Atlantic","Sun Belt",27,NA,2393,"Middle Tennessee","Sun Belt",14,NA,NA
+272440252,2007,1,"regular","2007-09-01T17:30:00.000Z",NA,FALSE,TRUE,64525,3801,"LaVell Edwards Stadium",252,"BYU","Mountain West",20,NA,12,"Arizona","Pac-10",7,NA,NA
+272440120,2007,1,"regular","2007-09-01T18:00:00.000Z",NA,FALSE,FALSE,50389,3665,"Maryland Stadium",120,"Maryland","ACC",31,NA,222,"Villanova",NA,14,NA,NA
+272442628,2007,1,"regular","2007-09-01T18:00:00.000Z",NA,FALSE,FALSE,35606,3616,"Amon G. Carter Stadium",2628,"TCU","Mountain West",27,NA,239,"Baylor","Big 12",0,NA,NA
+272440096,2007,1,"regular","2007-09-01T18:00:00.000Z",NA,FALSE,FALSE,66512,3683,"Commonwealth Stadium",96,"Kentucky","SEC",50,NA,2198,"Eastern Kentucky",NA,10,NA,NA
+272440152,2007,1,"regular","2007-09-01T18:00:00.000Z",NA,FALSE,FALSE,57283,3670,"Carter-Finley Stadium",152,"NC State","ACC",23,NA,2116,"UCF","Conference USA",25,NA,NA
+272440221,2007,1,"regular","2007-09-01T18:00:00.000Z",NA,FALSE,FALSE,36183,3752,"Heinz Field",221,"Pittsburgh","Big East",27,NA,2199,"Eastern Michigan","Mid-American",3,NA,NA
+272440153,2007,1,"regular","2007-09-01T18:05:00.000Z",NA,FALSE,FALSE,58500,3787,"Kenan Memorial Stadium",153,"North Carolina","ACC",37,NA,256,"James Madison",NA,14,NA,NA
+272440061,2007,1,"regular","2007-09-01T18:45:00.000Z",NA,FALSE,FALSE,92746,3917,"Sanford Stadium",61,"Georgia","SEC",35,NA,197,"Oklahoma State","Big 12",14,NA,NA
+272440008,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,73926,3887,"Donald W. Reynolds Razorback Stadium Frank Broyles Field",8,"Arkansas","SEC",46,NA,2653,"Troy","Sun Belt",26,NA,NA
+272440251,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,84440,3910,"Darrell K Royal-Texas Memorial Stadium",251,"Texas","Big 12",21,NA,2032,"Arkansas State","Sun Belt",13,NA,NA
+272440201,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,84472,3835,"Gaylord Family Oklahoma Memorial Stadium",201,"Oklahoma","Big 12",79,NA,249,"North Texas","Sun Belt",10,NA,NA
+272442305,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,46815,3833,"Memorial Stadium",2305,"Kansas","Big 12",52,NA,2117,"Central Michigan","Mid-American",7,NA,NA
+272442348,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,20240,3776,"Joe Aillet Stadium",2348,"Louisiana Tech","Western Athletic",28,NA,2110,"Central Arkansas",NA,7,NA,NA
+272442572,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,29253,3815,"M. M. Roberts Stadium",2572,"Southern Mississippi","Conference USA",35,NA,2630,"UT Martin",NA,13,NA,NA
+272442649,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,26100,3739,"Glass Bowl",2649,"Toledo","Mid-American",24,NA,2509,"Purdue","Big Ten",52,NA,NA
+272440195,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,19823,3876,"Peden Stadium",195,"Ohio","Mid-American",36,NA,2241,"Gardner-Webb",NA,14,NA,NA
+272440238,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,32215,3973,"Vanderbilt Stadium",238,"Vanderbilt","SEC",41,NA,257,"Richmond",NA,17,NA,NA
+272442006,2007,1,"regular","2007-09-01T19:00:00.000Z",NA,FALSE,FALSE,17865,3656,"Brown Stadium",2006,"Akron","Mid-American",22,NA,349,"Army","FBS Independents",14,NA,NA
+272440245,2007,1,"regular","2007-09-01T19:05:00.000Z",NA,FALSE,FALSE,79438,3795,"Kyle Field",245,"Texas A&M","Big 12",38,NA,147,"Montana State",NA,7,NA,NA
+272442579,2007,1,"regular","2007-09-01T19:05:00.000Z",NA,FALSE,FALSE,78234,3994,"Williams-Brice Stadium",2579,"South Carolina","SEC",28,NA,309,"Louisiana","Sun Belt",14,NA,NA
+272440058,2007,1,"regular","2007-09-01T19:05:00.000Z",NA,FALSE,FALSE,33639,3886,"Raymond James Stadium",58,"South Florida","Big East",28,NA,2210,"Elon",NA,13,NA,NA
+272440333,2007,1,"regular","2007-09-01T19:07:00.000Z",NA,FALSE,FALSE,92138,3657,"Bryant Denny Stadium",333,"Alabama","SEC",52,NA,2717,"Western Carolina",NA,6,NA,NA
+272440002,2007,1,"regular","2007-09-01T19:45:00.000Z",NA,FALSE,FALSE,86439,3785,"Jordan-Hare Stadium",2,"Auburn","SEC",23,NA,2306,"Kansas State","Big 12",13,NA,NA
+272440025,2007,1,"regular","2007-09-01T20:00:00.000Z",NA,FALSE,FALSE,72516,3831,"California Memorial Stadium",25,"California","Pac-10",45,NA,2633,"Tennessee","SEC",31,NA,NA
+272440084,2007,1,"regular","2007-09-01T20:00:00.000Z",NA,FALSE,FALSE,34715,3830,"Memorial Stadium",84,"Indiana","Big Ten",55,NA,282,"Indiana State",NA,7,NA,NA
+272440242,2007,1,"regular","2007-09-01T20:00:00.000Z",NA,FALSE,FALSE,11859,3895,"Rice Stadium",242,"Rice","Conference USA",14,NA,2447,"Nicholls",NA,16,NA,NA
+272440135,2007,1,"regular","2007-09-01T20:00:00.000Z",NA,FALSE,FALSE,49253,NA,NA,135,"Minnesota","Big Ten",31,NA,189,"Bowling Green","Mid-American",32,NA,NA
+272440009,2007,1,"regular","2007-09-01T22:00:00.000Z",NA,FALSE,FALSE,0,3947,"Sun Devil Stadium",9,"Arizona State","Pac-10",45,NA,23,"San José State","Western Athletic",3,NA,NA
+272442638,2007,1,"regular","2007-09-01T22:00:00.000Z",NA,FALSE,FALSE,43326,3946,"Sun Bowl Stadium",2638,"UTEP","Conference USA",10,NA,167,"New Mexico","Mountain West",6,NA,NA
+272440278,2007,1,"regular","2007-09-01T22:05:00.000Z",NA,FALSE,FALSE,35963,3660,"Bulldog Stadium",278,"Fresno State","Western Athletic",24,NA,16,"Sacramento State",NA,3,NA,NA
+272440030,2007,1,"regular","2007-09-01T22:15:00.000Z",NA,FALSE,FALSE,90917,477,"Los Angeles Memorial Coliseum",30,"USC","Pac-10",38,NA,70,"Idaho","Western Athletic",10,NA,NA
+272440062,2007,1,"regular","2007-09-02T00:05:00.000Z",NA,FALSE,FALSE,40252,3610,"Aloha Stadium",62,"Hawai'i","Western Athletic",63,NA,2458,"Northern Colorado",NA,6,NA,NA
+272462567,2007,1,"regular","2007-09-03T16:00:00.000Z",NA,FALSE,FALSE,26969,3735,"Gerald J. Ford Stadium",2567,"SMU","Conference USA",9,NA,2641,"Texas Tech","Big 12",49,NA,NA
+272460228,2007,1,"regular","2007-09-03T20:08:00.000Z",NA,FALSE,TRUE,83000,3836,"Memorial Stadium",228,"Clemson","ACC",24,NA,52,"Florida State","ACC",18,NA,NA
+272490097,2007,2,"regular","2007-09-06T19:00:00.000Z",NA,FALSE,FALSE,40882,3873,"Papa John's Cardinal Stadium",97,"Louisville","Big East",58,NA,2393,"Middle Tennessee","Sun Belt",42,NA,NA
+272492132,2007,2,"regular","2007-09-06T19:46:00.000Z",NA,FALSE,FALSE,25020,3854,"Nippert Stadium",2132,"Cincinnati","Big East",34,NA,204,"Oregon State","Pac-10",3,NA,NA
+272500164,2007,2,"regular","2007-09-07T19:00:00.000Z",NA,FALSE,FALSE,43514,3754,"High Point Solutions Stadium",164,"Rutgers","Big East",41,NA,2426,"Navy","FBS Independents",24,NA,NA
+272510276,2007,2,"regular","2007-09-08T11:02:00.000Z",NA,FALSE,FALSE,40383,3775,"Joan C. Edwards Stadium",276,"Marshall","Conference USA",23,NA,277,"West Virginia","Big East",48,NA,NA
+272510135,2007,2,"regular","2007-09-08T12:00:00.000Z",NA,FALSE,FALSE,45383,NA,NA,135,"Minnesota","Big Ten",41,NA,193,"Miami (OH)","Mid-American",35,NA,NA
+272512509,2007,2,"regular","2007-09-08T12:00:00.000Z",NA,FALSE,FALSE,52504,3907,"Ross-Ade Stadium",2509,"Purdue","Big Ten",52,NA,2197,"Eastern Illinois",NA,6,NA,NA
+272512199,2007,2,"regular","2007-09-08T12:00:00.000Z",NA,FALSE,TRUE,5794,3912,"Rynearson Stadium",2199,"Eastern Michigan","Mid-American",16,NA,2050,"Ball State","Mid-American",38,NA,NA
+272510194,2007,2,"regular","2007-09-08T12:00:00.000Z",NA,FALSE,FALSE,0,3861,"Ohio Stadium",194,"Ohio State","Big Ten",20,NA,2006,"Akron","Mid-American",2,NA,NA
+272510258,2007,2,"regular","2007-09-08T12:00:00.000Z",NA,FALSE,TRUE,58554,3923,"Scott Stadium",258,"Virginia","ACC",24,NA,150,"Duke","ACC",13,NA,NA
+272510221,2007,2,"regular","2007-09-08T12:00:00.000Z",NA,FALSE,FALSE,30852,3752,"Heinz Field",221,"Pittsburgh","Big East",34,NA,2755,"Grambling",NA,10,NA,NA
+272510201,2007,2,"regular","2007-09-08T12:00:00.000Z",NA,FALSE,FALSE,85357,3835,"Gaylord Family Oklahoma Memorial Stadium",201,"Oklahoma","Big 12",51,NA,2390,"Miami","ACC",13,NA,NA
+272510154,2007,2,"regular","2007-09-08T12:02:00.000Z",NA,FALSE,FALSE,32483,3630,"BB&T Field",154,"Wake Forest","ACC",17,NA,158,"Nebraska","Big 12",20,NA,NA
+272510127,2007,2,"regular","2007-09-08T12:07:00.000Z",NA,FALSE,FALSE,67276,3936,"Spartan Stadium",127,"Michigan State","Big Ten",28,NA,189,"Bowling Green","Mid-American",17,NA,NA
+272510077,2007,2,"regular","2007-09-08T12:07:00.000Z",NA,FALSE,FALSE,17653,3911,"Ryan Field",77,"Northwestern","Big Ten",36,NA,2440,"Nevada","Western Athletic",31,NA,NA
+272510238,2007,2,"regular","2007-09-08T12:34:00.000Z",NA,FALSE,TRUE,39773,3973,"Vanderbilt Stadium",238,"Vanderbilt","SEC",10,NA,333,"Alabama","SEC",24,NA,NA
+272510218,2007,2,"regular","2007-09-08T13:00:00.000Z",NA,FALSE,TRUE,15629,3806,"Lincoln Financial Field",218,"Temple","Mid-American",7,NA,2084,"Buffalo","Mid-American",42,NA,NA
+272510228,2007,2,"regular","2007-09-08T13:00:00.000Z",NA,FALSE,FALSE,77000,3836,"Memorial Stadium",228,"Clemson","ACC",49,NA,2433,"Louisiana Monroe","Sun Belt",26,NA,NA
+272510349,2007,2,"regular","2007-09-08T13:00:00.000Z",NA,FALSE,FALSE,27601,3841,"Blaik Field at Michie Stadium",349,"Army","FBS Independents",14,NA,227,"Rhode Island",NA,7,NA,NA
+272510059,2007,2,"regular","2007-09-08T13:34:00.000Z",NA,FALSE,FALSE,43288,721,"Bobby Dodd Stadium at Historic Grant Field",59,"Georgia Tech","ACC",69,NA,2535,"Samford",NA,14,NA,NA
+272512751,2007,2,"regular","2007-09-08T14:00:00.000Z",NA,FALSE,FALSE,19443,NA,NA,2751,"Wyoming","Mountain West",32,NA,328,"Utah State","Western Athletic",18,NA,NA
+272510036,2007,2,"regular","2007-09-08T14:00:00.000Z",NA,FALSE,TRUE,27805,3761,"Sonny Lubick Field at Hughes Stadium",36,"Colorado State","Mountain West",28,NA,25,"California","Pac-10",34,NA,NA
+272510103,2007,2,"regular","2007-09-08T14:30:00.000Z",NA,FALSE,TRUE,42513,3615,"Alumni Stadium",103,"Boston College","ACC",37,NA,152,"NC State","ACC",17,NA,NA
+272510264,2007,2,"regular","2007-09-08T15:30:00.000Z",NA,FALSE,FALSE,70045,3765,"Husky Stadium",264,"Washington","Pac-10",24,NA,68,"Boise State","Western Athletic",10,NA,NA
+272510245,2007,2,"regular","2007-09-08T15:30:00.000Z",NA,FALSE,FALSE,75932,3795,"Kyle Field",245,"Texas A&M","Big 12",47,NA,278,"Fresno State","Western Athletic",45,NA,NA
+272510130,2007,2,"regular","2007-09-08T15:30:00.000Z",NA,FALSE,TRUE,109733,3558,"Michigan Stadium",130,"Michigan","Big Ten",7,NA,2483,"Oregon","Pac-10",39,NA,NA
+272510052,2007,2,"regular","2007-09-08T17:00:00.000Z",NA,FALSE,FALSE,78673,3697,"Bobby Bowden Field at Doak Campbell Stadium",52,"Florida State","ACC",34,NA,5,"UAB","Conference USA",24,NA,NA
+272510098,2007,2,"regular","2007-09-08T17:00:00.000Z",NA,FALSE,FALSE,16165,3796,"Houchens Industries-L. T. Smith Stadium",98,"Western Kentucky","FBS Independents",87,NA,2706,"West Virginia Tech",NA,0,NA,NA
+272510070,2007,2,"regular","2007-09-08T17:00:00.000Z",NA,FALSE,FALSE,9820,3791,"Kibbie Dome",70,"Idaho","Western Athletic",20,NA,13,"Cal Poly",NA,13,NA,NA
+272510061,2007,2,"regular","2007-09-08T17:45:00.000Z",NA,FALSE,TRUE,0,3917,"Sanford Stadium",61,"Georgia","SEC",12,NA,2579,"South Carolina","SEC",16,NA,NA
+272510151,2007,2,"regular","2007-09-08T18:00:00.000Z",NA,FALSE,FALSE,43387,3699,"Dowdy-Ficklen Stadium",151,"East Carolina","Conference USA",34,NA,153,"North Carolina","ACC",31,NA,NA
+272510145,2007,2,"regular","2007-09-08T18:00:00.000Z",NA,FALSE,FALSE,50897,3974,"Vaught-Hemingway Stadium",145,"Ole Miss","SEC",25,NA,142,"Missouri","Big 12",38,NA,NA
+272510254,2007,2,"regular","2007-09-08T18:00:00.000Z",NA,FALSE,TRUE,43454,587,"Rice-Eccles Stadium",254,"Utah","Mountain West",12,NA,2005,"Air Force","Mountain West",20,NA,NA
+272510096,2007,2,"regular","2007-09-08T18:00:00.000Z",NA,FALSE,FALSE,67380,3683,"Commonwealth Stadium",96,"Kentucky","SEC",56,NA,2309,"Kent State","Mid-American",20,NA,NA
+272510057,2007,2,"regular","2007-09-08T18:00:00.000Z",NA,FALSE,FALSE,0,3634,"Ben Hill Griffin Stadium",57,"Florida","SEC",59,NA,2653,"Troy","Sun Belt",31,NA,NA
+272510213,2007,2,"regular","2007-09-08T18:02:00.000Z",NA,FALSE,FALSE,110078,3632,"Beaver Stadium",213,"Penn State","Big Ten",31,NA,87,"Notre Dame","FBS Independents",10,NA,NA
+272510026,2007,2,"regular","2007-09-08T18:30:00.000Z",NA,FALSE,TRUE,72986,1056,"Rose Bowl",26,"UCLA","Pac-10",27,NA,252,"BYU","Mountain West",17,NA,NA
+272510251,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,FALSE,84621,3910,"Darrell K Royal-Texas Memorial Stadium",251,"Texas","Big 12",34,NA,2628,"TCU","Mountain West",13,NA,NA
+272512633,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,FALSE,0,3853,"Neyland Stadium",2633,"Tennessee","SEC",39,NA,2572,"Southern Mississippi","Conference USA",19,NA,NA
+272510041,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,FALSE,35413,3892,"Rentschler Field",41,"Connecticut","Big East",38,NA,311,"Maine",NA,0,NA,NA
+272510066,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,FALSE,56795,3772,"Jack Trice Stadium",66,"Iowa State","Big 12",13,NA,2460,"Northern Iowa",NA,24,NA,NA
+272510239,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,FALSE,29107,3724,"Floyd Casey Stadium",239,"Baylor","Big 12",42,NA,242,"Rice","Conference USA",17,NA,NA
+272510265,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,TRUE,46290,NA,NA,265,"Washington State","Pac-10",45,NA,21,"San Diego State","Mountain West",17,NA,NA
+272510309,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,FALSE,22186,3666,"Cajun Field",309,"Louisiana","Sun Belt",23,NA,195,"Ohio","Mid-American",31,NA,NA
+272510356,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,FALSE,48301,3832,"Memorial Stadium",356,"Illinois","Big Ten",21,NA,2710,"Western Illinois",NA,0,NA,NA
+272512117,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,TRUE,22031,3786,"Kelly/Shorts Stadium",2117,"Central Michigan","Mid-American",52,NA,2649,"Toledo","Mid-American",31,NA,NA
+272512641,2007,2,"regular","2007-09-08T19:00:00.000Z",NA,FALSE,FALSE,52403,3784,"Jones AT&T Stadium",2641,"Texas Tech","Big 12",45,NA,2638,"UTEP","Conference USA",31,NA,NA
+272512306,2007,2,"regular","2007-09-08T19:05:00.000Z",NA,FALSE,FALSE,45545,3636,"Bill Snyder Family Football Stadium",2306,"Kansas State","Big 12",34,NA,23,"San José State","Western Athletic",14,NA,NA
+272512305,2007,2,"regular","2007-09-08T19:05:00.000Z",NA,FALSE,FALSE,43914,3833,"Memorial Stadium",2305,"Kansas","Big 12",62,NA,2545,"Southeastern Louisiana",NA,0,NA,NA
+272510197,2007,2,"regular","2007-09-08T19:05:00.000Z",NA,FALSE,FALSE,38176,3646,"Boone Pickens Stadium",197,"Oklahoma State","Big 12",42,NA,2226,"Florida Atlantic","Sun Belt",6,NA,NA
+272512229,2007,2,"regular","2007-09-08T19:05:00.000Z",NA,FALSE,FALSE,12201,NA,NA,2229,"Florida International","Sun Belt",10,NA,120,"Maryland","ACC",26,NA,NA
+272512348,2007,2,"regular","2007-09-08T19:07:00.000Z",NA,FALSE,TRUE,22135,3776,"Joe Aillet Stadium",2348,"Louisiana Tech","Western Athletic",44,NA,62,"Hawai'i","Western Athletic",45,NA,NA
+272512655,2007,2,"regular","2007-09-08T19:07:00.000Z",NA,FALSE,FALSE,31076,3493,"Mercedes-Benz Superdome",2655,"Tulane","Conference USA",17,NA,344,"Mississippi State","SEC",38,NA,NA
+272512459,2007,2,"regular","2007-09-08T19:30:00.000Z",NA,FALSE,FALSE,24182,3764,"Brigham Field at Huskie Stadium",2459,"Northern Illinois","Mid-American",31,NA,79,"Southern Illinois",NA,34,NA,NA
+272512711,2007,2,"regular","2007-09-08T20:00:00.000Z",NA,FALSE,FALSE,32129,3980,"Waldo Stadium",2711,"Western Michigan","Mid-American",27,NA,84,"Indiana","Big Ten",37,NA,NA
+272512567,2007,2,"regular","2007-09-08T20:00:00.000Z",NA,FALSE,FALSE,20517,3735,"Gerald J. Ford Stadium",2567,"SMU","Conference USA",45,NA,249,"North Texas","Sun Belt",31,NA,NA
+272512294,2007,2,"regular","2007-09-08T20:07:00.000Z",NA,FALSE,FALSE,70585,3793,"Kinnick Stadium",2294,"Iowa","Big Ten",35,NA,183,"Syracuse","Big East",0,NA,NA
+272510002,2007,2,"regular","2007-09-08T21:00:00.000Z",NA,FALSE,FALSE,82617,3785,"Jordan-Hare Stadium",2,"Auburn","SEC",23,NA,58,"South Florida","Big East",26,NA,NA
+272510099,2007,2,"regular","2007-09-08T21:22:00.000Z",NA,FALSE,FALSE,92739,3958,"Tiger Stadium",99,"LSU","SEC",48,NA,259,"Virginia Tech","ACC",7,NA,NA
+272510167,2007,2,"regular","2007-09-08T21:30:00.000Z",NA,FALSE,FALSE,41033,3971,"University Stadium",167,"New Mexico","Mountain West",44,NA,166,"New Mexico State","Western Athletic",34,NA,NA
+272510012,2007,2,"regular","2007-09-08T22:00:00.000Z",NA,FALSE,FALSE,52638,3619,"Arizona Stadium",12,"Arizona","Pac-10",45,NA,2464,"Northern Arizona",NA,24,NA,NA
+272512439,2007,2,"regular","2007-09-08T22:00:00.000Z",NA,FALSE,TRUE,38250,3914,"Sam Boyd Stadium",2439,"UNLV","Mountain West",13,NA,275,"Wisconsin","Big Ten",20,NA,NA
+272510009,2007,2,"regular","2007-09-08T22:28:00.000Z",NA,FALSE,FALSE,58417,3947,"Sun Devil Stadium",9,"Arizona State","Pac-10",33,NA,38,"Colorado","Big 12",14,NA,NA
+272560120,2007,3,"regular","2007-09-13T19:30:00.000Z",NA,FALSE,FALSE,53107,3665,"Maryland Stadium",120,"Maryland","ACC",14,NA,277,"West Virginia","Big East",31,NA,NA
+272562005,2007,3,"regular","2007-09-13T20:00:00.000Z",NA,FALSE,TRUE,0,3713,"Falcon Stadium",2005,"Air Force","Mountain West",20,NA,2628,"TCU","Mountain West",17,NA,NA
+272572653,2007,3,"regular","2007-09-14T20:00:00.000Z",NA,FALSE,FALSE,0,3975,"Veterans Memorial Stadium",2653,"Troy","Sun Belt",41,NA,197,"Oklahoma State","Big 12",23,NA,NA
+272580275,2007,3,"regular","2007-09-15T12:00:00.000Z",NA,FALSE,FALSE,0,347,"Camp Randall Stadium",275,"Wisconsin","Big Ten",45,NA,2643,"The Citadel",NA,31,NA,NA
+272580041,2007,3,"regular","2007-09-15T12:00:00.000Z",NA,FALSE,FALSE,0,3892,"Rentschler Field",41,"Connecticut","Big East",22,NA,218,"Temple","Mid-American",17,NA,NA
+272580084,2007,3,"regular","2007-09-15T12:00:00.000Z",NA,FALSE,FALSE,31196,3830,"Memorial Stadium",84,"Indiana","Big Ten",41,NA,2006,"Akron","Mid-American",24,NA,NA
+272580127,2007,3,"regular","2007-09-15T12:00:00.000Z",NA,FALSE,FALSE,68620,3936,"Spartan Stadium",127,"Michigan State","Big Ten",17,NA,221,"Pittsburgh","Big East",13,NA,NA
+272580153,2007,3,"regular","2007-09-15T12:00:00.000Z",NA,FALSE,TRUE,0,3787,"Kenan Memorial Stadium",153,"North Carolina","ACC",20,NA,258,"Virginia","ACC",22,NA,NA
+272580183,2007,3,"regular","2007-09-15T12:00:00.000Z",NA,FALSE,FALSE,0,1964,"Carrier Dome",183,"Syracuse","Big East",20,NA,356,"Illinois","Big Ten",41,NA,NA
+272580193,2007,3,"regular","2007-09-15T12:00:00.000Z",NA,FALSE,FALSE,22421,3996,"Yager Stadium",193,"Miami (OH)","Mid-American",10,NA,2132,"Cincinnati","Big East",47,NA,NA
+272582459,2007,3,"regular","2007-09-15T12:00:00.000Z",NA,FALSE,TRUE,20012,3764,"Brigham Field at Huskie Stadium",2459,"Northern Illinois","Mid-American",19,NA,2199,"Eastern Michigan","Mid-American",21,NA,NA
+272582509,2007,3,"regular","2007-09-15T12:00:00.000Z",NA,FALSE,FALSE,60038,3907,"Ross-Ade Stadium",2509,"Purdue","Big Ten",45,NA,2117,"Central Michigan","Mid-American",22,NA,NA
+272580213,2007,3,"regular","2007-09-15T12:07:00.000Z",NA,FALSE,FALSE,0,3632,"Beaver Stadium",213,"Penn State","Big Ten",45,NA,2084,"Buffalo","Mid-American",24,NA,NA
+272580002,2007,3,"regular","2007-09-15T12:30:00.000Z",NA,FALSE,TRUE,0,3785,"Jordan-Hare Stadium",2,"Auburn","SEC",14,NA,344,"Mississippi State","SEC",19,NA,NA
+272580061,2007,3,"regular","2007-09-15T13:00:00.000Z",NA,FALSE,FALSE,0,3917,"Sanford Stadium",61,"Georgia","SEC",45,NA,2717,"Western Carolina",NA,16,NA,NA
+272582226,2007,3,"regular","2007-09-15T13:00:00.000Z",NA,FALSE,FALSE,0,3948,"Hard Rock Stadium",2226,"Florida Atlantic","Sun Belt",42,NA,135,"Minnesota","Big Ten",39,NA,NA
+272580228,2007,3,"regular","2007-09-15T13:00:00.000Z",NA,FALSE,FALSE,0,3836,"Memorial Stadium",228,"Clemson","ACC",38,NA,231,"Furman",NA,10,NA,NA
+272580259,2007,3,"regular","2007-09-15T13:30:00.000Z",NA,FALSE,FALSE,0,3799,"Lane Stadium",259,"Virginia Tech","ACC",28,NA,195,"Ohio","Mid-American",7,NA,NA
+272580066,2007,3,"regular","2007-09-15T13:37:00.000Z",NA,FALSE,FALSE,49516,3772,"Jack Trice Stadium",66,"Iowa State","Big 12",15,NA,2294,"Iowa","Big Ten",13,NA,NA
+272580142,2007,3,"regular","2007-09-15T14:08:00.000Z",NA,FALSE,FALSE,53480,3838,"Faurot Field",142,"Missouri","Big 12",52,NA,2711,"Western Michigan","Mid-American",24,NA,NA
+272580098,2007,3,"regular","2007-09-15T15:00:00.000Z",NA,FALSE,FALSE,18898,3796,"Houchens Industries-L. T. Smith Stadium",98,"Western Kentucky","FBS Independents",26,NA,2198,"Eastern Kentucky",NA,6,NA,NA
+272580242,2007,3,"regular","2007-09-15T15:00:00.000Z",NA,FALSE,FALSE,21543,3895,"Rice Stadium",242,"Rice","Conference USA",24,NA,2641,"Texas Tech","Big 12",59,NA,NA
+272582390,2007,3,"regular","2007-09-15T15:30:00.000Z",NA,FALSE,FALSE,40915,NA,NA,2390,"Miami","ACC",23,NA,2229,"Florida International","Sun Belt",9,NA,NA
+272580201,2007,3,"regular","2007-09-15T15:30:00.000Z",NA,FALSE,FALSE,84403,3835,"Gaylord Family Oklahoma Memorial Stadium",201,"Oklahoma","Big 12",54,NA,328,"Utah State","Western Athletic",3,NA,NA
+272580154,2007,3,"regular","2007-09-15T15:30:00.000Z",NA,FALSE,FALSE,32142,3630,"BB&T Field",154,"Wake Forest","ACC",21,NA,349,"Army","FBS Independents",10,NA,NA
+272580264,2007,3,"regular","2007-09-15T15:30:00.000Z",NA,FALSE,TRUE,74927,3765,"Husky Stadium",264,"Washington","Pac-10",14,NA,194,"Ohio State","Big Ten",33,NA,NA
+272580130,2007,3,"regular","2007-09-15T15:30:00.000Z",NA,FALSE,FALSE,111178,3558,"Michigan Stadium",130,"Michigan","Big Ten",38,NA,87,"Notre Dame","FBS Independents",0,NA,NA
+272580164,2007,3,"regular","2007-09-15T15:30:00.000Z",NA,FALSE,FALSE,43712,3754,"High Point Solutions Stadium",164,"Rutgers","Big East",59,NA,2450,"Norfolk State",NA,0,NA,NA
+272582116,2007,3,"regular","2007-09-15T15:30:00.000Z",NA,FALSE,FALSE,45622,NA,NA,2116,"UCF","Conference USA",32,NA,251,"Texas","Big 12",35,NA,NA
+272580057,2007,3,"regular","2007-09-15T15:30:00.000Z",NA,FALSE,TRUE,90707,3634,"Ben Hill Griffin Stadium",57,"Florida","SEC",59,NA,2633,"Tennessee","SEC",20,NA,NA
+272582309,2007,3,"regular","2007-09-15T16:00:00.000Z",NA,FALSE,FALSE,8455,3696,"Dix Stadium",2309,"Kent State","Mid-American",38,NA,2169,"Delaware State",NA,7,NA,NA
+272580276,2007,3,"regular","2007-09-15T16:30:00.000Z",NA,FALSE,FALSE,27255,3775,"Joan C. Edwards Stadium",276,"Marshall","Conference USA",35,NA,160,"New Hampshire",NA,48,NA,NA
+272582426,2007,3,"regular","2007-09-15T17:00:00.000Z",NA,FALSE,FALSE,32087,3852,"Navy-Marine Corps Memorial Stadium",2426,"Navy","FBS Independents",31,NA,2050,"Ball State","Mid-American",34,NA,NA
+272580254,2007,3,"regular","2007-09-15T17:00:00.000Z",NA,FALSE,TRUE,43056,587,"Rice-Eccles Stadium",254,"Utah","Mountain West",44,NA,26,"UCLA","Pac-10",6,NA,NA
+272580152,2007,3,"regular","2007-09-15T18:00:00.000Z",NA,FALSE,FALSE,56039,3670,"Carter-Finley Stadium",152,"NC State","ACC",38,NA,2747,"Wofford",NA,17,NA,NA
+272580151,2007,3,"regular","2007-09-15T18:00:00.000Z",NA,FALSE,TRUE,43041,3699,"Dowdy-Ficklen Stadium",151,"East Carolina","Conference USA",21,NA,2572,"Southern Mississippi","Conference USA",28,NA,NA
+272580025,2007,3,"regular","2007-09-15T18:30:00.000Z",NA,FALSE,FALSE,58057,3831,"California Memorial Stadium",25,"California","Pac-10",42,NA,2348,"Louisiana Tech","Western Athletic",12,NA,NA
+272580204,2007,3,"regular","2007-09-15T18:30:00.000Z",NA,FALSE,FALSE,38491,3893,"Reser Stadium",204,"Oregon State","Pac-10",61,NA,304,"Idaho State",NA,10,NA,NA
+272580333,2007,3,"regular","2007-09-15T18:45:00.000Z",NA,FALSE,TRUE,92138,3657,"Bryant Denny Stadium",333,"Alabama","SEC",41,NA,8,"Arkansas","SEC",38,NA,NA
+272582032,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,FALSE,17465,NA,NA,2032,"Arkansas State","Sun Belt",45,NA,2567,"SMU","Conference USA",28,NA,NA
+272582305,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,FALSE,48112,3833,"Memorial Stadium",2305,"Kansas","Big 12",45,NA,2649,"Toledo","Mid-American",13,NA,NA
+272580309,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,FALSE,33828,3666,"Cajun Field",309,"Louisiana","Sun Belt",17,NA,2377,"McNeese",NA,38,NA,NA
+272580238,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,TRUE,34180,3973,"Vanderbilt Stadium",238,"Vanderbilt","SEC",31,NA,145,"Ole Miss","SEC",17,NA,NA
+272580239,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,FALSE,36274,3724,"Floyd Casey Stadium",239,"Baylor","Big 12",34,NA,326,"Texas State",NA,27,NA,NA
+272582655,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,TRUE,21311,3493,"Mercedes-Benz Superdome",2655,"Tulane","Conference USA",10,NA,248,"Houston","Conference USA",34,NA,NA
+272580005,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,FALSE,21828,3803,"Legion Field",5,"UAB","Conference USA",22,NA,2016,"Alcorn State",NA,0,NA,NA
+272582579,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,FALSE,73095,3994,"Williams-Brice Stadium",2579,"South Carolina","SEC",38,NA,2569,"South Carolina State",NA,3,NA,NA
+272580245,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,FALSE,77309,3795,"Kyle Field",245,"Texas A&M","Big 12",54,NA,2433,"Louisiana Monroe","Sun Belt",14,NA,NA
+272582483,2007,3,"regular","2007-09-15T19:00:00.000Z",NA,FALSE,FALSE,58525,3626,"Autzen Stadium",2483,"Oregon","Pac-10",52,NA,278,"Fresno State","Western Athletic",21,NA,NA
+272582306,2007,3,"regular","2007-09-15T19:05:00.000Z",NA,FALSE,FALSE,46825,3636,"Bill Snyder Family Football Stadium",2306,"Kansas State","Big 12",61,NA,2623,"Missouri State",NA,10,NA,NA
+272580096,2007,3,"regular","2007-09-15T19:30:00.000Z",NA,FALSE,FALSE,70857,3683,"Commonwealth Stadium",96,"Kentucky","SEC",40,NA,97,"Louisville","Big East",34,NA,NA
+272580099,2007,3,"regular","2007-09-15T20:00:00.000Z",NA,FALSE,FALSE,92407,3958,"Tiger Stadium",99,"LSU","SEC",44,NA,2393,"Middle Tennessee","Sun Belt",0,NA,NA
+272580068,2007,3,"regular","2007-09-15T20:00:00.000Z",NA,FALSE,FALSE,30199,3653,"Albertsons Stadium",68,"Boise State","Western Athletic",24,NA,2751,"Wyoming","Mountain West",14,NA,NA
+272580235,2007,3,"regular","2007-09-15T20:00:00.000Z",NA,FALSE,FALSE,28298,3805,"Liberty Bowl Memorial Stadium",235,"Memphis","Conference USA",35,NA,55,"Jacksonville State",NA,14,NA,NA
+272580166,2007,3,"regular","2007-09-15T20:00:00.000Z",NA,FALSE,FALSE,30343,3601,"Aggie Memorial Stadium",166,"New Mexico State","Western Athletic",29,NA,2638,"UTEP","Conference USA",24,NA,NA
+272580158,2007,3,"regular","2007-09-15T20:00:00.000Z",NA,FALSE,FALSE,84959,3834,"Memorial Stadium",158,"Nebraska","Big 12",31,NA,30,"USC","Pac-10",49,NA,NA
+272580059,2007,3,"regular","2007-09-15T20:00:00.000Z",NA,FALSE,TRUE,51112,721,"Bobby Dodd Stadium at Historic Grant Field",59,"Georgia Tech","ACC",10,NA,103,"Boston College","ACC",24,NA,NA
+272580077,2007,3,"regular","2007-09-15T20:07:00.000Z",NA,FALSE,FALSE,23716,3911,"Ryan Field",77,"Northwestern","Big Ten",14,NA,150,"Duke","ACC",20,NA,NA
+272580202,2007,3,"regular","2007-09-15T21:00:00.000Z",NA,FALSE,FALSE,24445,NA,NA,202,"Tulsa","Conference USA",55,NA,252,"BYU","Mountain West",47,NA,NA
+272582440,2007,3,"regular","2007-09-15T21:00:00.000Z",NA,FALSE,FALSE,15233,3816,"Mackay Stadium",2440,"Nevada","Western Athletic",52,NA,2447,"Nicholls",NA,17,NA,NA
+272582439,2007,3,"regular","2007-09-15T21:30:00.000Z",NA,FALSE,FALSE,38125,3914,"Sam Boyd Stadium",2439,"UNLV","Mountain West",14,NA,62,"Hawai'i","Western Athletic",49,NA,NA
+272580265,2007,3,"regular","2007-09-15T22:00:00.000Z",NA,FALSE,FALSE,32064,3820,"Martin Stadium",265,"Washington State","Pac-10",45,NA,70,"Idaho","Western Athletic",28,NA,NA
+272580038,2007,3,"regular","2007-09-15T22:00:00.000Z",NA,FALSE,FALSE,52951,3726,"Folsom Field",38,"Colorado","Big 12",6,NA,52,"Florida State","ACC",16,NA,NA
+272580024,2007,3,"regular","2007-09-15T22:00:00.000Z",NA,FALSE,FALSE,36144,3940,"Stanford Stadium",24,"Stanford","Pac-10",37,NA,23,"San José State","Western Athletic",0,NA,NA
+272580009,2007,3,"regular","2007-09-15T22:07:00.000Z",NA,FALSE,TRUE,54617,3947,"Sun Devil Stadium",9,"Arizona State","Pac-10",34,NA,21,"San Diego State","Mountain West",13,NA,NA
+272580012,2007,3,"regular","2007-09-15T22:07:00.000Z",NA,FALSE,TRUE,51996,3619,"Arizona Stadium",12,"Arizona","Pac-10",27,NA,167,"New Mexico","Mountain West",29,NA,NA
+272632393,2007,4,"regular","2007-09-20T19:00:00.000Z",NA,FALSE,FALSE,22086,3725,"Johnny Red"""" Floyd Stadium""""",2393,"Middle Tennessee","Sun Belt",17,NA,98,"Western Kentucky","FBS Independents",20,NA,NA
+272632390,2007,4,"regular","2007-09-20T19:30:00.000Z",NA,FALSE,FALSE,44622,NA,NA,2390,"Miami","ACC",34,NA,245,"Texas A&M","Big 12",17,NA,NA
+272640202,2007,4,"regular","2007-09-21T20:00:00.000Z",NA,FALSE,FALSE,35542,NA,NA,202,"Tulsa","Conference USA",21,NA,201,"Oklahoma","Big 12",62,NA,NA
+272650277,2007,4,"regular","2007-09-22T12:00:00.000Z",NA,FALSE,FALSE,60021,3842,"Mountaineer Field at Milan Puskar Stadium",277,"West Virginia","Big East",48,NA,151,"East Carolina","Conference USA",7,NA,NA
+272650097,2007,4,"regular","2007-09-22T12:00:00.000Z",NA,FALSE,TRUE,40922,3873,"Papa John's Cardinal Stadium",97,"Louisville","Big East",35,NA,183,"Syracuse","Big East",38,NA,NA
+272650084,2007,4,"regular","2007-09-22T12:00:00.000Z",NA,FALSE,TRUE,34707,3830,"Memorial Stadium",84,"Indiana","Big Ten",14,NA,356,"Illinois","Big Ten",27,NA,NA
+272650189,2007,4,"regular","2007-09-22T12:00:00.000Z",NA,FALSE,TRUE,16482,3700,"Doyt Perry Stadium",189,"Bowling Green","Mid-American",48,NA,218,"Temple","Mid-American",35,NA,NA
+272650258,2007,4,"regular","2007-09-22T12:00:00.000Z",NA,FALSE,TRUE,57681,3923,"Scott Stadium",258,"Virginia","ACC",28,NA,59,"Georgia Tech","ACC",23,NA,NA
+272652006,2007,4,"regular","2007-09-22T12:00:00.000Z",NA,FALSE,TRUE,21867,NA,NA,2006,"Akron","Mid-American",27,NA,2309,"Kent State","Mid-American",20,NA,NA
+272650152,2007,4,"regular","2007-09-22T12:00:00.000Z",NA,FALSE,TRUE,56903,3670,"Carter-Finley Stadium",152,"NC State","ACC",20,NA,228,"Clemson","ACC",42,NA,NA
+272650058,2007,4,"regular","2007-09-22T12:00:00.000Z",NA,FALSE,FALSE,37693,3886,"Raymond James Stadium",58,"South Florida","Big East",37,NA,153,"North Carolina","ACC",10,NA,NA
+272650145,2007,4,"regular","2007-09-22T12:30:00.000Z",NA,FALSE,TRUE,55032,3974,"Vaught-Hemingway Stadium",145,"Ole Miss","SEC",24,NA,57,"Florida","SEC",30,NA,NA
+272650158,2007,4,"regular","2007-09-22T12:30:00.000Z",NA,FALSE,FALSE,84394,3834,"Memorial Stadium",158,"Nebraska","Big 12",41,NA,2050,"Ball State","Mid-American",40,NA,NA
+272650103,2007,4,"regular","2007-09-22T13:00:00.000Z",NA,FALSE,FALSE,40329,3615,"Alumni Stadium",103,"Boston College","ACC",37,NA,349,"Army","FBS Independents",17,NA,NA
+272652426,2007,4,"regular","2007-09-22T13:00:00.000Z",NA,FALSE,FALSE,31278,3852,"Navy-Marine Corps Memorial Stadium",2426,"Navy","FBS Independents",46,NA,150,"Duke","ACC",43,NA,NA
+272650259,2007,4,"regular","2007-09-22T13:30:00.000Z",NA,FALSE,FALSE,66233,3799,"Lane Stadium",259,"Virginia Tech","ACC",44,NA,2729,"William & Mary",NA,3,NA,NA
+272650142,2007,4,"regular","2007-09-22T14:08:00.000Z",NA,FALSE,FALSE,56137,3838,"Faurot Field",142,"Missouri","Big 12",38,NA,2287,"Illinois State",NA,17,NA,NA
+272650195,2007,4,"regular","2007-09-22T15:00:00.000Z",NA,FALSE,FALSE,16781,3876,"Peden Stadium",195,"Ohio","Mid-American",33,NA,2751,"Wyoming","Mountain West",34,NA,NA
+272650252,2007,4,"regular","2007-09-22T15:06:00.000Z",NA,FALSE,TRUE,64502,3801,"LaVell Edwards Stadium",252,"BYU","Mountain West",31,NA,2005,"Air Force","Mountain West",6,NA,NA
+272650130,2007,4,"regular","2007-09-22T15:30:00.000Z",NA,FALSE,TRUE,111310,3558,"Michigan Stadium",130,"Michigan","Big Ten",14,NA,213,"Penn State","Big Ten",9,NA,NA
+272652199,2007,4,"regular","2007-09-22T15:30:00.000Z",NA,FALSE,FALSE,10141,3912,"Rynearson Stadium",2199,"Eastern Michigan","Mid-American",38,NA,47,"Howard",NA,15,NA,NA
+272652117,2007,4,"regular","2007-09-22T15:30:00.000Z",NA,FALSE,FALSE,16522,3786,"Kelly/Shorts Stadium",2117,"Central Michigan","Mid-American",14,NA,2449,"North Dakota State",NA,44,NA,NA
+272650154,2007,4,"regular","2007-09-22T15:30:00.000Z",NA,FALSE,TRUE,31964,3630,"BB&T Field",154,"Wake Forest","ACC",31,NA,120,"Maryland","ACC",24,NA,NA
+272650194,2007,4,"regular","2007-09-22T15:30:00.000Z",NA,FALSE,TRUE,105178,3861,"Ohio Stadium",194,"Ohio State","Big Ten",58,NA,77,"Northwestern","Big Ten",7,NA,NA
+272650099,2007,4,"regular","2007-09-22T15:30:00.000Z",NA,FALSE,TRUE,92530,3958,"Tiger Stadium",99,"LSU","SEC",28,NA,2579,"South Carolina","SEC",16,NA,NA
+272650038,2007,4,"regular","2007-09-22T15:34:00.000Z",NA,FALSE,FALSE,45243,3726,"Folsom Field",38,"Colorado","Big 12",42,NA,193,"Miami (OH)","Mid-American",0,NA,NA
+272652116,2007,4,"regular","2007-09-22T15:37:00.000Z",NA,FALSE,TRUE,42153,NA,NA,2116,"UCF","Conference USA",56,NA,235,"Memphis","Conference USA",20,NA,NA
+272650197,2007,4,"regular","2007-09-22T15:38:00.000Z",NA,FALSE,TRUE,37850,3646,"Boone Pickens Stadium",197,"Oklahoma State","Big 12",49,NA,2641,"Texas Tech","Big 12",45,NA,NA
+272650087,2007,4,"regular","2007-09-22T15:43:00.000Z",NA,FALSE,FALSE,80795,3855,"Notre Dame Stadium",87,"Notre Dame","FBS Independents",14,NA,127,"Michigan State","Big Ten",31,NA,NA
+272650248,2007,4,"regular","2007-09-22T16:30:00.000Z",NA,FALSE,FALSE,22468,453,"Robertson Stadium",248,"Houston","Conference USA",38,NA,36,"Colorado State","Mountain West",27,NA,NA
+272650070,2007,4,"regular","2007-09-22T17:00:00.000Z",NA,FALSE,FALSE,12461,3791,"Kibbie Dome",70,"Idaho","Western Athletic",35,NA,2459,"Northern Illinois","Mid-American",42,NA,NA
+272652084,2007,4,"regular","2007-09-22T18:00:00.000Z",NA,FALSE,FALSE,22676,3965,"UB Stadium",2084,"Buffalo","Mid-American",21,NA,239,"Baylor","Big 12",34,NA,NA
+272650025,2007,4,"regular","2007-09-22T18:00:00.000Z",NA,FALSE,TRUE,56021,3831,"California Memorial Stadium",25,"California","Pac-10",45,NA,12,"Arizona","Pac-10",27,NA,NA
+272650008,2007,4,"regular","2007-09-22T18:00:00.000Z",NA,FALSE,TRUE,74015,3887,"Donald W. Reynolds Razorback Stadium Frank Broyles Field",8,"Arkansas","SEC",29,NA,96,"Kentucky","SEC",42,NA,NA
+272650021,2007,4,"regular","2007-09-22T18:36:00.000Z",NA,FALSE,FALSE,53110,3932,"Qualcomm Stadium",21,"San Diego State","Mountain West",52,NA,2502,"Portland State",NA,17,NA,NA
+272650344,2007,4,"regular","2007-09-22T19:00:00.000Z",NA,FALSE,FALSE,42272,3693,"Davis Wade Stadium",344,"Mississippi State","SEC",31,NA,2241,"Gardner-Webb",NA,15,NA,NA
+272652305,2007,4,"regular","2007-09-22T19:00:00.000Z",NA,FALSE,FALSE,42134,3833,"Memorial Stadium",2305,"Kansas","Big 12",55,NA,2229,"Florida International","Sun Belt",3,NA,NA
+272652633,2007,4,"regular","2007-09-22T19:00:00.000Z",NA,FALSE,FALSE,102368,3853,"Neyland Stadium",2633,"Tennessee","SEC",48,NA,2032,"Arkansas State","Sun Belt",27,NA,NA
+272652711,2007,4,"regular","2007-09-22T19:00:00.000Z",NA,FALSE,FALSE,15718,3980,"Waldo Stadium",2711,"Western Michigan","Mid-American",51,NA,2115,"Central Connecticut",NA,14,NA,NA
+272650002,2007,4,"regular","2007-09-22T19:00:00.000Z",NA,FALSE,FALSE,83012,3785,"Jordan-Hare Stadium",2,"Auburn","SEC",55,NA,166,"New Mexico State","Western Athletic",20,NA,NA
+272650249,2007,4,"regular","2007-09-22T19:00:00.000Z",NA,FALSE,TRUE,20479,NA,NA,249,"North Texas","Sun Belt",20,NA,2226,"Florida Atlantic","Sun Belt",30,NA,NA
+272650221,2007,4,"regular","2007-09-22T19:00:00.000Z",NA,FALSE,TRUE,40145,3752,"Heinz Field",221,"Pittsburgh","Big East",14,NA,41,"Connecticut","Big East",34,NA,NA
+272650309,2007,4,"regular","2007-09-22T19:00:00.000Z",NA,FALSE,TRUE,14091,3666,"Cajun Field",309,"Louisiana","Sun Belt",31,NA,2653,"Troy","Sun Belt",48,NA,NA
+272650251,2007,4,"regular","2007-09-22T19:00:00.000Z",NA,FALSE,FALSE,84571,3910,"Darrell K Royal-Texas Memorial Stadium",251,"Texas","Big 12",58,NA,242,"Rice","Conference USA",14,NA,NA
+272652649,2007,4,"regular","2007-09-22T19:07:00.000Z",NA,FALSE,FALSE,15219,3739,"Glass Bowl",2649,"Toledo","Mid-American",36,NA,66,"Iowa State","Big 12",35,NA,NA
+272652132,2007,4,"regular","2007-09-22T19:30:00.000Z",NA,FALSE,FALSE,35097,3854,"Nippert Stadium",2132,"Cincinnati","Big East",40,NA,276,"Marshall","Conference USA",14,NA,NA
+272650333,2007,4,"regular","2007-09-22T19:45:00.000Z",NA,FALSE,TRUE,92138,3657,"Bryant Denny Stadium",333,"Alabama","SEC",23,NA,61,"Georgia","SEC",26,NA,NA
+272650030,2007,4,"regular","2007-09-22T20:00:00.000Z",NA,FALSE,TRUE,86876,477,"Los Angeles Memorial Coliseum",30,"USC","Pac-10",47,NA,265,"Washington State","Pac-10",14,NA,NA
+272650328,2007,4,"regular","2007-09-22T20:00:00.000Z",NA,FALSE,TRUE,13685,3905,"Romney Stadium",328,"Utah State","Western Athletic",20,NA,23,"San José State","Western Athletic",23,NA,NA
+272652655,2007,4,"regular","2007-09-22T20:00:00.000Z",NA,FALSE,FALSE,17611,3493,"Mercedes-Benz Superdome",2655,"Tulane","Conference USA",35,NA,2545,"Southeastern Louisiana",NA,27,NA,NA
+272650167,2007,4,"regular","2007-09-22T20:00:00.000Z",NA,FALSE,FALSE,27023,3971,"University Stadium",167,"New Mexico","Mountain West",58,NA,16,"Sacramento State",NA,0,NA,NA
+272650275,2007,4,"regular","2007-09-22T20:00:00.000Z",NA,FALSE,TRUE,82630,347,"Camp Randall Stadium",275,"Wisconsin","Big Ten",17,NA,2294,"Iowa","Big Ten",13,NA,NA
+272652628,2007,4,"regular","2007-09-22T20:30:00.000Z",NA,FALSE,FALSE,31511,3616,"Amon G. Carter Stadium",2628,"TCU","Mountain West",21,NA,2567,"SMU","Conference USA",7,NA,NA
+272650135,2007,4,"regular","2007-09-22T21:00:00.000Z",NA,FALSE,TRUE,47483,NA,NA,135,"Minnesota","Big Ten",31,NA,2509,"Purdue","Big Ten",45,NA,NA
+272652638,2007,4,"regular","2007-09-22T21:05:00.000Z",NA,FALSE,FALSE,35336,3946,"Sun Bowl Stadium",2638,"UTEP","Conference USA",52,NA,2640,"Texas Southern",NA,12,NA,NA
+272652439,2007,4,"regular","2007-09-22T22:00:00.000Z",NA,FALSE,TRUE,23180,3914,"Sam Boyd Stadium",2439,"UNLV","Mountain West",27,NA,254,"Utah","Mountain West",0,NA,NA
+272650024,2007,4,"regular","2007-09-22T22:05:00.000Z",NA,FALSE,TRUE,35019,3940,"Stanford Stadium",24,"Stanford","Pac-10",31,NA,2483,"Oregon","Pac-10",55,NA,NA
+272650009,2007,4,"regular","2007-09-22T22:05:00.000Z",NA,FALSE,TRUE,56099,3947,"Sun Devil Stadium",9,"Arizona State","Pac-10",44,NA,204,"Oregon State","Pac-10",32,NA,NA
+272650026,2007,4,"regular","2007-09-22T22:28:00.000Z",NA,FALSE,TRUE,72124,1056,"Rose Bowl",26,"UCLA","Pac-10",44,NA,264,"Washington","Pac-10",31,NA,NA
+272650062,2007,4,"regular","2007-09-23T00:05:00.000Z",NA,FALSE,FALSE,37723,3610,"Aloha Stadium",62,"Hawai'i","Western Athletic",66,NA,2127,"Charleston Southern",NA,10,NA,NA
+272702032,2007,5,"regular","2007-09-27T19:00:00.000Z",NA,FALSE,FALSE,27774,NA,NA,2032,"Arkansas State","Sun Belt",35,NA,235,"Memphis","Conference USA",31,NA,NA
+272700068,2007,5,"regular","2007-09-27T19:30:00.000Z",NA,FALSE,FALSE,30159,3653,"Albertsons Stadium",68,"Boise State","Western Athletic",38,NA,2572,"Southern Mississippi","Conference USA",16,NA,NA
+272710058,2007,5,"regular","2007-09-28T20:00:00.000Z",NA,FALSE,TRUE,67018,3886,"Raymond James Stadium",58,"South Florida","Big East",21,NA,277,"West Virginia","Big East",13,NA,NA
+272720077,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,TRUE,46604,3911,"Ryan Field",77,"Northwestern","Big Ten",16,NA,130,"Michigan","Big Ten",28,NA,NA
+272722655,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,FALSE,58769,3493,"Mercedes-Benz Superdome",2655,"Tulane","Conference USA",9,NA,99,"LSU","SEC",34,NA,NA
+272722509,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,FALSE,62250,3907,"Ross-Ade Stadium",2509,"Purdue","Big Ten",33,NA,87,"Notre Dame","FBS Independents",19,NA,NA
+272722390,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,TRUE,30614,NA,NA,2390,"Miami","ACC",24,NA,150,"Duke","ACC",14,NA,NA
+272722117,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,TRUE,18465,3786,"Kelly/Shorts Stadium",2117,"Central Michigan","Mid-American",35,NA,2459,"Northern Illinois","Mid-American",10,NA,NA
+272722050,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,TRUE,14333,3919,"Scheumann Stadium",2050,"Ball State","Mid-American",49,NA,2084,"Buffalo","Mid-American",14,NA,NA
+272720259,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,TRUE,66233,3799,"Lane Stadium",259,"Virginia Tech","ACC",17,NA,153,"North Carolina","ACC",10,NA,NA
+272720349,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,FALSE,34176,3841,"Blaik Field at Michie Stadium",349,"Army","FBS Independents",37,NA,218,"Temple","Mid-American",21,NA,NA
+272720356,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,TRUE,57078,3832,"Memorial Stadium",356,"Illinois","Big Ten",27,NA,213,"Penn State","Big Ten",20,NA,NA
+272720041,2007,5,"regular","2007-09-29T12:00:00.000Z",NA,FALSE,FALSE,38212,3892,"Rentschler Field",41,"Connecticut","Big East",44,NA,2006,"Akron","Mid-American",10,NA,NA
+272722294,2007,5,"regular","2007-09-29T12:05:00.000Z",NA,FALSE,TRUE,70585,3793,"Kinnick Stadium",2294,"Iowa","Big Ten",20,NA,84,"Indiana","Big Ten",38,NA,NA
+272722579,2007,5,"regular","2007-09-29T12:30:00.000Z",NA,FALSE,TRUE,78883,3994,"Williams-Brice Stadium",2579,"South Carolina","SEC",38,NA,344,"Mississippi State","SEC",21,NA,NA
+272720245,2007,5,"regular","2007-09-29T12:30:00.000Z",NA,FALSE,TRUE,82970,3795,"Kyle Field",245,"Texas A&M","Big 12",34,NA,239,"Baylor","Big 12",10,NA,NA
+272722426,2007,5,"regular","2007-09-29T13:00:00.000Z",NA,FALSE,FALSE,37615,3852,"Navy-Marine Corps Memorial Stadium",2426,"Navy","FBS Independents",31,NA,2005,"Air Force","Mountain West",20,NA,NA
+272720103,2007,5,"regular","2007-09-29T13:00:00.000Z",NA,FALSE,FALSE,44117,3615,"Alumni Stadium",103,"Boston College","ACC",24,NA,113,"UMass",NA,14,NA,NA
+272720096,2007,5,"regular","2007-09-29T13:00:00.000Z",NA,FALSE,FALSE,65927,3683,"Commonwealth Stadium",96,"Kentucky","SEC",45,NA,2226,"Florida Atlantic","Sun Belt",17,NA,NA
+272720061,2007,5,"regular","2007-09-29T13:07:00.000Z",NA,FALSE,TRUE,92746,3917,"Sanford Stadium",61,"Georgia","SEC",45,NA,145,"Ole Miss","SEC",17,NA,NA
+272720038,2007,5,"regular","2007-09-29T13:38:00.000Z",NA,FALSE,TRUE,50031,3726,"Folsom Field",38,"Colorado","Big 12",27,NA,201,"Oklahoma","Big 12",24,NA,NA
+272720158,2007,5,"regular","2007-09-29T14:05:00.000Z",NA,FALSE,TRUE,84703,3834,"Memorial Stadium",158,"Nebraska","Big 12",35,NA,66,"Iowa State","Big 12",17,NA,NA
+272720254,2007,5,"regular","2007-09-29T15:00:00.000Z",NA,FALSE,FALSE,41884,587,"Rice-Eccles Stadium",254,"Utah","Mountain West",34,NA,328,"Utah State","Western Athletic",18,NA,NA
+272720193,2007,5,"regular","2007-09-29T15:00:00.000Z",NA,FALSE,FALSE,16800,3996,"Yager Stadium",193,"Miami (OH)","Mid-American",17,NA,183,"Syracuse","Big East",14,NA,NA
+272720195,2007,5,"regular","2007-09-29T15:00:00.000Z",NA,FALSE,TRUE,18297,3876,"Peden Stadium",195,"Ohio","Mid-American",25,NA,2309,"Kent State","Mid-American",33,NA,NA
+272720164,2007,5,"regular","2007-09-29T15:30:00.000Z",NA,FALSE,FALSE,43803,3754,"High Point Solutions Stadium",164,"Rutgers","Big East",24,NA,120,"Maryland","ACC",34,NA,NA
+272720152,2007,5,"regular","2007-09-29T15:30:00.000Z",NA,FALSE,FALSE,56487,3670,"Carter-Finley Stadium",152,"NC State","ACC",10,NA,97,"Louisville","Big East",29,NA,NA
+272722483,2007,5,"regular","2007-09-29T15:30:00.000Z",NA,FALSE,TRUE,59273,3626,"Autzen Stadium",2483,"Oregon","Pac-10",24,NA,25,"California","Pac-10",31,NA,NA
+272720251,2007,5,"regular","2007-09-29T15:30:00.000Z",NA,FALSE,TRUE,84864,3910,"Darrell K Royal-Texas Memorial Stadium",251,"Texas","Big 12",21,NA,2306,"Kansas State","Big 12",41,NA,NA
+272720275,2007,5,"regular","2007-09-29T15:30:00.000Z",NA,FALSE,TRUE,82164,347,"Camp Randall Stadium",275,"Wisconsin","Big Ten",37,NA,127,"Michigan State","Big Ten",34,NA,NA
+272720059,2007,5,"regular","2007-09-29T15:30:00.000Z",NA,FALSE,TRUE,54635,721,"Bobby Dodd Stadium at Historic Grant Field",59,"Georgia Tech","ACC",13,NA,228,"Clemson","ACC",3,NA,NA
+272720023,2007,5,"regular","2007-09-29T16:00:00.000Z",NA,FALSE,FALSE,17431,3935,"Spartan Stadium",23,"San José State","Western Athletic",34,NA,302,"UC Davis",NA,14,NA,NA
+272722440,2007,5,"regular","2007-09-29T16:05:00.000Z",NA,FALSE,FALSE,25278,3816,"Mackay Stadium",2440,"Nevada","Western Athletic",27,NA,2439,"UNLV","Mountain West",20,NA,NA
+272722567,2007,5,"regular","2007-09-29T16:30:00.000Z",NA,FALSE,TRUE,16464,3735,"Gerald J. Ford Stadium",2567,"SMU","Conference USA",45,NA,2638,"UTEP","Conference USA",48,NA,NA
+272720070,2007,5,"regular","2007-09-29T17:00:00.000Z",NA,FALSE,TRUE,13807,3791,"Kibbie Dome",70,"Idaho","Western Athletic",20,NA,62,"Hawai'i","Western Athletic",48,NA,NA
+272720052,2007,5,"regular","2007-09-29T17:00:00.000Z",NA,FALSE,FALSE,85412,3850,"Municipal Stadium",52,"Florida State","ACC",21,NA,333,"Alabama","SEC",14,NA,NA
+272720189,2007,5,"regular","2007-09-29T18:00:00.000Z",NA,FALSE,FALSE,20622,3700,"Doyt Perry Stadium",189,"Bowling Green","Mid-American",41,NA,98,"Western Kentucky","FBS Independents",21,NA,NA
+272722116,2007,5,"regular","2007-09-29T18:00:00.000Z",NA,FALSE,FALSE,42646,NA,NA,2116,"UCF","Conference USA",37,NA,309,"Louisiana","Sun Belt",19,NA,NA
+272720204,2007,5,"regular","2007-09-29T18:30:00.000Z",NA,FALSE,TRUE,41137,3893,"Reser Stadium",204,"Oregon State","Pac-10",14,NA,26,"UCLA","Pac-10",40,NA,NA
+272722628,2007,5,"regular","2007-09-29T19:00:00.000Z",NA,FALSE,TRUE,32807,3616,"Amon G. Carter Stadium",2628,"TCU","Mountain West",24,NA,36,"Colorado State","Mountain West",12,NA,NA
+272722641,2007,5,"regular","2007-09-29T19:00:00.000Z",NA,FALSE,FALSE,52893,3784,"Jones AT&T Stadium",2641,"Texas Tech","Big 12",75,NA,2466,"Northwestern State",NA,7,NA,NA
+272720202,2007,5,"regular","2007-09-29T19:00:00.000Z",NA,FALSE,TRUE,22710,NA,NA,202,"Tulsa","Conference USA",38,NA,5,"UAB","Conference USA",30,NA,NA
+272720238,2007,5,"regular","2007-09-29T19:00:00.000Z",NA,FALSE,FALSE,37220,3973,"Vanderbilt Stadium",238,"Vanderbilt","SEC",30,NA,2199,"Eastern Michigan","Mid-American",7,NA,NA
+272720258,2007,5,"regular","2007-09-29T19:00:00.000Z",NA,FALSE,FALSE,60888,3923,"Scott Stadium",258,"Virginia","ACC",44,NA,221,"Pittsburgh","Big East",14,NA,NA
+272720008,2007,5,"regular","2007-09-29T19:00:00.000Z",NA,FALSE,FALSE,66343,3887,"Donald W. Reynolds Razorback Stadium Frank Broyles Field",8,"Arkansas","SEC",66,NA,249,"North Texas","Sun Belt",7,NA,NA
+272722393,2007,5,"regular","2007-09-29T19:00:00.000Z",NA,FALSE,TRUE,15605,3725,"Johnny Red"""" Floyd Stadium""""",2393,"Middle Tennessee","Sun Belt",47,NA,2229,"Florida International","Sun Belt",6,NA,NA
+272720248,2007,5,"regular","2007-09-29T19:00:00.000Z",NA,FALSE,TRUE,20719,453,"Robertson Stadium",248,"Houston","Conference USA",35,NA,151,"East Carolina","Conference USA",37,NA,NA
+272720197,2007,5,"regular","2007-09-29T19:05:00.000Z",NA,FALSE,FALSE,41139,3646,"Boone Pickens Stadium",197,"Oklahoma State","Big 12",39,NA,2534,"Sam Houston State",NA,3,NA,NA
+272722649,2007,5,"regular","2007-09-29T19:06:00.000Z",NA,FALSE,TRUE,18542,3739,"Glass Bowl",2649,"Toledo","Mid-American",28,NA,2711,"Western Michigan","Mid-American",42,NA,NA
+272722653,2007,5,"regular","2007-09-29T19:07:00.000Z",NA,FALSE,TRUE,18273,3975,"Veterans Memorial Stadium",2653,"Troy","Sun Belt",24,NA,2433,"Louisiana Monroe","Sun Belt",7,NA,NA
+272720135,2007,5,"regular","2007-09-29T20:00:00.000Z",NA,FALSE,TRUE,51611,NA,NA,135,"Minnesota","Big Ten",7,NA,194,"Ohio State","Big Ten",30,NA,NA
+272720057,2007,5,"regular","2007-09-29T20:00:00.000Z",NA,FALSE,TRUE,90685,3634,"Ben Hill Griffin Stadium",57,"Florida","SEC",17,NA,2,"Auburn","SEC",20,NA,NA
+272720264,2007,5,"regular","2007-09-29T20:00:00.000Z",NA,FALSE,TRUE,68654,3765,"Husky Stadium",264,"Washington","Pac-10",24,NA,30,"USC","Pac-10",27,NA,NA
+272720166,2007,5,"regular","2007-09-29T20:00:00.000Z",NA,FALSE,FALSE,15329,3601,"Aggie Memorial Stadium",166,"New Mexico State","Western Athletic",20,NA,2029,"Arkansas-Pine Bluff",NA,17,NA,NA
+272720167,2007,5,"regular","2007-09-29T20:30:00.000Z",NA,FALSE,TRUE,34204,3971,"University Stadium",167,"New Mexico","Mountain West",24,NA,252,"BYU","Mountain West",31,NA,NA
+272720278,2007,5,"regular","2007-09-29T22:00:00.000Z",NA,FALSE,TRUE,38104,3660,"Bulldog Stadium",278,"Fresno State","Western Athletic",17,NA,2348,"Louisiana Tech","Western Athletic",6,NA,NA
+272720012,2007,5,"regular","2007-09-29T22:00:00.000Z",NA,FALSE,TRUE,50945,3619,"Arizona Stadium",12,"Arizona","Pac-10",48,NA,265,"Washington State","Pac-10",20,NA,NA
+272720021,2007,5,"regular","2007-09-29T22:06:00.000Z",NA,FALSE,FALSE,24647,3932,"Qualcomm Stadium",21,"San Diego State","Mountain West",23,NA,2132,"Cincinnati","Big East",52,NA,NA
+272720024,2007,5,"regular","2007-09-29T22:08:00.000Z",NA,FALSE,TRUE,32125,3940,"Stanford Stadium",24,"Stanford","Pac-10",3,NA,9,"Arizona State","Pac-10",41,NA,NA
+272750235,2007,6,"regular","2007-10-02T20:00:00.000Z",NA,FALSE,TRUE,25324,3805,"Liberty Bowl Memorial Stadium",235,"Memphis","Conference USA",24,NA,276,"Marshall","Conference USA",21,NA,NA
+272762572,2007,6,"regular","2007-10-03T20:00:00.000Z",NA,FALSE,TRUE,25656,3815,"M. M. Roberts Stadium",2572,"Southern Mississippi","Conference USA",29,NA,242,"Rice","Conference USA",31,NA,NA
+272772579,2007,6,"regular","2007-10-04T19:30:00.000Z",NA,FALSE,TRUE,76220,3994,"Williams-Brice Stadium",2579,"South Carolina","SEC",38,NA,96,"Kentucky","SEC",23,NA,NA
+272780097,2007,6,"regular","2007-10-05T20:00:00.000Z",NA,FALSE,FALSE,40894,3873,"Papa John's Cardinal Stadium",97,"Louisville","Big East",35,NA,254,"Utah","Mountain West",44,NA,NA
+272790356,2007,6,"regular","2007-10-06T12:00:00.000Z",NA,FALSE,TRUE,57078,3832,"Memorial Stadium",356,"Illinois","Big Ten",31,NA,275,"Wisconsin","Big Ten",26,NA,NA
+272790103,2007,6,"regular","2007-10-06T12:00:00.000Z",NA,FALSE,FALSE,40117,3615,"Alumni Stadium",103,"Boston College","ACC",55,NA,189,"Bowling Green","Mid-American",24,NA,NA
+272790183,2007,6,"regular","2007-10-06T12:00:00.000Z",NA,FALSE,TRUE,35345,1964,"Carrier Dome",183,"Syracuse","Big East",14,NA,277,"West Virginia","Big East",55,NA,NA
+272792306,2007,6,"regular","2007-10-06T12:00:00.000Z",NA,FALSE,TRUE,50924,3636,"Bill Snyder Family Football Stadium",2306,"Kansas State","Big 12",24,NA,2305,"Kansas","Big 12",30,NA,NA
+272790084,2007,6,"regular","2007-10-06T12:00:00.000Z",NA,FALSE,TRUE,32009,3830,"Memorial Stadium",84,"Indiana","Big Ten",40,NA,135,"Minnesota","Big Ten",20,NA,NA
+272790120,2007,6,"regular","2007-10-06T12:00:00.000Z",NA,FALSE,TRUE,47527,3665,"Maryland Stadium",120,"Maryland","ACC",28,NA,59,"Georgia Tech","ACC",26,NA,NA
+272790130,2007,6,"regular","2007-10-06T12:00:00.000Z",NA,FALSE,FALSE,108415,3558,"Michigan Stadium",130,"Michigan","Big Ten",33,NA,2199,"Eastern Michigan","Mid-American",22,NA,NA
+272790153,2007,6,"regular","2007-10-06T12:00:00.000Z",NA,FALSE,TRUE,59000,3787,"Kenan Memorial Stadium",153,"North Carolina","ACC",33,NA,2390,"Miami","ACC",27,NA,NA
+272792050,2007,6,"regular","2007-10-06T12:00:00.000Z",NA,FALSE,TRUE,9617,3919,"Scheumann Stadium",2050,"Ball State","Mid-American",38,NA,2117,"Central Michigan","Mid-American",58,NA,NA
+272790127,2007,6,"regular","2007-10-06T12:07:00.000Z",NA,FALSE,TRUE,67378,3936,"Spartan Stadium",127,"Michigan State","Big Ten",41,NA,77,"Northwestern","Big Ten",48,NA,NA
+272790002,2007,6,"regular","2007-10-06T12:30:00.000Z",NA,FALSE,TRUE,82657,3785,"Jordan-Hare Stadium",2,"Auburn","SEC",35,NA,238,"Vanderbilt","SEC",7,NA,NA
+272790150,2007,6,"regular","2007-10-06T13:00:00.000Z",NA,FALSE,TRUE,20134,3982,"Wallace Wade Stadium",150,"Duke","ACC",36,NA,154,"Wake Forest","ACC",41,NA,NA
+272790218,2007,6,"regular","2007-10-06T13:00:00.000Z",NA,FALSE,TRUE,21065,3806,"Lincoln Financial Field",218,"Temple","Mid-American",16,NA,2459,"Northern Illinois","Mid-American",15,NA,NA
+272792084,2007,6,"regular","2007-10-06T13:00:00.000Z",NA,FALSE,TRUE,10755,3965,"UB Stadium",2084,"Buffalo","Mid-American",31,NA,195,"Ohio","Mid-American",10,NA,NA
+272792751,2007,6,"regular","2007-10-06T14:00:00.000Z",NA,FALSE,TRUE,23007,NA,NA,2751,"Wyoming","Mountain West",24,NA,2628,"TCU","Mountain West",21,NA,NA
+272790145,2007,6,"regular","2007-10-06T14:00:00.000Z",NA,FALSE,FALSE,45138,3974,"Vaught-Hemingway Stadium",145,"Ole Miss","SEC",24,NA,2348,"Louisiana Tech","Western Athletic",0,NA,NA
+272790344,2007,6,"regular","2007-10-06T14:30:00.000Z",NA,FALSE,FALSE,45259,3693,"Davis Wade Stadium",344,"Mississippi State","SEC",30,NA,5,"UAB","Conference USA",13,NA,NA
+272792309,2007,6,"regular","2007-10-06T15:00:00.000Z",NA,FALSE,TRUE,17165,3696,"Dix Stadium",2309,"Kent State","Mid-American",13,NA,193,"Miami (OH)","Mid-American",20,NA,NA
+272790333,2007,6,"regular","2007-10-06T15:00:00.000Z",NA,FALSE,FALSE,92138,3657,"Bryant Denny Stadium",333,"Alabama","SEC",30,NA,248,"Houston","Conference USA",24,NA,NA
+272792226,2007,6,"regular","2007-10-06T15:30:00.000Z",NA,FALSE,FALSE,21106,NA,NA,2226,"Florida Atlantic","Sun Belt",23,NA,58,"South Florida","Big East",35,NA,NA
+272790213,2007,6,"regular","2007-10-06T15:30:00.000Z",NA,FALSE,TRUE,108951,3632,"Beaver Stadium",213,"Penn State","Big Ten",27,NA,2294,"Iowa","Big Ten",7,NA,NA
+272790052,2007,6,"regular","2007-10-06T15:30:00.000Z",NA,FALSE,TRUE,82214,3697,"Bobby Bowden Field at Doak Campbell Stadium",52,"Florida State","ACC",27,NA,152,"NC State","ACC",10,NA,NA
+272790251,2007,6,"regular","2007-10-06T15:30:00.000Z",NA,FALSE,TRUE,80000,NA,NA,251,"Texas","Big 12",21,NA,201,"Oklahoma","Big 12",28,NA,NA
+272792633,2007,6,"regular","2007-10-06T15:34:00.000Z",NA,FALSE,TRUE,107052,3853,"Neyland Stadium",2633,"Tennessee","SEC",35,NA,61,"Georgia","SEC",14,NA,NA
+272790023,2007,6,"regular","2007-10-06T16:00:00.000Z",NA,FALSE,TRUE,16289,3935,"Spartan Stadium",23,"San José State","Western Athletic",28,NA,70,"Idaho","Western Athletic",20,NA,NA
+272790265,2007,6,"regular","2007-10-06T16:00:00.000Z",NA,FALSE,TRUE,35117,3820,"Martin Stadium",265,"Washington State","Pac-10",20,NA,9,"Arizona State","Pac-10",23,NA,NA
+272792440,2007,6,"regular","2007-10-06T16:00:00.000Z",NA,FALSE,TRUE,18503,3816,"Mackay Stadium",2440,"Nevada","Western Athletic",41,NA,278,"Fresno State","Western Athletic",49,NA,NA
+272790204,2007,6,"regular","2007-10-06T16:05:00.000Z",NA,FALSE,TRUE,40489,3893,"Reser Stadium",204,"Oregon State","Pac-10",31,NA,12,"Arizona","Pac-10",16,NA,NA
+272790036,2007,6,"regular","2007-10-06T17:30:00.000Z",NA,FALSE,TRUE,27930,3761,"Sonny Lubick Field at Hughes Stadium",36,"Colorado State","Mountain West",20,NA,21,"San Diego State","Mountain West",24,NA,NA
+272790228,2007,6,"regular","2007-10-06T18:00:00.000Z",NA,FALSE,TRUE,82000,3836,"Memorial Stadium",228,"Clemson","ACC",23,NA,259,"Virginia Tech","ACC",41,NA,NA
+272790008,2007,6,"regular","2007-10-06T19:00:00.000Z",NA,FALSE,FALSE,54836,NA,NA,8,"Arkansas","SEC",34,NA,236,"Chattanooga",NA,15,NA,NA
+272790030,2007,6,"regular","2007-10-06T19:00:00.000Z",NA,FALSE,TRUE,85125,477,"Los Angeles Memorial Coliseum",30,"USC","Pac-10",23,NA,24,"Stanford","Pac-10",24,NA,NA
+272790239,2007,6,"regular","2007-10-06T19:00:00.000Z",NA,FALSE,TRUE,32376,3724,"Floyd Casey Stadium",239,"Baylor","Big 12",23,NA,38,"Colorado","Big 12",43,NA,NA
+272790309,2007,6,"regular","2007-10-06T19:00:00.000Z",NA,FALSE,TRUE,9464,3666,"Cajun Field",309,"Louisiana","Sun Belt",38,NA,249,"North Texas","Sun Belt",29,NA,NA
+272790349,2007,6,"regular","2007-10-06T19:00:00.000Z",NA,FALSE,FALSE,30022,3841,"Blaik Field at Michie Stadium",349,"Army","FBS Independents",20,NA,2655,"Tulane","Conference USA",17,NA,NA
+272792433,2007,6,"regular","2007-10-06T19:00:00.000Z",NA,FALSE,TRUE,12088,3817,"Malone Stadium",2433,"Louisiana Monroe","Sun Belt",30,NA,2032,"Arkansas State","Sun Belt",13,NA,NA
+272792641,2007,6,"regular","2007-10-06T19:00:00.000Z",NA,FALSE,TRUE,46558,3784,"Jones AT&T Stadium",2641,"Texas Tech","Big 12",42,NA,66,"Iowa State","Big 12",17,NA,NA
+272792229,2007,6,"regular","2007-10-06T19:00:00.000Z",NA,FALSE,TRUE,5723,NA,NA,2229,"Florida International","Sun Belt",16,NA,2653,"Troy","Sun Belt",34,NA,NA
+272792711,2007,6,"regular","2007-10-06T19:00:00.000Z",NA,FALSE,TRUE,25610,3980,"Waldo Stadium",2711,"Western Michigan","Mid-American",38,NA,2006,"Akron","Mid-American",39,NA,NA
+272792649,2007,6,"regular","2007-10-06T19:07:00.000Z",NA,FALSE,FALSE,16071,3739,"Glass Bowl",2649,"Toledo","Mid-American",35,NA,2335,"Liberty",NA,34,NA,NA
+272792393,2007,6,"regular","2007-10-06T19:08:00.000Z",NA,FALSE,FALSE,23227,3725,"Johnny Red"""" Floyd Stadium""""",2393,"Middle Tennessee","Sun Belt",21,NA,258,"Virginia","ACC",23,NA,NA
+272790151,2007,6,"regular","2007-10-06T19:30:00.000Z",NA,FALSE,TRUE,42777,3699,"Dowdy-Ficklen Stadium",151,"East Carolina","Conference USA",52,NA,2116,"UCF","Conference USA",38,NA,NA
+272790245,2007,6,"regular","2007-10-06T19:40:00.000Z",NA,FALSE,TRUE,86217,3795,"Kyle Field",245,"Texas A&M","Big 12",24,NA,197,"Oklahoma State","Big 12",23,NA,NA
+272792509,2007,6,"regular","2007-10-06T20:00:00.000Z",NA,FALSE,TRUE,65497,3907,"Ross-Ade Stadium",2509,"Purdue","Big Ten",7,NA,194,"Ohio State","Big Ten",23,NA,NA
+272790164,2007,6,"regular","2007-10-06T20:00:00.000Z",NA,FALSE,TRUE,43768,3754,"High Point Solutions Stadium",164,"Rutgers","Big East",23,NA,2132,"Cincinnati","Big East",28,NA,NA
+272790026,2007,6,"regular","2007-10-06T20:00:00.000Z",NA,FALSE,FALSE,78543,1056,"Rose Bowl",26,"UCLA","Pac-10",6,NA,87,"Notre Dame","FBS Independents",20,NA,NA
+272790099,2007,6,"regular","2007-10-06T20:28:00.000Z",NA,FALSE,TRUE,92910,3958,"Tiger Stadium",99,"LSU","SEC",28,NA,57,"Florida","SEC",24,NA,NA
+272792005,2007,6,"regular","2007-10-06T21:00:00.000Z",NA,FALSE,TRUE,35583,3713,"Falcon Stadium",2005,"Air Force","Mountain West",31,NA,2439,"UNLV","Mountain West",14,NA,NA
+272792638,2007,6,"regular","2007-10-06T21:05:00.000Z",NA,FALSE,TRUE,35676,3946,"Sun Bowl Stadium",2638,"UTEP","Conference USA",48,NA,202,"Tulsa","Conference USA",47,NA,NA
+272790142,2007,6,"regular","2007-10-06T21:15:00.000Z",NA,FALSE,TRUE,70049,3838,"Faurot Field",142,"Missouri","Big 12",41,NA,158,"Nebraska","Big 12",6,NA,NA
+272790062,2007,6,"regular","2007-10-07T00:05:00.000Z",NA,FALSE,TRUE,33398,3610,"Aloha Stadium",62,"Hawai'i","Western Athletic",52,NA,328,"Utah State","Western Athletic",37,NA,NA
+272800068,2007,6,"regular","2007-10-07T20:00:00.000Z",NA,FALSE,TRUE,30239,3653,"Albertsons Stadium",68,"Boise State","Western Athletic",58,NA,166,"New Mexico State","Western Athletic",0,NA,NA
+272830221,2007,7,"regular","2007-10-10T20:00:00.000Z",NA,FALSE,FALSE,30103,3752,"Heinz Field",221,"Pittsburgh","Big East",45,NA,2426,"Navy","FBS Independents",48,NA,NA
+272840154,2007,7,"regular","2007-10-11T19:30:00.000Z",NA,FALSE,TRUE,32906,3630,"BB&T Field",154,"Wake Forest","ACC",24,NA,52,"Florida State","ACC",21,NA,NA
+272850023,2007,7,"regular","2007-10-12T20:00:00.000Z",NA,FALSE,TRUE,20473,3935,"Spartan Stadium",23,"San José State","Western Athletic",35,NA,62,"Hawai'i","Western Athletic",42,NA,NA
+272860195,2007,7,"regular","2007-10-13T12:00:00.000Z",NA,FALSE,TRUE,17031,3876,"Peden Stadium",195,"Ohio","Mid-American",48,NA,2199,"Eastern Michigan","Mid-American",42,NA,NA
+272860194,2007,7,"regular","2007-10-13T12:00:00.000Z",NA,FALSE,FALSE,105051,3861,"Ohio Stadium",194,"Ohio State","Big Ten",48,NA,2309,"Kent State","Mid-American",3,NA,NA
+272860058,2007,7,"regular","2007-10-13T12:00:00.000Z",NA,FALSE,FALSE,65948,3886,"Raymond James Stadium",58,"South Florida","Big East",64,NA,2116,"UCF","Conference USA",12,NA,NA
+272860150,2007,7,"regular","2007-10-13T12:00:00.000Z",NA,FALSE,TRUE,23691,3982,"Wallace Wade Stadium",150,"Duke","ACC",14,NA,259,"Virginia Tech","ACC",43,NA,NA
+272862294,2007,7,"regular","2007-10-13T12:00:00.000Z",NA,FALSE,TRUE,70585,3793,"Kinnick Stadium",2294,"Iowa","Big Ten",10,NA,356,"Illinois","Big Ten",6,NA,NA
+272860130,2007,7,"regular","2007-10-13T12:00:00.000Z",NA,FALSE,TRUE,110888,3558,"Michigan Stadium",130,"Michigan","Big Ten",48,NA,2509,"Purdue","Big Ten",21,NA,NA
+272860183,2007,7,"regular","2007-10-13T12:00:00.000Z",NA,FALSE,TRUE,36226,1964,"Carrier Dome",183,"Syracuse","Big East",14,NA,164,"Rutgers","Big East",38,NA,NA
+272862390,2007,7,"regular","2007-10-13T12:00:00.000Z",NA,FALSE,TRUE,52416,NA,NA,2390,"Miami","ACC",14,NA,59,"Georgia Tech","ACC",17,NA,NA
+272860077,2007,7,"regular","2007-10-13T12:07:00.000Z",NA,FALSE,TRUE,23314,3911,"Ryan Field",77,"Northwestern","Big Ten",49,NA,135,"Minnesota","Big Ten",48,NA,NA
+272860158,2007,7,"regular","2007-10-13T12:30:00.000Z",NA,FALSE,TRUE,84334,3834,"Memorial Stadium",158,"Nebraska","Big 12",14,NA,197,"Oklahoma State","Big 12",45,NA,NA
+272860145,2007,7,"regular","2007-10-13T12:30:00.000Z",NA,FALSE,TRUE,59791,3974,"Vaught-Hemingway Stadium",145,"Ole Miss","SEC",24,NA,333,"Alabama","SEC",27,NA,NA
+272860066,2007,7,"regular","2007-10-13T12:30:00.000Z",NA,FALSE,TRUE,52060,3772,"Jack Trice Stadium",66,"Iowa State","Big 12",3,NA,251,"Texas","Big 12",56,NA,NA
+272862305,2007,7,"regular","2007-10-13T12:37:00.000Z",NA,FALSE,TRUE,43556,3833,"Memorial Stadium",2305,"Kansas","Big 12",58,NA,239,"Baylor","Big 12",10,NA,NA
+272862084,2007,7,"regular","2007-10-13T13:00:00.000Z",NA,FALSE,TRUE,12529,3965,"UB Stadium",2084,"Buffalo","Mid-American",43,NA,2649,"Toledo","Mid-American",33,NA,NA
+272862050,2007,7,"regular","2007-10-13T14:00:00.000Z",NA,FALSE,FALSE,15824,3919,"Scheumann Stadium",2050,"Ball State","Mid-American",35,NA,98,"Western Kentucky","FBS Independents",12,NA,NA
+272862751,2007,7,"regular","2007-10-13T14:00:00.000Z",NA,FALSE,TRUE,22301,NA,NA,2751,"Wyoming","Mountain West",3,NA,167,"New Mexico","Mountain West",20,NA,NA
+272860344,2007,7,"regular","2007-10-13T14:30:00.000Z",NA,FALSE,TRUE,50217,3693,"Davis Wade Stadium",344,"Mississippi State","SEC",21,NA,2633,"Tennessee","SEC",33,NA,NA
+272860254,2007,7,"regular","2007-10-13T15:00:00.000Z",NA,FALSE,TRUE,40898,587,"Rice-Eccles Stadium",254,"Utah","Mountain West",23,NA,21,"San Diego State","Mountain West",7,NA,NA
+272860193,2007,7,"regular","2007-10-13T15:00:00.000Z",NA,FALSE,TRUE,16148,3996,"Yager Stadium",193,"Miami (OH)","Mid-American",47,NA,189,"Bowling Green","Mid-American",14,NA,NA
+272860030,2007,7,"regular","2007-10-13T15:30:00.000Z",NA,FALSE,TRUE,84671,477,"Los Angeles Memorial Coliseum",30,"USC","Pac-10",20,NA,12,"Arizona","Pac-10",13,NA,NA
+272860248,2007,7,"regular","2007-10-13T15:30:00.000Z",NA,FALSE,TRUE,26514,453,"Robertson Stadium",248,"Houston","Conference USA",56,NA,242,"Rice","Conference USA",48,NA,NA
+272860096,2007,7,"regular","2007-10-13T15:30:00.000Z",NA,FALSE,TRUE,70902,3683,"Commonwealth Stadium",96,"Kentucky","SEC",43,NA,99,"LSU","SEC",37,NA,NA
+272860153,2007,7,"regular","2007-10-13T15:30:00.000Z",NA,FALSE,FALSE,61000,3787,"Kenan Memorial Stadium",153,"North Carolina","ACC",15,NA,2579,"South Carolina","SEC",21,NA,NA
+272862641,2007,7,"regular","2007-10-13T15:30:00.000Z",NA,FALSE,TRUE,55491,3784,"Jones AT&T Stadium",2641,"Texas Tech","Big 12",35,NA,245,"Texas A&M","Big 12",7,NA,NA
+272860213,2007,7,"regular","2007-10-13T15:30:00.000Z",NA,FALSE,TRUE,109754,3632,"Beaver Stadium",213,"Penn State","Big Ten",38,NA,275,"Wisconsin","Big Ten",7,NA,NA
+272860258,2007,7,"regular","2007-10-13T15:30:00.000Z",NA,FALSE,FALSE,60004,3923,"Scott Stadium",258,"Virginia","ACC",17,NA,41,"Connecticut","Big East",16,NA,NA
+272862483,2007,7,"regular","2007-10-13T15:36:00.000Z",NA,FALSE,TRUE,58749,3626,"Autzen Stadium",2483,"Oregon","Pac-10",53,NA,265,"Washington State","Pac-10",7,NA,NA
+272862117,2007,7,"regular","2007-10-13T15:37:00.000Z",NA,FALSE,FALSE,21013,3786,"Kelly/Shorts Stadium",2117,"Central Michigan","Mid-American",47,NA,349,"Army","FBS Independents",23,NA,NA
+272860087,2007,7,"regular","2007-10-13T15:43:00.000Z",NA,FALSE,FALSE,80795,3855,"Notre Dame Stadium",87,"Notre Dame","FBS Independents",14,NA,103,"Boston College","ACC",27,NA,NA
+272862459,2007,7,"regular","2007-10-13T16:08:00.000Z",NA,FALSE,TRUE,23057,3764,"Brigham Field at Huskie Stadium",2459,"Northern Illinois","Mid-American",13,NA,2711,"Western Michigan","Mid-American",17,NA,NA
+272860070,2007,7,"regular","2007-10-13T17:00:00.000Z",NA,FALSE,TRUE,14205,3791,"Kibbie Dome",70,"Idaho","Western Athletic",24,NA,278,"Fresno State","Western Athletic",37,NA,NA
+272860024,2007,7,"regular","2007-10-13T17:05:00.000Z",NA,FALSE,TRUE,37777,3940,"Stanford Stadium",24,"Stanford","Pac-10",36,NA,2628,"TCU","Mountain West",38,NA,NA
+272860036,2007,7,"regular","2007-10-13T17:30:00.000Z",NA,FALSE,TRUE,25150,3761,"Sonny Lubick Field at Hughes Stadium",36,"Colorado State","Mountain West",21,NA,2005,"Air Force","Mountain West",45,NA,NA
+272862006,2007,7,"regular","2007-10-13T18:00:00.000Z",NA,FALSE,TRUE,14017,NA,NA,2006,"Akron","Mid-American",20,NA,218,"Temple","Mid-American",24,NA,NA
+272860238,2007,7,"regular","2007-10-13T18:00:00.000Z",NA,FALSE,TRUE,39773,3973,"Vanderbilt Stadium",238,"Vanderbilt","SEC",17,NA,61,"Georgia","SEC",20,NA,NA
+272860201,2007,7,"regular","2007-10-13T18:30:00.000Z",NA,FALSE,TRUE,85041,3835,"Gaylord Family Oklahoma Memorial Stadium",201,"Oklahoma","Big 12",41,NA,142,"Missouri","Big 12",31,NA,NA
+272862032,2007,7,"regular","2007-10-13T19:00:00.000Z",NA,FALSE,TRUE,18242,NA,NA,2032,"Arkansas State","Sun Belt",52,NA,309,"Louisiana","Sun Belt",21,NA,NA
+272862132,2007,7,"regular","2007-10-13T19:00:00.000Z",NA,FALSE,TRUE,35097,3854,"Nippert Stadium",2132,"Cincinnati","Big East",24,NA,97,"Louisville","Big East",28,NA,NA
+272860202,2007,7,"regular","2007-10-13T19:00:00.000Z",NA,FALSE,TRUE,20255,NA,NA,202,"Tulsa","Conference USA",38,NA,276,"Marshall","Conference USA",31,NA,NA
+272860249,2007,7,"regular","2007-10-13T19:00:00.000Z",NA,FALSE,TRUE,18973,NA,NA,249,"North Texas","Sun Belt",31,NA,2433,"Louisiana Monroe","Sun Belt",21,NA,NA
+272860005,2007,7,"regular","2007-10-13T19:00:00.000Z",NA,FALSE,TRUE,24144,3803,"Legion Field",5,"UAB","Conference USA",26,NA,2655,"Tulane","Conference USA",21,NA,NA
+272862348,2007,7,"regular","2007-10-13T19:00:00.000Z",NA,FALSE,TRUE,18211,3776,"Joe Aillet Stadium",2348,"Louisiana Tech","Western Athletic",22,NA,166,"New Mexico State","Western Athletic",21,NA,NA
+272860127,2007,7,"regular","2007-10-13T19:07:00.000Z",NA,FALSE,TRUE,73449,3936,"Spartan Stadium",127,"Michigan State","Big Ten",52,NA,84,"Indiana","Big Ten",27,NA,NA
+272860025,2007,7,"regular","2007-10-13T19:07:00.000Z",NA,FALSE,TRUE,63995,3831,"California Memorial Stadium",25,"California","Pac-10",28,NA,204,"Oregon State","Pac-10",31,NA,NA
+272862572,2007,7,"regular","2007-10-13T19:36:00.000Z",NA,FALSE,TRUE,31253,3815,"M. M. Roberts Stadium",2572,"Southern Mississippi","Conference USA",28,NA,2567,"SMU","Conference USA",7,NA,NA
+272860008,2007,7,"regular","2007-10-13T19:45:00.000Z",NA,FALSE,TRUE,72463,3887,"Donald W. Reynolds Razorback Stadium Frank Broyles Field",8,"Arkansas","SEC",7,NA,2,"Auburn","SEC",9,NA,NA
+272860235,2007,7,"regular","2007-10-13T20:00:00.000Z",NA,FALSE,FALSE,30101,3805,"Liberty Bowl Memorial Stadium",235,"Memphis","Conference USA",7,NA,2393,"Middle Tennessee","Sun Belt",21,NA,NA
+272862638,2007,7,"regular","2007-10-13T21:05:00.000Z",NA,FALSE,TRUE,41365,3946,"Sun Bowl Stadium",2638,"UTEP","Conference USA",42,NA,151,"East Carolina","Conference USA",45,NA,NA
+272862306,2007,7,"regular","2007-10-13T21:15:00.000Z",NA,FALSE,TRUE,46637,3636,"Bill Snyder Family Football Stadium",2306,"Kansas State","Big 12",47,NA,38,"Colorado","Big 12",20,NA,NA
+272862439,2007,7,"regular","2007-10-13T21:30:00.000Z",NA,FALSE,TRUE,38026,3914,"Sam Boyd Stadium",2439,"UNLV","Mountain West",14,NA,252,"BYU","Mountain West",24,NA,NA
+272860009,2007,7,"regular","2007-10-13T22:26:00.000Z",NA,FALSE,TRUE,64347,3947,"Sun Devil Stadium",9,"Arizona State","Pac-10",44,NA,264,"Washington","Pac-10",20,NA,NA
+272870068,2007,7,"regular","2007-10-14T20:00:00.000Z",NA,FALSE,TRUE,30394,3653,"Albertsons Stadium",68,"Boise State","Western Athletic",69,NA,2440,"Nevada","Western Athletic",67,NA,NA
+272910164,2007,8,"regular","2007-10-18T19:30:00.000Z",NA,FALSE,TRUE,44267,3754,"High Point Solutions Stadium",164,"Rutgers","Big East",30,NA,58,"South Florida","Big East",27,NA,NA
+272912628,2007,8,"regular","2007-10-18T20:00:00.000Z",NA,FALSE,TRUE,25391,3616,"Amon G. Carter Stadium",2628,"TCU","Mountain West",20,NA,254,"Utah","Mountain West",27,NA,NA
+272922199,2007,8,"regular","2007-10-19T19:00:00.000Z",NA,FALSE,FALSE,0,NA,NA,2199,"Eastern Michigan","Mid-American",14,NA,77,"Northwestern","Big Ten",26,NA,NA
+272920041,2007,8,"regular","2007-10-19T20:00:00.000Z",NA,FALSE,TRUE,40000,3892,"Rentschler Field",41,"Connecticut","Big East",21,NA,97,"Louisville","Big East",17,NA,NA
+272930059,2007,8,"regular","2007-10-20T12:00:00.000Z",NA,FALSE,FALSE,50242,721,"Bobby Dodd Stadium at Historic Grant Field",59,"Georgia Tech","ACC",34,NA,349,"Army","FBS Independents",10,NA,NA
+272930221,2007,8,"regular","2007-10-20T12:00:00.000Z",NA,FALSE,TRUE,33423,3752,"Heinz Field",221,"Pittsburgh","Big East",24,NA,2132,"Cincinnati","Big East",17,NA,NA
+272930084,2007,8,"regular","2007-10-20T12:00:00.000Z",NA,FALSE,TRUE,41251,3830,"Memorial Stadium",84,"Indiana","Big Ten",31,NA,213,"Penn State","Big Ten",36,NA,NA
+272930135,2007,8,"regular","2007-10-20T12:00:00.000Z",NA,FALSE,FALSE,63088,NA,NA,135,"Minnesota","Big Ten",21,NA,2449,"North Dakota State",NA,27,NA,NA
+272930218,2007,8,"regular","2007-10-20T12:00:00.000Z",NA,FALSE,TRUE,21041,3806,"Lincoln Financial Field",218,"Temple","Mid-American",24,NA,193,"Miami (OH)","Mid-American",17,NA,NA
+272930228,2007,8,"regular","2007-10-20T12:00:00.000Z",NA,FALSE,FALSE,81000,3836,"Memorial Stadium",228,"Clemson","ACC",70,NA,2117,"Central Michigan","Mid-American",14,NA,NA
+272932509,2007,8,"regular","2007-10-20T12:00:00.000Z",NA,FALSE,TRUE,58123,3907,"Ross-Ade Stadium",2509,"Purdue","Big Ten",31,NA,2294,"Iowa","Big Ten",6,NA,NA
+272930275,2007,8,"regular","2007-10-20T12:07:00.000Z",NA,FALSE,FALSE,81883,347,"Camp Randall Stadium",275,"Wisconsin","Big Ten",44,NA,2459,"Northern Illinois","Mid-American",3,NA,NA
+272930333,2007,8,"regular","2007-10-20T12:30:00.000Z",NA,FALSE,TRUE,92138,3657,"Bryant Denny Stadium",333,"Alabama","SEC",41,NA,2633,"Tennessee","SEC",17,NA,NA
+272932579,2007,8,"regular","2007-10-20T12:30:00.000Z",NA,FALSE,TRUE,79212,3994,"Williams-Brice Stadium",2579,"South Carolina","SEC",6,NA,238,"Vanderbilt","SEC",17,NA,NA
+272930066,2007,8,"regular","2007-10-20T12:30:00.000Z",NA,FALSE,TRUE,49511,3772,"Jack Trice Stadium",66,"Iowa State","Big 12",7,NA,201,"Oklahoma","Big 12",17,NA,NA
+272930239,2007,8,"regular","2007-10-20T12:30:00.000Z",NA,FALSE,TRUE,41335,3724,"Floyd Casey Stadium",239,"Baylor","Big 12",10,NA,251,"Texas","Big 12",31,NA,NA
+272932426,2007,8,"regular","2007-10-20T13:00:00.000Z",NA,FALSE,FALSE,36992,3852,"Navy-Marine Corps Memorial Stadium",2426,"Navy","FBS Independents",24,NA,154,"Wake Forest","ACC",44,NA,NA
+272932711,2007,8,"regular","2007-10-20T14:00:00.000Z",NA,FALSE,TRUE,17892,3980,"Waldo Stadium",2711,"Western Michigan","Mid-American",23,NA,2050,"Ball State","Mid-American",27,NA,NA
+272932005,2007,8,"regular","2007-10-20T14:00:00.000Z",NA,FALSE,TRUE,41531,3713,"Falcon Stadium",2005,"Air Force","Mountain West",20,NA,2751,"Wyoming","Mountain West",12,NA,NA
+272930145,2007,8,"regular","2007-10-20T14:00:00.000Z",NA,FALSE,TRUE,52671,3974,"Vaught-Hemingway Stadium",145,"Ole Miss","SEC",8,NA,8,"Arkansas","SEC",44,NA,NA
+272930282,2007,8,"regular","2007-10-20T14:00:00.000Z",NA,FALSE,FALSE,5027,3829,"Memorial Stadium",282,"Indiana State",NA,7,NA,98,"Western Kentucky","FBS Independents",56,NA,NA
+272930158,2007,8,"regular","2007-10-20T14:05:00.000Z",NA,FALSE,TRUE,84473,3834,"Memorial Stadium",158,"Nebraska","Big 12",14,NA,245,"Texas A&M","Big 12",36,NA,NA
+272930242,2007,8,"regular","2007-10-20T15:00:00.000Z",NA,FALSE,TRUE,11122,3895,"Rice Stadium",242,"Rice","Conference USA",35,NA,235,"Memphis","Conference USA",38,NA,NA
+272930328,2007,8,"regular","2007-10-20T15:05:00.000Z",NA,FALSE,TRUE,9462,3905,"Romney Stadium",328,"Utah State","Western Athletic",28,NA,2440,"Nevada","Western Athletic",31,NA,NA
+272930096,2007,8,"regular","2007-10-20T15:30:00.000Z",NA,FALSE,TRUE,71024,3683,"Commonwealth Stadium",96,"Kentucky","SEC",37,NA,57,"Florida","SEC",45,NA,NA
+272932653,2007,8,"regular","2007-10-20T15:30:00.000Z",NA,FALSE,TRUE,23887,3975,"Veterans Memorial Stadium",2653,"Troy","Sun Belt",45,NA,249,"North Texas","Sun Belt",7,NA,NA
+272930052,2007,8,"regular","2007-10-20T15:30:00.000Z",NA,FALSE,TRUE,82728,3697,"Bobby Bowden Field at Doak Campbell Stadium",52,"Florida State","ACC",29,NA,2390,"Miami","ACC",37,NA,NA
+272930142,2007,8,"regular","2007-10-20T15:30:00.000Z",NA,FALSE,TRUE,63396,3838,"Faurot Field",142,"Missouri","Big 12",41,NA,2641,"Texas Tech","Big 12",10,NA,NA
+272930087,2007,8,"regular","2007-10-20T15:30:00.000Z",NA,FALSE,FALSE,80795,3855,"Notre Dame Stadium",87,"Notre Dame","FBS Independents",0,NA,30,"USC","Pac-10",38,NA,NA
+272930026,2007,8,"regular","2007-10-20T15:30:00.000Z",NA,FALSE,TRUE,83494,1056,"Rose Bowl",26,"UCLA","Pac-10",30,NA,25,"California","Pac-10",21,NA,NA
+272930277,2007,8,"regular","2007-10-20T15:30:00.000Z",NA,FALSE,FALSE,61022,3842,"Mountaineer Field at Milan Puskar Stadium",277,"West Virginia","Big East",38,NA,344,"Mississippi State","SEC",13,NA,NA
+272932393,2007,8,"regular","2007-10-20T15:30:00.000Z",NA,FALSE,TRUE,12505,3725,"Johnny Red"""" Floyd Stadium""""",2393,"Middle Tennessee","Sun Belt",24,NA,2032,"Arkansas State","Sun Belt",7,NA,NA
+272930194,2007,8,"regular","2007-10-20T15:30:00.000Z",NA,FALSE,TRUE,105287,3861,"Ohio Stadium",194,"Ohio State","Big Ten",24,NA,127,"Michigan State","Big Ten",17,NA,NA
+272932116,2007,8,"regular","2007-10-20T16:00:00.000Z",NA,FALSE,TRUE,45510,NA,NA,2116,"UCF","Conference USA",44,NA,202,"Tulsa","Conference USA",23,NA,NA
+272930183,2007,8,"regular","2007-10-20T16:00:00.000Z",NA,FALSE,FALSE,30897,1964,"Carrier Dome",183,"Syracuse","Big East",20,NA,2084,"Buffalo","Mid-American",12,NA,NA
+272932309,2007,8,"regular","2007-10-20T16:00:00.000Z",NA,FALSE,TRUE,10248,3696,"Dix Stadium",2309,"Kent State","Mid-American",20,NA,189,"Bowling Green","Mid-American",31,NA,NA
+272930151,2007,8,"regular","2007-10-20T16:30:00.000Z",NA,FALSE,FALSE,43527,3699,"Dowdy-Ficklen Stadium",151,"East Carolina","Conference USA",20,NA,152,"NC State","ACC",34,NA,NA
+272930309,2007,8,"regular","2007-10-20T17:00:00.000Z",NA,FALSE,TRUE,12290,3666,"Cajun Field",309,"Louisiana","Sun Belt",32,NA,2226,"Florida Atlantic","Sun Belt",39,NA,NA
+272930278,2007,8,"regular","2007-10-20T17:00:00.000Z",NA,FALSE,TRUE,35494,3660,"Bulldog Stadium",278,"Fresno State","Western Athletic",30,NA,23,"San José State","Western Athletic",0,NA,NA
+272930038,2007,8,"regular","2007-10-20T17:30:00.000Z",NA,FALSE,TRUE,51940,3726,"Folsom Field",38,"Colorado","Big 12",14,NA,2305,"Kansas","Big 12",19,NA,NA
+272930252,2007,8,"regular","2007-10-20T17:30:00.000Z",NA,FALSE,FALSE,64522,3801,"LaVell Edwards Stadium",252,"BYU","Mountain West",42,NA,331,"Eastern Washington",NA,7,NA,NA
+272932649,2007,8,"regular","2007-10-20T19:00:00.000Z",NA,FALSE,TRUE,18928,3739,"Glass Bowl",2649,"Toledo","Mid-American",43,NA,195,"Ohio","Mid-American",40,NA,NA
+272930005,2007,8,"regular","2007-10-20T19:00:00.000Z",NA,FALSE,TRUE,11588,3803,"Legion Field",5,"UAB","Conference USA",10,NA,248,"Houston","Conference USA",49,NA,NA
+272932348,2007,8,"regular","2007-10-20T19:00:00.000Z",NA,FALSE,TRUE,19199,3776,"Joe Aillet Stadium",2348,"Louisiana Tech","Western Athletic",31,NA,68,"Boise State","Western Athletic",45,NA,NA
+272932433,2007,8,"regular","2007-10-20T19:00:00.000Z",NA,FALSE,TRUE,8814,3817,"Malone Stadium",2433,"Louisiana Monroe","Sun Belt",28,NA,2229,"Florida International","Sun Belt",14,NA,NA
+272930197,2007,8,"regular","2007-10-20T19:05:00.000Z",NA,FALSE,TRUE,41725,3646,"Boone Pickens Stadium",197,"Oklahoma State","Big 12",41,NA,2306,"Kansas State","Big 12",39,NA,NA
+272930012,2007,8,"regular","2007-10-20T19:07:00.000Z",NA,FALSE,TRUE,55270,3619,"Arizona Stadium",12,"Arizona","Pac-10",20,NA,24,"Stanford","Pac-10",21,NA,NA
+272930264,2007,8,"regular","2007-10-20T19:37:00.000Z",NA,FALSE,TRUE,66481,3765,"Husky Stadium",264,"Washington","Pac-10",34,NA,2483,"Oregon","Pac-10",55,NA,NA
+272930120,2007,8,"regular","2007-10-20T20:00:00.000Z",NA,FALSE,TRUE,52782,3665,"Maryland Stadium",120,"Maryland","ACC",17,NA,258,"Virginia","ACC",18,NA,NA
+272930356,2007,8,"regular","2007-10-20T20:00:00.000Z",NA,FALSE,TRUE,57078,3832,"Memorial Stadium",356,"Illinois","Big Ten",17,NA,130,"Michigan","Big Ten",27,NA,NA
+272930166,2007,8,"regular","2007-10-20T20:00:00.000Z",NA,FALSE,TRUE,15788,3601,"Aggie Memorial Stadium",166,"New Mexico State","Western Athletic",45,NA,70,"Idaho","Western Athletic",31,NA,NA
+272932567,2007,8,"regular","2007-10-20T20:00:00.000Z",NA,FALSE,TRUE,14901,3735,"Gerald J. Ford Stadium",2567,"SMU","Conference USA",34,NA,2655,"Tulane","Conference USA",41,NA,NA
+272930021,2007,8,"regular","2007-10-20T20:36:00.000Z",NA,FALSE,TRUE,20205,3932,"Qualcomm Stadium",21,"San Diego State","Mountain West",17,NA,167,"New Mexico","Mountain West",20,NA,NA
+272932439,2007,8,"regular","2007-10-20T21:00:00.000Z",NA,FALSE,TRUE,19266,3914,"Sam Boyd Stadium",2439,"UNLV","Mountain West",23,NA,36,"Colorado State","Mountain West",48,NA,NA
+272930099,2007,8,"regular","2007-10-20T21:00:00.000Z",NA,FALSE,TRUE,92630,3958,"Tiger Stadium",99,"LSU","SEC",30,NA,2,"Auburn","SEC",24,NA,NA
+272940276,2007,8,"regular","2007-10-21T20:00:00.000Z",NA,FALSE,TRUE,27234,3775,"Joan C. Edwards Stadium",276,"Marshall","Conference USA",24,NA,2572,"Southern Mississippi","Conference USA",33,NA,NA
+272980259,2007,9,"regular","2007-10-25T19:30:00.000Z",NA,FALSE,TRUE,66233,3799,"Lane Stadium",259,"Virginia Tech","ACC",10,NA,103,"Boston College","ACC",14,NA,NA
+272980167,2007,9,"regular","2007-10-25T21:00:00.000Z",NA,FALSE,TRUE,26087,3971,"University Stadium",167,"New Mexico","Mountain West",34,NA,2005,"Air Force","Mountain West",31,NA,NA
+272990278,2007,9,"regular","2007-10-26T21:00:00.000Z",NA,FALSE,TRUE,40607,3660,"Bulldog Stadium",278,"Fresno State","Western Athletic",21,NA,68,"Boise State","Western Athletic",34,NA,NA
+273000154,2007,9,"regular","2007-10-27T12:00:00.000Z",NA,FALSE,TRUE,33023,3630,"BB&T Field",154,"Wake Forest","ACC",37,NA,153,"North Carolina","ACC",10,NA,NA
+273000275,2007,9,"regular","2007-10-27T12:00:00.000Z",NA,FALSE,TRUE,81324,347,"Camp Randall Stadium",275,"Wisconsin","Big Ten",33,NA,84,"Indiana","Big Ten",3,NA,NA
+273002509,2007,9,"regular","2007-10-27T12:00:00.000Z",NA,FALSE,TRUE,58237,3907,"Ross-Ade Stadium",2509,"Purdue","Big Ten",35,NA,77,"Northwestern","Big Ten",17,NA,NA
+273002294,2007,9,"regular","2007-10-27T12:00:00.000Z",NA,FALSE,TRUE,70585,3793,"Kinnick Stadium",2294,"Iowa","Big Ten",34,NA,127,"Michigan State","Big Ten",27,NA,NA
+273000356,2007,9,"regular","2007-10-27T12:00:00.000Z",NA,FALSE,FALSE,55578,3832,"Memorial Stadium",356,"Illinois","Big Ten",28,NA,2050,"Ball State","Mid-American",17,NA,NA
+273000164,2007,9,"regular","2007-10-27T12:00:00.000Z",NA,FALSE,TRUE,43620,3754,"High Point Solutions Stadium",164,"Rutgers","Big East",3,NA,277,"West Virginia","Big East",31,NA,NA
+273000097,2007,9,"regular","2007-10-27T12:00:00.000Z",NA,FALSE,TRUE,34792,3873,"Papa John's Cardinal Stadium",97,"Louisville","Big East",24,NA,221,"Pittsburgh","Big East",17,NA,NA
+273002641,2007,9,"regular","2007-10-27T12:00:00.000Z",NA,FALSE,TRUE,49084,3784,"Jones AT&T Stadium",2641,"Texas Tech","Big 12",26,NA,38,"Colorado","Big 12",31,NA,NA
+273000096,2007,9,"regular","2007-10-27T12:30:00.000Z",NA,FALSE,TRUE,68173,3683,"Commonwealth Stadium",96,"Kentucky","SEC",14,NA,344,"Mississippi State","SEC",31,NA,NA
+273002309,2007,9,"regular","2007-10-27T13:00:00.000Z",NA,FALSE,TRUE,6439,3696,"Dix Stadium",2309,"Kent State","Mid-American",32,NA,2117,"Central Michigan","Mid-American",41,NA,NA
+273002426,2007,9,"regular","2007-10-27T13:00:00.000Z",NA,FALSE,FALSE,35213,3852,"Navy-Marine Corps Memorial Stadium",2426,"Navy","FBS Independents",52,NA,48,"Delaware",NA,59,NA,NA
+273002084,2007,9,"regular","2007-10-27T13:00:00.000Z",NA,FALSE,TRUE,10142,3965,"UB Stadium",2084,"Buffalo","Mid-American",26,NA,2006,"Akron","Mid-American",10,NA,NA
+273000142,2007,9,"regular","2007-10-27T14:00:00.000Z",NA,FALSE,TRUE,53386,3838,"Faurot Field",142,"Missouri","Big 12",42,NA,66,"Iowa State","Big 12",28,NA,NA
+273002751,2007,9,"regular","2007-10-27T14:00:00.000Z",NA,FALSE,TRUE,16940,NA,NA,2751,"Wyoming","Mountain West",29,NA,2439,"UNLV","Mountain West",24,NA,NA
+273000008,2007,9,"regular","2007-10-27T14:00:00.000Z",NA,FALSE,FALSE,60750,3887,"Donald W. Reynolds Razorback Stadium Frank Broyles Field",8,"Arkansas","SEC",58,NA,2229,"Florida International","Sun Belt",10,NA,NA
+273000238,2007,9,"regular","2007-10-27T14:00:00.000Z",NA,FALSE,FALSE,26450,3973,"Vanderbilt Stadium",238,"Vanderbilt","SEC",24,NA,193,"Miami (OH)","Mid-American",13,NA,NA
+273002483,2007,9,"regular","2007-10-27T15:00:00.000Z",NA,FALSE,TRUE,59277,3626,"Autzen Stadium",2483,"Oregon","Pac-10",24,NA,30,"USC","Pac-10",17,NA,NA
+273000328,2007,9,"regular","2007-10-27T15:00:00.000Z",NA,FALSE,TRUE,8543,3905,"Romney Stadium",328,"Utah State","Western Athletic",21,NA,2348,"Louisiana Tech","Western Athletic",31,NA,NA
+273002655,2007,9,"regular","2007-10-27T15:00:00.000Z",NA,FALSE,TRUE,23267,3493,"Mercedes-Benz Superdome",2655,"Tulane","Conference USA",27,NA,235,"Memphis","Conference USA",28,NA,NA
+273000202,2007,9,"regular","2007-10-27T15:00:00.000Z",NA,FALSE,TRUE,18853,NA,NA,202,"Tulsa","Conference USA",29,NA,2567,"SMU","Conference USA",23,NA,NA
+273000264,2007,9,"regular","2007-10-27T15:07:00.000Z",NA,FALSE,TRUE,61124,3765,"Husky Stadium",264,"Washington","Pac-10",41,NA,12,"Arizona","Pac-10",48,NA,NA
+273000041,2007,9,"regular","2007-10-27T15:30:00.000Z",NA,FALSE,TRUE,40000,3892,"Rentschler Field",41,"Connecticut","Big East",22,NA,58,"South Florida","Big East",15,NA,NA
+273000061,2007,9,"regular","2007-10-27T15:30:00.000Z",NA,FALSE,TRUE,84481,NA,NA,57,"Florida","SEC",30,NA,61,"Georgia","SEC",42,NA,NA
+273000130,2007,9,"regular","2007-10-27T15:30:00.000Z",NA,FALSE,TRUE,109432,3558,"Michigan Stadium",130,"Michigan","Big Ten",34,NA,135,"Minnesota","Big Ten",10,NA,NA
+273000251,2007,9,"regular","2007-10-27T15:30:00.000Z",NA,FALSE,TRUE,85968,3910,"Darrell K Royal-Texas Memorial Stadium",251,"Texas","Big 12",28,NA,158,"Nebraska","Big 12",25,NA,NA
+273000120,2007,9,"regular","2007-10-27T15:30:00.000Z",NA,FALSE,TRUE,50948,3665,"Maryland Stadium",120,"Maryland","ACC",17,NA,228,"Clemson","ACC",30,NA,NA
+273000151,2007,9,"regular","2007-10-27T15:30:00.000Z",NA,FALSE,TRUE,41125,3699,"Dowdy-Ficklen Stadium",151,"East Carolina","Conference USA",41,NA,5,"UAB","Conference USA",6,NA,NA
+273002306,2007,9,"regular","2007-10-27T15:35:00.000Z",NA,FALSE,TRUE,45959,3636,"Bill Snyder Family Football Stadium",2306,"Kansas State","Big 12",51,NA,239,"Baylor","Big 12",13,NA,NA
+273002199,2007,9,"regular","2007-10-27T15:38:00.000Z",NA,FALSE,TRUE,0,3912,"Rynearson Stadium",2199,"Eastern Michigan","Mid-American",19,NA,2711,"Western Michigan","Mid-American",2,NA,NA
+273002440,2007,9,"regular","2007-10-27T16:00:00.000Z",NA,FALSE,TRUE,11960,3816,"Mackay Stadium",2440,"Nevada","Western Athletic",37,NA,70,"Idaho","Western Athletic",21,NA,NA
+273002226,2007,9,"regular","2007-10-27T16:00:00.000Z",NA,FALSE,TRUE,16902,NA,NA,2226,"Florida Atlantic","Sun Belt",30,NA,2433,"Louisiana Monroe","Sun Belt",33,NA,NA
+273000152,2007,9,"regular","2007-10-27T16:30:00.000Z",NA,FALSE,TRUE,55342,3670,"Carter-Finley Stadium",152,"NC State","ACC",29,NA,258,"Virginia","ACC",24,NA,NA
+273000276,2007,9,"regular","2007-10-27T16:30:00.000Z",NA,FALSE,TRUE,31768,3775,"Joan C. Edwards Stadium",276,"Marshall","Conference USA",34,NA,242,"Rice","Conference USA",21,NA,NA
+273000036,2007,9,"regular","2007-10-27T17:30:00.000Z",NA,FALSE,TRUE,16718,3761,"Sonny Lubick Field at Hughes Stadium",36,"Colorado State","Mountain West",3,NA,254,"Utah","Mountain West",27,NA,NA
+273000002,2007,9,"regular","2007-10-27T18:00:00.000Z",NA,FALSE,TRUE,87451,3785,"Jordan-Hare Stadium",2,"Auburn","SEC",17,NA,145,"Ole Miss","SEC",3,NA,NA
+273000189,2007,9,"regular","2007-10-27T18:00:00.000Z",NA,FALSE,TRUE,11602,3700,"Doyt Perry Stadium",189,"Bowling Green","Mid-American",27,NA,195,"Ohio","Mid-American",38,NA,NA
+273000265,2007,9,"regular","2007-10-27T18:30:00.000Z",NA,FALSE,TRUE,31027,3820,"Martin Stadium",265,"Washington State","Pac-10",27,NA,26,"UCLA","Pac-10",7,NA,NA
+273000204,2007,9,"regular","2007-10-27T18:35:00.000Z",NA,FALSE,TRUE,42089,3893,"Reser Stadium",204,"Oregon State","Pac-10",23,NA,24,"Stanford","Pac-10",6,NA,NA
+273000098,2007,9,"regular","2007-10-27T19:00:00.000Z",NA,FALSE,FALSE,15122,3796,"Houchens Industries-L. T. Smith Stadium",98,"Western Kentucky","FBS Independents",50,NA,2428,"North Carolina Central",NA,14,NA,NA
+273002032,2007,9,"regular","2007-10-27T19:00:00.000Z",NA,FALSE,TRUE,14694,NA,NA,2032,"Arkansas State","Sun Belt",0,NA,2653,"Troy","Sun Belt",27,NA,NA
+273000249,2007,9,"regular","2007-10-27T19:00:00.000Z",NA,FALSE,TRUE,18181,NA,NA,249,"North Texas","Sun Belt",28,NA,2393,"Middle Tennessee","Sun Belt",48,NA,NA
+273000245,2007,9,"regular","2007-10-27T19:00:00.000Z",NA,FALSE,TRUE,85341,3795,"Kyle Field",245,"Texas A&M","Big 12",11,NA,2305,"Kansas","Big 12",19,NA,NA
+273002649,2007,9,"regular","2007-10-27T19:00:00.000Z",NA,FALSE,TRUE,18545,3739,"Glass Bowl",2649,"Toledo","Mid-American",70,NA,2459,"Northern Illinois","Mid-American",21,NA,NA
+273002633,2007,9,"regular","2007-10-27T19:45:00.000Z",NA,FALSE,TRUE,105962,3853,"Neyland Stadium",2633,"Tennessee","SEC",27,NA,2579,"South Carolina","SEC",24,NA,NA
+273000213,2007,9,"regular","2007-10-27T20:00:00.000Z",NA,FALSE,TRUE,110134,3632,"Beaver Stadium",213,"Penn State","Big Ten",17,NA,194,"Ohio State","Big Ten",37,NA,NA
+273000052,2007,9,"regular","2007-10-27T20:00:00.000Z",NA,FALSE,TRUE,79159,3697,"Bobby Bowden Field at Doak Campbell Stadium",52,"Florida State","ACC",25,NA,150,"Duke","ACC",6,NA,NA
+273002638,2007,9,"regular","2007-10-27T21:05:00.000Z",NA,FALSE,TRUE,35116,3946,"Sun Bowl Stadium",2638,"UTEP","Conference USA",31,NA,248,"Houston","Conference USA",34,NA,NA
+273000009,2007,9,"regular","2007-10-27T22:15:00.000Z",NA,FALSE,TRUE,71706,3947,"Sun Devil Stadium",9,"Arizona State","Pac-10",31,NA,25,"California","Pac-10",20,NA,NA
+273000062,2007,9,"regular","2007-10-28T00:05:00.000Z",NA,FALSE,TRUE,41218,3610,"Aloha Stadium",62,"Hawai'i","Western Athletic",50,NA,166,"New Mexico State","Western Athletic",13,NA,NA
+273012572,2007,9,"regular","2007-10-28T20:00:00.000Z",NA,FALSE,TRUE,0,3815,"M. M. Roberts Stadium",2572,"Southern Mississippi","Conference USA",17,NA,2116,"UCF","Conference USA",34,NA,NA
+273050059,2007,10,"regular","2007-11-01T19:30:00.000Z",NA,FALSE,TRUE,52202,721,"Bobby Dodd Stadium at Historic Grant Field",59,"Georgia Tech","ACC",3,NA,259,"Virginia Tech","ACC",27,NA,NA
+273060195,2007,10,"regular","2007-11-02T19:00:00.000Z",NA,FALSE,TRUE,15632,3876,"Peden Stadium",195,"Ohio","Mid-American",23,NA,218,"Temple","Mid-American",7,NA,NA
+273060189,2007,10,"regular","2007-11-02T19:30:00.000Z",NA,FALSE,TRUE,12766,3700,"Doyt Perry Stadium",189,"Bowling Green","Mid-American",44,NA,2006,"Akron","Mid-American",20,NA,NA
+273060166,2007,10,"regular","2007-11-02T20:00:00.000Z",NA,FALSE,TRUE,12268,3601,"Aggie Memorial Stadium",166,"New Mexico State","Western Athletic",38,NA,2440,"Nevada","Western Athletic",40,NA,NA
+273072390,2007,10,"regular","2007-11-03T12:00:00.000Z",NA,FALSE,TRUE,34621,NA,NA,2390,"Miami","ACC",16,NA,152,"NC State","ACC",19,NA,NA
+273070194,2007,10,"regular","2007-11-03T12:00:00.000Z",NA,FALSE,TRUE,105449,3861,"Ohio Stadium",194,"Ohio State","Big Ten",38,NA,275,"Wisconsin","Big Ten",17,NA,NA
+273070258,2007,10,"regular","2007-11-03T12:00:00.000Z",NA,FALSE,TRUE,60106,3923,"Scott Stadium",258,"Virginia","ACC",17,NA,154,"Wake Forest","ACC",16,NA,NA
+273070150,2007,10,"regular","2007-11-03T12:00:00.000Z",NA,FALSE,TRUE,20457,3982,"Wallace Wade Stadium",150,"Duke","ACC",10,NA,228,"Clemson","ACC",47,NA,NA
+273070077,2007,10,"regular","2007-11-03T12:00:00.000Z",NA,FALSE,TRUE,30173,3911,"Ryan Field",77,"Northwestern","Big Ten",17,NA,2294,"Iowa","Big Ten",28,NA,NA
+273070084,2007,10,"regular","2007-11-03T12:00:00.000Z",NA,FALSE,FALSE,34406,3830,"Memorial Stadium",84,"Indiana","Big Ten",38,NA,2050,"Ball State","Mid-American",20,NA,NA
+273070213,2007,10,"regular","2007-11-03T12:00:00.000Z",NA,FALSE,TRUE,108318,3632,"Beaver Stadium",213,"Penn State","Big Ten",26,NA,2509,"Purdue","Big Ten",19,NA,NA
+273070221,2007,10,"regular","2007-11-03T12:00:00.000Z",NA,FALSE,TRUE,31374,3752,"Heinz Field",221,"Pittsburgh","Big East",20,NA,183,"Syracuse","Big East",17,NA,NA
+273070057,2007,10,"regular","2007-11-03T12:30:00.000Z",NA,FALSE,TRUE,90222,3634,"Ben Hill Griffin Stadium",57,"Florida","SEC",49,NA,238,"Vanderbilt","SEC",22,NA,NA
+273070066,2007,10,"regular","2007-11-03T12:30:00.000Z",NA,FALSE,TRUE,45551,3772,"Jack Trice Stadium",66,"Iowa State","Big 12",31,NA,2306,"Kansas State","Big 12",20,NA,NA
+273072305,2007,10,"regular","2007-11-03T12:30:00.000Z",NA,FALSE,TRUE,51910,3833,"Memorial Stadium",2305,"Kansas","Big 12",76,NA,158,"Nebraska","Big 12",39,NA,NA
+273070061,2007,10,"regular","2007-11-03T13:00:00.000Z",NA,FALSE,FALSE,92746,3917,"Sanford Stadium",61,"Georgia","SEC",44,NA,2653,"Troy","Sun Belt",34,NA,NA
+273070236,2007,10,"regular","2007-11-03T14:00:00.000Z",NA,FALSE,FALSE,5668,3720,"Finley Stadium",236,"Chattanooga",NA,21,NA,98,"Western Kentucky","FBS Independents",28,NA,NA
+273070252,2007,10,"regular","2007-11-03T14:00:00.000Z",NA,FALSE,TRUE,64441,3801,"LaVell Edwards Stadium",252,"BYU","Mountain West",35,NA,36,"Colorado State","Mountain West",16,NA,NA
+273070235,2007,10,"regular","2007-11-03T14:00:00.000Z",NA,FALSE,TRUE,27186,3805,"Liberty Bowl Memorial Stadium",235,"Memphis","Conference USA",40,NA,151,"East Carolina","Conference USA",56,NA,NA
+273070145,2007,10,"regular","2007-11-03T14:00:00.000Z",NA,FALSE,FALSE,23283,3974,"Vaught-Hemingway Stadium",145,"Ole Miss","SEC",38,NA,2466,"Northwestern State",NA,31,NA,NA
+273070087,2007,10,"regular","2007-11-03T14:30:00.000Z",NA,FALSE,FALSE,80795,3855,"Notre Dame Stadium",87,"Notre Dame","FBS Independents",44,NA,2426,"Navy","FBS Independents",46,NA,NA
+273070002,2007,10,"regular","2007-11-03T14:30:00.000Z",NA,FALSE,FALSE,85754,3785,"Jordan-Hare Stadium",2,"Auburn","SEC",35,NA,2635,"Tennessee Tech",NA,3,NA,NA
+273070193,2007,10,"regular","2007-11-03T15:00:00.000Z",NA,FALSE,TRUE,12288,3996,"Yager Stadium",193,"Miami (OH)","Mid-American",31,NA,2084,"Buffalo","Mid-American",28,NA,NA
+273070239,2007,10,"regular","2007-11-03T15:00:00.000Z",NA,FALSE,TRUE,39015,3724,"Floyd Casey Stadium",239,"Baylor","Big 12",7,NA,2641,"Texas Tech","Big 12",38,NA,NA
+273070068,2007,10,"regular","2007-11-03T15:00:00.000Z",NA,FALSE,TRUE,30416,3653,"Albertsons Stadium",68,"Boise State","Western Athletic",42,NA,23,"San José State","Western Athletic",7,NA,NA
+273070242,2007,10,"regular","2007-11-03T15:00:00.000Z",NA,FALSE,TRUE,12313,3895,"Rice Stadium",242,"Rice","Conference USA",56,NA,2638,"UTEP","Conference USA",48,NA,NA
+273072032,2007,10,"regular","2007-11-03T15:00:00.000Z",NA,FALSE,TRUE,12326,NA,NA,2032,"Arkansas State","Sun Belt",27,NA,2229,"Florida International","Sun Belt",24,NA,NA
+273072005,2007,10,"regular","2007-11-03T15:30:00.000Z",NA,FALSE,FALSE,46144,3713,"Falcon Stadium",2005,"Air Force","Mountain West",30,NA,349,"Army","FBS Independents",10,NA,NA
+273070127,2007,10,"regular","2007-11-03T15:30:00.000Z",NA,FALSE,TRUE,77009,3936,"Spartan Stadium",127,"Michigan State","Big Ten",24,NA,130,"Michigan","Big Ten",28,NA,NA
+273070197,2007,10,"regular","2007-11-03T15:30:00.000Z",NA,FALSE,TRUE,41406,3646,"Boone Pickens Stadium",197,"Oklahoma State","Big 12",35,NA,251,"Texas","Big 12",38,NA,NA
+273072116,2007,10,"regular","2007-11-03T15:30:00.000Z",NA,FALSE,TRUE,46103,NA,NA,2116,"UCF","Conference USA",47,NA,276,"Marshall","Conference USA",13,NA,NA
+273070012,2007,10,"regular","2007-11-03T15:30:00.000Z",NA,FALSE,TRUE,51727,3619,"Arizona Stadium",12,"Arizona","Pac-10",34,NA,26,"UCLA","Pac-10",27,NA,NA
+273070058,2007,10,"regular","2007-11-03T15:30:00.000Z",NA,FALSE,TRUE,57379,3886,"Raymond James Stadium",58,"South Florida","Big East",33,NA,2132,"Cincinnati","Big East",38,NA,NA
+273070153,2007,10,"regular","2007-11-03T15:45:00.000Z",NA,FALSE,TRUE,56000,3787,"Kenan Memorial Stadium",153,"North Carolina","ACC",16,NA,120,"Maryland","ACC",13,NA,NA
+273072633,2007,10,"regular","2007-11-03T16:00:00.000Z",NA,FALSE,FALSE,96197,3853,"Neyland Stadium",2633,"Tennessee","SEC",59,NA,309,"Louisiana","Sun Belt",7,NA,NA
+273070333,2007,10,"regular","2007-11-03T17:00:00.000Z",NA,FALSE,TRUE,92138,3657,"Bryant Denny Stadium",333,"Alabama","SEC",34,NA,99,"LSU","SEC",41,NA,NA
+273070278,2007,10,"regular","2007-11-03T17:00:00.000Z",NA,FALSE,TRUE,32904,3660,"Bulldog Stadium",278,"Fresno State","Western Athletic",38,NA,328,"Utah State","Western Athletic",27,NA,NA
+273070070,2007,10,"regular","2007-11-03T17:00:00.000Z",NA,FALSE,TRUE,10479,3791,"Kibbie Dome",70,"Idaho","Western Athletic",16,NA,2348,"Louisiana Tech","Western Athletic",28,NA,NA
+273072628,2007,10,"regular","2007-11-03T17:30:00.000Z",NA,FALSE,TRUE,28369,3616,"Amon G. Carter Stadium",2628,"TCU","Mountain West",37,NA,167,"New Mexico","Mountain West",0,NA,NA
+273070038,2007,10,"regular","2007-11-03T18:30:00.000Z",NA,FALSE,TRUE,51483,3726,"Folsom Field",38,"Colorado","Big 12",10,NA,142,"Missouri","Big 12",55,NA,NA
+273070024,2007,10,"regular","2007-11-03T18:30:00.000Z",NA,FALSE,TRUE,36570,3940,"Stanford Stadium",24,"Stanford","Pac-10",9,NA,264,"Washington","Pac-10",27,NA,NA
+273072483,2007,10,"regular","2007-11-03T18:40:00.000Z",NA,FALSE,TRUE,59379,3626,"Autzen Stadium",2483,"Oregon","Pac-10",35,NA,9,"Arizona State","Pac-10",23,NA,NA
+273072649,2007,10,"regular","2007-11-03T19:00:00.000Z",NA,FALSE,TRUE,17270,3739,"Glass Bowl",2649,"Toledo","Mid-American",52,NA,2199,"Eastern Michigan","Mid-American",28,NA,NA
+273072433,2007,10,"regular","2007-11-03T19:00:00.000Z",NA,FALSE,TRUE,10228,3817,"Malone Stadium",2433,"Louisiana Monroe","Sun Belt",40,NA,2393,"Middle Tennessee","Sun Belt",43,NA,NA
+273070005,2007,10,"regular","2007-11-03T19:00:00.000Z",NA,FALSE,TRUE,13348,3803,"Legion Field",5,"UAB","Conference USA",7,NA,2572,"Southern Mississippi","Conference USA",37,NA,NA
+273070041,2007,10,"regular","2007-11-03T19:15:00.000Z",NA,FALSE,TRUE,40000,3892,"Rentschler Field",41,"Connecticut","Big East",38,NA,164,"Rutgers","Big East",19,NA,NA
+273072655,2007,10,"regular","2007-11-03T19:30:00.000Z",NA,FALSE,TRUE,15271,3493,"Mercedes-Benz Superdome",2655,"Tulane","Conference USA",25,NA,202,"Tulsa","Conference USA",49,NA,NA
+273070008,2007,10,"regular","2007-11-03T20:00:00.000Z",NA,FALSE,TRUE,70742,3887,"Donald W. Reynolds Razorback Stadium Frank Broyles Field",8,"Arkansas","SEC",48,NA,2579,"South Carolina","SEC",36,NA,NA
+273070201,2007,10,"regular","2007-11-03T20:00:00.000Z",NA,FALSE,TRUE,85044,3835,"Gaylord Family Oklahoma Memorial Stadium",201,"Oklahoma","Big 12",42,NA,245,"Texas A&M","Big 12",14,NA,NA
+273070135,2007,10,"regular","2007-11-03T20:00:00.000Z",NA,FALSE,TRUE,46604,NA,NA,135,"Minnesota","Big Ten",17,NA,356,"Illinois","Big Ten",44,NA,NA
+273070103,2007,10,"regular","2007-11-03T20:00:00.000Z",NA,FALSE,TRUE,40065,3615,"Alumni Stadium",103,"Boston College","ACC",17,NA,52,"Florida State","ACC",27,NA,NA
+273070030,2007,10,"regular","2007-11-03T20:00:00.000Z",NA,FALSE,TRUE,85713,477,"Los Angeles Memorial Coliseum",30,"USC","Pac-10",24,NA,204,"Oregon State","Pac-10",3,NA,NA
+273070021,2007,10,"regular","2007-11-03T21:00:00.000Z",NA,FALSE,TRUE,22852,3932,"Qualcomm Stadium",21,"San Diego State","Mountain West",27,NA,2751,"Wyoming","Mountain West",24,NA,NA
+273070025,2007,10,"regular","2007-11-03T22:00:00.000Z",NA,FALSE,TRUE,55711,3831,"California Memorial Stadium",25,"California","Pac-10",20,NA,265,"Washington State","Pac-10",17,NA,NA
+273080248,2007,10,"regular","2007-11-04T20:00:00.000Z",NA,FALSE,TRUE,22774,453,"Robertson Stadium",248,"Houston","Conference USA",38,NA,2567,"SMU","Conference USA",28,NA,NA
+273102711,2007,11,"regular","2007-11-06T19:30:00.000Z",NA,FALSE,TRUE,16952,3980,"Waldo Stadium",2711,"Western Michigan","Mid-American",31,NA,2117,"Central Michigan","Mid-American",34,NA,NA
+273112006,2007,11,"regular","2007-11-07T19:30:00.000Z",NA,FALSE,TRUE,12453,NA,NA,2006,"Akron","Mid-American",48,NA,195,"Ohio","Mid-American",37,NA,NA
+273120277,2007,11,"regular","2007-11-08T19:30:00.000Z",NA,FALSE,TRUE,60992,3842,"Mountaineer Field at Milan Puskar Stadium",277,"West Virginia","Big East",38,NA,97,"Louisville","Big East",31,NA,NA
+273120252,2007,11,"regular","2007-11-08T21:00:00.000Z",NA,FALSE,TRUE,64241,3801,"LaVell Edwards Stadium",252,"BYU","Mountain West",27,NA,2628,"TCU","Mountain West",22,NA,NA
+273132199,2007,11,"regular","2007-11-09T19:30:00.000Z",NA,FALSE,TRUE,4304,3912,"Rynearson Stadium",2199,"Eastern Michigan","Mid-American",32,NA,189,"Bowling Green","Mid-American",39,NA,NA
+273130349,2007,11,"regular","2007-11-09T20:00:00.000Z",NA,FALSE,FALSE,39073,3841,"Blaik Field at Michie Stadium",349,"Army","FBS Independents",6,NA,164,"Rutgers","Big East",41,NA,NA
+273140228,2007,11,"regular","2007-11-10T12:00:00.000Z",NA,FALSE,TRUE,81500,3836,"Memorial Stadium",228,"Clemson","ACC",44,NA,154,"Wake Forest","ACC",10,NA,NA
+273140218,2007,11,"regular","2007-11-10T12:00:00.000Z",NA,FALSE,FALSE,69029,3806,"Lincoln Financial Field",218,"Temple","Mid-American",0,NA,213,"Penn State","Big Ten",31,NA,NA
+273140152,2007,11,"regular","2007-11-10T12:00:00.000Z",NA,FALSE,TRUE,57583,3670,"Carter-Finley Stadium",152,"NC State","ACC",31,NA,153,"North Carolina","ACC",27,NA,NA
+273142509,2007,11,"regular","2007-11-10T12:00:00.000Z",NA,FALSE,TRUE,55630,3907,"Ross-Ade Stadium",2509,"Purdue","Big Ten",31,NA,127,"Michigan State","Big Ten",48,NA,NA
+273140183,2007,11,"regular","2007-11-10T12:00:00.000Z",NA,FALSE,TRUE,38039,1964,"Carrier Dome",183,"Syracuse","Big East",10,NA,58,"South Florida","Big East",41,NA,NA
+273140275,2007,11,"regular","2007-11-10T12:00:00.000Z",NA,FALSE,TRUE,82352,347,"Camp Randall Stadium",275,"Wisconsin","Big Ten",37,NA,130,"Michigan","Big Ten",21,NA,NA
+273140077,2007,11,"regular","2007-11-10T12:00:00.000Z",NA,FALSE,TRUE,20466,3911,"Ryan Field",77,"Northwestern","Big Ten",31,NA,84,"Indiana","Big Ten",28,NA,NA
+273142294,2007,11,"regular","2007-11-10T12:07:00.000Z",NA,FALSE,TRUE,70585,3793,"Kinnick Stadium",2294,"Iowa","Big Ten",21,NA,135,"Minnesota","Big Ten",16,NA,NA
+273140158,2007,11,"regular","2007-11-10T12:30:00.000Z",NA,FALSE,TRUE,84665,3834,"Memorial Stadium",158,"Nebraska","Big 12",73,NA,2306,"Kansas State","Big 12",31,NA,NA
+273140344,2007,11,"regular","2007-11-10T12:30:00.000Z",NA,FALSE,TRUE,56188,3693,"Davis Wade Stadium",344,"Mississippi State","SEC",17,NA,333,"Alabama","SEC",12,NA,NA
+273142633,2007,11,"regular","2007-11-10T12:30:00.000Z",NA,FALSE,TRUE,104459,3853,"Neyland Stadium",2633,"Tennessee","SEC",34,NA,8,"Arkansas","SEC",13,NA,NA
+273140066,2007,11,"regular","2007-11-10T12:30:00.000Z",NA,FALSE,TRUE,45487,3772,"Jack Trice Stadium",66,"Iowa State","Big 12",31,NA,38,"Colorado","Big 12",28,NA,NA
+273140142,2007,11,"regular","2007-11-10T12:40:00.000Z",NA,FALSE,TRUE,64945,3838,"Faurot Field",142,"Missouri","Big 12",40,NA,245,"Texas A&M","Big 12",26,NA,NA
+273140150,2007,11,"regular","2007-11-10T13:00:00.000Z",NA,FALSE,TRUE,18788,3982,"Wallace Wade Stadium",150,"Duke","ACC",24,NA,59,"Georgia Tech","ACC",41,NA,NA
+273140238,2007,11,"regular","2007-11-10T14:00:00.000Z",NA,FALSE,TRUE,39773,3973,"Vanderbilt Stadium",238,"Vanderbilt","SEC",20,NA,96,"Kentucky","SEC",27,NA,NA
+273140087,2007,11,"regular","2007-11-10T14:43:00.000Z",NA,FALSE,FALSE,80795,3855,"Notre Dame Stadium",87,"Notre Dame","FBS Independents",24,NA,2005,"Air Force","Mountain West",41,NA,NA
+273142567,2007,11,"regular","2007-11-10T15:00:00.000Z",NA,FALSE,TRUE,13902,3735,"Gerald J. Ford Stadium",2567,"SMU","Conference USA",42,NA,242,"Rice","Conference USA",43,NA,NA
+273140328,2007,11,"regular","2007-11-10T15:00:00.000Z",NA,FALSE,TRUE,18864,3905,"Romney Stadium",328,"Utah State","Western Athletic",0,NA,68,"Boise State","Western Athletic",52,NA,NA
+273140167,2007,11,"regular","2007-11-10T15:00:00.000Z",NA,FALSE,TRUE,27031,3971,"University Stadium",167,"New Mexico","Mountain West",26,NA,36,"Colorado State","Mountain West",23,NA,NA
+273140202,2007,11,"regular","2007-11-10T15:05:00.000Z",NA,FALSE,TRUE,25428,NA,NA,202,"Tulsa","Conference USA",56,NA,248,"Houston","Conference USA",7,NA,NA
+273140251,2007,11,"regular","2007-11-10T15:30:00.000Z",NA,FALSE,TRUE,86401,3910,"Darrell K Royal-Texas Memorial Stadium",251,"Texas","Big 12",59,NA,2641,"Texas Tech","Big 12",43,NA,NA
+273140254,2007,11,"regular","2007-11-10T15:30:00.000Z",NA,FALSE,TRUE,42477,587,"Rice-Eccles Stadium",254,"Utah","Mountain West",50,NA,2751,"Wyoming","Mountain West",0,NA,NA
+273142393,2007,11,"regular","2007-11-10T15:30:00.000Z",NA,FALSE,TRUE,19227,3725,"Johnny Red"""" Floyd Stadium""""",2393,"Middle Tennessee","Sun Belt",24,NA,309,"Louisiana","Sun Belt",34,NA,NA
+273142132,2007,11,"regular","2007-11-10T15:30:00.000Z",NA,FALSE,TRUE,30943,3854,"Nippert Stadium",2132,"Cincinnati","Big East",27,NA,41,"Connecticut","Big East",3,NA,NA
+273140259,2007,11,"regular","2007-11-10T15:30:00.000Z",NA,FALSE,TRUE,66233,3799,"Lane Stadium",259,"Virginia Tech","ACC",40,NA,52,"Florida State","ACC",21,NA,NA
+273140061,2007,11,"regular","2007-11-10T15:30:00.000Z",NA,FALSE,TRUE,92746,3917,"Sanford Stadium",61,"Georgia","SEC",45,NA,2,"Auburn","SEC",20,NA,NA
+273140026,2007,11,"regular","2007-11-10T15:30:00.000Z",NA,FALSE,TRUE,78690,1056,"Rose Bowl",26,"UCLA","Pac-10",20,NA,9,"Arizona State","Pac-10",24,NA,NA
+273140194,2007,11,"regular","2007-11-10T15:30:00.000Z",NA,FALSE,TRUE,105453,3861,"Ohio Stadium",194,"Ohio State","Big Ten",21,NA,356,"Illinois","Big Ten",28,NA,NA
+273142226,2007,11,"regular","2007-11-10T16:00:00.000Z",NA,FALSE,TRUE,18540,NA,NA,2226,"Florida Atlantic","Sun Belt",34,NA,2032,"Arkansas State","Sun Belt",31,NA,NA
+273140249,2007,11,"regular","2007-11-10T16:00:00.000Z",NA,FALSE,FALSE,26012,NA,NA,249,"North Texas","Sun Belt",62,NA,2426,"Navy","FBS Independents",74,NA,NA
+273140023,2007,11,"regular","2007-11-10T16:00:00.000Z",NA,FALSE,TRUE,10452,3935,"Spartan Stadium",23,"San José State","Western Athletic",51,NA,166,"New Mexico State","Western Athletic",17,NA,NA
+273142459,2007,11,"regular","2007-11-10T16:08:00.000Z",NA,FALSE,TRUE,13831,3764,"Brigham Field at Huskie Stadium",2459,"Northern Illinois","Mid-American",27,NA,2309,"Kent State","Mid-American",20,NA,NA
+273140276,2007,11,"regular","2007-11-10T16:30:00.000Z",NA,FALSE,TRUE,26718,3775,"Joan C. Edwards Stadium",276,"Marshall","Conference USA",26,NA,151,"East Carolina","Conference USA",7,NA,NA
+273142572,2007,11,"regular","2007-11-10T16:30:00.000Z",NA,FALSE,TRUE,29354,3815,"M. M. Roberts Stadium",2572,"Southern Mississippi","Conference USA",26,NA,235,"Memphis","Conference USA",29,NA,NA
+273140098,2007,11,"regular","2007-11-10T17:00:00.000Z",NA,FALSE,FALSE,16972,3796,"Houchens Industries-L. T. Smith Stadium",98,"Western Kentucky","FBS Independents",17,NA,2653,"Troy","Sun Belt",21,NA,NA
+273142433,2007,11,"regular","2007-11-10T17:00:00.000Z",NA,FALSE,FALSE,30101,3817,"Malone Stadium",2433,"Louisiana Monroe","Sun Belt",28,NA,2755,"Grambling",NA,14,NA,NA
+273140201,2007,11,"regular","2007-11-10T18:30:00.000Z",NA,FALSE,TRUE,84450,3835,"Gaylord Family Oklahoma Memorial Stadium",201,"Oklahoma","Big 12",52,NA,239,"Baylor","Big 12",21,NA,NA
+273140265,2007,11,"regular","2007-11-10T18:30:00.000Z",NA,FALSE,TRUE,31110,3820,"Martin Stadium",265,"Washington State","Pac-10",33,NA,24,"Stanford","Pac-10",17,NA,NA
+273142655,2007,11,"regular","2007-11-10T19:00:00.000Z",NA,FALSE,TRUE,15479,3493,"Mercedes-Benz Superdome",2655,"Tulane","Conference USA",34,NA,2638,"UTEP","Conference USA",19,NA,NA
+273142390,2007,11,"regular","2007-11-10T19:15:00.000Z",NA,FALSE,TRUE,62106,NA,NA,2390,"Miami","ACC",0,NA,258,"Virginia","ACC",48,NA,NA
+273140005,2007,11,"regular","2007-11-10T19:30:00.000Z",NA,FALSE,TRUE,12621,3803,"Legion Field",5,"UAB","Conference USA",31,NA,2116,"UCF","Conference USA",45,NA,NA
+273142579,2007,11,"regular","2007-11-10T19:45:00.000Z",NA,FALSE,TRUE,81215,3994,"Williams-Brice Stadium",2579,"South Carolina","SEC",31,NA,57,"Florida","SEC",51,NA,NA
+273140025,2007,11,"regular","2007-11-10T20:00:00.000Z",NA,FALSE,TRUE,72516,3831,"California Memorial Stadium",25,"California","Pac-10",17,NA,30,"USC","Pac-10",24,NA,NA
+273140099,2007,11,"regular","2007-11-10T20:00:00.000Z",NA,FALSE,FALSE,92512,3958,"Tiger Stadium",99,"LSU","SEC",58,NA,2348,"Louisiana Tech","Western Athletic",10,NA,NA
+273140197,2007,11,"regular","2007-11-10T20:00:00.000Z",NA,FALSE,TRUE,39848,3646,"Boone Pickens Stadium",197,"Oklahoma State","Big 12",28,NA,2305,"Kansas","Big 12",43,NA,NA
+273140120,2007,11,"regular","2007-11-10T20:00:00.000Z",NA,FALSE,TRUE,52827,3665,"Maryland Stadium",120,"Maryland","ACC",42,NA,103,"Boston College","ACC",35,NA,NA
+273140204,2007,11,"regular","2007-11-10T22:26:00.000Z",NA,FALSE,TRUE,45629,3893,"Reser Stadium",204,"Oregon State","Pac-10",29,NA,264,"Washington","Pac-10",23,NA,NA
+273140062,2007,11,"regular","2007-11-10T23:00:00.000Z",NA,FALSE,TRUE,49047,3610,"Aloha Stadium",62,"Hawai'i","Western Athletic",37,NA,278,"Fresno State","Western Athletic",30,NA,NA
+273142439,2007,11,"regular","2007-11-10T23:00:00.000Z",NA,FALSE,TRUE,18837,3914,"Sam Boyd Stadium",2439,"UNLV","Mountain West",30,NA,21,"San Diego State","Mountain West",38,NA,NA
+273172050,2007,12,"regular","2007-11-13T19:30:00.000Z",NA,FALSE,TRUE,10162,3919,"Scheumann Stadium",2050,"Ball State","Mid-American",41,NA,2649,"Toledo","Mid-American",20,NA,NA
+273180193,2007,12,"regular","2007-11-14T19:30:00.000Z",NA,FALSE,TRUE,13274,3996,"Yager Stadium",193,"Miami (OH)","Mid-American",7,NA,2006,"Akron","Mid-American",0,NA,NA
+273192032,2007,12,"regular","2007-11-15T19:00:00.000Z",NA,FALSE,TRUE,11736,NA,NA,2032,"Arkansas State","Sun Belt",31,NA,249,"North Texas","Sun Belt",27,NA,NA
+273190012,2007,12,"regular","2007-11-15T21:00:00.000Z",NA,FALSE,TRUE,50387,3619,"Arizona Stadium",12,"Arizona","Pac-10",34,NA,2483,"Oregon","Pac-10",24,NA,NA
+273202117,2007,12,"regular","2007-11-16T19:00:00.000Z",NA,FALSE,TRUE,15822,3786,"Kelly/Shorts Stadium",2117,"Central Michigan","Mid-American",45,NA,2199,"Eastern Michigan","Mid-American",48,NA,NA
+273202440,2007,12,"regular","2007-11-16T23:00:00.000Z",NA,FALSE,TRUE,22437,3816,"Mackay Stadium",2440,"Nevada","Western Athletic",26,NA,62,"Hawai'i","Western Athletic",28,NA,NA
+273210164,2007,12,"regular","2007-11-17T12:00:00.000Z",NA,FALSE,TRUE,43531,3754,"High Point Solutions Stadium",164,"Rutgers","Big East",20,NA,221,"Pittsburgh","Big East",16,NA,NA
+273210349,2007,12,"regular","2007-11-17T12:00:00.000Z",NA,FALSE,FALSE,27687,3841,"Blaik Field at Michie Stadium",349,"Army","FBS Independents",39,NA,202,"Tulsa","Conference USA",49,NA,NA
+273210057,2007,12,"regular","2007-11-17T12:00:00.000Z",NA,FALSE,FALSE,90107,3634,"Ben Hill Griffin Stadium",57,"Florida","SEC",59,NA,2226,"Florida Atlantic","Sun Belt",20,NA,NA
+273210052,2007,12,"regular","2007-11-17T12:00:00.000Z",NA,FALSE,TRUE,80213,3697,"Bobby Bowden Field at Doak Campbell Stadium",52,"Florida State","ACC",24,NA,120,"Maryland","ACC",16,NA,NA
+273210041,2007,12,"regular","2007-11-17T12:00:00.000Z",NA,FALSE,TRUE,40000,3892,"Rentschler Field",41,"Connecticut","Big East",30,NA,183,"Syracuse","Big East",7,NA,NA
+273210356,2007,12,"regular","2007-11-17T12:00:00.000Z",NA,FALSE,TRUE,54116,3832,"Memorial Stadium",356,"Illinois","Big Ten",41,NA,77,"Northwestern","Big Ten",22,NA,NA
+273210059,2007,12,"regular","2007-11-17T12:00:00.000Z",NA,FALSE,TRUE,45490,721,"Bobby Dodd Stadium at Historic Grant Field",59,"Georgia Tech","ACC",27,NA,153,"North Carolina","ACC",25,NA,NA
+273210130,2007,12,"regular","2007-11-17T12:00:00.000Z",NA,FALSE,TRUE,111941,3558,"Michigan Stadium",130,"Michigan","Big Ten",3,NA,194,"Ohio State","Big Ten",14,NA,NA
+273210218,2007,12,"regular","2007-11-17T12:06:00.000Z",NA,FALSE,TRUE,16019,3806,"Lincoln Financial Field",218,"Temple","Mid-American",24,NA,2309,"Kent State","Mid-American",14,NA,NA
+273212306,2007,12,"regular","2007-11-17T12:30:00.000Z",NA,FALSE,TRUE,48406,3636,"Bill Snyder Family Football Stadium",2306,"Kansas State","Big 12",32,NA,142,"Missouri","Big 12",49,NA,NA
+273210061,2007,12,"regular","2007-11-17T12:30:00.000Z",NA,FALSE,TRUE,92746,3917,"Sanford Stadium",61,"Georgia","SEC",24,NA,96,"Kentucky","SEC",13,NA,NA
+273212084,2007,12,"regular","2007-11-17T13:00:00.000Z",NA,FALSE,TRUE,11740,3965,"UB Stadium",2084,"Buffalo","Mid-American",17,NA,189,"Bowling Green","Mid-American",31,NA,NA
+273210008,2007,12,"regular","2007-11-17T14:00:00.000Z",NA,FALSE,TRUE,55185,3887,"Donald W. Reynolds Razorback Stadium Frank Broyles Field",8,"Arkansas","SEC",45,NA,344,"Mississippi State","SEC",31,NA,NA
+273210166,2007,12,"regular","2007-11-17T14:00:00.000Z",NA,FALSE,TRUE,7537,3601,"Aggie Memorial Stadium",166,"New Mexico State","Western Athletic",17,NA,328,"Utah State","Western Athletic",35,NA,NA
+273210068,2007,12,"regular","2007-11-17T14:00:00.000Z",NA,FALSE,TRUE,30681,3653,"Albertsons Stadium",68,"Boise State","Western Athletic",58,NA,70,"Idaho","Western Athletic",14,NA,NA
+273212633,2007,12,"regular","2007-11-17T14:00:00.000Z",NA,FALSE,TRUE,105077,3853,"Neyland Stadium",2633,"Tennessee","SEC",25,NA,238,"Vanderbilt","SEC",24,NA,NA
+273212751,2007,12,"regular","2007-11-17T14:00:00.000Z",NA,FALSE,TRUE,19827,NA,NA,2751,"Wyoming","Mountain West",10,NA,252,"BYU","Mountain West",35,NA,NA
+273210036,2007,12,"regular","2007-11-17T14:06:00.000Z",NA,FALSE,FALSE,14332,3761,"Sonny Lubick Field at Hughes Stadium",36,"Colorado State","Mountain West",42,NA,290,"Georgia Southern",NA,34,NA,NA
+273212005,2007,12,"regular","2007-11-17T14:06:00.000Z",NA,FALSE,TRUE,34227,3713,"Falcon Stadium",2005,"Air Force","Mountain West",55,NA,21,"San Diego State","Mountain West",23,NA,NA
+273210333,2007,12,"regular","2007-11-17T14:30:00.000Z",NA,FALSE,FALSE,92138,3657,"Bryant Denny Stadium",333,"Alabama","SEC",14,NA,2433,"Louisiana Monroe","Sun Belt",21,NA,NA
+273210087,2007,12,"regular","2007-11-17T14:30:00.000Z",NA,FALSE,FALSE,80975,3855,"Notre Dame Stadium",87,"Notre Dame","FBS Independents",28,NA,150,"Duke","ACC",7,NA,NA
+273210242,2007,12,"regular","2007-11-17T15:00:00.000Z",NA,FALSE,TRUE,11539,3895,"Rice Stadium",242,"Rice","Conference USA",31,NA,2655,"Tulane","Conference USA",45,NA,NA
+273212567,2007,12,"regular","2007-11-17T15:00:00.000Z",NA,FALSE,TRUE,10271,3735,"Gerald J. Ford Stadium",2567,"SMU","Conference USA",20,NA,2116,"UCF","Conference USA",49,NA,NA
+273210259,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,TRUE,66233,3799,"Lane Stadium",259,"Virginia Tech","ACC",44,NA,2390,"Miami","ACC",14,NA,NA
+273212426,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,FALSE,34517,3852,"Navy-Marine Corps Memorial Stadium",2426,"Navy","FBS Independents",35,NA,2459,"Northern Illinois","Mid-American",24,NA,NA
+273210248,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,TRUE,21116,453,"Robertson Stadium",248,"Houston","Conference USA",35,NA,276,"Marshall","Conference USA",28,NA,NA
+273210235,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,TRUE,31138,3805,"Liberty Bowl Memorial Stadium",235,"Memphis","Conference USA",25,NA,5,"UAB","Conference USA",9,NA,NA
+273210127,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,TRUE,72251,3936,"Spartan Stadium",127,"Michigan State","Big Ten",35,NA,213,"Penn State","Big Ten",31,NA,NA
+273210264,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,TRUE,60005,3765,"Husky Stadium",264,"Washington","Pac-10",37,NA,25,"California","Pac-10",23,NA,NA
+273210084,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,TRUE,50741,3830,"Memorial Stadium",84,"Indiana","Big Ten",27,NA,2509,"Purdue","Big Ten",24,NA,NA
+273210145,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,TRUE,61118,3974,"Vaught-Hemingway Stadium",145,"Ole Miss","SEC",24,NA,99,"LSU","SEC",41,NA,NA
+273210135,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,TRUE,59116,NA,NA,135,"Minnesota","Big Ten",34,NA,275,"Wisconsin","Big Ten",41,NA,NA
+273212305,2007,12,"regular","2007-11-17T15:30:00.000Z",NA,FALSE,TRUE,51050,3833,"Memorial Stadium",2305,"Kansas","Big 12",45,NA,66,"Iowa State","Big 12",7,NA,NA
+273212294,2007,12,"regular","2007-11-17T15:35:00.000Z",NA,FALSE,FALSE,70585,3793,"Kinnick Stadium",2294,"Iowa","Big Ten",19,NA,2711,"Western Michigan","Mid-American",28,NA,NA
+273210154,2007,12,"regular","2007-11-17T16:00:00.000Z",NA,FALSE,TRUE,33052,3630,"BB&T Field",154,"Wake Forest","ACC",38,NA,152,"NC State","ACC",18,NA,NA
+273210098,2007,12,"regular","2007-11-17T17:00:00.000Z",NA,FALSE,FALSE,15282,3796,"Houchens Industries-L. T. Smith Stadium",98,"Western Kentucky","FBS Independents",52,NA,2413,"Morehead State",NA,12,NA,NA
+273210254,2007,12,"regular","2007-11-17T17:36:00.000Z",NA,FALSE,TRUE,43788,587,"Rice-Eccles Stadium",254,"Utah","Mountain West",28,NA,167,"New Mexico","Mountain West",10,NA,NA
+273210265,2007,12,"regular","2007-11-17T18:30:00.000Z",NA,FALSE,TRUE,22660,3820,"Martin Stadium",265,"Washington State","Pac-10",17,NA,204,"Oregon State","Pac-10",52,NA,NA
+273212229,2007,12,"regular","2007-11-17T19:00:00.000Z",NA,FALSE,TRUE,5734,NA,NA,2229,"Florida International","Sun Belt",28,NA,309,"Louisiana","Sun Belt",38,NA,NA
+273212348,2007,12,"regular","2007-11-17T19:00:00.000Z",NA,FALSE,TRUE,13027,3776,"Joe Aillet Stadium",2348,"Louisiana Tech","Western Athletic",27,NA,23,"San José State","Western Athletic",23,NA,NA
+273210239,2007,12,"regular","2007-11-17T19:00:00.000Z",NA,FALSE,TRUE,28159,3724,"Floyd Casey Stadium",239,"Baylor","Big 12",14,NA,197,"Oklahoma State","Big 12",45,NA,NA
+273212638,2007,12,"regular","2007-11-17T19:30:00.000Z",NA,FALSE,TRUE,28592,3946,"Sun Bowl Stadium",2638,"UTEP","Conference USA",30,NA,2572,"Southern Mississippi","Conference USA",56,NA,NA
+273212628,2007,12,"regular","2007-11-17T19:30:00.000Z",NA,FALSE,TRUE,26425,3616,"Amon G. Carter Stadium",2628,"TCU","Mountain West",34,NA,2439,"UNLV","Mountain West",10,NA,NA
+273210228,2007,12,"regular","2007-11-17T19:45:00.000Z",NA,FALSE,TRUE,81500,3836,"Memorial Stadium",228,"Clemson","ACC",17,NA,103,"Boston College","ACC",20,NA,NA
+273212132,2007,12,"regular","2007-11-17T19:45:00.000Z",NA,FALSE,TRUE,35097,3854,"Nippert Stadium",2132,"Cincinnati","Big East",23,NA,277,"West Virginia","Big East",28,NA,NA
+273212641,2007,12,"regular","2007-11-17T20:00:00.000Z",NA,FALSE,TRUE,55038,3784,"Jones AT&T Stadium",2641,"Texas Tech","Big 12",34,NA,201,"Oklahoma","Big 12",27,NA,NA
+273210058,2007,12,"regular","2007-11-17T20:00:00.000Z",NA,FALSE,TRUE,57288,3886,"Raymond James Stadium",58,"South Florida","Big East",55,NA,97,"Louisville","Big East",17,NA,NA
+273242653,2007,13,"regular","2007-11-20T19:00:00.000Z",NA,FALSE,TRUE,18242,3975,"Veterans Memorial Stadium",2653,"Troy","Sun Belt",45,NA,2393,"Middle Tennessee","Sun Belt",7,NA,NA
+273260009,2007,13,"regular","2007-11-22T20:00:00.000Z",NA,FALSE,TRUE,71706,3947,"Sun Devil Stadium",9,"Arizona State","Pac-10",24,NA,30,"USC","Pac-10",44,NA,NA
+273272006,2007,13,"regular","2007-11-23T11:00:00.000Z",NA,FALSE,TRUE,0,NA,NA,2006,"Akron","Mid-American",32,NA,2117,"Central Michigan","Mid-American",35,NA,NA
+273270038,2007,13,"regular","2007-11-23T12:00:00.000Z",NA,FALSE,TRUE,51403,3726,"Folsom Field",38,"Colorado","Big 12",65,NA,158,"Nebraska","Big 12",51,NA,NA
+273270344,2007,13,"regular","2007-11-23T12:30:00.000Z",NA,FALSE,TRUE,51727,3693,"Davis Wade Stadium",344,"Mississippi State","SEC",17,NA,145,"Ole Miss","SEC",14,NA,NA
+273270036,2007,13,"regular","2007-11-23T14:00:00.000Z",NA,FALSE,TRUE,18820,3761,"Sonny Lubick Field at Hughes Stadium",36,"Colorado State","Mountain West",36,NA,2751,"Wyoming","Mountain West",28,NA,NA
+273270189,2007,13,"regular","2007-11-23T14:30:00.000Z",NA,FALSE,TRUE,18926,3700,"Doyt Perry Stadium",189,"Bowling Green","Mid-American",37,NA,2649,"Toledo","Mid-American",10,NA,NA
+273270099,2007,13,"regular","2007-11-23T14:30:00.000Z",NA,FALSE,TRUE,92606,3958,"Tiger Stadium",99,"LSU","SEC",48,NA,8,"Arkansas","SEC",50,NA,NA
+273270245,2007,13,"regular","2007-11-23T15:30:00.000Z",NA,FALSE,TRUE,88253,3795,"Kyle Field",245,"Texas A&M","Big 12",38,NA,251,"Texas","Big 12",30,NA,NA
+273270062,2007,13,"regular","2007-11-23T21:00:00.000Z",NA,FALSE,TRUE,50000,3610,"Aloha Stadium",62,"Hawai'i","Western Athletic",39,NA,68,"Boise State","Western Athletic",27,NA,NA
+273280221,2007,13,"regular","2007-11-24T12:00:00.000Z",NA,FALSE,TRUE,31123,3752,"Heinz Field",221,"Pittsburgh","Big East",37,NA,58,"South Florida","Big East",48,NA,NA
+273280152,2007,13,"regular","2007-11-24T12:00:00.000Z",NA,FALSE,TRUE,54856,3670,"Carter-Finley Stadium",152,"NC State","ACC",0,NA,120,"Maryland","ACC",37,NA,NA
+273280258,2007,13,"regular","2007-11-24T12:00:00.000Z",NA,FALSE,TRUE,61711,3923,"Scott Stadium",258,"Virginia","ACC",21,NA,259,"Virginia Tech","ACC",33,NA,NA
+273280103,2007,13,"regular","2007-11-24T12:00:00.000Z",NA,FALSE,TRUE,44500,3615,"Alumni Stadium",103,"Boston College","ACC",28,NA,2390,"Miami","ACC",14,NA,NA
+273280151,2007,13,"regular","2007-11-24T13:00:00.000Z",NA,FALSE,TRUE,35362,3699,"Dowdy-Ficklen Stadium",151,"East Carolina","Conference USA",35,NA,2655,"Tulane","Conference USA",12,NA,NA
+273282309,2007,13,"regular","2007-11-24T13:00:00.000Z",NA,FALSE,TRUE,2687,3696,"Dix Stadium",2309,"Kent State","Mid-American",23,NA,2084,"Buffalo","Mid-American",30,NA,NA
+273280096,2007,13,"regular","2007-11-24T13:30:00.000Z",NA,FALSE,TRUE,69813,3683,"Commonwealth Stadium",96,"Kentucky","SEC",50,NA,2633,"Tennessee","SEC",52,NA,NA
+273282711,2007,13,"regular","2007-11-24T14:00:00.000Z",NA,FALSE,TRUE,8662,3980,"Waldo Stadium",2711,"Western Michigan","Mid-American",16,NA,218,"Temple","Mid-American",3,NA,NA
+273280252,2007,13,"regular","2007-11-24T14:00:00.000Z",NA,FALSE,TRUE,64749,3801,"LaVell Edwards Stadium",252,"BYU","Mountain West",17,NA,254,"Utah","Mountain West",10,NA,NA
+273280195,2007,13,"regular","2007-11-24T14:00:00.000Z",NA,FALSE,TRUE,11438,3876,"Peden Stadium",195,"Ohio","Mid-American",38,NA,193,"Miami (OH)","Mid-American",29,NA,NA
+273280235,2007,13,"regular","2007-11-24T14:00:00.000Z",NA,FALSE,TRUE,20184,3805,"Liberty Bowl Memorial Stadium",235,"Memphis","Conference USA",55,NA,2567,"SMU","Conference USA",52,NA,NA
+273280238,2007,13,"regular","2007-11-24T14:00:00.000Z",NA,FALSE,FALSE,27650,3973,"Vanderbilt Stadium",238,"Vanderbilt","SEC",17,NA,154,"Wake Forest","ACC",31,NA,NA
+273282116,2007,13,"regular","2007-11-24T14:00:00.000Z",NA,FALSE,TRUE,41967,NA,NA,2116,"UCF","Conference USA",36,NA,2638,"UTEP","Conference USA",20,NA,NA
+273282572,2007,13,"regular","2007-11-24T15:00:00.000Z",NA,FALSE,FALSE,17705,3815,"M. M. Roberts Stadium",2572,"Southern Mississippi","Conference USA",16,NA,2032,"Arkansas State","Sun Belt",10,NA,NA
+273280242,2007,13,"regular","2007-11-24T15:00:00.000Z",NA,FALSE,TRUE,11742,3895,"Rice Stadium",242,"Rice","Conference USA",43,NA,202,"Tulsa","Conference USA",48,NA,NA
+273280277,2007,13,"regular","2007-11-24T15:30:00.000Z",NA,FALSE,TRUE,59701,3842,"Mountaineer Field at Milan Puskar Stadium",277,"West Virginia","Big East",66,NA,41,"Connecticut","Big East",21,NA,NA
+273280024,2007,13,"regular","2007-11-24T15:30:00.000Z",NA,FALSE,FALSE,48953,3940,"Stanford Stadium",24,"Stanford","Pac-10",14,NA,87,"Notre Dame","FBS Independents",21,NA,NA
+273280070,2007,13,"regular","2007-11-24T15:30:00.000Z",NA,FALSE,TRUE,8102,3791,"Kibbie Dome",70,"Idaho","Western Athletic",19,NA,328,"Utah State","Western Athletic",24,NA,NA
+273280278,2007,13,"regular","2007-11-24T15:30:00.000Z",NA,FALSE,FALSE,34671,3660,"Bulldog Stadium",278,"Fresno State","Western Athletic",45,NA,2306,"Kansas State","Big 12",29,NA,NA
+273280153,2007,13,"regular","2007-11-24T15:30:00.000Z",NA,FALSE,TRUE,52000,3787,"Kenan Memorial Stadium",153,"North Carolina","ACC",20,NA,150,"Duke","ACC",14,NA,NA
+273280026,2007,13,"regular","2007-11-24T15:30:00.000Z",NA,FALSE,TRUE,72434,1056,"Rose Bowl",26,"UCLA","Pac-10",16,NA,2483,"Oregon","Pac-10",0,NA,NA
+273280201,2007,13,"regular","2007-11-24T15:30:00.000Z",NA,FALSE,TRUE,85238,3835,"Gaylord Family Oklahoma Memorial Stadium",201,"Oklahoma","Big 12",49,NA,197,"Oklahoma State","Big 12",17,NA,NA
+273280248,2007,13,"regular","2007-11-24T15:30:00.000Z",NA,FALSE,FALSE,12139,453,"Robertson Stadium",248,"Houston","Conference USA",59,NA,2640,"Texas Southern",NA,6,NA,NA
+273280059,2007,13,"regular","2007-11-24T15:30:00.000Z",NA,FALSE,FALSE,54990,721,"Bobby Dodd Stadium at Historic Grant Field",59,"Georgia Tech","ACC",17,NA,61,"Georgia","SEC",31,NA,NA
+273282459,2007,13,"regular","2007-11-24T16:00:00.000Z",NA,FALSE,TRUE,8237,3764,"Brigham Field at Huskie Stadium",2459,"Northern Illinois","Mid-American",21,NA,2050,"Ball State","Mid-American",27,NA,NA
+273280023,2007,13,"regular","2007-11-24T16:00:00.000Z",NA,FALSE,TRUE,12678,3935,"Spartan Stadium",23,"San José State","Western Athletic",27,NA,2440,"Nevada","Western Athletic",24,NA,NA
+273280249,2007,13,"regular","2007-11-24T16:00:00.000Z",NA,FALSE,FALSE,5027,NA,NA,249,"North Texas","Sun Belt",27,NA,98,"Western Kentucky","FBS Independents",26,NA,NA
+273280276,2007,13,"regular","2007-11-24T16:30:00.000Z",NA,FALSE,TRUE,26762,3775,"Joan C. Edwards Stadium",276,"Marshall","Conference USA",46,NA,5,"UAB","Conference USA",39,NA,NA
+273280057,2007,13,"regular","2007-11-24T17:00:00.000Z",NA,FALSE,FALSE,90664,3634,"Ben Hill Griffin Stadium",57,"Florida","SEC",45,NA,52,"Florida State","ACC",12,NA,NA
+273280167,2007,13,"regular","2007-11-24T17:30:00.000Z",NA,FALSE,TRUE,22658,3971,"University Stadium",167,"New Mexico","Mountain West",27,NA,2439,"UNLV","Mountain West",6,NA,NA
+273280309,2007,13,"regular","2007-11-24T19:00:00.000Z",NA,FALSE,TRUE,8045,3666,"Cajun Field",309,"Louisiana","Sun Belt",11,NA,2433,"Louisiana Monroe","Sun Belt",17,NA,NA
+273282579,2007,13,"regular","2007-11-24T19:00:00.000Z",NA,FALSE,FALSE,82410,3994,"Williams-Brice Stadium",2579,"South Carolina","SEC",21,NA,228,"Clemson","ACC",23,NA,NA
+273282229,2007,13,"regular","2007-11-24T19:00:00.000Z",NA,FALSE,TRUE,6122,NA,NA,2229,"Florida International","Sun Belt",23,NA,2226,"Florida Atlantic","Sun Belt",55,NA,NA
+273280264,2007,13,"regular","2007-11-24T19:00:00.000Z",NA,FALSE,TRUE,72888,3765,"Husky Stadium",264,"Washington","Pac-10",35,NA,265,"Washington State","Pac-10",42,NA,NA
+273280183,2007,13,"regular","2007-11-24T19:15:00.000Z",NA,FALSE,TRUE,30040,1964,"Carrier Dome",183,"Syracuse","Big East",31,NA,2132,"Cincinnati","Big East",52,NA,NA
+273280002,2007,13,"regular","2007-11-24T20:00:00.000Z",NA,FALSE,TRUE,87451,3785,"Jordan-Hare Stadium",2,"Auburn","SEC",17,NA,333,"Alabama","SEC",10,NA,NA
+273280021,2007,13,"regular","2007-11-24T20:00:00.000Z",NA,FALSE,TRUE,18350,3932,"Qualcomm Stadium",21,"San Diego State","Mountain West",33,NA,2628,"TCU","Mountain West",45,NA,NA
+273282305,2007,13,"regular","2007-11-24T20:00:00.000Z",NA,FALSE,TRUE,80537,NA,NA,2305,"Kansas","Big 12",28,NA,142,"Missouri","Big 12",36,NA,NA
+273330097,2007,14,"regular","2007-11-29T19:30:00.000Z",NA,FALSE,TRUE,39612,3873,"Papa John's Cardinal Stadium",97,"Louisville","Big East",41,NA,164,"Rutgers","Big East",38,NA,NA
+273340166,2007,14,"regular","2007-11-30T20:00:00.000Z",NA,FALSE,TRUE,6937,3601,"Aggie Memorial Stadium",166,"New Mexico State","Western Athletic",23,NA,278,"Fresno State","Western Athletic",30,NA,NA
+273352117,2007,14,"regular","2007-12-01T11:00:00.000Z",NA,FALSE,TRUE,25013,NA,NA,2117,"Central Michigan","Mid-American",35,NA,193,"Miami (OH)","Mid-American",10,NA,NA
+273352426,2007,14,"regular","2007-12-01T12:00:00.000Z",NA,FALSE,FALSE,71610,NA,NA,2426,"Navy","FBS Independents",38,NA,349,"Army","FBS Independents",3,NA,NA
+273352116,2007,14,"regular","2007-12-01T12:00:00.000Z",NA,FALSE,TRUE,44128,3652,"Bright House Networks Stadium",2116,"UCF","Conference USA",44,NA,202,"Tulsa","Conference USA",25,NA,NA
+273350103,2007,14,"regular","2007-12-01T13:00:00.000Z",NA,FALSE,TRUE,53212,NA,NA,103,"Boston College","ACC",16,NA,259,"Virginia Tech","ACC",30,NA,NA
+273352653,2007,14,"regular","2007-12-01T14:00:00.000Z",NA,FALSE,TRUE,17893,3975,"Veterans Memorial Stadium",2653,"Troy","Sun Belt",32,NA,2226,"Florida Atlantic","Sun Belt",38,NA,NA
+273350099,2007,14,"regular","2007-12-01T16:00:00.000Z",NA,FALSE,TRUE,73832,3495,"Georgia Dome",99,"LSU","SEC",21,NA,2633,"Tennessee","SEC",14,NA,NA
+273352440,2007,14,"regular","2007-12-01T16:05:00.000Z",NA,FALSE,TRUE,9113,3816,"Mackay Stadium",2440,"Nevada","Western Athletic",49,NA,2348,"Louisiana Tech","Western Athletic",10,NA,NA
+273352483,2007,14,"regular","2007-12-01T16:30:00.000Z",NA,FALSE,TRUE,59050,3626,"Autzen Stadium",2483,"Oregon","Pac-10",31,NA,204,"Oregon State","Pac-10",38,NA,NA
+273350030,2007,14,"regular","2007-12-01T16:30:00.000Z",NA,FALSE,TRUE,91553,477,"Los Angeles Memorial Coliseum",30,"USC","Pac-10",24,NA,26,"UCLA","Pac-10",7,NA,NA
+273350021,2007,14,"regular","2007-12-01T18:36:00.000Z",NA,FALSE,TRUE,28473,3932,"Qualcomm Stadium",21,"San Diego State","Mountain West",27,NA,252,"BYU","Mountain West",48,NA,NA
+273352229,2007,14,"regular","2007-12-01T19:00:00.000Z",NA,FALSE,TRUE,10129,NA,NA,2229,"Florida International","Sun Belt",38,NA,249,"North Texas","Sun Belt",19,NA,NA
+273350024,2007,14,"regular","2007-12-01T19:07:00.000Z",NA,FALSE,TRUE,49209,3940,"Stanford Stadium",24,"Stanford","Pac-10",20,NA,25,"California","Pac-10",13,NA,NA
+273350277,2007,14,"regular","2007-12-01T19:45:00.000Z",NA,FALSE,TRUE,60100,3842,"Mountaineer Field at Milan Puskar Stadium",277,"West Virginia","Big East",9,NA,221,"Pittsburgh","Big East",13,NA,NA
+273350142,2007,14,"regular","2007-12-01T20:00:00.000Z",NA,FALSE,TRUE,62585,3604,"Alamodome",142,"Missouri","Big 12",17,NA,201,"Oklahoma","Big 12",38,NA,NA
+273350009,2007,14,"regular","2007-12-01T20:00:00.000Z",NA,FALSE,TRUE,71706,3947,"Sun Devil Stadium",9,"Arizona State","Pac-10",20,NA,12,"Arizona","Pac-10",17,NA,NA
+273350062,2007,14,"regular","2007-12-01T23:30:00.000Z",NA,FALSE,FALSE,50000,3610,"Aloha Stadium",62,"Hawai'i","Western Athletic",35,NA,264,"Washington","Pac-10",28,NA,NA

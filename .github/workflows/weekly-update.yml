@@ -1,0 +1,45 @@
+name: Daily Update
+
+on:
+  schedule:
+    - cron: '5 4 1 1-8 *'
+
+jobs:
+  update:
+    runs-on: ubuntu-18.04
+    env:
+      GHUB: ${{ secrets.GHUB }}
+      GH_PW: ${{ secrets.GH_PW }}
+      CRAN_REPO: https://packagemanager.rstudio.com/all/__linux__/bionic/latest
+      
+      
+    strategy:
+      matrix:
+        r-version: [4.0.3]
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up R ${{ matrix.r-version }}
+        uses: r-lib/actions/setup-r@v1
+        with:
+          r-version: '4.0.3'
+      - name: Install libcurl 
+        run: sudo apt-get install libcurl4-openssl-dev libssl-dev libicu-dev libxml2-dev
+      - uses: r-lib/actions/setup-pandoc@v1  
+      - name: Install dependencies
+        run: |
+          install.packages(c("remotes","ggplot2","ggrepel","stringr","stringi","attempt","assertthat","nnet","mgcv","rlang","tibble","geosphere","glue","maps","janitor", "jsonlite","dplyr","purrr","arrow", "tidyr", "readr"))
+          remotes::install_github("saiemgilani/cfbfastR")
+        shell: Rscript {0}  
+      - name: Run weekly update
+        run: Rscript "week.R"
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "Github Action"
+          git add .
+          git commit -m "morning update" || echo "No changes to commit"
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}  
