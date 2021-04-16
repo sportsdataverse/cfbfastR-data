@@ -52,3 +52,5 @@ raw_data/all_years_spread_2014_2019.csv
 raw_data/all_years_spread_2014_2019.csv.gz
 raw_data/all_years_2014_2019_prep_epa.rds
 no_share_key.R
+logs/*
+derby*
