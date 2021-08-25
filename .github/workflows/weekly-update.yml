@@ -11,8 +11,7 @@ jobs:
       GHUB: ${{ secrets.GHUB }}
       GH_PW: ${{ secrets.GH_PW }}
       CRAN_REPO: https://packagemanager.rstudio.com/all/__linux__/bionic/latest
-      
-      
+
     strategy:
       matrix:
         r-version: [4.0.3]

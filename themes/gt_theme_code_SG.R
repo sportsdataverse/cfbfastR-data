@@ -9,7 +9,7 @@ gt_theme_538 <- function(data,...) {
     ) %>%
     gt::tab_style(
       style = gt::cell_borders(
-        sides = "bottom", color = "transparent", weight = px(2)
+        sides = "bottom", weight = px(2)
       ),
       locations = gt::cells_body(
         columns = TRUE,
@@ -21,11 +21,8 @@ gt_theme_538 <- function(data,...) {
     gt::tab_options(
       column_labels.background.color = "white",
       table.border.top.width = px(2),
-      table.border.top.color = "transparent",
-      table.border.bottom.color = "transparent",
       table.border.bottom.width = px(12),
       column_labels.border.top.width = px(2),
-      column_labels.border.top.color = "transparent",
       column_labels.border.bottom.width = px(2),
       column_labels.border.bottom.color = "black",
       data_row.padding = px(2),
@@ -59,7 +56,6 @@ gt_theme_espn <- function(data, ...){
       table.width = px(700),
       heading.align = "left",
       heading.title.font.size = 24,
-      table.border.top.color = "transparent",
       table.border.top.width = px(3),
       data_row.padding = px(7),
       ...
@@ -127,8 +123,6 @@ gt_theme_pff <- function(data, ...) {
     # hide spanner with transparent color
     tab_style(
       style = list(
-        cell_fill(color = "transparent"),
-        cell_text(color = "transparent")
       ),
       locations = list(
         cells_column_spanners(
@@ -161,15 +155,10 @@ gt_theme_pff <- function(data, ...) {
     # change overall table styling for borders and striping
     tab_options(
       column_labels.background.color = "#585d63",
-      table_body.hlines.color = "transparent",
       table.border.top.width = px(3),
-      table.border.top.color = "transparent",
-      table.border.bottom.color = "transparent",
       table.border.bottom.width = px(3),
       column_labels.border.top.width = px(3),
-      column_labels.border.top.color = "transparent",
       column_labels.border.bottom.width = px(3),
-      column_labels.border.bottom.color = "transparent",
       row.striping.background_color = "#f9f9fb",
       data_row.padding = px(3),
       ...
