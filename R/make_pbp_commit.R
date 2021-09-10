@@ -7,5 +7,7 @@ git <- function(..., echo_cmd = TRUE, echo = TRUE, error_on_status = FALSE) {
   )
 }
 git("add","data/*","rosters/*","schedules/*","team_info/*","player_stats/*")
-
-git("commit", "-am", message)
+system(glue::glue('git config --local user.email "saiem.gilani@gmail.com" '))
+system(glue::glue('git config --local user.name "Saiem Gilani"'))
+system(glue::glue('git commit -m "{message}"'))
+# git("commit", "-am", message)
