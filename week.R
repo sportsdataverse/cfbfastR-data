@@ -11,9 +11,12 @@ library(glue)
 
 # Play-by-Play Data Pull --------------------------------------------------
 week_vector = 1:18
-year_vector = 2014
-version = "1.0.0"
+year_vector = 2021
+
+version = packageVersion("cfbfastR")
 weekly_year_df = expand.grid(year = year_vector, week = week_vector)
+
+
 ### scrape yearly
 year_split = split(weekly_year_df, weekly_year_df$year)
 
@@ -49,16 +52,16 @@ all_years_20 <- all_years_20 %>%
 
 # Player Stats ------------------------------------------------------------
 
-game_info <- cfbfastR::cfbd_game_info(year_vector)
-df_game_ids <- unique(game_info$game_id)
-df_player_stats_2020<- data.frame()
+# game_info <- cfbfastR::cfbd_game_info(year_vector)
+df_game_ids <- unique(all_years_20$game_id)
+df_player_stats_2021<- data.frame()
 for(i in 1:length(df_game_ids)){
   print(paste0("Working on ", i,"/",length(df_game_ids),": ", df_game_ids[i]))
   df_play_stats <- cfbfastR::cfbd_play_stats_player(game_id = df_game_ids[i])
-  df_player_stats_2020 <- rbind(df_player_stats_2020, df_play_stats)
+  df_player_stats_2021 <- rbind(df_player_stats_2021, df_play_stats)
 }
 
-df_player_stats_2020 <- df_player_stats_2020 %>%
+df_player_stats_2021 <- df_player_stats_2021 %>%
   dplyr::mutate(drive_id = as.numeric(drive_id),
                 reception_player_id = as.integer(reception_player_id),
                 target_player_id = as.integer(target_player_id),
@@ -75,92 +78,89 @@ df_player_stats_2020 <- df_player_stats_2020 %>%
                 sack_taken_player_id = as.integer(sack_taken_player_id),
                 pass_breakup_player_id = as.integer(pass_breakup_player_id))
 
-saveRDS(df_player_stats_2020 %>% dplyr::filter(.data$season == 2020), glue::glue("player_stats/rds/player_stats_2020.rds"))
-readr::write_csv(df_player_stats_2020 %>% dplyr::filter(.data$season == 2020), glue::glue("player_stats/csv/player_stats_2020.csv"))
-arrow::write_parquet(df_player_stats_2020 %>% dplyr::filter(.data$season == 2020),
-                     'player_stats/parquet/player_stats_2020.parquet')
+saveRDS(df_player_stats_2021 %>% dplyr::filter(.data$season == 2021), 
+        glue::glue("player_stats/rds/player_stats_2021.rds"))
+readr::write_csv(df_player_stats_2021 %>% dplyr::filter(.data$season == 2021), 
+                 glue::glue("player_stats/csv/player_stats_2021.csv"))
+arrow::write_parquet(df_player_stats_2021 %>% dplyr::filter(.data$season == 2021),
+                     glue::glue('player_stats/parquet/player_stats_2021.parquet'))
 
-# git2r::add(repo, glue::glue("player_stats/*"))
-# git2r::commit(repo, message = glue::glue("Updated Player Stats {Sys.time()} using cfbfastR version {version}")) # commit the staged files with the chosen message
-# git2r::pull(repo) # pull repo (and pray there are no merge commits)
-# git2r::push(repo, credentials = git2r::cred_user_pass(username = Sys.getenv("GHUB"), password = Sys.getenv("GH_PW"))) # push commit
-# 
 
 df_year_players20 <- all_years_20 %>% 
-  dplyr::left_join(df_player_stats_2020, 
+  dplyr::left_join(df_player_stats_2021, 
                    by = c('id_play'="play_id",'game_id','drive_id',
-                          'period','down','distance','yards_to_goal','week'))
+                          'period','down','distance','yards_to_goal','week','season'))
 
 
-df_team_rosters_2020 <- read.csv('rosters/csv/rosters_2020.csv')
+df_team_rosters_2021 <- read.csv('rosters/csv/cfb_rosters_2021.csv')
 
 
 
 df_year_players_pos20 <- df_year_players20 %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)),
                    by = c("year"="season", "reception_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)),
                    by = c("year"="season", "target_player_id" = "athlete_id"), suffix=c("_reception","_target")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_completion = position),
                    by = c("year"="season", "completion_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_incompletion = position),
                    by = c("year"="season", "incompletion_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_sack_taken = position),
                    by = c("year"="season", "sack_taken_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_sack = position),
                    by = c("year"="season", "sack_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_interception_thrown = position),
                    by = c("year"="season", "interception_thrown_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_interception = position),
                    by = c("year"="season", "interception_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_fumble = position),
                    by = c("year"="season", "fumble_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_fumble_forced = position),
                    by = c("year"="season", "fumble_forced_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_fumble_recovered = position),
                    by = c("year"="season", "fumble_recovered_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_pass_breakup = position),
                    by = c("year"="season", "pass_breakup_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_rush = position),
                    by = c("year"="season", "rush_player_id" = "athlete_id")) %>% 
-  dplyr::left_join(df_team_rosters_2020 %>% 
+  dplyr::left_join(df_team_rosters_2021 %>% 
                      dplyr::select(season, athlete_id, position) %>% 
                      dplyr::mutate(athlete_id = as.numeric(athlete_id)) %>% 
                      dplyr::rename(position_touchdown = position),
@@ -353,7 +353,7 @@ df_year_players_pos20 <- df_year_players_pos20 %>%
 
 # Update games in data repo file ------------------------------------------
 
-game_ids <- read.csv('data/games_in_data_repo.csv')
+game_ids <- readRDS('data/games_in_data_repo.rds')
 df_game_ids <- dplyr::bind_rows(
   as.data.frame(dplyr::distinct(df_year_players_pos20 %>% 
                                   dplyr::select(game_id, year, week, home, away))), game_ids) %>% 
@@ -363,16 +363,17 @@ df_game_ids <- dplyr::bind_rows(
 
 df_year_players_pos20 <- df_year_players_pos20 %>% 
   dplyr::mutate_at(c("id_play","half","down_end","ppa","id_drive"), as.numeric)
-write.csv(df_game_ids, 'data/games_in_data_repo.csv')
-saveRDS(df_year_players_pos20,glue::glue('data/rds/pbp_players_pos_2020.rds'))
-arrow::write_parquet(df_year_players_pos20,glue::glue('data/parquet/pbp_players_pos_2020.parquet'))
+write.csv(df_game_ids, 'data/games_in_data_repo.csv', row.names = FALSE)
+saveRDS(game_ids, 'data/games_in_data_repo.rds')
+saveRDS(df_year_players_pos20,glue::glue('data/rds/pbp_players_pos_2021.rds'))
+arrow::write_parquet(df_year_players_pos20,glue::glue('data/parquet/pbp_players_pos_2021.parquet'))
 
 # git2r::add(repo, 'data/*') # add specific files to staging of commit
 # git2r::commit(repo, message = glue::glue("Updated {year_vector} Play-by-Play thru week {max(week_vector)} at {Sys.time()} using cfbfastR version {version}")) # commit the staged files with the chosen message
 # git2r::pull(repo) # pull repo (and pray there are no merge commits)
 # git2r::push(repo, credentials = git2r::cred_user_pass(username = Sys.getenv("GHUB"), password = Sys.getenv("GH_PW"))) # push commit
 
-message(paste('Successfully uploaded to GitHub values as of',Sys.time())) 
+# message(paste('Successfully uploaded to GitHub values as of',Sys.time())) 
 
 
 
