@@ -5,9 +5,6 @@ library(readr)
 library(purrr)
 library(arrow)
 library(glue)
-# library(git2r)
-# New Year Data Repo Recreation
-# repo <- git2r::repository('./') # Set up connection to repository folder
 
 # Play-by-Play Data Pull --------------------------------------------------
 week_vector = 1:18
@@ -15,7 +12,6 @@ year_vector = 2021
 
 version = packageVersion("cfbfastR")
 weekly_year_df = expand.grid(year = year_vector, week = week_vector)
-
 
 ### scrape yearly
 year_split = split(weekly_year_df, weekly_year_df$year)
@@ -49,10 +45,8 @@ all_years_20 <- all_years_20 %>%
   dplyr::select(-.data$year...1, -.data$week...2) %>% 
   dplyr::rename(year = .data$year...3, week = .data$week...4)
 
-
 # Player Stats ------------------------------------------------------------
 
-# game_info <- cfbfastR::cfbd_game_info(year_vector)
 df_game_ids <- unique(all_years_20$game_id)
 df_player_stats_2021<- data.frame()
 for(i in 1:length(df_game_ids)){
@@ -62,27 +56,31 @@ for(i in 1:length(df_game_ids)){
 }
 
 df_player_stats_2021 <- df_player_stats_2021 %>%
-  dplyr::mutate(drive_id = as.numeric(drive_id),
-                reception_player_id = as.integer(reception_player_id),
-                target_player_id = as.integer(target_player_id),
-                completion_player_id = as.integer(completion_player_id),
-                incompletion_player_id = as.integer(incompletion_player_id),
-                rush_player_id = as.integer(rush_player_id),
-                touchdown_player_id = as.integer(touchdown_player_id),
-                interception_player_id = as.integer(interception_player_id),
-                interception_thrown_player_id = as.integer(interception_thrown_player_id),
-                fumble_recovered_player_id = as.integer(fumble_recovered_player_id),
-                fumble_forced_player_id = as.integer(fumble_forced_player_id),
-                fumble_player_id = as.integer(fumble_player_id),
-                sack_player_id = as.integer(sack_player_id),
-                sack_taken_player_id = as.integer(sack_taken_player_id),
-                pass_breakup_player_id = as.integer(pass_breakup_player_id))
+  dplyr::mutate(
+    drive_id = as.numeric(drive_id),
+    reception_player_id = as.integer(reception_player_id),
+    target_player_id = as.integer(target_player_id),
+    completion_player_id = as.integer(completion_player_id),
+    incompletion_player_id = as.integer(incompletion_player_id),
+    rush_player_id = as.integer(rush_player_id),
+    touchdown_player_id = as.integer(touchdown_player_id),
+    interception_player_id = as.integer(interception_player_id),
+    interception_thrown_player_id = as.integer(interception_thrown_player_id),
+    fumble_recovered_player_id = as.integer(fumble_recovered_player_id),
+    fumble_forced_player_id = as.integer(fumble_forced_player_id),
+    fumble_player_id = as.integer(fumble_player_id),
+    sack_player_id = as.integer(sack_player_id),
+    sack_taken_player_id = as.integer(sack_taken_player_id),
+    pass_breakup_player_id = as.integer(pass_breakup_player_id))
 
-saveRDS(df_player_stats_2021 %>% dplyr::filter(.data$season == 2021), 
+saveRDS(df_player_stats_2021 %>% 
+          dplyr::filter(.data$season == 2021), 
         glue::glue("player_stats/rds/player_stats_2021.rds"))
-readr::write_csv(df_player_stats_2021 %>% dplyr::filter(.data$season == 2021), 
+readr::write_csv(df_player_stats_2021 %>% 
+                   dplyr::filter(.data$season == 2021), 
                  glue::glue("player_stats/csv/player_stats_2021.csv"))
-arrow::write_parquet(df_player_stats_2021 %>% dplyr::filter(.data$season == 2021),
+arrow::write_parquet(df_player_stats_2021 %>% 
+                       dplyr::filter(.data$season == 2021),
                      glue::glue('player_stats/parquet/player_stats_2021.parquet'))
 
 
@@ -367,13 +365,4 @@ write.csv(df_game_ids, 'data/games_in_data_repo.csv', row.names = FALSE)
 saveRDS(game_ids, 'data/games_in_data_repo.rds')
 saveRDS(df_year_players_pos20,glue::glue('data/rds/pbp_players_pos_2021.rds'))
 arrow::write_parquet(df_year_players_pos20,glue::glue('data/parquet/pbp_players_pos_2021.parquet'))
-
-# git2r::add(repo, 'data/*') # add specific files to staging of commit
-# git2r::commit(repo, message = glue::glue("Updated {year_vector} Play-by-Play thru week {max(week_vector)} at {Sys.time()} using cfbfastR version {version}")) # commit the staged files with the chosen message
-# git2r::pull(repo) # pull repo (and pray there are no merge commits)
-# git2r::push(repo, credentials = git2r::cred_user_pass(username = Sys.getenv("GHUB"), password = Sys.getenv("GH_PW"))) # push commit
-
-# message(paste('Successfully uploaded to GitHub values as of',Sys.time())) 
-
-
 
