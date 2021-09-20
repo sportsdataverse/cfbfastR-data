@@ -366,3 +366,10 @@ saveRDS(game_ids, 'data/games_in_data_repo.rds')
 saveRDS(df_year_players_pos20,glue::glue('data/rds/pbp_players_pos_2021.rds'))
 arrow::write_parquet(df_year_players_pos20,glue::glue('data/parquet/pbp_players_pos_2021.parquet'))
 
+message <- sprintf("Updated %s (ET) using cfbfastR version %s", lubridate::now("America/New_York"), utils::packageVersion("cfbfastR"))
+
+system(glue::glue('git config --local user.email "actions@GitHub.com" '))
+system(glue::glue('git config --local user.name "GitHub Actions"'))
+system(glue::glue('git add .'))
+system(glue::glue('git commit -am "{message}"'))
+system(glue::glue('git push'))
