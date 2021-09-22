@@ -41,9 +41,7 @@ year_split20 = lapply(year_split, function(x) {
 })
 
 all_years_20 = dplyr::bind_rows(year_split20)
-all_years_20 <- all_years_20 %>% 
-  dplyr::select(-.data$year...1, -.data$week...2) %>% 
-  dplyr::rename(year = .data$year...3, week = .data$week...4)
+all_years_20 <- all_years_20 
 
 # Player Stats ------------------------------------------------------------
 
@@ -347,7 +345,7 @@ df_year_players_pos20 <- df_year_players_pos20 %>%
     dplyr::all_of(play_stats_player_columns),
     dplyr::all_of(penalty_columns),
     dplyr::all_of(lag_series_columns)
-  )
+  ) %>% dplyr::mutate(season = .data$year)
 
 # Update games in data repo file ------------------------------------------
 
