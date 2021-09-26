@@ -6,56 +6,7 @@ library(purrr)
 library(arrow)
 library(glue)
 
-espn_cfb_calendar <- function(year=NULL){
-  if (!is.null(year) && (!is.numeric(year) || nchar(year)!=4)) {
-    # Check if game_id is numeric, if not NULL
-    cli::cli_abort("Enter valid year as a number (YYYY)")
-  }
-  
-  espn_date <- glue::glue("{year}09")
-  url = paste0("http://site.api.espn.com/apis/site/v2/sports/football/college-football/scoreboard?limit=150",
-               "&groups=", 80,
-               "&dates=",year)
-  res <- httr::RETRY("GET", url)
-  espn_sched <- data.frame()
-  raw_sched <- res %>%
-    httr::content(as = "text", encoding = "UTF-8") %>%
-    jsonlite::fromJSON(simplifyDataFrame = FALSE, simplifyVector = FALSE, simplifyMatrix = FALSE)
-  calendar <- jsonlite::fromJSON(jsonlite::toJSON(raw_sched[['leagues']][[1]][['calendar']]),flatten=TRUE) %>% 
-    tidyr::unnest_longer(.data$entries)
-  calendar <- jsonlite::fromJSON(jsonlite::toJSON(calendar), flatten=TRUE) %>% 
-    as.data.frame()
-  calendar <- calendar %>% 
-    janitor::clean_names() %>% 
-    dplyr::rename(
-      season_type_name = .data$label,
-      season_type_id = .data$value,
-      date_from = .data$entries_start_date,
-      date_to = .data$entries_end_date,
-      week = .data$entries_value,
-      calendar_week = .data$entries_label,
-      date_detail = .data$entries_detail
-      ) %>% 
-    dplyr::select(
-      .data$calendar_week,
-      .data$week,
-      .data$date_detail,
-      .data$date_from,
-      .data$date_to,
-      .data$season_type_name,
-      .data$season_type_id,
-      -.data$start_date,
-      -.data$end_date,
-      -.data$entries_alternate_label
-      ) %>% 
-    dplyr::mutate(
-      week_concluded = ifelse(
-        Sys.Date()<=lubridate::lubridate(date_to,)
-      )
-    )
-  return(calendar)
-}
-cal <- espn_cfb_calendar()
+
 # Play-by-Play Data Pull --------------------------------------------------
 week_vector = 1:5
 year_vector = 2021
