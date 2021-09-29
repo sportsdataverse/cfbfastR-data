@@ -8,7 +8,7 @@ library(glue)
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-week_vector = 1:5
+week_vector = 1:6
 year_vector = 2021
 
 version = packageVersion("cfbfastR")
@@ -357,7 +357,7 @@ df_game_ids <- dplyr::bind_rows(
   dplyr::distinct(game_id, year, week, home, away) %>% 
   as.data.frame() %>% 
   dplyr::arrange(-year, -week, home, away, game_id)
-
+df_game_ids <- df_game_ids %>% dplyr::mutate(season=.data$year)
 df_year_players_pos20 <- df_year_players_pos20 %>% 
   dplyr::mutate_at(c("id_play","half","down_end","ppa","id_drive"), as.numeric)
 write.csv(df_game_ids, 'data/games_in_data_repo.csv', row.names = FALSE)
