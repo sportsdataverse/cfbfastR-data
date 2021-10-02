@@ -10,7 +10,7 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-20.04
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
@@ -18,14 +18,14 @@ jobs:
 
     strategy:
       matrix:
-        r-version: [4.0.3]
+        r-version: [4.0.5]
 
     steps:
       - uses: actions/checkout@v2
       - name: Set up R ${{ matrix.r-version }}
         uses: r-lib/actions/setup-r@v1
         with:
-          r-version: '4.0.3'
+          r-version: '4.0.5'
       - name: Install libcurl 
         run: sudo apt-get install libcurl4-openssl-dev libssl-dev libicu-dev libxml2-dev
       - uses: r-lib/actions/setup-pandoc@v1  
