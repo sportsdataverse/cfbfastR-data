@@ -1,6 +1,7 @@
 name: Daily Update
 
-on:
+on
+  workflow_dispatch:
   schedule:
     - cron: '5 4 1 1-8 *'
     - cron: '30 4 * * Sun'
