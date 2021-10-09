@@ -1,4 +1,9 @@
 "game_id","year","week","home","away","season"
+401309868,2021,6,"Arizona State","Stanford",2021
+401309616,2021,6,"Arkansas State","Coastal Carolina",2021
+401301018,2021,6,"Cincinnati","Temple",2021
+401282224,2021,6,"Florida International","Charlotte",2021
+401301017,2021,6,"Tulane","Houston",2021
 401309560,2021,5,"Akron","Ohio",2021
 401282089,2021,5,"Alabama","Ole Miss",2021
 401309559,2021,5,"Ball State","Army",2021
@@ -15,6 +20,7 @@
 401309613,2021,5,"Georgia Southern","Arkansas State",2021
 401309612,2021,5,"Georgia State","Appalachian State",2021
 401282649,2021,5,"Georgia Tech","Pittsburgh",2021
+401310712,2021,5,"Hawai'i","Fresno State",2021
 401282219,2021,5,"Illinois","Charlotte",2021
 401287912,2021,5,"Iowa State","Kansas",2021
 401287913,2021,5,"Kansas State","Oklahoma",2021
@@ -24,6 +30,7 @@
 401282759,2021,5,"Maryland","Iowa",2021
 401282646,2021,5,"Miami","Virginia",2021
 401282223,2021,5,"Michigan State","Western Kentucky",2021
+401282216,2021,5,"Middle Tennessee","Marshall",2021
 401282093,2021,5,"Missouri","Tennessee",2021
 401301013,2021,5,"Navy","UCF",2021
 401282220,2021,5,"NC State","Louisiana Tech",2021
@@ -38,6 +45,7 @@
 401282793,2021,5,"Purdue","Minnesota",2021
 401282218,2021,5,"Rice","Southern Mississippi",2021
 401282813,2021,5,"Rutgers","Ohio State",2021
+401310713,2021,5,"San José State","New Mexico State",2021
 401301016,2021,5,"SMU","South Florida",2021
 401282094,2021,5,"South Carolina","Troy",2021
 401309864,2021,5,"Stanford","Oregon",2021
@@ -46,6 +54,7 @@
 401282095,2021,5,"Texas A&M","Mississippi State",2021
 401301012,2021,5,"Tulsa","Houston",2021
 401282221,2021,5,"UAB","Liberty",2021
+401309866,2021,5,"UCLA","Arizona State",2021
 401286302,2021,5,"UMass","Toledo",2021
 401282222,2021,5,"UT San Antonio","UNLV",2021
 401309912,2021,5,"Utah State","BYU",2021
