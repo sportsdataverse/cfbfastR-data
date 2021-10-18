@@ -8,7 +8,7 @@ library(glue)
 
 
 # Play-by-Play Data Pull --------------------------------------------------
-week_vector = 1:6
+week_vector = 1:15
 year_vector = 2021
 
 version = packageVersion("cfbfastR")
@@ -371,4 +371,5 @@ system(glue::glue('git config --local user.email "actions@GitHub.com" '))
 system(glue::glue('git config --local user.name "GitHub Actions"'))
 system(glue::glue('git add .'))
 system(glue::glue('git commit -am "{message}"'))
+system(glue::glue('git pull'))
 system(glue::glue('git push'))
