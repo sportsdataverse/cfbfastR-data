@@ -1,4 +1,8 @@
 "game_id","year","week","home","away","season"
+401309627,2021,9,"Coastal Carolina","Troy",2021
+401301033,2021,9,"East Carolina","South Florida",2021
+401310734,2021,9,"Nevada","UNLV",2021
+401301030,2021,9,"Tulsa","Navy",2021
 401310724,2021,8,"Air Force","San Diego State",2021
 401309575,2021,8,"Akron","Buffalo",2021
 401282111,2021,8,"Alabama","Tennessee",2021
@@ -16,11 +20,13 @@
 401282663,2021,8,"Florida State","UMass",2021
 401310727,2021,8,"Fresno State","Nevada",2021
 401309625,2021,8,"Georgia State","Texas State",2021
+401310728,2021,8,"Hawai'i","New Mexico State",2021
 401301028,2021,8,"Houston","East Carolina",2021
 401282730,2021,8,"Indiana","Ohio State",2021
 401287925,2021,8,"Iowa State","Oklahoma State",2021
 401287926,2021,8,"Kansas","Oklahoma",2021
 401309626,2021,8,"Louisiana Monroe","South Alabama",2021
+401282237,2021,8,"Louisiana Tech","UT San Antonio",2021
 401282664,2021,8,"Louisville","Boston College",2021
 401282665,2021,8,"Miami","NC State",2021
 401282779,2021,8,"Michigan","Northwestern",2021
