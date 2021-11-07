@@ -1,23 +1,59 @@
 "game_id","year","week","home","away","season"
 401310253,2021,10,"Air Force","Army",2021
 401309579,2021,10,"Akron","Ball State",2021
+401282120,2021,10,"Alabama","LSU",2021
+401309889,2021,10,"Arizona","California",2021
+401282121,2021,10,"Arkansas","Mississippi State",2021
 401309633,2021,10,"Arkansas State","Appalachian State",2021
 401282677,2021,10,"Boston College","Virginia Tech",2021
+401309914,2021,10,"BYU","Idaho State",2021
+401282247,2021,10,"Charlotte","Rice",2021
+401301037,2021,10,"Cincinnati","Tulsa",2021
+401309891,2021,10,"Colorado","Oregon State",2021
 401282678,2021,10,"Duke","Pittsburgh",2021
+401301035,2021,10,"East Carolina","Temple",2021
+401282249,2021,10,"Florida Atlantic","Marshall",2021
+401282248,2021,10,"Florida International","Old Dominion",2021
+401282679,2021,10,"Florida State","NC State",2021
+401310735,2021,10,"Fresno State","Boise State",2021
+401282122,2021,10,"Georgia","Missouri",2021
+401309634,2021,10,"Georgia Southern","Coastal Carolina",2021
 401287935,2021,10,"Kansas","Kansas State",2021
 401309582,2021,10,"Kent State","Northern Illinois",2021
+401282123,2021,10,"Kentucky","Tennessee",2021
 401309632,2021,10,"Louisiana","Georgia State",2021
+401282680,2021,10,"Louisville","Clemson",2021
+401282768,2021,10,"Maryland","Penn State",2021
 401301039,2021,10,"Memphis","SMU",2021
 401282681,2021,10,"Miami","Georgia Tech",2021
+401282727,2021,10,"Michigan","Indiana",2021
 401282720,2021,10,"Minnesota","Illinois",2021
 401282799,2021,10,"Nebraska","Ohio State",2021
+401310737,2021,10,"New Mexico","UNLV",2021
+401310738,2021,10,"New Mexico State","Utah State",2021
 401282682,2021,10,"North Carolina","Wake Forest",2021
+401282710,2021,10,"Notre Dame","Navy",2021
 401308839,2021,10,"Ohio","Miami (OH)",2021
 401282124,2021,10,"Ole Miss","Liberty",2021
+401282787,2021,10,"Purdue","Michigan State",2021
+401282824,2021,10,"Rutgers","Wisconsin",2021
+401282125,2021,10,"South Carolina","Florida",2021
+401301038,2021,10,"South Florida","Houston",2021
+401282252,2021,10,"Southern Mississippi","North Texas",2021
 401309888,2021,10,"Stanford","Utah",2021
+401287936,2021,10,"TCU","Baylor",2021
+401282126,2021,10,"Texas A&M","Auburn",2021
+401309635,2021,10,"Texas State","Louisiana Monroe",2021
 401309580,2021,10,"Toledo","Eastern Michigan",2021
+401309636,2021,10,"Troy","South Alabama",2021
 401282250,2021,10,"UAB","Louisiana Tech",2021
+401301036,2021,10,"UCF","Tulane",2021
+401286303,2021,10,"UMass","Rhode Island",2021
+401309890,2021,10,"Washington","Oregon",2021
+401287937,2021,10,"West Virginia","Oklahoma State",2021
+401282251,2021,10,"Western Kentucky","Middle Tennessee",2021
 401309581,2021,10,"Western Michigan","Central Michigan",2021
+401310736,2021,10,"Wyoming","Colorado State",2021
 401309628,2021,9,"Appalachian State","Louisiana Monroe",2021
 401309885,2021,9,"Arizona State","Washington State",2021
 401282116,2021,9,"Auburn","Ole Miss",2021
