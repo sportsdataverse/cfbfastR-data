@@ -6,7 +6,7 @@ library(glue)
 
 
 games <- purrr::map(
-  2009:cfbfastR:::most_recent_season(), 
+  2004:cfbfastR:::most_recent_season(), 
   function(x){
     games <- cfbfastR::cfbd_team_roster(year=x)
     games$season <- x
