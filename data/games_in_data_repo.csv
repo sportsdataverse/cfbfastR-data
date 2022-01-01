@@ -736,10 +736,12 @@
 401287902,2021,2,"West Virginia","Long Island University",2021
 401309544,2021,2,"Western Michigan","Illinois State",2021
 401282825,2021,2,"Wisconsin","Eastern Michigan",2021
+401331235,2021,1,"Alabama","Cincinnati",2021
 401300993,2021,1,"Appalachian State","East Carolina",2021
 401331166,2021,1,"Appalachian State","Western Kentucky",2021
 401309841,2021,1,"Arizona","BYU",2021
 401309835,2021,1,"Arizona State","Southern Utah",2021
+401331232,2021,1,"Arizona State","Wisconsin",2021
 401281943,2021,1,"Arkansas","Rice",2021
 401309598,2021,1,"Arkansas State","Central Arkansas",2021
 401331215,2021,1,"Army","Missouri",2021
@@ -750,6 +752,7 @@
 401282609,2021,1,"Boston College","Colgate",2021
 401331168,2021,1,"BYU","UAB",2021
 401309837,2021,1,"California","Nevada",2021
+401331654,2021,1,"Central Michigan","Washington State",2021
 401282052,2021,1,"Charlotte","Duke",2021
 401300996,2021,1,"Cincinnati","Miami (OH)",2021
 401281946,2021,1,"Clemson","Georgia",2021
@@ -781,7 +784,9 @@
 401300997,2021,1,"Memphis","Nicholls",2021
 401281942,2021,1,"Miami","Alabama",2021
 401391158,2021,1,"Miami (OH)","North Texas",2021
+401331234,2021,1,"Michigan","Georgia",2021
 401282772,2021,1,"Michigan","Western Michigan",2021
+401331231,2021,1,"Michigan State","Pittsburgh",2021
 401282789,2021,1,"Minnesota","Ohio State",2021
 401331224,2021,1,"Minnesota","West Virginia",2021
 401281949,2021,1,"Mississippi State","Louisiana Tech",2021
@@ -801,7 +806,9 @@
 401331170,2021,1,"Oregon State","Utah State",2021
 401282612,2021,1,"Pittsburgh","UMass",2021
 401282819,2021,1,"Purdue","Oregon State",2021
+401331230,2021,1,"Purdue","Tennessee",2021
 401282822,2021,1,"Rutgers","Temple",2021
+401331233,2021,1,"Rutgers","Wake Forest",2021
 401310699,2021,1,"San Diego State","New Mexico State",2021
 401331214,2021,1,"San Diego State","UT San Antonio",2021
 401300998,2021,1,"SMU","Abilene Christian",2021
