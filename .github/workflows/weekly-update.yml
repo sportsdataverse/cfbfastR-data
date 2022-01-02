@@ -41,6 +41,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "Github Action"
+          git pull
           git add .
           git commit -m "morning update" || echo "No changes to commit"
       - name: Push changes
