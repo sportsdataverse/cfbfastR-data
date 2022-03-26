@@ -11,6 +11,7 @@ library(glue)
 week_vector = 1:15
 year_vector = 2021
 
+current_season <- year_vector[length(year_vector)] # in case year_vector is actually a vector, grab last year
 version = packageVersion("cfbfastR")
 weekly_year_df = expand.grid(year = year_vector, week = week_vector)
 
@@ -44,6 +45,15 @@ year_split20 = lapply(year_split, function(x) {
 all_years_20 = dplyr::bind_rows(year_split20)
 all_years_20 <- all_years_20 
 
+# Update schedules ---------------------------------------------------------
+schedules <- cfbd_game_info(year_vector[length(year_vector)])
+schedules <- schedules %>% 
+  cfbfastR:::make_cfbfastR_data("Games and schedules from data repository",,Sys.time())
+
+write.csv(schedules, glue::glue('schedules/csv/cfb_schedules_{current_season}.csv'), row.names = FALSE)
+saveRDS(schedules,glue::glue('schedules/rds/cfb_schedules_{current_season}.rds'))
+arrow::write_parquet(schedules,glue::glue('schedules/parquet/cfb_schedules_{current_season}.parquet'))
+
 # Player Stats ------------------------------------------------------------
 
 df_game_ids <- unique(all_years_20$game_id)
@@ -73,14 +83,14 @@ df_player_stats_2021 <- df_player_stats_2021 %>%
     pass_breakup_player_id = as.integer(pass_breakup_player_id))
 
 saveRDS(df_player_stats_2021 %>% 
-          dplyr::filter(.data$season == 2021), 
-        glue::glue("player_stats/rds/player_stats_2021.rds"))
+          dplyr::filter(.data$season == current_season), 
+        glue::glue("player_stats/rds/player_stats_{current_season}.rds"))
 readr::write_csv(df_player_stats_2021 %>% 
-                   dplyr::filter(.data$season == 2021), 
-                 glue::glue("player_stats/csv/player_stats_2021.csv"))
+                   dplyr::filter(.data$season == current_season), 
+                 glue::glue("player_stats/csv/player_stats_{current_season}.csv"))
 arrow::write_parquet(df_player_stats_2021 %>% 
-                       dplyr::filter(.data$season == 2021),
-                     glue::glue('player_stats/parquet/player_stats_2021.parquet'))
+                       dplyr::filter(.data$season == current_season),
+                     glue::glue('player_stats/parquet/player_stats_{current_season}.parquet'))
 
 
 df_year_players20 <- all_years_20 %>% 
@@ -89,7 +99,7 @@ df_year_players20 <- all_years_20 %>%
                           'period','down','distance','yards_to_goal','week','season'))
 
 
-df_team_rosters_2021 <- read.csv('rosters/csv/cfb_rosters_2021.csv')
+df_team_rosters_2021 <- read.csv('rosters/csv/cfb_rosters_{current_season}.csv')
 
 
 
@@ -362,8 +372,8 @@ df_year_players_pos20 <- df_year_players_pos20 %>%
   dplyr::mutate_at(c("id_play","half","down_end","ppa","id_drive"), as.numeric)
 write.csv(df_game_ids, 'data/games_in_data_repo.csv', row.names = FALSE)
 saveRDS(game_ids, 'data/games_in_data_repo.rds')
-saveRDS(df_year_players_pos20,glue::glue('data/rds/pbp_players_pos_2021.rds'))
-arrow::write_parquet(df_year_players_pos20,glue::glue('data/parquet/pbp_players_pos_2021.parquet'))
+saveRDS(df_year_players_pos20,glue::glue('data/rds/pbp_players_pos_{current_season}.rds'))
+arrow::write_parquet(df_year_players_pos20,glue::glue('data/parquet/pbp_players_pos_{current_season}.parquet'))
 
 message <- sprintf("Updated %s (ET) using cfbfastR version %s", lubridate::now("America/New_York"), utils::packageVersion("cfbfastR"))
 
