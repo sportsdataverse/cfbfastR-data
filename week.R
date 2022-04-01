@@ -48,7 +48,7 @@ all_years_20 <- all_years_20
 # Update schedules ---------------------------------------------------------
 schedules <- cfbd_game_info(year_vector[length(year_vector)])
 schedules <- schedules %>% 
-  cfbfastR:::make_cfbfastR_data("Games and schedules from data repository",,Sys.time())
+  cfbfastR:::make_cfbfastR_data("Games and schedules from data repository",Sys.time())
 
 write.csv(schedules, glue::glue('schedules/csv/cfb_schedules_{current_season}.csv'), row.names = FALSE)
 saveRDS(schedules,glue::glue('schedules/rds/cfb_schedules_{current_season}.rds'))
