@@ -99,7 +99,7 @@ df_year_players20 <- all_years_20 %>%
                           'period','down','distance','yards_to_goal','week','season'))
 
 
-df_team_rosters_2021 <- read.csv('rosters/csv/cfb_rosters_{current_season}.csv')
+df_team_rosters_2021 <- read.csv(glue::glue('rosters/csv/cfb_rosters_{current_season}.csv'))
 
 
 
