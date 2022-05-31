@@ -11,7 +11,7 @@ seasons <- 2002:2020
 pbp <- purrr::map_df(seasons, function(x) {
   readRDS(
     url(
-      glue::glue("https://raw.githubusercontent.com/saiemgilani/cfbfastR-data/master/pbp/rds/play_by_play_{x}.rds")
+      glue::glue("https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/master/pbp/rds/play_by_play_{x}.rds")
     )
   )
 })
@@ -24,7 +24,7 @@ seasons <- 2002:2020
 pbp <- purrr::map_df(seasons, function(x) {
   readr::read_csv(
     url(
-      glue::glue("https://raw.githubusercontent.com/saiemgilani/cfbfastR-data/master/pbp/csv/play_by_play_{x}.csv.gz")
+      glue::glue("https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/master/pbp/csv/play_by_play_{x}.csv.gz")
     )
   )
 })
@@ -34,7 +34,7 @@ pbp <- purrr::map_df(seasons, function(x) {
 ```
 seasons <- 2002:2020
 pbp <- purrr::map_df(seasons, function(x) {
-  download.file(glue::glue("https://raw.githubusercontent.com/saiemgilani/cfbfastR-data/master/data/parquet/play_by_play_{x}.parquet"),"tmp.parquet")
+  download.file(glue::glue("https://raw.githubusercontent.com/sportsdataverse/cfbfastR-data/master/data/parquet/play_by_play_{x}.parquet"),"tmp.parquet")
   df <- arrow::read_parquet("tmp.parquet")
   return(df)
 })
