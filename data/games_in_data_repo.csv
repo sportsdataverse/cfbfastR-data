@@ -8,8 +8,8 @@
 401411095,2022,1,"Appalachian State","North Carolina",2022
 401403855,2022,1,"Arkansas","Cincinnati",2022
 401425418,2022,1,"Arkansas State","Grambling",2022
+401424943,2022,1,"Arkansas-Pine Bluff","Lane",2022
 401403856,2022,1,"Auburn","Mercer",2022
-401418609,2022,1,"Austin Peay","Presbyterian College",2022
 401424416,2022,1,"Baylor","Albany",2022
 401405069,2022,1,"Boston College","Rutgers",2022
 401422978,2022,1,"Bucknell","Towson",2022
@@ -33,17 +33,21 @@
 401426530,2022,1,"Florida Atlantic","Charlotte",2022
 401426533,2022,1,"Florida International","Bryant",2022
 401411090,2022,1,"Florida State","Duquesne",2022
+401403867,2022,1,"Florida State","LSU",2022
 401413224,2022,1,"Fresno State","Cal Poly",2022
 401421156,2022,1,"Furman","North Greenville",2022
 401432239,2022,1,"Gardner-Webb","Limestone",2022
+401403858,2022,1,"Georgia","Oregon",2022
 401420777,2022,1,"Georgia Southern","Morgan State",2022
 401403853,2022,1,"Hawai'i","Vanderbilt",2022
+401426543,2022,1,"Hawai'i","Western Kentucky",2022
 401405058,2022,1,"Illinois","Wyoming",2022
 401420846,2022,1,"Incarnate Word","Southern Illinois",2022
 401405061,2022,1,"Indiana","Illinois",2022
 401418776,2022,1,"Indiana State","North Alabama",2022
 401405062,2022,1,"Iowa","South Dakota State",2022
 401404057,2022,1,"Iowa State","Southeast Missouri State",2022
+401424947,2022,1,"Jackson State","Florida A&M",2022
 401413214,2022,1,"Jacksonville State","Davidson",2022
 401413213,2022,1,"Jacksonville State","Stephen F. Austin",2022
 401426538,2022,1,"James Madison","Middle Tennessee",2022
@@ -60,9 +64,9 @@
 401405067,2022,1,"Michigan","Colorado State",2022
 401416591,2022,1,"Michigan State","Western Michigan",2022
 401405060,2022,1,"Minnesota","New Mexico State",2022
+401403861,2022,1,"Mississippi State","Memphis",2022
 401426537,2022,1,"Missouri","Louisiana Tech",2022
 401413333,2022,1,"Montana","Northwestern State",2022
-401413340,2022,1,"Montana State","McNeese",2022
 401415611,2022,1,"Navy","Delaware",2022
 401405063,2022,1,"Nebraska","North Dakota",2022
 401424402,2022,1,"New Hampshire","Monmouth",2022
@@ -80,7 +84,6 @@
 401416569,2022,1,"Oklahoma State","Central Michigan",2022
 401426330,2022,1,"Old Dominion","Virginia Tech",2022
 401403860,2022,1,"Ole Miss","Troy",2022
-401403858,2022,1,"Oregon","Georgia",2022
 401403969,2022,1,"Oregon State","Boise State",2022
 401411092,2022,1,"Pittsburgh","West Virginia",2022
 401423918,2022,1,"Prairie View","Texas Southern",2022
@@ -97,6 +100,7 @@
 401420877,2022,1,"Southern Utah","St. Thomas (MN)",2022
 401403970,2022,1,"Stanford","Colgate",2022
 401424414,2022,1,"Stony Brook","Rhode Island",2022
+401411099,2022,1,"Syracuse","Louisville",2022
 401403864,2022,1,"Tennessee","Ball State",2022
 401404059,2022,1,"Texas","Louisiana Monroe",2022
 401403865,2022,1,"Texas A&M","Sam Houston State",2022
