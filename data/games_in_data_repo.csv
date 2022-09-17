@@ -1,4 +1,7 @@
 "game_id","year","week","home","away","season"
+401435074,2022,3,"Harvard","Merrimack",2022
+401411109,2022,3,"Louisville","Florida State",2022
+401415217,2022,3,"Wyoming","Air Force",2022
 401418783,2022,2,"Abilene Christian","Prairie View",2022
 401424418,2022,2,"Albany","New Hampshire",2022
 401403875,2022,2,"Arizona","Mississippi State",2022
@@ -16,7 +19,9 @@
 401404062,2022,2,"BYU","Baylor",2022
 401413225,2022,2,"Cal Poly","San Diego",2022
 401403976,2022,2,"California","UNLV",2022
+401423418,2022,2,"Central Connecticut","Sacred Heart",2022
 401416597,2022,2,"Central Michigan","South Alabama",2022
+401415619,2022,2,"Cincinnati","Kennesaw State",2022
 401411102,2022,2,"Clemson","Furman",2022
 401426332,2022,2,"Coastal Carolina","Gardner-Webb",2022
 401426548,2022,2,"Colorado State","Middle Tennessee",2022
@@ -24,9 +29,11 @@
 401423144,2022,2,"Davidson","Barton College",2022
 401424419,2022,2,"Delaware","Delaware State",2022
 401423152,2022,2,"Drake","Missouri S&T",2022
+401415024,2022,2,"East Carolina","Old Dominion",2022
 401421128,2022,2,"Eastern Illinois","Chattanooga",2022
 401403871,2022,2,"Florida","Kentucky",2022
 401424948,2022,2,"Florida A&M","Albany State (GA)",2022
+401426546,2022,2,"Florida Atlantic","Southeastern Louisiana",2022
 401403979,2022,2,"Fresno State","Oregon State",2022
 401422997,2022,2,"Georgetown","Lehigh",2022
 401403872,2022,2,"Georgia","Samford",2022
@@ -65,7 +72,6 @@
 401420798,2022,2,"North Carolina Central","Winston-Salem",2022
 401420815,2022,2,"North Dakota","Northern Iowa",2022
 401420837,2022,2,"North Dakota State","North Carolina A&T",2022
-401426549,2022,2,"North Texas","Texas Southern",2022
 401405073,2022,2,"Northwestern","Duke",2022
 401418810,2022,2,"Northwestern State","Grambling",2022
 401404125,2022,2,"Notre Dame","Marshall",2022
@@ -112,7 +118,6 @@
 401411108,2022,2,"Virginia Tech","Boston College",2022
 401403983,2022,2,"Washington","Portland State",2022
 401404065,2022,2,"West Virginia","Kansas",2022
-401413204,2022,2,"Wofford","Elon",2022
 401415177,2022,2,"Wyoming","Northern Colorado",2022
 401420823,2022,2,"Youngstown State","Dayton",2022
 401418782,2022,1,"Abilene Christian","Lamar",2022
