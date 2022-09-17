@@ -4264,7 +4264,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 545266,Sean,Avant,Syracuse,217,70,83,NA,WR,Miramar,FL,USA,25.975911449999998,-80.33472128115224,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/545266.png,2014
 545269,Brisly,Estime,Syracuse,NA,69,1,NA,WR,Delray Beach,FL,USA,26.4614625,-80.0728201,12099,,https://a.espncdn.com/i/headshots/college-football/players/full/545269.png,2014
 545271,Marqez,Hodge,Syracuse,NA,71,33,NA,LB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/545271.png,2014
-545273,Isaiah,Johnson,Syracuse,NA,76,91,NA,DE,New Castle,DE,USA,39.6620572,-75.5663132,10003,,https://a.espncdn.com/i/headshots/college-football/players/full/545273.png,2014
+545273,Isaiah,Johnson,Syracuse,204,75,20,4,DB,New Castle,DE,USA,39.6620572,-75.5663132,10003,,https://a.espncdn.com/i/headshots/college-football/players/full/545273.png,2014
 545274,Darius,Kelly,Syracuse,NA,70,8,NA,?,Sierra Vista,AZ,USA,31.5455709,-110.2772249,04003,,https://a.espncdn.com/i/headshots/college-football/players/full/545274.png,2014
 545275,Mitch,Kimble,Syracuse,215,75,13,NA,QB,Jerseyville,IL,USA,39.1200471,-90.3284479,17083,,https://a.espncdn.com/i/headshots/college-football/players/full/545275.png,2014
 545278,Kendall,Moore,Syracuse,250,78,88,NA,TE,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/545278.png,2014
@@ -6372,7 +6372,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 552945,Mike,Myers,East Carolina,283,72,92,NA,DT,Goose Creek,SC,USA,32.9961038,-80.0387292,45015,,https://a.espncdn.com/i/headshots/college-football/players/full/552945.png,2014
 552946,Travis,Phillips,East Carolina,178,71,14,NA,DB,Montpelier,VA,USA,37.8212538,-77.6844345,51085,,https://a.espncdn.com/i/headshots/college-football/players/full/552946.png,2014
 552948,Travon,Simmons,East Carolina,NA,70,37,NA,DB,Marietta,GA,USA,33.9528472,-84.5496148,13067,,https://a.espncdn.com/i/headshots/college-football/players/full/552948.png,2014
-552949,Xavier,Smith,East Carolina,190,74,10,3,LB,Raleigh,NC,USA,35.7803977,-78.6390989,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/552949.png,2014
+552949,Xavier,Smith,East Carolina,247,72,10,4,LB,Raleigh,NC,USA,35.7803977,-78.6390989,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/552949.png,2014
 552951,Jimmy,Williams,East Carolina,198,71,81,NA,WR,Washington,NC,USA,35.5493702,-77.0535574,37013,,https://a.espncdn.com/i/headshots/college-football/players/full/552951.png,2014
 552953,Cam,Worthy,East Carolina,NA,75,9,NA,WR,Blair,SC,USA,32.4215124,-100.0600967,48441,,https://a.espncdn.com/i/headshots/college-football/players/full/552953.png,2014
 552955,Daeshawn,Bertram,Western Kentucky,225,68,54,NA,LB,Louisville,KY,USA,38.2542376,-85.759407,21111,,https://a.espncdn.com/i/headshots/college-football/players/full/552955.png,2014
@@ -9289,7 +9289,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 3938815,Quinton,Jordan,Charlotte,183,71,29,4,DB,Seat Pleasant,MD,USA,38.8962231,-76.9066399,24033,,https://a.espncdn.com/i/headshots/college-football/players/full/3938815.png,2014
 3941193,Skyler,Simcox,Western Kentucky,187,72,48,3,PK,Abingdon,VA,USA,36.7095788,-81.9774878,51191,,https://a.espncdn.com/i/headshots/college-football/players/full/3941193.png,2014
 3944805,Connor,Kubala,Coastal Carolina,240,73,42,4,LS,Evans,GA,USA,33.5143065,-82.1387819734912,13073,,https://a.espncdn.com/i/headshots/college-football/players/full/3944805.png,2014
-3949056,Jeromy,Reichner,Temple,274,73,91,4,DL,Philadelphia,PA,USA,39.9527237,-75.1635262,42101,,https://a.espncdn.com/i/headshots/college-football/players/full/3949056.png,2014
+3949056,Jeromy,Reichner,Temple,273,73,91,4,DL,Philadelphia,PA,USA,39.9527237,-75.1635262,42101,,https://a.espncdn.com/i/headshots/college-football/players/full/3949056.png,2014
 3959919,Jordan,Hebert,Ole Miss,291,71,96,4,DT,Klein,TX,USA,30.0477196,-95.5324412,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/3959919.png,2014
 3975763,Greg,Joseph,Florida Atlantic,210,73,17,NA,PK,Boca Raton,FL,USA,26.3586885,-80.0830984,12099,,https://a.espncdn.com/i/headshots/college-football/players/full/3975763.png,2014
 4029790,Jaylan,Foster,Gardner-Webb,190,70,27,4,DB,Duncan,SC,USA,34.9378962,-82.1451096,45083,,https://a.espncdn.com/i/headshots/college-football/players/full/4029790.png,2014
@@ -9334,7 +9334,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4039413,Alohi,Gilman,Navy,202,70,11,3,S,Laie,HI,USA,21.647244399999998,-157.93069756074482,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/4039413.png,2014
 4039443,TJ,Salu,Navy,297,74,60,4,G,Portland,OR,USA,45.5202471,-122.6741949,41051,,https://a.espncdn.com/i/headshots/college-football/players/full/4039443.png,2014
 4039487,Daniel,Isom,Northern Illinois,199,72,3,4,DB,St. Louis,MO,USA,38.6268039,-90.1994097,29510,,https://a.espncdn.com/i/headshots/college-football/players/full/4039487.png,2014
-4039555,Jordan,Carmouche,SMU,230,74,40,3,LB,Manvel,TX,USA,29.4664706,-95.355714,48039,,https://a.espncdn.com/i/headshots/college-football/players/full/4039555.png,2014
+4039555,Jordan,Carmouche,SMU,230,74,10,4,LB,Manvel,TX,USA,29.4664706,-95.355714,48039,,https://a.espncdn.com/i/headshots/college-football/players/full/4039555.png,2014
 4040089,Andrew,Reinkemeyer,South Alabama,245,76,8,4,TE,Overland Park,KS,USA,38.9742502,-94.6851702,20091,,https://a.espncdn.com/i/headshots/college-football/players/full/4040089.png,2014
 4040480,Christian,Buckingham,UTEP,280,76,87,4,DL,Tafuna,NA,American Samoa,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/4040480.png,2014
 4040547,Brendon,Rushing,Texas State,235,76,82,4,TE,Desoto,TX,USA,32.6061241,-96.865612653687,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4040547.png,2014
@@ -9357,7 +9357,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4044114,Mi'Cario,Stanley,South Florida,285,74,95,4,DL,Cape Coral,FL,USA,26.6059432,-81.9806771,12071,,https://a.espncdn.com/i/headshots/college-football/players/full/4044114.png,2014
 4044438,Nate,Herbig,Stanford,348,76,63,3,G,Kalaheo,HI,USA,21.9185255,-159.5206963457411,15007,,https://a.espncdn.com/i/headshots/college-football/players/full/4044438.png,2014
 4046522,Devin,Asiasi,Michigan,279,75,86,3,TE,Shoreview,CA,USA,37.0449417,-122.0319311,06087,,https://a.espncdn.com/i/headshots/college-football/players/full/4046522.png,2014
-4046683,D.J.,Morgan,Notre Dame,224,74,41,4,LB,Norwalk,CA,USA,33.9092802,-118.0849169,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4046683.png,2014
+4046683,D.J.,Morgan,Notre Dame,226,74,41,4,LB,Norwalk,CA,USA,33.9092802,-118.0849169,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4046683.png,2014
 4046748,Tyrik,Jones,Bowling Green,258,74,56,3,DL,Plantation,FL,USA,26.1265258,-80.25786123765101,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/4046748.png,2014
 4047647,Deontay,Anderson,Ole Miss,230,74,2,4,LB,Houston,TX,USA,29.7589382,-95.3676974,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/4047647.png,2014
 4047653,Jarrion,Street,Ole Miss,220,75,7,4,LB,Trussville,AL,USA,33.626629,-86.5549335251678,01073,,https://a.espncdn.com/i/headshots/college-football/players/full/4047653.png,2014

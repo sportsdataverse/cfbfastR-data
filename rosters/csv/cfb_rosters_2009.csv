@@ -1231,7 +1231,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 188524,Toby,Gerhart,Stanford,NA,73,7,NA,RB,Norco,CA,USA,33.9323307,-117.5508901,06065,,https://a.espncdn.com/i/headshots/college-football/players/full/188524.png,2009
 188526,Derek,Hall,Stanford,NA,77,53,NA,OT,Overland Park,KS,USA,38.9742502,-94.6851702,20091,,https://a.espncdn.com/i/headshots/college-football/players/full/188526.png,2009
 188529,Alex,Loukas,Stanford,NA,76,5,NA,S,Bannockburn,IL,USA,42.1933581,-87.8664579,17097,,https://a.espncdn.com/i/headshots/college-football/players/full/188529.png,2009
-188543,Kyle,Adams,Purdue,NA,76,85,NA,TE,Austin,TX,USA,30.2711286,-97.7436995,48453,,https://a.espncdn.com/i/headshots/college-football/players/full/188543.png,2009
+188543,Kyle,Adams,Purdue,180,73,20,2,QB,Austin,TX,USA,30.2711286,-97.7436995,48453,,https://a.espncdn.com/i/headshots/college-football/players/full/188543.png,2009
 188544,Royce,Adams,Purdue,NA,72,10,NA,WR,Cleveland,OH,USA,41.5051613,-81.6934446,39035,,https://a.espncdn.com/i/headshots/college-football/players/full/188544.png,2009
 188550,Jeff,Lindsay,Purdue,NA,75,88,NA,TE,Macomb,MI,USA,42.6652,-82.9286,17109,,https://a.espncdn.com/i/headshots/college-football/players/full/188550.png,2009
 188554,David,Pender,Purdue,NA,73,9,NA,CB,Folkston,GA,USA,30.8305818,-82.0097846,13049,,https://a.espncdn.com/i/headshots/college-football/players/full/188554.png,2009
@@ -2784,7 +2784,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 238563,Zach,Davis-Walker,Indiana,NA,68,3,NA,RB,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/238563.png,2009
 238564,Max,Dedmond,Indiana,NA,77,41,NA,TE,Evansville,IN,USA,37.9747645,-87.5558483,18163,,https://a.espncdn.com/i/headshots/college-football/players/full/238564.png,2009
 238566,Matt,Ernest,Indiana,NA,74,15,NA,CB,Crown Point,IN,USA,41.4169806,-87.3653136,18089,,https://a.espncdn.com/i/headshots/college-football/players/full/238566.png,2009
-238567,Mitchell,Evans,Indiana,NA,75,5,NA,S,West Milton,OH,USA,39.9625534,-84.3280022,39109,,https://a.espncdn.com/i/headshots/college-football/players/full/238567.png,2009
+238567,Mitchell,Evans,Indiana,190,71,30,1,DB,West Milton,OH,USA,39.9625534,-84.3280022,39109,,https://a.espncdn.com/i/headshots/college-football/players/full/238567.png,2009
 238569,Chris,Hagerup,Indiana,NA,77,12,NA,P,Whitefish Bay,WI,USA,43.1133445,-87.9000856,55079,,https://a.espncdn.com/i/headshots/college-football/players/full/238569.png,2009
 238573,Andrew,McDonald,Indiana,NA,78,72,NA,OT,Indianapolis,IN,USA,39.7683331,-86.1583502,18097,,https://a.espncdn.com/i/headshots/college-football/players/full/238573.png,2009
 238574,Brandon,McGhee,Indiana,NA,73,39,NA,LB,Jeffersonville,IN,USA,38.2770227,-85.7371604,18019,,https://a.espncdn.com/i/headshots/college-football/players/full/238574.png,2009

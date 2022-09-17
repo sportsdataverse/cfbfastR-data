@@ -8,7 +8,7 @@ library(readr)
 league <- 'cfb'
 folder <- 'team_info'
 
-games <- purrr::map_dfr(2001:cfbfastR:::most_recent_season(), 
+games <- purrr::map_dfr(2001:cfbfastR:::most_recent_cfb_season(), 
                         function(x){
                           games <- cfbfastR::cfbd_team_info(year = x,only_fbs = FALSE)
                           # write_csv(games, glue::glue("{folder}/csv/{folder}_{x}.csv"))

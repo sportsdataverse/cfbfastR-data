@@ -6,7 +6,7 @@ library(glue)
 
 
 games <- purrr::map_dfr(
-  2001:cfbfastR:::most_recent_season(), 
+  2001:cfbfastR:::most_recent_cfb_season(), 
   function(x){
     games <- cfbfastR::cfbd_game_info(x)
     readr::write_csv(games, glue::glue("schedules/csv/cfb_schedules_{x}.csv"))
