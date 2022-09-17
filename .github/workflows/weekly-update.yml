@@ -19,21 +19,21 @@ jobs:
 
     strategy:
       matrix:
-        r-version: [4.0.5]
+        r-version: [4.2.0]
 
     steps:
       - uses: actions/checkout@v2
       - name: Set up R ${{ matrix.r-version }}
         uses: r-lib/actions/setup-r@v1
         with:
-          r-version: '4.0.5'
+          r-version: '4.2.0'
       - name: Install libcurl 
         run: sudo apt-get install libcurl4-openssl-dev libssl-dev libicu-dev libxml2-dev
       - uses: r-lib/actions/setup-pandoc@v1  
       - name: Install dependencies
         run: |
           install.packages(c("remotes","ggplot2","ggrepel","stringr","stringi","attempt","assertthat","nnet","mgcv","rlang","tibble","geosphere","glue","maps","janitor", "jsonlite","dplyr","purrr","arrow", "tidyr", "readr"))
-          remotes::install_github("saiemgilani/cfbfastR")
+          remotes::install_github("sportsdataverse/cfbfastR")
         shell: Rscript {0}  
       - name: Run weekly update
         run: Rscript "week.R"
