@@ -1,5 +1,9 @@
 "game_id","year","week","home","away","season"
+401415220,2022,4,"Air Force","Nevada",2022
 401426334,2022,4,"Georgia State","Coastal Carolina",2022
+401421129,2022,4,"Illinois","Chattanooga",2022
+401411117,2022,4,"Syracuse","Virginia",2022
+401426571,2022,4,"UTEP","Boise State",2022
 401411116,2022,4,"Virginia Tech","West Virginia",2022
 401403880,2022,3,"Alabama","Louisiana Monroe",2022
 401426333,2022,3,"Appalachian State","Troy",2022
@@ -135,7 +139,7 @@
 401403872,2022,2,"Georgia","Samford",2022
 401411103,2022,2,"Georgia State","North Carolina",2022
 401411104,2022,2,"Georgia Tech","Western Carolina",2022
-401418792,2022,2,"Houston Baptist","Lindenwood",2022
+401418792,2022,2,"Houston Christian","Lindenwood",2022
 401405070,2022,2,"Illinois","Virginia",2022
 401418828,2022,2,"Illinois State","Valparaiso",2022
 401405075,2022,2,"Indiana","Idaho",2022
