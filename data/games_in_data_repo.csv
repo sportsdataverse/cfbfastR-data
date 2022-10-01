@@ -1,4 +1,10 @@
 "game_id","year","week","home","away","season"
+401415226,2022,5,"BYU","Utah State",2022
+401415625,2022,5,"Houston","Tulane",2022
+401426576,2022,5,"Middle Tennessee","UT San Antonio",2022
+401403908,2022,5,"South Carolina","South Carolina State",2022
+401404007,2022,5,"UCLA","Washington",2022
+401415229,2022,5,"UNLV","New Mexico",2022
 401418784,2022,4,"Abilene Christian","Western New Mexico",2022
 401415220,2022,4,"Air Force","Nevada",2022
 401403892,2022,4,"Alabama","Vanderbilt",2022
@@ -8,6 +14,7 @@
 401403997,2022,4,"Arizona State","Utah",2022
 401403894,2022,4,"Auburn","Missouri",2022
 401418632,2022,4,"Austin Peay","Eastern Kentucky",2022
+401415187,2022,4,"Brown","Harvard",2022
 401415223,2022,4,"BYU","Wyoming",2022
 401403996,2022,4,"California","Arizona",2022
 401421158,2022,4,"Charleston Southern","Furman",2022
@@ -17,9 +24,7 @@
 401415221,2022,4,"Colorado State","Sacramento State",2022
 401415405,2022,4,"Cornell","Yale",2022
 401424426,2022,4,"Delaware","Hampton",2022
-401435075,2022,4,"Delaware State","Merrimack",2022
 401423153,2022,4,"Drake","Marist",2022
-401415624,2022,4,"East Carolina","Navy",2022
 401416604,2022,4,"Eastern Michigan","Buffalo",2022
 401413237,2022,4,"Eastern Washington","Montana State",2022
 401423440,2022,4,"Florida A&M","Alabama A&M",2022
@@ -52,7 +57,6 @@
 401404150,2022,4,"NC State","Connecticut",2022
 401409237,2022,4,"New Mexico State","Hawai'i",2022
 401413217,2022,4,"Nicholls","Jacksonville State",2022
-401420790,2022,4,"Norfolk State","St Francis (PA)",2022
 401418779,2022,4,"North Alabama","Tarleton State",2022
 401404126,2022,4,"North Carolina","Notre Dame",2022
 401413247,2022,4,"Northern Arizona","Idaho",2022
@@ -63,6 +67,7 @@
 401404081,2022,4,"Oklahoma","Kansas State",2022
 401426335,2022,4,"Old Dominion","Arkansas State",2022
 401403898,2022,4,"Ole Miss","Tulsa",2022
+401404000,2022,4,"Oregon State","USC",2022
 401405098,2022,4,"Penn State","Central Michigan",2022
 401422989,2022,4,"Pennsylvania","Lafayette",2022
 401411121,2022,4,"Pittsburgh","Rhode Island",2022
@@ -71,7 +76,6 @@
 401426566,2022,4,"Purdue","Florida Atlantic",2022
 401424428,2022,4,"Richmond","Stony Brook",2022
 401405091,2022,4,"Rutgers","Iowa",2022
-401418604,2022,4,"Sacred Heart","Dartmouth",2022
 401422929,2022,4,"Samford","Western Carolina",2022
 401415224,2022,4,"San Diego State","Toledo",2022
 401415225,2022,4,"San José State","Western Michigan",2022
@@ -82,6 +86,7 @@
 401425452,2022,4,"Southeast Missouri State","Central Arkansas",2022
 401420816,2022,4,"Southern Illinois","North Dakota",2022
 401428485,2022,4,"St. Thomas (MN)","Lincoln University (CA)",2022
+401420864,2022,4,"Stephen F. Austin","Warner",2022
 401411117,2022,4,"Syracuse","Virginia",2022
 401414781,2022,4,"Temple","UMass",2022
 401403901,2022,4,"Tennessee","Florida",2022
@@ -96,7 +101,6 @@
 401411122,2022,4,"UCF","Georgia Tech",2022
 401420842,2022,4,"UT Martin","Lindenwood",2022
 401426572,2022,4,"UT San Antonio","Texas Southern",2022
-401415222,2022,4,"Utah State","UNLV",2022
 401426571,2022,4,"UTEP","Boise State",2022
 401425090,2022,4,"Valparaiso","San Diego",2022
 401424405,2022,4,"Villanova","Monmouth",2022
@@ -104,7 +108,6 @@
 401411123,2022,4,"Wake Forest","Clemson",2022
 401404001,2022,4,"Washington","Stanford",2022
 401403999,2022,4,"Washington State","Oregon",2022
-401426671,2022,4,"Western Illinois","Northern Iowa",2022
 401426565,2022,4,"Western Kentucky","Florida International",2022
 401424366,2022,4,"William & Mary","Elon",2022
 401403880,2022,3,"Alabama","Louisiana Monroe",2022
