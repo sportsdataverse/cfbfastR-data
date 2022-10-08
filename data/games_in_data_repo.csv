@@ -1,4 +1,10 @@
 "game_id","year","week","home","away","season"
+401415407,2022,6,"Cornell","Harvard",2022
+401415630,2022,6,"Memphis","Houston",2022
+401415233,2022,6,"Nevada","Colorado State",2022
+401405111,2022,6,"Rutgers","Nebraska",2022
+401415236,2022,6,"San José State","UNLV",2022
+401415629,2022,6,"UCF","SMU",2022
 401415227,2022,5,"Air Force","Navy",2022
 401416609,2022,5,"Akron","Bowling Green",2022
 401423441,2022,5,"Alabama A&M","Bethune-Cookman",2022
@@ -14,13 +20,11 @@
 401422979,2022,5,"Bucknell","Lafayette",2022
 401416610,2022,5,"Buffalo","Miami (OH)",2022
 401415226,2022,5,"BYU","Utah State",2022
-401413227,2022,5,"Cal Poly","Sacramento State",2022
 401420801,2022,5,"Campbell","North Carolina Central",2022
 401418633,2022,5,"Central Arkansas","Austin Peay",2022
 401426573,2022,5,"Charlotte","UTEP",2022
 401411125,2022,5,"Clemson","NC State",2022
 401426337,2022,5,"Coastal Carolina","Georgia Southern",2022
-401415406,2022,5,"Colgate","Cornell",2022
 401404151,2022,5,"Connecticut","Fresno State",2022
 401423138,2022,5,"Davidson","Butler",2022
 401423154,2022,5,"Dayton","Drake",2022
@@ -31,7 +35,7 @@
 401418638,2022,5,"Eastern Kentucky","Southern Utah",2022
 401414782,2022,5,"Eastern Michigan","UMass",2022
 401424395,2022,5,"Elon","Richmond",2022
-401424949,2022,5,"Florida A&M","Mississippi Valley State",2022
+401403904,2022,5,"Florida","Eastern Washington",2022
 401411127,2022,5,"Florida State","Wake Forest",2022
 401428481,2022,5,"Fordham","Georgetown",2022
 401421159,2022,5,"Furman","Samford",2022
@@ -63,6 +67,7 @@
 401423159,2022,5,"Morehead State","Presbyterian College",2022
 401420780,2022,5,"Morgan State","Virginia Lynchburg",2022
 401405102,2022,5,"Nebraska","Indiana",2022
+401426574,2022,5,"New Mexico State","Florida International",2022
 401411128,2022,5,"North Carolina","Virginia Tech",2022
 401435487,2022,5,"North Carolina A&T","Bryant",2022
 401420809,2022,5,"North Dakota","Missouri State",2022
@@ -84,7 +89,6 @@
 401403908,2022,5,"South Carolina","South Carolina State",2022
 401420833,2022,5,"South Dakota State","Western Illinois",2022
 401421123,2022,5,"Southeastern Louisiana","Murray State",2022
-401423926,2022,5,"Southern","Arkansas-Pine Bluff",2022
 401424367,2022,5,"Stony Brook","William & Mary",2022
 401411130,2022,5,"Syracuse","Wagner",2022
 401404086,2022,5,"TCU","Oklahoma",2022
@@ -106,7 +110,6 @@
 401405099,2022,5,"Wisconsin","Illinois",2022
 401413206,2022,5,"Wofford","Mercer",2022
 401415230,2022,5,"Wyoming","San José State",2022
-401426253,2022,5,"Yale","Howard",2022
 401418784,2022,4,"Abilene Christian","Western New Mexico",2022
 401415220,2022,4,"Air Force","Nevada",2022
 401403892,2022,4,"Alabama","Vanderbilt",2022
