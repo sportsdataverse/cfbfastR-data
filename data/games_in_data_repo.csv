@@ -1,4 +1,10 @@
 "game_id","year","week","home","away","season"
+401426584,2022,7,"Florida International","UT San Antonio",2022
+401426347,2022,7,"Marshall","Louisiana",2022
+401420782,2022,7,"North Carolina Central","Morgan State",2022
+401415635,2022,7,"SMU","Navy",2022
+401415634,2022,7,"UCF","Temple",2022
+401404092,2022,7,"West Virginia","Baylor",2022
 401403909,2022,6,"Alabama","Texas A&M",2022
 401423442,2022,6,"Alabama A&M","Grambling",2022
 401423452,2022,6,"Alabama State","Jackson State",2022
@@ -17,19 +23,19 @@
 401416613,2022,6,"Central Michigan","Ball State",2022
 401415633,2022,6,"Cincinnati","South Florida",2022
 401415407,2022,6,"Cornell","Harvard",2022
+401421097,2022,6,"Drake","San Diego",2022
 401432241,2022,6,"Duquesne","Merrimack",2022
 401418813,2022,6,"Eastern Illinois","Northwestern State",2022
 401424396,2022,6,"Elon","Towson",2022
 401403910,2022,6,"Florida","Missouri",2022
 401426579,2022,6,"Florida International","Connecticut",2022
-401423915,2022,6,"Georgetown","Pennsylvania",2022
 401403911,2022,6,"Georgia","Auburn",2022
 401411132,2022,6,"Georgia Tech","Duke",2022
 401424432,2022,6,"Hampton","Maine",2022
 401462219,2022,6,"Houston Christian","Nicholls",2022
 401405106,2022,6,"Illinois","Iowa",2022
+401420859,2022,6,"Incarnate Word","Lamar",2022
 401405108,2022,6,"Indiana","Michigan",2022
-401418839,2022,6,"Indiana State","North Dakota State",2022
 401404088,2022,6,"Iowa State","Kansas State",2022
 401404089,2022,6,"Kansas","TCU",2022
 401418646,2022,6,"Kennesaw State","North Alabama",2022
@@ -47,6 +53,7 @@
 401420810,2022,6,"Missouri State","Southern Illinois",2022
 401424406,2022,6,"Monmouth","Albany",2022
 401413261,2022,6,"Montana State","Idaho State",2022
+401420781,2022,6,"Morgan State","Norfolk State",2022
 401420844,2022,6,"Murray State","UT Martin",2022
 401415632,2022,6,"Navy","Tulsa",2022
 401411134,2022,6,"NC State","Florida State",2022
@@ -55,6 +62,7 @@
 401415234,2022,6,"New Mexico","Wyoming",2022
 401413228,2022,6,"Northern Arizona","Cal Poly",2022
 401416615,2022,6,"Northern Illinois","Toledo",2022
+401418831,2022,6,"Northern Iowa","Illinois State",2022
 401405107,2022,6,"Northwestern","Wisconsin",2022
 401416616,2022,6,"Ohio","Akron",2022
 401404090,2022,6,"Oklahoma","Texas",2022
@@ -93,6 +101,7 @@
 401413238,2022,6,"Weber State","Eastern Washington",2022
 401416614,2022,6,"Western Michigan","Eastern Michigan",2022
 401424368,2022,6,"William & Mary","Delaware",2022
+401418606,2022,6,"Yale","Dartmouth",2022
 401420817,2022,6,"Youngstown State","North Dakota",2022
 401415227,2022,5,"Air Force","Navy",2022
 401416609,2022,5,"Akron","Bowling Green",2022
