@@ -371,7 +371,7 @@ df_game_ids <- df_game_ids %>% dplyr::mutate(season=.data$year)
 df_year_players_pos20 <- df_year_players_pos20 %>% 
   dplyr::mutate_at(c("id_play","half","down_end","ppa","id_drive"), as.numeric)
 write.csv(df_game_ids, 'data/games_in_data_repo.csv', row.names = FALSE)
-saveRDS(game_ids, 'data/games_in_data_repo.rds')
+saveRDS(df_game_ids, 'data/games_in_data_repo.rds')
 saveRDS(df_year_players_pos20,glue::glue('data/rds/pbp_players_pos_{current_season}.rds'))
 arrow::write_parquet(df_year_players_pos20,glue::glue('data/parquet/pbp_players_pos_{current_season}.parquet'))
 
