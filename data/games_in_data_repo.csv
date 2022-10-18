@@ -1,753 +1,850 @@
 "game_id","year","week","home","away","season"
-401418787,2022,7,"Abilene Christian","Southern Utah",2022
-401424434,2022,7,"Albany","Hampton",2022
-401404139,2022,7,"Army","Colgate",2022
-401418634,2022,7,"Austin Peay","Murray State",2022
-401404153,2022,7,"Ball State","Connecticut",2022
-401424939,2022,7,"Bethune-Cookman","Jackson State",2022
-401416622,2022,7,"Bowling Green","Miami (OH)",2022
-401428197,2022,7,"Bryant","Charleston Southern",2022
-401403916,2022,7,"BYU","Arkansas",2022
-401421131,2022,7,"Chattanooga","VMI",2022
-401426348,2022,7,"Coastal Carolina","Old Dominion",2022
-401404014,2022,7,"Colorado","California",2022
-401415238,2022,7,"Colorado State","Utah State",2022
-401415408,2022,7,"Cornell","Lehigh",2022
-401418607,2022,7,"Dartmouth","New Hampshire",2022
-401423148,2022,7,"Davidson","Morehead State",2022
-401411137,2022,7,"Duke","North Carolina",2022
-401415637,2022,7,"East Carolina","Memphis",2022
-401426256,2022,7,"Eastern Illinois","Lindenwood",2022
-401418639,2022,7,"Eastern Kentucky","Sam Houston State",2022
-401416620,2022,7,"Eastern Michigan","Northern Illinois",2022
-401413239,2022,7,"Eastern Washington","Sacramento State",2022
-401403917,2022,7,"Florida","LSU",2022
-401426585,2022,7,"Florida Atlantic","Rice",2022
-401426584,2022,7,"Florida International","UT San Antonio",2022
-401411138,2022,7,"Florida State","Clemson",2022
-401424436,2022,7,"Fordham","Stony Brook",2022
-401415239,2022,7,"Fresno State","San José State",2022
-401421160,2022,7,"Furman","Western Carolina",2022
-401403918,2022,7,"Georgia","Vanderbilt",2022
-401426349,2022,7,"Georgia Southern","James Madison",2022
-401424951,2022,7,"Grambling","Florida A&M",2022
-401415240,2022,7,"Hawai'i","Nevada",2022
-401462221,2022,7,"Houston Christian","Northwestern State",2022
-401418598,2022,7,"Howard","Harvard",2022
-401405112,2022,7,"Illinois","Minnesota",2022
-401418832,2022,7,"Illinois State","South Dakota",2022
-401405114,2022,7,"Indiana","Maryland",2022
-401418647,2022,7,"Kennesaw State","Central Arkansas",2022
-401403919,2022,7,"Kentucky","Mississippi State",2022
-401404162,2022,7,"Liberty","Gardner-Webb",2022
-401424407,2022,7,"Maine","Monmouth",2022
-401426347,2022,7,"Marshall","Louisiana",2022
-401462222,2022,7,"McNeese","Texas A&M-Commerce",2022
-401422925,2022,7,"Mercer","East Tennessee State",2022
-401423434,2022,7,"Merrimack","Wagner",2022
-401405115,2022,7,"Michigan","Penn State",2022
-401405116,2022,7,"Michigan State","Wisconsin",2022
-401426587,2022,7,"Middle Tennessee","Western Kentucky",2022
-401413249,2022,7,"Montana","Idaho",2022
-401409239,2022,7,"New Mexico State","New Mexico",2022
-401420850,2022,7,"Nicholls","Incarnate Word",2022
-401413219,2022,7,"North Alabama","Jacksonville State",2022
-401435488,2022,7,"North Carolina A&T","Edward Waters",2022
-401420782,2022,7,"North Carolina Central","Morgan State",2022
-401420834,2022,7,"North Dakota State","South Dakota State",2022
-401426586,2022,7,"North Texas","Louisiana Tech",2022
-401413343,2022,7,"Northern Colorado","Montana State",2022
-401420860,2022,7,"Northern Iowa","Utah Tech",2022
-401404016,2022,7,"Notre Dame","Stanford",2022
-401404094,2022,7,"Oklahoma","Kansas",2022
-401403920,2022,7,"Ole Miss","Auburn",2022
-401404015,2022,7,"Oregon State","Washington State",2022
-401415200,2022,7,"Pennsylvania","Columbia",2022
-401428190,2022,7,"Portland State","Weber State",2022
-401405113,2022,7,"Purdue","Nebraska",2022
-401424397,2022,7,"Rhode Island","Elon",2022
-401424435,2022,7,"Richmond","Villanova",2022
-401442045,2022,7,"Sacred Heart","Stonehill",2022
-401415635,2022,7,"SMU","Navy",2022
-401426350,2022,7,"South Alabama","Louisiana Monroe",2022
-401415636,2022,7,"South Florida","Tulane",2022
-401423928,2022,7,"Southern","Alcorn State",2022
-401425519,2022,7,"Southern Illinois","Western Illinois",2022
-401426351,2022,7,"Southern Mississippi","Arkansas State",2022
-401423155,2022,7,"St. Thomas (MN)","Drake",2022
-401420875,2022,7,"Stephen F. Austin","Tarleton State",2022
-401411139,2022,7,"Syracuse","NC State",2022
-401404095,2022,7,"TCU","Oklahoma State",2022
-401403921,2022,7,"Tennessee","Alabama",2022
-401425423,2022,7,"Tennessee Tech","Tennessee State",2022
-401404093,2022,7,"Texas","Iowa State",2022
-401416621,2022,7,"Toledo","Kent State",2022
-401426352,2022,7,"Troy","Texas State",2022
-401426583,2022,7,"UAB","Charlotte",2022
-401415173,2022,7,"UC Davis","Northern Arizona",2022
-401415634,2022,7,"UCF","Temple",2022
-401414783,2022,7,"UMass","Buffalo",2022
-401415237,2022,7,"UNLV","Air Force",2022
-401404017,2022,7,"Utah","USC",2022
-401421113,2022,7,"Valparaiso","Butler",2022
-401411140,2022,7,"Virginia Tech","Miami",2022
-401404013,2022,7,"Washington","Arizona",2022
-401404092,2022,7,"West Virginia","Baylor",2022
-401416623,2022,7,"Western Michigan","Ohio",2022
-401413208,2022,7,"Wofford","The Citadel",2022
-401418840,2022,7,"Youngstown State","Indiana State",2022
-401403909,2022,6,"Alabama","Texas A&M",2022
-401423442,2022,6,"Alabama A&M","Grambling",2022
-401423452,2022,6,"Alabama State","Jackson State",2022
-401404008,2022,6,"Arizona","Oregon",2022
-401404009,2022,6,"Arizona State","Washington",2022
-401426343,2022,6,"Arkansas State","James Madison",2022
-401423920,2022,6,"Arkansas-Pine Bluff","Texas Southern",2022
-401415232,2022,6,"Boise State","Fresno State",2022
-401411131,2022,6,"Boston College","Clemson",2022
-401416617,2022,6,"Bowling Green","Buffalo",2022
-401423139,2022,6,"Butler","Dayton",2022
-401404127,2022,6,"BYU","Notre Dame",2022
-401428191,2022,6,"Campbell","Charleston Southern",2022
-401426670,2022,6,"Central Arkansas","Lindenwood",2022
-401415189,2022,6,"Central Connecticut","Brown",2022
-401416613,2022,6,"Central Michigan","Ball State",2022
-401415633,2022,6,"Cincinnati","South Florida",2022
-401415407,2022,6,"Cornell","Harvard",2022
-401421097,2022,6,"Drake","San Diego",2022
-401432241,2022,6,"Duquesne","Merrimack",2022
-401418813,2022,6,"Eastern Illinois","Northwestern State",2022
-401424396,2022,6,"Elon","Towson",2022
-401403910,2022,6,"Florida","Missouri",2022
-401426579,2022,6,"Florida International","Connecticut",2022
-401403911,2022,6,"Georgia","Auburn",2022
-401411132,2022,6,"Georgia Tech","Duke",2022
-401424432,2022,6,"Hampton","Maine",2022
-401462219,2022,6,"Houston Christian","Nicholls",2022
-401405106,2022,6,"Illinois","Iowa",2022
-401420859,2022,6,"Incarnate Word","Lamar",2022
-401405108,2022,6,"Indiana","Michigan",2022
-401404088,2022,6,"Iowa State","Kansas State",2022
-401404089,2022,6,"Kansas","TCU",2022
-401418646,2022,6,"Kennesaw State","North Alabama",2022
-401403912,2022,6,"Kentucky","South Carolina",2022
-401422990,2022,6,"Lafayette","Princeton",2022
-401426344,2022,6,"Louisiana Monroe","Coastal Carolina",2022
-401426580,2022,6,"Louisiana Tech","UTEP",2022
-401403913,2022,6,"LSU","Tennessee",2022
-401405109,2022,6,"Maryland","Purdue",2022
-401415630,2022,6,"Memphis","Houston",2022
-401422924,2022,6,"Mercer","Western Carolina",2022
-401411133,2022,6,"Miami","North Carolina",2022
-401405110,2022,6,"Michigan State","Ohio State",2022
-401403914,2022,6,"Mississippi State","Arkansas",2022
-401420810,2022,6,"Missouri State","Southern Illinois",2022
-401424406,2022,6,"Monmouth","Albany",2022
-401413261,2022,6,"Montana State","Idaho State",2022
-401420781,2022,6,"Morgan State","Norfolk State",2022
-401420844,2022,6,"Murray State","UT Martin",2022
-401415632,2022,6,"Navy","Tulsa",2022
-401411134,2022,6,"NC State","Florida State",2022
-401415233,2022,6,"Nevada","Colorado State",2022
-401424433,2022,6,"New Hampshire","Stony Brook",2022
-401415234,2022,6,"New Mexico","Wyoming",2022
-401413228,2022,6,"Northern Arizona","Cal Poly",2022
-401416615,2022,6,"Northern Illinois","Toledo",2022
-401418831,2022,6,"Northern Iowa","Illinois State",2022
-401405107,2022,6,"Northwestern","Wisconsin",2022
-401416616,2022,6,"Ohio","Akron",2022
-401404090,2022,6,"Oklahoma","Texas",2022
-401404091,2022,6,"Oklahoma State","Texas Tech",2022
-401411135,2022,6,"Pittsburgh","Virginia Tech",2022
-401432238,2022,6,"Portland State","Lincoln University (CA)",2022
-401423927,2022,6,"Prairie View","Southern",2022
-401421105,2022,6,"Presbyterian College","Valparaiso",2022
-401428201,2022,6,"Robert Morris","Gardner-Webb",2022
-401405111,2022,6,"Rutgers","Nebraska",2022
-401415179,2022,6,"Sacramento State","Northern Colorado",2022
-401413207,2022,6,"Samford","Wofford",2022
-401415235,2022,6,"San Diego State","Hawai'i",2022
-401415236,2022,6,"San José State","UNLV",2022
-401420829,2022,6,"South Dakota State","South Dakota",2022
-401425453,2022,6,"Southeast Missouri State","Tennessee Tech",2022
-401462220,2022,6,"Southeastern Louisiana","Texas A&M-Commerce",2022
-401420879,2022,6,"Southern Utah","Tarleton State",2022
-401423147,2022,6,"St. Thomas (MN)","Davidson",2022
-401404010,2022,6,"Stanford","Oregon State",2022
-401462517,2022,6,"Stephen F. Austin","Abilene Christian",2022
-401424938,2022,6,"Tennessee State","Bethune-Cookman",2022
-401426345,2022,6,"Texas State","Appalachian State",2022
-401426346,2022,6,"Troy","Southern Mississippi",2022
-401415631,2022,6,"Tulane","East Carolina",2022
-401426581,2022,6,"UAB","Middle Tennessee",2022
-401415629,2022,6,"UCF","SMU",2022
-401404011,2022,6,"UCLA","Utah",2022
-401404164,2022,6,"UMass","Liberty",2022
-401404012,2022,6,"USC","Washington State",2022
-401426582,2022,6,"UT San Antonio","Western Kentucky",2022
-401415231,2022,6,"Utah State","Air Force",2022
-401403915,2022,6,"Vanderbilt","Ole Miss",2022
-401411136,2022,6,"Virginia","Louisville",2022
-401404138,2022,6,"Wake Forest","Army",2022
-401413238,2022,6,"Weber State","Eastern Washington",2022
-401416614,2022,6,"Western Michigan","Eastern Michigan",2022
-401424368,2022,6,"William & Mary","Delaware",2022
-401418606,2022,6,"Yale","Dartmouth",2022
-401420817,2022,6,"Youngstown State","North Dakota",2022
-401415227,2022,5,"Air Force","Navy",2022
-401416609,2022,5,"Akron","Bowling Green",2022
-401423441,2022,5,"Alabama A&M","Bethune-Cookman",2022
-401421140,2022,5,"Appalachian State","The Citadel",2022
-401404002,2022,5,"Arizona","Colorado",2022
-401403902,2022,5,"Arkansas","Alabama",2022
-401426340,2022,5,"Arkansas State","Louisiana Monroe",2022
-401404137,2022,5,"Army","Georgia State",2022
-401403903,2022,5,"Auburn","LSU",2022
-401416608,2022,5,"Ball State","Northern Illinois",2022
-401404083,2022,5,"Baylor","Oklahoma State",2022
-401411124,2022,5,"Boston College","Louisville",2022
-401422979,2022,5,"Bucknell","Lafayette",2022
-401416610,2022,5,"Buffalo","Miami (OH)",2022
-401415226,2022,5,"BYU","Utah State",2022
-401420801,2022,5,"Campbell","North Carolina Central",2022
-401418633,2022,5,"Central Arkansas","Austin Peay",2022
-401426573,2022,5,"Charlotte","UTEP",2022
-401411125,2022,5,"Clemson","NC State",2022
-401426337,2022,5,"Coastal Carolina","Georgia Southern",2022
-401404151,2022,5,"Connecticut","Fresno State",2022
-401423138,2022,5,"Davidson","Butler",2022
-401423154,2022,5,"Dayton","Drake",2022
-401424430,2022,5,"Delaware","Towson",2022
-401428383,2022,5,"Delaware State","Robert Morris",2022
-401411126,2022,5,"Duke","Virginia",2022
-401421130,2022,5,"East Tennessee State","Chattanooga",2022
-401418638,2022,5,"Eastern Kentucky","Southern Utah",2022
-401414782,2022,5,"Eastern Michigan","UMass",2022
-401424395,2022,5,"Elon","Richmond",2022
-401403904,2022,5,"Florida","Eastern Washington",2022
-401411127,2022,5,"Florida State","Wake Forest",2022
-401428481,2022,5,"Fordham","Georgetown",2022
-401421159,2022,5,"Furman","Samford",2022
-401425419,2022,5,"Grambling","Prairie View",2022
-401418597,2022,5,"Harvard","Holy Cross",2022
-401415625,2022,5,"Houston","Tulane",2022
-401413248,2022,5,"Idaho","Northern Colorado",2022
-401418830,2022,5,"Illinois State","Southern Illinois",2022
-401462217,2022,5,"Incarnate Word","McNeese",2022
-401405100,2022,5,"Iowa","Michigan",2022
-401413218,2022,5,"Jacksonville State","Kennesaw State",2022
-401426338,2022,5,"James Madison","Texas State",2022
-401404084,2022,5,"Kansas","Iowa State",2022
-401404085,2022,5,"Kansas State","Texas Tech",2022
-401416611,2022,5,"Kent State","Ohio",2022
-401462216,2022,5,"Lamar","Houston Christian",2022
-401423000,2022,5,"Lehigh","Monmouth",2022
-401426341,2022,5,"Louisiana","South Alabama",2022
-401424431,2022,5,"Maine","Villanova",2022
-401428486,2022,5,"Marist","St. Thomas (MN)",2022
-401426339,2022,5,"Marshall","Gardner-Webb",2022
-401405103,2022,5,"Maryland","Michigan State",2022
-401415628,2022,5,"Memphis","Temple",2022
-401426576,2022,5,"Middle Tennessee","UT San Antonio",2022
-401405101,2022,5,"Minnesota","Purdue",2022
-401403906,2022,5,"Mississippi State","Texas A&M",2022
-401403907,2022,5,"Missouri","Georgia",2022
-401413342,2022,5,"Montana State","UC Davis",2022
-401423159,2022,5,"Morehead State","Presbyterian College",2022
-401420780,2022,5,"Morgan State","Virginia Lynchburg",2022
-401405102,2022,5,"Nebraska","Indiana",2022
-401426574,2022,5,"New Mexico State","Florida International",2022
-401411128,2022,5,"North Carolina","Virginia Tech",2022
-401435487,2022,5,"North Carolina A&T","Bryant",2022
-401420809,2022,5,"North Dakota","Missouri State",2022
-401420824,2022,5,"North Dakota State","Youngstown State",2022
-401426575,2022,5,"North Texas","Florida Atlantic",2022
-401418838,2022,5,"Northern Iowa","Indiana State",2022
-401462218,2022,5,"Northwestern State","Nicholls",2022
-401405104,2022,5,"Ohio State","Rutgers",2022
-401404161,2022,5,"Old Dominion","Liberty",2022
-401403905,2022,5,"Ole Miss","Kentucky",2022
-401404005,2022,5,"Oregon","Stanford",2022
-401405105,2022,5,"Penn State","Northwestern",2022
-401411129,2022,5,"Pittsburgh","Georgia Tech",2022
-401415172,2022,5,"Portland State","Northern Arizona",2022
-401415188,2022,5,"Rhode Island","Brown",2022
-401426577,2022,5,"Rice","UAB",2022
-401420791,2022,5,"Sacred Heart","Norfolk State",2022
-401420870,2022,5,"Sam Houston State","Stephen F. Austin",2022
-401403908,2022,5,"South Carolina","South Carolina State",2022
-401420833,2022,5,"South Dakota State","Western Illinois",2022
-401421123,2022,5,"Southeastern Louisiana","Murray State",2022
-401424367,2022,5,"Stony Brook","William & Mary",2022
-401411130,2022,5,"Syracuse","Wagner",2022
-401404086,2022,5,"TCU","Oklahoma",2022
-401425422,2022,5,"Tennessee State","Lane",2022
-401404087,2022,5,"Texas","West Virginia",2022
-401423451,2022,5,"Texas Southern","Alabama State",2022
-401416607,2022,5,"Toledo","Central Michigan",2022
-401415627,2022,5,"Tulsa","Cincinnati",2022
-401404007,2022,5,"UCLA","Washington",2022
-401415229,2022,5,"UNLV","New Mexico",2022
-401404003,2022,5,"USC","Arizona State",2022
-401428478,2022,5,"UT Martin","Tennessee Tech",2022
-401404006,2022,5,"Utah","Oregon State",2022
-401418785,2022,5,"Utah Tech","Abilene Christian",2022
-401404004,2022,5,"Washington State","California",2022
-401422973,2022,5,"Western Carolina","VMI",2022
-401426578,2022,5,"Western Kentucky","Troy",2022
-401416612,2022,5,"Western Michigan","New Hampshire",2022
-401405099,2022,5,"Wisconsin","Illinois",2022
-401413206,2022,5,"Wofford","Mercer",2022
-401415230,2022,5,"Wyoming","San José State",2022
-401418784,2022,4,"Abilene Christian","Western New Mexico",2022
-401415220,2022,4,"Air Force","Nevada",2022
-401403892,2022,4,"Alabama","Vanderbilt",2022
-401423450,2022,4,"Alabama State","Prairie View",2022
-401424429,2022,4,"Albany","Central Connecticut",2022
-401415037,2022,4,"Appalachian State","James Madison",2022
-401403997,2022,4,"Arizona State","Utah",2022
-401403894,2022,4,"Auburn","Missouri",2022
-401418632,2022,4,"Austin Peay","Eastern Kentucky",2022
-401415187,2022,4,"Brown","Harvard",2022
-401415223,2022,4,"BYU","Wyoming",2022
-401403996,2022,4,"California","Arizona",2022
-401421158,2022,4,"Charleston Southern","Furman",2022
-401405096,2022,4,"Cincinnati","Indiana",2022
-401425414,2022,4,"Colgate","Holy Cross",2022
-401403998,2022,4,"Colorado","UCLA",2022
-401415221,2022,4,"Colorado State","Sacramento State",2022
-401415405,2022,4,"Cornell","Yale",2022
-401424426,2022,4,"Delaware","Hampton",2022
-401423153,2022,4,"Drake","Marist",2022
-401416604,2022,4,"Eastern Michigan","Buffalo",2022
-401413237,2022,4,"Eastern Washington","Montana State",2022
-401423440,2022,4,"Florida A&M","Alabama A&M",2022
-401411118,2022,4,"Florida State","Boston College",2022
-401422923,2022,4,"Gardner-Webb","Mercer",2022
-401415197,2022,4,"Georgetown","Columbia",2022
-401403895,2022,4,"Georgia","Kent State",2022
-401416605,2022,4,"Georgia Southern","Ball State",2022
-401426334,2022,4,"Georgia State","Coastal Carolina",2022
-401426570,2022,4,"Houston","Rice",2022
-401421129,2022,4,"Illinois","Chattanooga",2022
-401404080,2022,4,"Iowa State","Baylor",2022
-401404079,2022,4,"Kansas","Duke",2022
-401413205,2022,4,"Kennesaw State","Wofford",2022
-401403896,2022,4,"Kentucky","Northern Illinois",2022
-401404160,2022,4,"Liberty","Akron",2022
-401441991,2022,4,"Long Island University","Bryant",2022
-401426336,2022,4,"Louisiana Monroe","Louisiana",2022
-401411119,2022,4,"Louisville","South Florida",2022
-401403897,2022,4,"LSU","New Mexico",2022
-401418803,2022,4,"McNeese","Mississippi College",2022
-401426569,2022,4,"Memphis","North Texas",2022
-401426568,2022,4,"Miami","Middle Tennessee",2022
-401405097,2022,4,"Michigan","Maryland",2022
-401405092,2022,4,"Michigan State","Minnesota",2022
-401403899,2022,4,"Mississippi State","Bowling Green",2022
-401420808,2022,4,"Missouri State","South Dakota State",2022
-401413336,2022,4,"Montana","Portland State",2022
-401426255,2022,4,"Murray State","Eastern Illinois",2022
-401404150,2022,4,"NC State","Connecticut",2022
-401409237,2022,4,"New Mexico State","Hawai'i",2022
-401413217,2022,4,"Nicholls","Jacksonville State",2022
-401418779,2022,4,"North Alabama","Tarleton State",2022
-401404126,2022,4,"North Carolina","Notre Dame",2022
-401413247,2022,4,"Northern Arizona","Idaho",2022
-401413259,2022,4,"Northern Colorado","Idaho State",2022
-401405093,2022,4,"Northwestern","Miami (OH)",2022
-401462513,2022,4,"Northwestern State","Lamar",2022
-401405095,2022,4,"Ohio State","Wisconsin",2022
-401404081,2022,4,"Oklahoma","Kansas State",2022
-401426335,2022,4,"Old Dominion","Arkansas State",2022
-401403898,2022,4,"Ole Miss","Tulsa",2022
-401404000,2022,4,"Oregon State","USC",2022
-401405098,2022,4,"Penn State","Central Michigan",2022
-401422989,2022,4,"Pennsylvania","Lafayette",2022
-401411121,2022,4,"Pittsburgh","Rhode Island",2022
-401423146,2022,4,"Presbyterian College","Davidson",2022
-401422999,2022,4,"Princeton","Lehigh",2022
-401426566,2022,4,"Purdue","Florida Atlantic",2022
-401424428,2022,4,"Richmond","Stony Brook",2022
-401405091,2022,4,"Rutgers","Iowa",2022
-401422929,2022,4,"Samford","Western Carolina",2022
-401415224,2022,4,"San Diego State","Toledo",2022
-401415225,2022,4,"San José State","Western Michigan",2022
-401404078,2022,4,"SMU","TCU",2022
-401426567,2022,4,"South Alabama","Louisiana Tech",2022
-401426564,2022,4,"South Carolina","Charlotte",2022
-401420828,2022,4,"South Dakota","North Dakota State",2022
-401425452,2022,4,"Southeast Missouri State","Central Arkansas",2022
-401420816,2022,4,"Southern Illinois","North Dakota",2022
-401428485,2022,4,"St. Thomas (MN)","Lincoln University (CA)",2022
-401420864,2022,4,"Stephen F. Austin","Warner",2022
-401411117,2022,4,"Syracuse","Virginia",2022
-401414781,2022,4,"Temple","UMass",2022
-401403901,2022,4,"Tennessee","Florida",2022
-401403893,2022,4,"Texas A&M","Arkansas",2022
-401431900,2022,4,"Texas A&M-Commerce","North American University",2022
-401418793,2022,4,"Texas State","Houston Christian",2022
-401404082,2022,4,"Texas Tech","Texas",2022
-401424427,2022,4,"Towson","New Hampshire",2022
-401426393,2022,4,"Troy","Marshall",2022
-401415040,2022,4,"Tulane","Southern Mississippi",2022
-401415184,2022,4,"UC Davis","Weber State",2022
-401411122,2022,4,"UCF","Georgia Tech",2022
-401420842,2022,4,"UT Martin","Lindenwood",2022
-401426572,2022,4,"UT San Antonio","Texas Southern",2022
-401426571,2022,4,"UTEP","Boise State",2022
-401425090,2022,4,"Valparaiso","San Diego",2022
-401424405,2022,4,"Villanova","Monmouth",2022
-401411116,2022,4,"Virginia Tech","West Virginia",2022
-401411123,2022,4,"Wake Forest","Clemson",2022
-401404001,2022,4,"Washington","Stanford",2022
-401403999,2022,4,"Washington State","Oregon",2022
-401426565,2022,4,"Western Kentucky","Florida International",2022
-401424366,2022,4,"William & Mary","Elon",2022
-401403880,2022,3,"Alabama","Louisiana Monroe",2022
-401426333,2022,3,"Appalachian State","Troy",2022
-401403985,2022,3,"Arizona","North Dakota State",2022
-401403881,2022,3,"Arkansas","Missouri State",2022
-401404136,2022,3,"Army","Villanova",2022
-401403882,2022,3,"Auburn","Penn State",2022
-401416600,2022,3,"Ball State","Murray State",2022
-401404071,2022,3,"Baylor","Texas State",2022
-401415218,2022,3,"Boise State","UT Martin",2022
-401411110,2022,3,"Boston College","Maine",2022
-401416602,2022,3,"Central Michigan","Bucknell",2022
-401418778,2022,3,"Chattanooga","North Alabama",2022
-401426556,2022,3,"Clemson","Louisiana Tech",2022
-401416601,2022,3,"Coastal Carolina","Buffalo",2022
-401418603,2022,3,"Dartmouth","Valparaiso",2022
-401425514,2022,3,"Delaware State","Virginia Lynchburg",2022
-401415621,2022,3,"East Carolina","Campbell",2022
-401421157,2022,3,"East Tennessee State","Furman",2022
-401418637,2022,3,"Eastern Kentucky","Charleston Southern",2022
-401424394,2022,3,"Elon","Gardner-Webb",2022
-401403883,2022,3,"Florida","South Florida",2022
-401426555,2022,3,"Florida Atlantic","UCF",2022
-401424425,2022,3,"Fordham","Albany",2022
-401426554,2022,3,"Georgia State","Charlotte",2022
-401403886,2022,3,"Georgia Tech","Ole Miss",2022
-401435074,2022,3,"Harvard","Merrimack",2022
-401415219,2022,3,"Hawai'i","Duquesne",2022
-401404068,2022,3,"Houston","Kansas",2022
-401426252,2022,3,"Howard","Morehouse",2022
-401418829,2022,3,"Illinois State","Eastern Illinois",2022
-401426563,2022,3,"Indiana","Western Kentucky",2022
-401405082,2022,3,"Iowa","Nevada",2022
-401404069,2022,3,"Iowa State","Ohio",2022
-401404074,2022,3,"Kansas State","Tulane",2022
-401416603,2022,3,"Kent State","Long Island University",2022
-401403884,2022,3,"Kentucky","Youngstown State",2022
-401422988,2022,3,"Lafayette","William & Mary",2022
-401415178,2022,3,"Lamar","Northern Colorado",2022
-401422998,2022,3,"Lehigh","Richmond",2022
-401411109,2022,3,"Louisville","Florida State",2022
-401403885,2022,3,"LSU","Mississippi State",2022
-401405087,2022,3,"Maryland","SMU",2022
-401415622,2022,3,"Memphis","Arkansas State",2022
-401421139,2022,3,"Mercer","The Citadel",2022
-401404149,2022,3,"Michigan","Connecticut",2022
-401426557,2022,3,"Middle Tennessee","Tennessee State",2022
-401403988,2022,3,"Minnesota","Colorado",2022
-401424404,2022,3,"Monmouth","Georgetown",2022
-401423157,2022,3,"Morehead State","Kentucky Christian",2022
-401404072,2022,3,"NC State","Texas Tech",2022
-401404070,2022,3,"Nebraska","Oklahoma",2022
-401420799,2022,3,"New Hampshire","North Carolina Central",2022
-401426561,2022,3,"New Mexico","UTEP",2022
-401420789,2022,3,"Norfolk State","Hampton",2022
-401415171,2022,3,"Northern Arizona","North Dakota",2022
-401403891,2022,3,"Northern Illinois","Vanderbilt",2022
-401425456,2022,3,"Northern Iowa","Sacramento State",2022
-401405083,2022,3,"Northwestern","Southern Illinois",2022
-401403987,2022,3,"Notre Dame","California",2022
-401405088,2022,3,"Ohio State","Toledo",2022
-401404075,2022,3,"Oklahoma State","Arkansas-Pine Bluff",2022
-401403989,2022,3,"Oregon","BYU",2022
-401403990,2022,3,"Oregon State","Montana State",2022
-401420847,2022,3,"Prairie View","Incarnate Word",2022
-401424424,2022,3,"Rhode Island","Delaware",2022
-401426559,2022,3,"Rice","Louisiana",2022
-401420869,2022,3,"Sam Houston State","Texas A&M-Commerce",2022
-401403888,2022,3,"South Carolina","Georgia",2022
-401413226,2022,3,"South Dakota","Cal Poly",2022
-401420832,2022,3,"South Dakota State","Butler",2022
-401421118,2022,3,"Southeast Missouri State","Nicholls",2022
-401423919,2022,3,"Southern","Texas Southern",2022
-401415032,2022,3,"Southern Mississippi","Northwestern State",2022
-401423413,2022,3,"Stetson","Princeton",2022
-401420881,2022,3,"Tarleton State","Eastern New Mexico",2022
-401405089,2022,3,"Temple","Rutgers",2022
-401403889,2022,3,"Tennessee","Akron",2022
-401403890,2022,3,"Texas A&M","Miami",2022
-401413216,2022,3,"Tulsa","Jacksonville State",2022
-401426560,2022,3,"UAB","Georgia Southern",2022
-401415183,2022,3,"UC Davis","San Diego",2022
-401403991,2022,3,"UCLA","South Alabama",2022
-401414780,2022,3,"UMass","Stony Brook",2022
-401426558,2022,3,"UNLV","North Texas",2022
-401403992,2022,3,"USC","Fresno State",2022
-401403993,2022,3,"Utah","San Diego State",2022
-401411113,2022,3,"Virginia","Old Dominion",2022
-401411114,2022,3,"Virginia Tech","Wofford",2022
-401423426,2022,3,"Wagner","St Francis (PA)",2022
-401404159,2022,3,"Wake Forest","Liberty",2022
-401403994,2022,3,"Washington","Michigan State",2022
-401403995,2022,3,"Washington State","Colorado State",2022
-401404073,2022,3,"West Virginia","Towson",2022
-401420878,2022,3,"Western Illinois","Southern Utah",2022
-401411115,2022,3,"Western Michigan","Pittsburgh",2022
-401405085,2022,3,"Wisconsin","New Mexico State",2022
-401415217,2022,3,"Wyoming","Air Force",2022
-401418783,2022,2,"Abilene Christian","Prairie View",2022
-401424418,2022,2,"Albany","New Hampshire",2022
-401403875,2022,2,"Arizona","Mississippi State",2022
-401403869,2022,2,"Arkansas","South Carolina",2022
-401444874,2022,2,"Arkansas-Pine Bluff","North American University",2022
-401426553,2022,2,"Army","UT San Antonio",2022
-401403870,2022,2,"Auburn","San José State",2022
-401418630,2022,2,"Austin Peay","Mississippi Valley State",2022
-401416594,2022,2,"Ball State","Western Michigan",2022
-401424936,2022,2,"Bethune-Cookman","South Carolina State",2022
-401416595,2022,2,"Bowling Green","Eastern Kentucky",2022
-401426492,2022,2,"Bryant","Rhode Island",2022
-401416596,2022,2,"Buffalo","Holy Cross",2022
-401423137,2022,2,"Butler","Taylor",2022
-401404062,2022,2,"BYU","Baylor",2022
-401413225,2022,2,"Cal Poly","San Diego",2022
-401403976,2022,2,"California","UNLV",2022
-401423418,2022,2,"Central Connecticut","Sacred Heart",2022
-401416597,2022,2,"Central Michigan","South Alabama",2022
-401415619,2022,2,"Cincinnati","Kennesaw State",2022
-401411102,2022,2,"Clemson","Furman",2022
-401426332,2022,2,"Coastal Carolina","Gardner-Webb",2022
-401426548,2022,2,"Colorado State","Middle Tennessee",2022
-401404148,2022,2,"Connecticut","Syracuse",2022
-401423144,2022,2,"Davidson","Barton College",2022
-401424419,2022,2,"Delaware","Delaware State",2022
-401423152,2022,2,"Drake","Missouri S&T",2022
-401415024,2022,2,"East Carolina","Old Dominion",2022
-401421128,2022,2,"Eastern Illinois","Chattanooga",2022
-401403871,2022,2,"Florida","Kentucky",2022
-401424948,2022,2,"Florida A&M","Albany State (GA)",2022
-401426546,2022,2,"Florida Atlantic","Southeastern Louisiana",2022
-401403979,2022,2,"Fresno State","Oregon State",2022
-401422997,2022,2,"Georgetown","Lehigh",2022
-401403872,2022,2,"Georgia","Samford",2022
-401411103,2022,2,"Georgia State","North Carolina",2022
-401411104,2022,2,"Georgia Tech","Western Carolina",2022
-401418792,2022,2,"Houston Christian","Lindenwood",2022
-401405070,2022,2,"Illinois","Virginia",2022
-401418828,2022,2,"Illinois State","Valparaiso",2022
-401405075,2022,2,"Indiana","Idaho",2022
-401404064,2022,2,"Iowa","Iowa State",2022
-401420788,2022,2,"James Madison","Norfolk State",2022
-401403876,2022,2,"Kansas State","Missouri",2022
-401426551,2022,2,"Liberty","UAB",2022
-401416598,2022,2,"Louisiana","Eastern Michigan",2022
-401421117,2022,2,"Louisiana Monroe","Nicholls",2022
-401426547,2022,2,"Louisiana Tech","Stephen F. Austin",2022
-401403873,2022,2,"LSU","Southern",2022
-401424421,2022,2,"Maine","Colgate",2022
-401435073,2022,2,"Merrimack","Assumption",2022
-401411105,2022,2,"Miami","Southern Mississippi",2022
-401416599,2022,2,"Miami (OH)","Robert Morris",2022
-401405077,2022,2,"Michigan","Hawai'i",2022
-401405078,2022,2,"Michigan State","Akron",2022
-401405071,2022,2,"Minnesota","Western Illinois",2022
-401420807,2022,2,"Missouri State","UT Martin",2022
-401424403,2022,2,"Monmouth","Fordham",2022
-401413334,2022,2,"Montana","South Dakota",2022
-401413341,2022,2,"Montana State","Morehead State",2022
-401413215,2022,2,"Murray State","Jacksonville State",2022
-401415617,2022,2,"Navy","Memphis",2022
-401411106,2022,2,"NC State","Charleston Southern",2022
-401405072,2022,2,"Nebraska","Georgia Southern",2022
-401415216,2022,2,"Nevada","Incarnate Word",2022
-401415214,2022,2,"New Mexico","Boise State",2022
-401418777,2022,2,"North Alabama","UVA-Wise",2022
-401420798,2022,2,"North Carolina Central","Winston-Salem",2022
-401420815,2022,2,"North Dakota","Northern Iowa",2022
-401420837,2022,2,"North Dakota State","North Carolina A&T",2022
-401405073,2022,2,"Northwestern","Duke",2022
-401418810,2022,2,"Northwestern State","Grambling",2022
-401404125,2022,2,"Notre Dame","Marshall",2022
-401405079,2022,2,"Ohio State","Arkansas State",2022
-401404066,2022,2,"Oklahoma","Kent State",2022
-401403975,2022,2,"Oklahoma State","Arizona State",2022
-401403874,2022,2,"Ole Miss","Central Arkansas",2022
-401403978,2022,2,"Oregon","Eastern Washington",2022
-401405080,2022,2,"Penn State","Ohio",2022
-401403877,2022,2,"Pittsburgh","Tennessee",2022
-401431405,2022,2,"Presbyterian College","Virginia Lynchburg",2022
-401405074,2022,2,"Purdue","Indiana State",2022
-401426550,2022,2,"Rice","McNeese",2022
-401423425,2022,2,"Richmond","St Francis (PA)",2022
-401405081,2022,2,"Rutgers","Wagner",2022
-401415170,2022,2,"Sam Houston State","Northern Arizona",2022
-401413257,2022,2,"San Diego State","Idaho State",2022
-401415616,2022,2,"SMU","Lamar",2022
-401415182,2022,2,"South Dakota State","UC Davis",2022
-401415618,2022,2,"South Florida","Howard",2022
-401425451,2022,2,"Southern Illinois","Southeast Missouri State",2022
-401428484,2022,2,"St. Thomas (MN)","Michigan Tech",2022
-401403980,2022,2,"Stanford","USC",2022
-401423412,2022,2,"Stetson","Louisiana College",2022
-401404067,2022,2,"TCU","Tarleton State",2022
-401415614,2022,2,"Temple","Lafayette",2022
-401424953,2022,2,"Tennessee State","Jackson State",2022
-401403868,2022,2,"Texas","Alabama",2022
-401403878,2022,2,"Texas A&M","Appalachian State",2022
-401426544,2022,2,"Texas State","Florida International",2022
-401404063,2022,2,"Texas Tech","Houston",2022
-401421138,2022,2,"The Citadel","East Tennessee State",2022
-401414779,2022,2,"Toledo","UMass",2022
-401423439,2022,2,"Troy","Alabama A&M",2022
-401415615,2022,2,"Tulane","Alcorn State",2022
-401415620,2022,2,"Tulsa","Northern Illinois",2022
-401415613,2022,2,"UCF","Louisville",2022
-401403981,2022,2,"UCLA","Alabama State",2022
-401403982,2022,2,"Utah","Southern Utah",2022
-401415215,2022,2,"Utah State","Weber State",2022
-401420856,2022,2,"Utah Tech","Chadron State",2022
-401426552,2022,2,"UTEP","New Mexico State",2022
-401403879,2022,2,"Vanderbilt","Wake Forest",2022
-401411108,2022,2,"Virginia Tech","Boston College",2022
-401403983,2022,2,"Washington","Portland State",2022
-401404065,2022,2,"West Virginia","Kansas",2022
-401415177,2022,2,"Wyoming","Northern Colorado",2022
-401420823,2022,2,"Youngstown State","Dayton",2022
-401418782,2022,1,"Abilene Christian","Lamar",2022
-401415209,2022,1,"Air Force","Northern Iowa",2022
-401416568,2022,1,"Akron","St Francis (PA)",2022
-401403854,2022,1,"Alabama","Utah State",2022
-401423448,2022,1,"Alabama State","Howard",2022
-401420873,2022,1,"Alcorn State","Stephen F. Austin",2022
-401411095,2022,1,"Appalachian State","North Carolina",2022
-401403855,2022,1,"Arkansas","Cincinnati",2022
-401425418,2022,1,"Arkansas State","Grambling",2022
-401424943,2022,1,"Arkansas-Pine Bluff","Lane",2022
-401403856,2022,1,"Auburn","Mercer",2022
-401424416,2022,1,"Baylor","Albany",2022
-401405069,2022,1,"Boston College","Rutgers",2022
-401422978,2022,1,"Bucknell","Towson",2022
-401423136,2022,1,"Butler","St. Thomas University (Fl)",2022
-401403968,2022,1,"California","UC Davis",2022
-401421137,2022,1,"Campbell","The Citadel",2022
-401420806,2022,1,"Central Arkansas","Missouri State",2022
-401422975,2022,1,"Charleston Southern","Western Carolina",2022
-401426535,2022,1,"Charlotte","William & Mary",2022
-401413203,2022,1,"Chattanooga","Wofford",2022
-401404134,2022,1,"Coastal Carolina","Army",2022
-401403966,2022,1,"Colorado","TCU",2022
-401404147,2022,1,"Connecticut","Central Connecticut",2022
-401425513,2022,1,"Delaware State","Lincoln (PA)",2022
-401411094,2022,1,"Duke","Temple",2022
-401411096,2022,1,"East Carolina","NC State",2022
-401425510,2022,1,"East Tennessee State","Mars Hill",2022
-401416590,2022,1,"Eastern Michigan","Eastern Kentucky",2022
-401413236,2022,1,"Eastern Washington","Tennessee State",2022
-401403857,2022,1,"Florida","Utah",2022
-401426530,2022,1,"Florida Atlantic","Charlotte",2022
-401426533,2022,1,"Florida International","Bryant",2022
-401411090,2022,1,"Florida State","Duquesne",2022
-401403867,2022,1,"Florida State","LSU",2022
-401413224,2022,1,"Fresno State","Cal Poly",2022
-401421156,2022,1,"Furman","North Greenville",2022
-401432239,2022,1,"Gardner-Webb","Limestone",2022
-401403858,2022,1,"Georgia","Oregon",2022
-401420777,2022,1,"Georgia Southern","Morgan State",2022
-401411101,2022,1,"Georgia Tech","Clemson",2022
-401403853,2022,1,"Hawai'i","Vanderbilt",2022
-401426543,2022,1,"Hawai'i","Western Kentucky",2022
-401405058,2022,1,"Illinois","Wyoming",2022
-401420846,2022,1,"Incarnate Word","Southern Illinois",2022
-401405061,2022,1,"Indiana","Illinois",2022
-401418776,2022,1,"Indiana State","North Alabama",2022
-401405062,2022,1,"Iowa","South Dakota State",2022
-401404057,2022,1,"Iowa State","Southeast Missouri State",2022
-401424947,2022,1,"Jackson State","Florida A&M",2022
-401413214,2022,1,"Jacksonville State","Davidson",2022
-401413213,2022,1,"Jacksonville State","Stephen F. Austin",2022
-401426538,2022,1,"James Madison","Middle Tennessee",2022
-401404052,2022,1,"Kansas","Tennessee Tech",2022
-401404056,2022,1,"Kansas State","South Dakota",2022
-401403859,2022,1,"Kentucky","Miami (OH)",2022
-401422987,2022,1,"Lafayette","Sacred Heart",2022
-401421121,2022,1,"Louisiana","Southeastern Louisiana",2022
-401431403,2022,1,"Marist","Georgetown",2022
-401405066,2022,1,"Maryland","Buffalo",2022
-401422922,2022,1,"Mercer","Morehead State",2022
-401435072,2022,1,"Merrimack","Holy Cross",2022
-401411097,2022,1,"Miami","Bethune-Cookman",2022
-401405067,2022,1,"Michigan","Colorado State",2022
-401416591,2022,1,"Michigan State","Western Michigan",2022
-401405060,2022,1,"Minnesota","New Mexico State",2022
-401403861,2022,1,"Mississippi State","Memphis",2022
-401426537,2022,1,"Missouri","Louisiana Tech",2022
-401413333,2022,1,"Montana","Northwestern State",2022
-401415611,2022,1,"Navy","Delaware",2022
-401405063,2022,1,"Nebraska","North Dakota",2022
-401424402,2022,1,"New Hampshire","Monmouth",2022
-401415210,2022,1,"New Mexico","Maine",2022
-401409235,2022,1,"New Mexico State","Nevada",2022
-401411091,2022,1,"North Carolina","Florida A&M",2022
-401420797,2022,1,"North Carolina Central","North Carolina A&T",2022
-401420836,2022,1,"North Dakota State","Drake",2022
-401426539,2022,1,"North Texas","SMU",2022
-401416592,2022,1,"Northern Illinois","Eastern Illinois",2022
-401405059,2022,1,"Northwestern","Nebraska",2022
-401426536,2022,1,"Ohio","Florida Atlantic",2022
-401404124,2022,1,"Ohio State","Notre Dame",2022
-401426541,2022,1,"Oklahoma","UTEP",2022
-401416569,2022,1,"Oklahoma State","Central Michigan",2022
-401426330,2022,1,"Old Dominion","Virginia Tech",2022
-401403860,2022,1,"Ole Miss","Troy",2022
-401403969,2022,1,"Oregon State","Boise State",2022
-401411092,2022,1,"Pittsburgh","West Virginia",2022
-401423918,2022,1,"Prairie View","Texas Southern",2022
-401405064,2022,1,"Purdue","Penn State",2022
-401420855,2022,1,"Sacramento State","Utah Tech",2022
-401418645,2022,1,"Samford","Kennesaw State",2022
-401432189,2022,1,"San Diego","La Verne",2022
-401403967,2022,1,"San Diego State","Arizona",2022
-401415213,2022,1,"San José State","Portland State",2022
-401421116,2022,1,"South Alabama","Nicholls",2022
-401403863,2022,1,"South Carolina","Georgia State",2022
-401415612,2022,1,"South Florida","BYU",2022
-401404157,2022,1,"Southern Mississippi","Liberty",2022
-401420877,2022,1,"Southern Utah","St. Thomas (MN)",2022
-401403970,2022,1,"Stanford","Colgate",2022
-401424414,2022,1,"Stony Brook","Rhode Island",2022
-401411099,2022,1,"Syracuse","Louisville",2022
-401403864,2022,1,"Tennessee","Ball State",2022
-401404059,2022,1,"Texas","Louisiana Monroe",2022
-401403865,2022,1,"Texas A&M","Sam Houston State",2022
-401421125,2022,1,"Texas A&M-Commerce","Lincoln University (CA)",2022
-401404055,2022,1,"Texas Tech","Murray State",2022
-401441990,2022,1,"Toledo","Long Island University",2022
-401426534,2022,1,"UAB","Alabama A&M",2022
-401403971,2022,1,"UCLA","Bowling Green",2022
-401426540,2022,1,"USC","Rice",2022
-401420840,2022,1,"UT Martin","Western Illinois",2022
-401426542,2022,1,"UT San Antonio","Houston",2022
-401404146,2022,1,"Utah State","Connecticut",2022
-401426531,2022,1,"UTEP","North Texas",2022
-401466246,2022,1,"Valparaiso","Indiana Wesleyan",2022
-401403866,2022,1,"Vanderbilt","Elon",2022
-401424415,2022,1,"Villanova","Lehigh",2022
-401411100,2022,1,"Virginia","Richmond",2022
-401428480,2022,1,"Wagner","Fordham",2022
-401411093,2022,1,"Wake Forest","VMI",2022
-401403973,2022,1,"Washington","Kent State",2022
-401403974,2022,1,"Washington State","Idaho",2022
-401431610,2022,1,"Weber State","Western Oregon",2022
-401426532,2022,1,"Western Kentucky","Austin Peay",2022
-401405065,2022,1,"Wisconsin","Illinois State",2022
-401415211,2022,1,"Wyoming","Tulsa",2022
-401420822,2022,1,"Youngstown State","Duquesne",2022
+401301056,2021,15,"Army","Navy",2021
+401282154,2021,14,"Alabama","Georgia",2021
+401387250,2021,14,"California","USC",2021
+401331162,2021,14,"Cincinnati","Houston",2021
+401331447,2021,14,"Iowa","Michigan",2021
+401331161,2021,14,"Louisiana","Appalachian State",2021
+401331160,2021,14,"Northern Illinois","Kent State",2021
+401287953,2021,14,"Oklahoma State","Baylor",2021
+401310676,2021,14,"San Diego State","Utah State",2021
+401282156,2021,14,"UT San Antonio","Western Kentucky",2021
+401331159,2021,14,"Utah","Oregon",2021
+401331163,2021,14,"Wake Forest","Pittsburgh",2021
+401310752,2021,13,"Air Force","UNLV",2021
+401309646,2021,13,"Appalachian State","Georgia Southern",2021
+401309909,2021,13,"Arizona State","Arizona",2021
+401282145,2021,13,"Arkansas","Missouri",2021
+401309647,2021,13,"Arkansas State","Texas State",2021
+401282146,2021,13,"Auburn","Alabama",2021
+401309593,2021,13,"Ball State","Buffalo",2021
+401287948,2021,13,"Baylor","Texas Tech",2021
+401282700,2021,13,"Boston College","Wake Forest",2021
+401309596,2021,13,"Bowling Green","Ohio",2021
+401309595,2021,13,"Central Michigan","Eastern Michigan",2021
+401310754,2021,13,"Colorado State","Nevada",2021
+401301052,2021,13,"Connecticut","Houston",2021
+401282701,2021,13,"Duke","Miami",2021
+401301051,2021,13,"East Carolina","Cincinnati",2021
+401282147,2021,13,"Florida","Florida State",2021
+401282270,2021,13,"Florida Atlantic","Middle Tennessee",2021
+401309649,2021,13,"Georgia State","Troy",2021
+401282148,2021,13,"Georgia Tech","Georgia",2021
+401282722,2021,13,"Illinois","Northwestern",2021
+401287949,2021,13,"Iowa State","TCU",2021
+401287950,2021,13,"Kansas","West Virginia",2021
+401308842,2021,13,"Kent State","Miami (OH)",2021
+401286299,2021,13,"Liberty","Army",2021
+401309650,2021,13,"Louisiana","Louisiana Monroe",2021
+401282149,2021,13,"Louisville","Kentucky",2021
+401282150,2021,13,"LSU","Texas A&M",2021
+401282272,2021,13,"Marshall","Western Kentucky",2021
+401301053,2021,13,"Memphis","Tulane",2021
+401282781,2021,13,"Michigan","Ohio State",2021
+401282785,2021,13,"Michigan State","Penn State",2021
+401282794,2021,13,"Minnesota","Wisconsin",2021
+401282151,2021,13,"Mississippi State","Ole Miss",2021
+401282699,2021,13,"NC State","North Carolina",2021
+401282761,2021,13,"Nebraska","Iowa",2021
+401310755,2021,13,"New Mexico","Utah State",2021
+401286306,2021,13,"New Mexico State","UMass",2021
+401282273,2021,13,"North Texas","UT San Antonio",2021
+401309594,2021,13,"Northern Illinois","Western Michigan",2021
+401287951,2021,13,"Oklahoma State","Oklahoma",2021
+401282268,2021,13,"Old Dominion","Charlotte",2021
+401309908,2021,13,"Oregon","Oregon State",2021
+401282753,2021,13,"Purdue","Indiana",2021
+401282271,2021,13,"Rice","Louisiana Tech",2021
+401282766,2021,13,"Rutgers","Maryland",2021
+401310753,2021,13,"San Diego State","Boise State",2021
+401310757,2021,13,"San José State","Fresno State",2021
+401301055,2021,13,"SMU","Tulsa",2021
+401309648,2021,13,"South Alabama","Coastal Carolina",2021
+401282152,2021,13,"South Carolina","Clemson",2021
+401282269,2021,13,"Southern Mississippi","Florida International",2021
+401282711,2021,13,"Stanford","Notre Dame",2021
+401282702,2021,13,"Syracuse","Pittsburgh",2021
+401301054,2021,13,"Temple","Navy",2021
+401282153,2021,13,"Tennessee","Vanderbilt",2021
+401287952,2021,13,"Texas","Kansas State",2021
+401309597,2021,13,"Toledo","Akron",2021
+401282274,2021,13,"UAB","UTEP",2021
+401301050,2021,13,"UCF","South Florida",2021
+401309907,2021,13,"UCLA","California",2021
+401309910,2021,13,"USC","BYU",2021
+401309906,2021,13,"Utah","Colorado",2021
+401282703,2021,13,"Virginia","Virginia Tech",2021
+401309905,2021,13,"Washington","Washington State",2021
+401310756,2021,13,"Wyoming","Hawai'i",2021
+401282135,2021,12,"Alabama","Arkansas",2021
+401286305,2021,12,"Army","UMass",2021
+401309591,2021,12,"Ball State","Central Michigan",2021
+401310748,2021,12,"Boise State","New Mexico",2021
+401282692,2021,12,"Boston College","Florida State",2021
+401309590,2021,12,"Buffalo","Northern Illinois",2021
+401282261,2021,12,"Charlotte","Marshall",2021
+401301046,2021,12,"Cincinnati","SMU",2021
+401282693,2021,12,"Clemson","Wake Forest",2021
+401309644,2021,12,"Coastal Carolina","Texas State",2021
+401309903,2021,12,"Colorado","Washington",2021
+401282691,2021,12,"Duke","Louisville",2021
+401309588,2021,12,"Eastern Michigan","Western Michigan",2021
+401282262,2021,12,"Florida International","North Texas",2021
+401282136,2021,12,"Georgia","Charleston Southern",2021
+401309645,2021,12,"Georgia Southern","BYU",2021
+401310749,2021,12,"Hawai'i","Colorado State",2021
+401301045,2021,12,"Houston","Memphis",2021
+401282732,2021,12,"Indiana","Minnesota",2021
+401282721,2021,12,"Iowa","Illinois",2021
+401287943,2021,12,"Kansas State","Baylor",2021
+401282137,2021,12,"Kentucky","New Mexico State",2021
+401286298,2021,12,"Liberty","Louisiana",2021
+401282138,2021,12,"LSU","Louisiana Monroe",2021
+401282770,2021,12,"Maryland","Michigan",2021
+401282694,2021,12,"Miami","Virginia Tech",2021
+401308841,2021,12,"Miami (OH)","Bowling Green",2021
+401282140,2021,12,"Mississippi State","Tennessee State",2021
+401282141,2021,12,"Missouri","Florida",2021
+401301047,2021,12,"Navy","East Carolina",2021
+401282695,2021,12,"NC State","Syracuse",2021
+401310747,2021,12,"Nevada","Air Force",2021
+401282696,2021,12,"North Carolina","Wofford",2021
+401282808,2021,12,"Northwestern","Purdue",2021
+401282697,2021,12,"Notre Dame","Georgia Tech",2021
+401309589,2021,12,"Ohio","Toledo",2021
+401282786,2021,12,"Ohio State","Michigan State",2021
+401287944,2021,12,"Oklahoma","Iowa State",2021
+401282139,2021,12,"Ole Miss","Vanderbilt",2021
+401309902,2021,12,"Oregon State","Arizona State",2021
+401282818,2021,12,"Penn State","Rutgers",2021
+401282698,2021,12,"Pittsburgh","Virginia",2021
+401282142,2021,12,"South Carolina","Auburn",2021
+401309900,2021,12,"Stanford","California",2021
+401287945,2021,12,"TCU","Kansas",2021
+401282143,2021,12,"Tennessee","South Alabama",2021
+401282144,2021,12,"Texas A&M","Prairie View",2021
+401287946,2021,12,"Texas Tech","Oklahoma State",2021
+401309642,2021,12,"Troy","Appalachian State",2021
+401301048,2021,12,"Tulane","South Florida",2021
+401301049,2021,12,"Tulsa","Temple",2021
+401286293,2021,12,"UCF","Connecticut",2021
+401310751,2021,12,"UNLV","San Diego State",2021
+401309904,2021,12,"USC","UCLA",2021
+401282267,2021,12,"UT San Antonio","UAB",2021
+401309901,2021,12,"Utah","Oregon",2021
+401310750,2021,12,"Utah State","Wyoming",2021
+401282266,2021,12,"UTEP","Rice",2021
+401309899,2021,12,"Washington State","Arizona",2021
+401287947,2021,12,"West Virginia","Texas",2021
+401282263,2021,12,"Western Kentucky","Florida Atlantic",2021
+401282803,2021,12,"Wisconsin","Nebraska",2021
+401282127,2021,11,"Alabama","New Mexico State",2021
+401309637,2021,11,"Appalachian State","South Alabama",2021
+401309896,2021,11,"Arizona","Utah",2021
+401310254,2021,11,"Army","Bucknell",2021
+401282128,2021,11,"Auburn","Mississippi State",2021
+401287938,2021,11,"Baylor","Oklahoma",2021
+401310742,2021,11,"Boise State","Wyoming",2021
+401309585,2021,11,"Bowling Green","Toledo",2021
+401309586,2021,11,"Central Michigan","Kent State",2021
+401282684,2021,11,"Clemson","Connecticut",2021
+401309639,2021,11,"Coastal Carolina","Georgia State",2021
+401310741,2021,11,"Colorado State","Air Force",2021
+401309583,2021,11,"Eastern Michigan","Ohio",2021
+401282129,2021,11,"Florida","Samford",2021
+401282685,2021,11,"Florida State","Miami",2021
+401310743,2021,11,"Fresno State","New Mexico",2021
+401282686,2021,11,"Georgia Tech","Boston College",2021
+401282728,2021,11,"Indiana","Rutgers",2021
+401282762,2021,11,"Iowa","Minnesota",2021
+401287939,2021,11,"Kansas State","West Virginia",2021
+401309638,2021,11,"Louisiana Monroe","Arkansas State",2021
+401282254,2021,11,"Louisiana Tech","Charlotte",2021
+401282687,2021,11,"Louisville","Syracuse",2021
+401282130,2021,11,"LSU","Arkansas",2021
+401282257,2021,11,"Marshall","UAB",2021
+401301042,2021,11,"Memphis","East Carolina",2021
+401308840,2021,11,"Miami (OH)","Buffalo",2021
+401282771,2021,11,"Michigan State","Maryland",2021
+401282132,2021,11,"Missouri","South Carolina",2021
+401282258,2021,11,"North Texas","UTEP",2021
+401309587,2021,11,"Northern Illinois","Ball State",2021
+401282812,2021,11,"Ohio State","Purdue",2021
+401282256,2021,11,"Old Dominion","Florida Atlantic",2021
+401282131,2021,11,"Ole Miss","Texas A&M",2021
+401309895,2021,11,"Oregon","Washington State",2021
+401309894,2021,11,"Oregon State","Stanford",2021
+401282780,2021,11,"Penn State","Michigan",2021
+401282683,2021,11,"Pittsburgh","North Carolina",2021
+401282259,2021,11,"Rice","Western Kentucky",2021
+401310746,2021,11,"San Diego State","Nevada",2021
+401310744,2021,11,"San José State","Utah State",2021
+401301041,2021,11,"SMU","UCF",2021
+401301040,2021,11,"South Florida","Cincinnati",2021
+401301043,2021,11,"Temple","Houston",2021
+401282133,2021,11,"Tennessee","Georgia",2021
+401287941,2021,11,"Texas","Kansas",2021
+401309640,2021,11,"Texas State","Georgia Southern",2021
+401287942,2021,11,"Texas Tech","Iowa State",2021
+401309641,2021,11,"Troy","Louisiana",2021
+401301044,2021,11,"Tulane","Tulsa",2021
+401309898,2021,11,"UCLA","Colorado",2021
+401286304,2021,11,"UMass","Maine",2021
+401282260,2021,11,"UT San Antonio","Southern Mississippi",2021
+401282134,2021,11,"Vanderbilt","Kentucky",2021
+401282688,2021,11,"Virginia","Notre Dame",2021
+401282689,2021,11,"Virginia Tech","Duke",2021
+401282690,2021,11,"Wake Forest","NC State",2021
+401309897,2021,11,"Washington","Arizona State",2021
+401309584,2021,11,"Western Michigan","Akron",2021
+401282806,2021,11,"Wisconsin","Northwestern",2021
+401310253,2021,10,"Air Force","Army",2021
+401309579,2021,10,"Akron","Ball State",2021
+401282120,2021,10,"Alabama","LSU",2021
+401309889,2021,10,"Arizona","California",2021
+401309892,2021,10,"Arizona State","USC",2021
+401282121,2021,10,"Arkansas","Mississippi State",2021
+401309633,2021,10,"Arkansas State","Appalachian State",2021
+401282677,2021,10,"Boston College","Virginia Tech",2021
+401309914,2021,10,"BYU","Idaho State",2021
+401282247,2021,10,"Charlotte","Rice",2021
+401301037,2021,10,"Cincinnati","Tulsa",2021
+401309891,2021,10,"Colorado","Oregon State",2021
+401282678,2021,10,"Duke","Pittsburgh",2021
+401301035,2021,10,"East Carolina","Temple",2021
+401282249,2021,10,"Florida Atlantic","Marshall",2021
+401282248,2021,10,"Florida International","Old Dominion",2021
+401282679,2021,10,"Florida State","NC State",2021
+401310735,2021,10,"Fresno State","Boise State",2021
+401282122,2021,10,"Georgia","Missouri",2021
+401309634,2021,10,"Georgia Southern","Coastal Carolina",2021
+401310739,2021,10,"Hawai'i","San Diego State",2021
+401287934,2021,10,"Iowa State","Texas",2021
+401287935,2021,10,"Kansas","Kansas State",2021
+401309582,2021,10,"Kent State","Northern Illinois",2021
+401282123,2021,10,"Kentucky","Tennessee",2021
+401309632,2021,10,"Louisiana","Georgia State",2021
+401282680,2021,10,"Louisville","Clemson",2021
+401282768,2021,10,"Maryland","Penn State",2021
+401301039,2021,10,"Memphis","SMU",2021
+401282681,2021,10,"Miami","Georgia Tech",2021
+401282727,2021,10,"Michigan","Indiana",2021
+401282720,2021,10,"Minnesota","Illinois",2021
+401282799,2021,10,"Nebraska","Ohio State",2021
+401310740,2021,10,"Nevada","San José State",2021
+401310737,2021,10,"New Mexico","UNLV",2021
+401310738,2021,10,"New Mexico State","Utah State",2021
+401282682,2021,10,"North Carolina","Wake Forest",2021
+401282757,2021,10,"Northwestern","Iowa",2021
+401282710,2021,10,"Notre Dame","Navy",2021
+401308839,2021,10,"Ohio","Miami (OH)",2021
+401282124,2021,10,"Ole Miss","Liberty",2021
+401282787,2021,10,"Purdue","Michigan State",2021
+401282824,2021,10,"Rutgers","Wisconsin",2021
+401282125,2021,10,"South Carolina","Florida",2021
+401301038,2021,10,"South Florida","Houston",2021
+401282252,2021,10,"Southern Mississippi","North Texas",2021
+401309888,2021,10,"Stanford","Utah",2021
+401287936,2021,10,"TCU","Baylor",2021
+401282126,2021,10,"Texas A&M","Auburn",2021
+401309635,2021,10,"Texas State","Louisiana Monroe",2021
+401309580,2021,10,"Toledo","Eastern Michigan",2021
+401309636,2021,10,"Troy","South Alabama",2021
+401282250,2021,10,"UAB","Louisiana Tech",2021
+401301036,2021,10,"UCF","Tulane",2021
+401286303,2021,10,"UMass","Rhode Island",2021
+401282253,2021,10,"UTEP","UT San Antonio",2021
+401309890,2021,10,"Washington","Oregon",2021
+401287937,2021,10,"West Virginia","Oklahoma State",2021
+401282251,2021,10,"Western Kentucky","Middle Tennessee",2021
+401309581,2021,10,"Western Michigan","Central Michigan",2021
+401310736,2021,10,"Wyoming","Colorado State",2021
+401309628,2021,9,"Appalachian State","Louisiana Monroe",2021
+401309885,2021,9,"Arizona State","Washington State",2021
+401282116,2021,9,"Auburn","Ole Miss",2021
+401287929,2021,9,"Baylor","Texas",2021
+401309578,2021,9,"Buffalo","Bowling Green",2021
+401282669,2021,9,"BYU","Virginia",2021
+401309882,2021,9,"California","Oregon State",2021
+401282670,2021,9,"Clemson","Florida State",2021
+401309627,2021,9,"Coastal Carolina","Troy",2021
+401310730,2021,9,"Colorado State","Boise State",2021
+401301033,2021,9,"East Carolina","South Florida",2021
+401282117,2021,9,"Florida","Georgia",2021
+401282243,2021,9,"Florida Atlantic","UTEP",2021
+401282671,2021,9,"Georgia Tech","Virginia Tech",2021
+401301034,2021,9,"Houston","SMU",2021
+401282719,2021,9,"Illinois","Rutgers",2021
+401287930,2021,9,"Kansas State","TCU",2021
+401286297,2021,9,"Liberty","UMass",2021
+401309631,2021,9,"Louisiana","Texas State",2021
+401282242,2021,9,"Marshall","Florida International",2021
+401282726,2021,9,"Maryland","Indiana",2021
+401282777,2021,9,"Michigan State","Michigan",2021
+401282245,2021,9,"Middle Tennessee","Southern Mississippi",2021
+401282118,2021,9,"Mississippi State","Kentucky",2021
+401282672,2021,9,"NC State","Louisville",2021
+401282801,2021,9,"Nebraska","Purdue",2021
+401310734,2021,9,"Nevada","UNLV",2021
+401282795,2021,9,"Northwestern","Minnesota",2021
+401282673,2021,9,"Notre Dame","North Carolina",2021
+401282814,2021,9,"Ohio State","Penn State",2021
+401287931,2021,9,"Oklahoma","Texas Tech",2021
+401287932,2021,9,"Oklahoma State","Kansas",2021
+401282244,2021,9,"Old Dominion","Louisiana Tech",2021
+401309884,2021,9,"Oregon","Colorado",2021
+401282674,2021,9,"Pittsburgh","Miami",2021
+401282246,2021,9,"Rice","North Texas",2021
+401310733,2021,9,"San Diego State","Fresno State",2021
+401310732,2021,9,"San José State","Wyoming",2021
+401309629,2021,9,"South Alabama","Arkansas State",2021
+401309883,2021,9,"Stanford","Washington",2021
+401282675,2021,9,"Syracuse","Boston College",2021
+401301031,2021,9,"Temple","UCF",2021
+401301032,2021,9,"Tulane","Cincinnati",2021
+401301030,2021,9,"Tulsa","Navy",2021
+401309886,2021,9,"USC","Arizona",2021
+401309887,2021,9,"Utah","UCLA",2021
+401310731,2021,9,"Utah State","Hawai'i",2021
+401282119,2021,9,"Vanderbilt","Missouri",2021
+401282676,2021,9,"Wake Forest","Duke",2021
+401287933,2021,9,"West Virginia","Iowa State",2021
+401282241,2021,9,"Western Kentucky","Charlotte",2021
+401282763,2021,9,"Wisconsin","Iowa",2021
+401310724,2021,8,"Air Force","San Diego State",2021
+401309575,2021,8,"Akron","Buffalo",2021
+401282111,2021,8,"Alabama","Tennessee",2021
+401309623,2021,8,"Appalachian State","Coastal Carolina",2021
+401309877,2021,8,"Arizona","Washington",2021
+401282112,2021,8,"Arkansas","Arkansas-Pine Bluff",2021
+401309624,2021,8,"Arkansas State","Louisiana",2021
+401282662,2021,8,"Army","Wake Forest",2021
+401308838,2021,8,"Ball State","Miami (OH)",2021
+401309574,2021,8,"Bowling Green","Eastern Michigan",2021
+401309878,2021,8,"California","Colorado",2021
+401309577,2021,8,"Central Michigan","Northern Illinois",2021
+401282235,2021,8,"Charlotte","Florida Atlantic",2021
+401282239,2021,8,"Connecticut","Middle Tennessee",2021
+401282663,2021,8,"Florida State","UMass",2021
+401310727,2021,8,"Fresno State","Nevada",2021
+401309625,2021,8,"Georgia State","Texas State",2021
+401310728,2021,8,"Hawai'i","New Mexico State",2021
+401301028,2021,8,"Houston","East Carolina",2021
+401282730,2021,8,"Indiana","Ohio State",2021
+401287925,2021,8,"Iowa State","Oklahoma State",2021
+401287926,2021,8,"Kansas","Oklahoma",2021
+401309626,2021,8,"Louisiana Monroe","South Alabama",2021
+401282237,2021,8,"Louisiana Tech","UT San Antonio",2021
+401282664,2021,8,"Louisville","Boston College",2021
+401282665,2021,8,"Miami","NC State",2021
+401282779,2021,8,"Michigan","Northwestern",2021
+401282767,2021,8,"Minnesota","Maryland",2021
+401301027,2021,8,"Navy","Cincinnati",2021
+401282240,2021,8,"North Texas","Liberty",2021
+401282709,2021,8,"Notre Dame","USC",2021
+401309576,2021,8,"Ohio","Kent State",2021
+401282113,2021,8,"Ole Miss","LSU",2021
+401309880,2021,8,"Oregon State","Utah",2021
+401282717,2021,8,"Penn State","Illinois",2021
+401282666,2021,8,"Pittsburgh","Clemson",2021
+401282821,2021,8,"Purdue","Wisconsin",2021
+401301025,2021,8,"SMU","Tulane",2021
+401301029,2021,8,"South Florida","Temple",2021
+401287927,2021,8,"TCU","West Virginia",2021
+401282114,2021,8,"Texas A&M","South Carolina",2021
+401287928,2021,8,"Texas Tech","Kansas State",2021
+401309573,2021,8,"Toledo","Western Michigan",2021
+401282238,2021,8,"UAB","Rice",2021
+401301026,2021,8,"UCF","Memphis",2021
+401309879,2021,8,"UCLA","Oregon",2021
+401310729,2021,8,"UNLV","San José State",2021
+401310725,2021,8,"Utah State","Colorado State",2021
+401282115,2021,8,"Vanderbilt","Mississippi State",2021
+401282667,2021,8,"Virginia","Georgia Tech",2021
+401282668,2021,8,"Virginia Tech","Syracuse",2021
+401309881,2021,8,"Washington State","BYU",2021
+401310726,2021,8,"Wyoming","New Mexico",2021
+401282104,2021,7,"Arkansas","Auburn",2021
+401287920,2021,7,"Baylor","BYU",2021
+401310718,2021,7,"Boise State","Air Force",2021
+401282658,2021,7,"Boston College","NC State",2021
+401309571,2021,7,"Buffalo","Ohio",2021
+401309569,2021,7,"Central Michigan","Toledo",2021
+401301023,2021,7,"Cincinnati","UCF",2021
+401309875,2021,7,"Colorado","Arizona",2021
+401286192,2021,7,"Connecticut","Yale",2021
+401309568,2021,7,"Eastern Michigan","Ball State",2021
+401282105,2021,7,"Georgia","Kentucky",2021
+401282731,2021,7,"Indiana","Michigan State",2021
+401282760,2021,7,"Iowa","Purdue",2021
+401287921,2021,7,"Kansas","Texas Tech",2021
+401287922,2021,7,"Kansas State","Iowa State",2021
+401309620,2021,7,"Louisiana","Appalachian State",2021
+401286296,2021,7,"Louisiana Monroe","Liberty",2021
+401282106,2021,7,"LSU","Florida",2021
+401301022,2021,7,"Memphis","Navy",2021
+401308837,2021,7,"Miami (OH)","Akron",2021
+401282796,2021,7,"Minnesota","Nebraska",2021
+401282107,2021,7,"Mississippi State","Alabama",2021
+401282108,2021,7,"Missouri","Texas A&M",2021
+401310722,2021,7,"Nevada","Hawai'i",2021
+401310719,2021,7,"New Mexico","Colorado State",2021
+401282659,2021,7,"North Carolina","Miami",2021
+401282231,2021,7,"North Texas","Marshall",2021
+401309570,2021,7,"Northern Illinois","Bowling Green",2021
+401282807,2021,7,"Northwestern","Rutgers",2021
+401287923,2021,7,"Oklahoma","TCU",2021
+401282232,2021,7,"Old Dominion","Western Kentucky",2021
+401309872,2021,7,"Oregon","California",2021
+401310723,2021,7,"San José State","San Diego State",2021
+401309621,2021,7,"South Alabama","Georgia Southern",2021
+401282109,2021,7,"South Carolina","Vanderbilt",2021
+401301024,2021,7,"South Florida","Tulsa",2021
+401282234,2021,7,"Southern Mississippi","UAB",2021
+401282657,2021,7,"Syracuse","Clemson",2021
+401282110,2021,7,"Tennessee","Ole Miss",2021
+401287924,2021,7,"Texas","Oklahoma State",2021
+401309622,2021,7,"Texas State","Troy",2021
+401310720,2021,7,"UNLV","Utah State",2021
+401282233,2021,7,"UT San Antonio","Rice",2021
+401309876,2021,7,"Utah","Arizona State",2021
+401282230,2021,7,"UTEP","Louisiana Tech",2021
+401282660,2021,7,"Virginia","Duke",2021
+401282661,2021,7,"Virginia Tech","Pittsburgh",2021
+401309874,2021,7,"Washington","UCLA",2021
+401309873,2021,7,"Washington State","Stanford",2021
+401309572,2021,7,"Western Michigan","Kent State",2021
+401282826,2021,7,"Wisconsin","Army",2021
+401310721,2021,7,"Wyoming","Fresno State",2021
+401310714,2021,6,"Air Force","Wyoming",2021
+401309870,2021,6,"Arizona","UCLA",2021
+401309868,2021,6,"Arizona State","Stanford",2021
+401309616,2021,6,"Arkansas State","Coastal Carolina",2021
+401282097,2021,6,"Auburn","Georgia",2021
+401287917,2021,6,"Baylor","West Virginia",2021
+401309913,2021,6,"BYU","Boise State",2021
+401301018,2021,6,"Cincinnati","Temple",2021
+401310715,2021,6,"Colorado State","San José State",2021
+401282652,2021,6,"Duke","Georgia Tech",2021
+401308836,2021,6,"Eastern Michigan","Miami (OH)",2021
+401282098,2021,6,"Florida","Vanderbilt",2021
+401282224,2021,6,"Florida International","Charlotte",2021
+401282718,2021,6,"Illinois","Wisconsin",2021
+401282758,2021,6,"Iowa","Penn State",2021
+401309565,2021,6,"Kent State","Buffalo",2021
+401282099,2021,6,"Kentucky","LSU",2021
+401282229,2021,6,"Liberty","Middle Tennessee",2021
+401309618,2021,6,"Louisiana Monroe","Georgia State",2021
+401282653,2021,6,"Louisville","Virginia",2021
+401282226,2021,6,"Marshall","Old Dominion",2021
+401301021,2021,6,"Navy","SMU",2021
+401282778,2021,6,"Nebraska","Michigan",2021
+401310717,2021,6,"Nevada","New Mexico State",2021
+401282654,2021,6,"North Carolina","Florida State",2021
+401309567,2021,6,"Ohio","Central Michigan",2021
+401282769,2021,6,"Ohio State","Maryland",2021
+401282100,2021,6,"Ole Miss","Arkansas",2021
+401282788,2021,6,"Rutgers","Michigan State",2021
+401310716,2021,6,"San Diego State","New Mexico",2021
+401282227,2021,6,"Southern Mississippi","UTEP",2021
+401282655,2021,6,"Syracuse","Wake Forest",2021
+401282102,2021,6,"Tennessee","South Carolina",2021
+401287918,2021,6,"Texas","Oklahoma",2021
+401282103,2021,6,"Texas A&M","Alabama",2021
+401287919,2021,6,"Texas Tech","TCU",2021
+401309564,2021,6,"Toledo","Northern Illinois",2021
+401309617,2021,6,"Troy","Georgia Southern",2021
+401301017,2021,6,"Tulane","Houston",2021
+401301020,2021,6,"Tulsa","Memphis",2021
+401282225,2021,6,"UAB","Florida Atlantic",2021
+401301019,2021,6,"UCF","East Carolina",2021
+401286191,2021,6,"UMass","Connecticut",2021
+401309871,2021,6,"USC","Utah",2021
+401282656,2021,6,"Virginia Tech","Notre Dame",2021
+401309869,2021,6,"Washington State","Oregon State",2021
+401282228,2021,6,"Western Kentucky","UT San Antonio",2021
+401309563,2021,6,"Western Michigan","Ball State",2021
+401309560,2021,5,"Akron","Ohio",2021
+401282089,2021,5,"Alabama","Ole Miss",2021
+401309559,2021,5,"Ball State","Army",2021
+401310711,2021,5,"Boise State","Nevada",2021
+401309561,2021,5,"Buffalo","Western Michigan",2021
+401309863,2021,5,"California","Washington State",2021
+401282647,2021,5,"Clemson","Boston College",2021
+401309614,2021,5,"Coastal Carolina","Louisiana Monroe",2021
+401309867,2021,5,"Colorado","USC",2021
+401301014,2021,5,"East Carolina","Tulane",2021
+401282215,2021,5,"Florida Atlantic","Florida International",2021
+401282648,2021,5,"Florida State","Syracuse",2021
+401282090,2021,5,"Georgia","Arkansas",2021
+401309613,2021,5,"Georgia Southern","Arkansas State",2021
+401309612,2021,5,"Georgia State","Appalachian State",2021
+401282649,2021,5,"Georgia Tech","Pittsburgh",2021
+401310712,2021,5,"Hawai'i","Fresno State",2021
+401282219,2021,5,"Illinois","Charlotte",2021
+401287912,2021,5,"Iowa State","Kansas",2021
+401287913,2021,5,"Kansas State","Oklahoma",2021
+401309562,2021,5,"Kent State","Bowling Green",2021
+401282091,2021,5,"Kentucky","Florida",2021
+401282092,2021,5,"LSU","Auburn",2021
+401282759,2021,5,"Maryland","Iowa",2021
+401282646,2021,5,"Miami","Virginia",2021
+401282223,2021,5,"Michigan State","Western Kentucky",2021
+401282216,2021,5,"Middle Tennessee","Marshall",2021
+401282093,2021,5,"Missouri","Tennessee",2021
+401301013,2021,5,"Navy","UCF",2021
+401282220,2021,5,"NC State","Louisiana Tech",2021
+401282800,2021,5,"Nebraska","Northwestern",2021
+401310710,2021,5,"New Mexico","Air Force",2021
+401282650,2021,5,"North Carolina","Duke",2021
+401309558,2021,5,"Northern Illinois","Eastern Michigan",2021
+401282708,2021,5,"Notre Dame","Cincinnati",2021
+401287914,2021,5,"Oklahoma State","Baylor",2021
+401309865,2021,5,"Oregon State","Washington",2021
+401282729,2021,5,"Penn State","Indiana",2021
+401282793,2021,5,"Purdue","Minnesota",2021
+401282218,2021,5,"Rice","Southern Mississippi",2021
+401282813,2021,5,"Rutgers","Ohio State",2021
+401310713,2021,5,"San José State","New Mexico State",2021
+401301016,2021,5,"SMU","South Florida",2021
+401282094,2021,5,"South Carolina","Troy",2021
+401309864,2021,5,"Stanford","Oregon",2021
+401287915,2021,5,"TCU","Texas",2021
+401301015,2021,5,"Temple","Memphis",2021
+401282095,2021,5,"Texas A&M","Mississippi State",2021
+401301012,2021,5,"Tulsa","Houston",2021
+401282221,2021,5,"UAB","Liberty",2021
+401309866,2021,5,"UCLA","Arizona State",2021
+401286302,2021,5,"UMass","Toledo",2021
+401282222,2021,5,"UT San Antonio","UNLV",2021
+401309912,2021,5,"Utah State","BYU",2021
+401282217,2021,5,"UTEP","Old Dominion",2021
+401282096,2021,5,"Vanderbilt","Connecticut",2021
+401282651,2021,5,"Wake Forest","Louisville",2021
+401287916,2021,5,"West Virginia","Texas Tech",2021
+401282776,2021,5,"Wisconsin","Michigan",2021
+401282207,2021,4,"Air Force","Florida Atlantic",2021
+401282081,2021,4,"Alabama","Southern Mississippi",2021
+401282208,2021,4,"Appalachian State","Marshall",2021
+401309862,2021,4,"Arizona State","Colorado",2021
+401282082,2021,4,"Arkansas","Texas A&M",2021
+401308834,2021,4,"Army","Miami (OH)",2021
+401282083,2021,4,"Auburn","Georgia State",2021
+401309555,2021,4,"Ball State","Toledo",2021
+401287907,2021,4,"Baylor","Iowa State",2021
+401282086,2021,4,"Boston College","Missouri",2021
+401301009,2021,4,"BYU","South Florida",2021
+401282206,2021,4,"Central Michigan","Florida International",2021
+401282204,2021,4,"Charlotte","Middle Tennessee",2021
+401286301,2021,4,"Coastal Carolina","UMass",2021
+401286190,2021,4,"Connecticut","Wyoming",2021
+401282639,2021,4,"Duke","Kansas",2021
+401301007,2021,4,"East Carolina","Charleston Southern",2021
+401309557,2021,4,"Eastern Michigan","Texas State",2021
+401282084,2021,4,"Florida","Tennessee",2021
+401282640,2021,4,"Florida State","Louisville",2021
+401310707,2021,4,"Fresno State","UNLV",2021
+401309610,2021,4,"Georgia Southern","Louisiana",2021
+401282641,2021,4,"Georgia Tech","North Carolina",2021
+401301008,2021,4,"Houston","Navy",2021
+401282756,2021,4,"Iowa","Colorado State",2021
+401309611,2021,4,"Louisiana Monroe","Troy",2021
+401282205,2021,4,"Louisiana Tech","North Texas",2021
+401282765,2021,4,"Maryland","Kent State",2021
+401282213,2021,4,"Memphis","UT San Antonio",2021
+401282775,2021,4,"Michigan","Rutgers",2021
+401282784,2021,4,"Michigan State","Nebraska",2021
+401282792,2021,4,"Minnesota","Bowling Green",2021
+401282085,2021,4,"Mississippi State","LSU",2021
+401282643,2021,4,"NC State","Clemson",2021
+401310708,2021,4,"New Mexico State","Hawai'i",2021
+401309556,2021,4,"Northern Illinois","Maine",2021
+401282805,2021,4,"Northwestern","Ohio",2021
+401282811,2021,4,"Ohio State","Akron",2021
+401287908,2021,4,"Oklahoma","West Virginia",2021
+401287909,2021,4,"Oklahoma State","Kansas State",2021
+401282209,2021,4,"Old Dominion","Buffalo",2021
+401309859,2021,4,"Oregon","Arizona",2021
+401282817,2021,4,"Penn State","Villanova",2021
+401282644,2021,4,"Pittsburgh","New Hampshire",2021
+401282716,2021,4,"Purdue","Illinois",2021
+401282210,2021,4,"Rice","Texas Southern",2021
+401310709,2021,4,"San Diego State","Towson",2021
+401282087,2021,4,"South Carolina","Kentucky",2021
+401309858,2021,4,"Stanford","UCLA",2021
+401282637,2021,4,"Syracuse","Liberty",2021
+401287910,2021,4,"TCU","SMU",2021
+401301010,2021,4,"Temple","Wagner",2021
+401287911,2021,4,"Texas","Texas Tech",2021
+401282211,2021,4,"Tulane","UAB",2021
+401309860,2021,4,"USC","Oregon State",2021
+401309861,2021,4,"Utah","Washington State",2021
+401310706,2021,4,"Utah State","Boise State",2021
+401282212,2021,4,"UTEP","New Mexico",2021
+401282088,2021,4,"Vanderbilt","Georgia",2021
+401282638,2021,4,"Virginia","Wake Forest",2021
+401282645,2021,4,"Virginia Tech","Richmond",2021
+401309857,2021,4,"Washington","California",2021
+401282214,2021,4,"Western Kentucky","Indiana",2021
+401309554,2021,4,"Western Michigan","San José State",2021
+401282707,2021,4,"Wisconsin","Notre Dame",2021
+401310704,2021,3,"Air Force","Utah State",2021
+401309550,2021,3,"Akron","Bryant",2021
+401309604,2021,3,"Appalachian State","Elon",2021
+401309853,2021,3,"Arizona","Northern Arizona",2021
+401282069,2021,3,"Arkansas","Georgia Southern",2021
+401286189,2021,3,"Army","Connecticut",2021
+401287903,2021,3,"Boise State","Oklahoma State",2021
+401309551,2021,3,"Bowling Green","Murray State",2021
+401309552,2021,3,"Buffalo","Coastal Carolina",2021
+401309854,2021,3,"BYU","Arizona State",2021
+401309849,2021,3,"California","Sacramento State",2021
+401282627,2021,3,"Clemson","Georgia Tech",2021
+401282791,2021,3,"Colorado","Minnesota",2021
+401282628,2021,3,"Duke","Northwestern",2021
+401282071,2021,3,"Florida","Alabama",2021
+401282198,2021,3,"Florida Atlantic","Fordham",2021
+401282072,2021,3,"Georgia","South Carolina",2021
+401282196,2021,3,"Georgia State","Charlotte",2021
+401310705,2021,3,"Hawai'i","San José State",2021
+401301005,2021,3,"Houston","Grambling",2021
+401282715,2021,3,"Illinois","Maryland",2021
+401282725,2021,3,"Indiana","Cincinnati",2021
+401282755,2021,3,"Iowa","Kent State",2021
+401287904,2021,3,"Kansas","Baylor",2021
+401287905,2021,3,"Kansas State","Nevada",2021
+401282073,2021,3,"Kentucky","Chattanooga",2021
+401282201,2021,3,"Liberty","Old Dominion",2021
+401309606,2021,3,"Louisiana","Ohio",2021
+401282199,2021,3,"Louisiana Tech","SMU",2021
+401282626,2021,3,"Louisville","UCF",2021
+401282074,2021,3,"LSU","Central Michigan",2021
+401282200,2021,3,"Marshall","East Carolina",2021
+401282076,2021,3,"Memphis","Mississippi State",2021
+401282629,2021,3,"Miami","Michigan State",2021
+401282774,2021,3,"Michigan","Northern Illinois",2021
+401282077,2021,3,"Missouri","Southeast Missouri State",2021
+401282630,2021,3,"NC State","Furman",2021
+401319455,2021,3,"New Mexico State","South Carolina State",2021
+401282631,2021,3,"North Carolina","Virginia",2021
+401282195,2021,3,"North Texas","UAB",2021
+401282706,2021,3,"Notre Dame","Purdue",2021
+401282810,2021,3,"Ohio State","Tulsa",2021
+401282798,2021,3,"Oklahoma","Nebraska",2021
+401282075,2021,3,"Ole Miss","Tulane",2021
+401309850,2021,3,"Oregon","Stony Brook",2021
+401309851,2021,3,"Oregon State","Idaho",2021
+401282070,2021,3,"Penn State","Auburn",2021
+401282632,2021,3,"Pittsburgh","Western Michigan",2021
+401282823,2021,3,"Rutgers","Delaware",2021
+401309856,2021,3,"San Diego State","Utah",2021
+401309608,2021,3,"South Alabama","Alcorn State",2021
+401301006,2021,3,"South Florida","Florida A&M",2021
+401282203,2021,3,"Southern Mississippi","Troy",2021
+401282633,2021,3,"Syracuse","Albany",2021
+401282634,2021,3,"Temple","Boston College",2021
+401282078,2021,3,"Tennessee","Tennessee Tech",2021
+401282079,2021,3,"Texas A&M","New Mexico",2021
+401309609,2021,3,"Texas State","Incarnate Word",2021
+401282197,2021,3,"Texas Tech","Florida International",2021
+401309553,2021,3,"Toledo","Colorado State",2021
+401309855,2021,3,"UCLA","Fresno State",2021
+401286300,2021,3,"UMass","Eastern Michigan",2021
+401282194,2021,3,"UT San Antonio","Middle Tennessee",2021
+401282080,2021,3,"Vanderbilt","Stanford",2021
+401282635,2021,3,"Wake Forest","Florida State",2021
+401309605,2021,3,"Washington","Arkansas State",2021
+401309852,2021,3,"Washington State","USC",2021
+401282636,2021,3,"West Virginia","Virginia Tech",2021
+401309549,2021,3,"Wyoming","Ball State",2021
+401300999,2021,2,"Akron","Temple",2021
+401282056,2021,2,"Alabama","Mercer",2021
+401309846,2021,2,"Arizona","San Diego State",2021
+401309847,2021,2,"Arizona State","UNLV",2021
+401282057,2021,2,"Arkansas","Texas",2021
+401301003,2021,2,"Arkansas State","Memphis",2021
+401282193,2021,2,"Army","Western Kentucky",2021
+401282058,2021,2,"Auburn","Alabama State",2021
+401287895,2021,2,"Baylor","Texas Southern",2021
+401282191,2021,2,"Boise State","UTEP",2021
+401309546,2021,2,"Bowling Green","South Alabama",2021
+401309848,2021,2,"BYU","Utah",2021
+401309548,2021,2,"Central Michigan","Robert Morris",2021
+401282181,2021,2,"Charlotte","Gardner-Webb",2021
+401301002,2021,2,"Cincinnati","Murray State",2021
+401282615,2021,2,"Clemson","South Carolina State",2021
+401287896,2021,2,"Coastal Carolina","Kansas",2021
+401282067,2021,2,"Colorado","Texas A&M",2021
+401282068,2021,2,"Colorado State","Vanderbilt",2021
+401282820,2021,2,"Connecticut","Purdue",2021
+401282616,2021,2,"Duke","North Carolina A&T",2021
+401282065,2021,2,"East Carolina","South Carolina",2021
+401282183,2021,2,"Florida Atlantic","Georgia Southern",2021
+401282182,2021,2,"Florida International","Texas State",2021
+401282617,2021,2,"Florida State","Jacksonville State",2021
+401310702,2021,2,"Fresno State","Cal Poly",2021
+401282060,2021,2,"Georgia","UAB",2021
+401282618,2021,2,"Georgia Tech","Kennesaw State",2021
+401282724,2021,2,"Indiana","Idaho",2021
+401282754,2021,2,"Iowa State","Iowa",2021
+401287897,2021,2,"Kansas State","Southern Illinois",2021
+401309545,2021,2,"Kent State","VMI",2021
+401282061,2021,2,"Kentucky","Missouri",2021
+401309603,2021,2,"Louisiana","Nicholls",2021
+401282184,2021,2,"Louisiana Tech","Southeastern Louisiana",2021
+401282619,2021,2,"Louisville","Eastern Kentucky",2021
+401282062,2021,2,"LSU","McNeese",2021
+401286207,2021,2,"Maryland","Howard",2021
+401282620,2021,2,"Miami","Appalachian State",2021
+401282773,2021,2,"Michigan","Washington",2021
+401282783,2021,2,"Michigan State","Youngstown State",2021
+401282790,2021,2,"Minnesota","Miami (OH)",2021
+401282064,2021,2,"Mississippi State","NC State",2021
+401301004,2021,2,"Navy","Air Force",2021
+401282797,2021,2,"Nebraska","Buffalo",2021
+401310703,2021,2,"Nevada","Idaho State",2021
+401310700,2021,2,"New Mexico","New Mexico State",2021
+401282621,2021,2,"North Carolina","Georgia State",2021
+401309547,2021,2,"Northern Illinois","Wyoming",2021
+401282804,2021,2,"Northwestern","Indiana State",2021
+401282705,2021,2,"Notre Dame","Toledo",2021
+401309753,2021,2,"Ohio","Duquesne",2021
+401282809,2021,2,"Ohio State","Oregon",2021
+401287898,2021,2,"Oklahoma","Western Carolina",2021
+401287899,2021,2,"Oklahoma State","Tulsa",2021
+401282188,2021,2,"Old Dominion","Hampton",2021
+401282063,2021,2,"Ole Miss","Austin Peay",2021
+401309844,2021,2,"Oregon State","Hawai'i",2021
+401282816,2021,2,"Penn State","Ball State",2021
+401282189,2021,2,"Rice","Houston",2021
+401282187,2021,2,"SMU","North Texas",2021
+401282059,2021,2,"South Florida","Florida",2021
+401282190,2021,2,"Southern Mississippi","Grambling",2021
+401282622,2021,2,"Syracuse","Rutgers",2021
+401287900,2021,2,"TCU","California",2021
+401282066,2021,2,"Tennessee","Pittsburgh",2021
+401286295,2021,2,"Troy","Liberty",2021
+401301000,2021,2,"Tulane","Morgan State",2021
+401301001,2021,2,"UCF","Bethune-Cookman",2021
+401282623,2021,2,"UMass","Boston College",2021
+401309843,2021,2,"USC","Stanford",2021
+401282192,2021,2,"UT San Antonio","Lamar",2021
+401310701,2021,2,"Utah State","North Dakota",2021
+401282624,2021,2,"Virginia","Illinois",2021
+401282625,2021,2,"Wake Forest","Norfolk State",2021
+401309845,2021,2,"Washington State","Portland State",2021
+401287902,2021,2,"West Virginia","Long Island University",2021
+401309544,2021,2,"Western Michigan","Illinois State",2021
+401282825,2021,2,"Wisconsin","Eastern Michigan",2021
+401331235,2021,1,"Alabama","Cincinnati",2021
+401331242,2021,1,"Alabama","Georgia",2021
+401300993,2021,1,"Appalachian State","East Carolina",2021
+401331166,2021,1,"Appalachian State","Western Kentucky",2021
+401309841,2021,1,"Arizona","BYU",2021
+401309835,2021,1,"Arizona State","Southern Utah",2021
+401331232,2021,1,"Arizona State","Wisconsin",2021
+401331236,2021,1,"Arkansas","Penn State",2021
+401281943,2021,1,"Arkansas","Rice",2021
+401309598,2021,1,"Arkansas State","Central Arkansas",2021
+401331215,2021,1,"Army","Missouri",2021
+401281944,2021,1,"Auburn","Akron",2021
+401331221,2021,1,"Auburn","Houston",2021
+401331218,2021,1,"Ball State","Georgia State",2021
+401309540,2021,1,"Ball State","Western Illinois",2021
+401282609,2021,1,"Boston College","Colgate",2021
+401331168,2021,1,"BYU","UAB",2021
+401309837,2021,1,"California","Nevada",2021
+401331654,2021,1,"Central Michigan","Washington State",2021
+401282052,2021,1,"Charlotte","Duke",2021
+401300996,2021,1,"Cincinnati","Miami (OH)",2021
+401281946,2021,1,"Clemson","Georgia",2021
+401331165,2021,1,"Coastal Carolina","Northern Illinois",2021
+401309836,2021,1,"Colorado","Northern Colorado",2021
+401286188,2021,1,"Connecticut","Holy Cross",2021
+401281945,2021,1,"Florida","Florida Atlantic",2021
+401331216,2021,1,"Florida","UCF",2021
+401282051,2021,1,"Florida International","Long Island University",2021
+401282614,2021,1,"Florida State","Notre Dame",2021
+401286187,2021,1,"Fresno State","Connecticut",2021
+401331167,2021,1,"Fresno State","UTEP",2021
+401309601,2021,1,"Georgia State","Army",2021
+401287886,2021,1,"Houston","Texas Tech",2021
+401282714,2021,1,"Illinois","Nebraska",2021
+401282179,2021,1,"Illinois","UT San Antonio",2021
+401282723,2021,1,"Iowa","Indiana",2021
+401331227,2021,1,"Iowa State","Clemson",2021
+401287887,2021,1,"Iowa State","Northern Iowa",2021
+401282050,2021,1,"Jacksonville State","UAB",2021
+401287888,2021,1,"Kansas","South Dakota",2021
+401331241,2021,1,"Kansas State","LSU",2021
+401287889,2021,1,"Kansas State","Stanford",2021
+401331237,2021,1,"Kentucky","Iowa",2021
+401281947,2021,1,"Kentucky","Louisiana Monroe",2021
+401286294,2021,1,"Liberty","Campbell",2021
+401331169,2021,1,"Liberty","Eastern Michigan",2021
+401331222,2021,1,"Louisville","Air Force",2021
+401331171,2021,1,"Marshall","Louisiana",2021
+401282764,2021,1,"Maryland","West Virginia",2021
+401300997,2021,1,"Memphis","Nicholls",2021
+401281942,2021,1,"Miami","Alabama",2021
+401391158,2021,1,"Miami (OH)","North Texas",2021
+401331234,2021,1,"Michigan","Georgia",2021
+401282772,2021,1,"Michigan","Western Michigan",2021
+401331231,2021,1,"Michigan State","Pittsburgh",2021
+401282789,2021,1,"Minnesota","Ohio State",2021
+401331224,2021,1,"Minnesota","West Virginia",2021
+401281949,2021,1,"Mississippi State","Louisiana Tech",2021
+401281950,2021,1,"Missouri","Central Michigan",2021
+401282174,2021,1,"Navy","Marshall",2021
+401282607,2021,1,"NC State","South Florida",2021
+401327913,2021,1,"Nebraska","Fordham",2021
+401331219,2021,1,"Nevada","Western Michigan",2021
+401282049,2021,1,"New Mexico State","UTEP",2021
+401282175,2021,1,"North Texas","Northwestern State",2021
+401282782,2021,1,"Northwestern","Michigan State",2021
+401331238,2021,1,"Notre Dame","Oklahoma State",2021
+401331239,2021,1,"Ohio State","Utah",2021
+401331228,2021,1,"Oklahoma","Oregon",2021
+401287894,2021,1,"Oklahoma","Tulane",2021
+401287890,2021,1,"Oklahoma State","Missouri State",2021
+401331240,2021,1,"Ole Miss","Baylor",2021
+401282055,2021,1,"Ole Miss","Louisville",2021
+401309838,2021,1,"Oregon","Fresno State",2021
+401331170,2021,1,"Oregon State","Utah State",2021
+401282612,2021,1,"Pittsburgh","UMass",2021
+401282819,2021,1,"Purdue","Oregon State",2021
+401331230,2021,1,"Purdue","Tennessee",2021
+401282822,2021,1,"Rutgers","Temple",2021
+401331233,2021,1,"Rutgers","Wake Forest",2021
+401310699,2021,1,"San Diego State","New Mexico State",2021
+401331214,2021,1,"San Diego State","UT San Antonio",2021
+401300998,2021,1,"SMU","Abilene Christian",2021
+401282177,2021,1,"South Alabama","Southern Mississippi",2021
+401281951,2021,1,"South Carolina","Eastern Illinois",2021
+401331229,2021,1,"South Carolina","North Carolina",2021
+401281952,2021,1,"Tennessee","Bowling Green",2021
+401287892,2021,1,"Texas","Louisiana",2021
+401282053,2021,1,"Texas A&M","Kent State",2021
+401287893,2021,1,"Texas State","Baylor",2021
+401331223,2021,1,"Texas Tech","Mississippi State",2021
+401331164,2021,1,"Toledo","Middle Tennessee",2021
+401309543,2021,1,"Toledo","Norfolk State",2021
+401309602,2021,1,"Troy","Southern",2021
+401331172,2021,1,"Tulsa","Old Dominion",2021
+401300995,2021,1,"UCF","Boise State",2021
+401309833,2021,1,"UCLA","Hawai'i",2021
+401281948,2021,1,"UCLA","LSU",2021
+401309834,2021,1,"Utah","Weber State",2021
+401282178,2021,1,"UTEP","Bethune-Cookman",2021
+401282613,2021,1,"Virginia","William & Mary",2021
+401331226,2021,1,"Virginia Tech","Maryland",2021
+401309937,2021,1,"Virginia Tech","North Carolina",2021
+401309839,2021,1,"Washington","Montana",2021
+401309840,2021,1,"Washington State","Utah State",2021
+401282180,2021,1,"Western Kentucky","UT Martin",2021
+401282815,2021,1,"Wisconsin","Penn State",2021
+401331213,2021,1,"Wyoming","Kent State",2021
+401310697,2021,1,"Wyoming","Montana State",2021
 401265699,2020,16,"Army","Air Force",2020
 401249854,2020,16,"Buffalo","Ball State",2020
 401264085,2020,16,"Cincinnati","Tulsa",2020
