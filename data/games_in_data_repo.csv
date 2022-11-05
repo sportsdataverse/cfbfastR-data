@@ -1,4 +1,10 @@
 "game_id","year","week","home","away","season"
+401416635,2022,10,"Bowling Green","Western Michigan",2022
+401426364,2022,10,"Coastal Carolina","Appalachian State",2022
+401416632,2022,10,"Kent State","Ball State",2022
+401416634,2022,10,"Northern Illinois","Central Michigan",2022
+401416633,2022,10,"Ohio","Buffalo",2022
+401426601,2022,10,"Rice","UTEP",2022
 401416631,2022,9,"Akron","Miami (OH)",2022
 401423444,2022,9,"Alabama State","Alabama A&M",2022
 401424440,2022,9,"Albany","Stony Brook",2022
@@ -13,6 +19,7 @@
 401423141,2022,9,"Butler","Morehead State",2022
 401415645,2022,9,"BYU","East Carolina",2022
 401404024,2022,9,"California","Oregon",2022
+401418780,2022,9,"Central Arkansas","North Alabama",2022
 401404023,2022,9,"Colorado","Arizona State",2022
 401415202,2022,9,"Columbia","Yale",2022
 401404154,2022,9,"Connecticut","Boston College",2022
@@ -20,6 +27,7 @@
 401421108,2022,9,"Dayton","Valparaiso",2022
 401420803,2022,9,"Delaware State","North Carolina Central",2022
 401432242,2022,9,"Duquesne","Long Island University",2022
+401426257,2022,9,"Eastern Illinois","Tennessee Tech",2022
 401416630,2022,9,"Eastern Michigan","Toledo",2022
 401413240,2022,9,"Eastern Washington","Portland State",2022
 401424399,2022,9,"Elon","Delaware",2022
@@ -60,9 +68,11 @@
 401418834,2022,9,"North Dakota State","Illinois State",2022
 401405126,2022,9,"Penn State","Ohio State",2022
 401424941,2022,9,"Prairie View","Bethune-Cookman",2022
+401415409,2022,9,"Princeton","Cornell",2022
 401426593,2022,9,"Rice","Charlotte",2022
 401413251,2022,9,"Sacramento State","Idaho",2022
 401415249,2022,9,"San José State","Nevada",2022
+401403929,2022,9,"South Carolina","Missouri",2022
 401418641,2022,9,"Southeast Missouri State","Eastern Kentucky",2022
 401425520,2022,9,"Southern Illinois","Northern Iowa",2022
 401426359,2022,9,"Southern Mississippi","Louisiana",2022
@@ -83,6 +93,7 @@
 401409242,2022,9,"UMass","New Mexico State",2022
 401426596,2022,9,"UTEP","Middle Tennessee",2022
 401424441,2022,9,"Villanova","Hampton",2022
+401411150,2022,9,"Virginia","Miami",2022
 401422926,2022,9,"VMI","Mercer",2022
 401404026,2022,9,"Washington State","Utah",2022
 401413338,2022,9,"Weber State","Montana",2022
@@ -347,6 +358,7 @@
 401416615,2022,6,"Northern Illinois","Toledo",2022
 401418831,2022,6,"Northern Iowa","Illinois State",2022
 401405107,2022,6,"Northwestern","Wisconsin",2022
+401404127,2022,6,"Notre Dame","BYU",2022
 401416616,2022,6,"Ohio","Akron",2022
 401404090,2022,6,"Oklahoma","Texas",2022
 401404091,2022,6,"Oklahoma State","Texas Tech",2022
