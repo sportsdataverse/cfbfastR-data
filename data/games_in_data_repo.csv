@@ -1,4 +1,14 @@
 "game_id","year","week","home","away","season"
+401416641,2022,11,"Bowling Green","Kent State",2022
+401415654,2022,11,"Cincinnati","East Carolina",2022
+401426370,2022,11,"Louisiana","Georgia Southern",2022
+401415653,2022,11,"Memphis","Tulsa",2022
+401416638,2022,11,"Miami (OH)","Ohio",2022
+401425458,2022,11,"Portland State","Sacramento State",2022
+401416636,2022,11,"Toledo","Ball State",2022
+401415259,2022,11,"UNLV","Fresno State",2022
+401404033,2022,11,"USC","Colorado",2022
+401416639,2022,11,"Western Michigan","Northern Illinois",2022
 401404028,2022,10,"Arizona State","UCLA",2022
 401403932,2022,10,"Arkansas","Liberty",2022
 401404141,2022,10,"Army","Air Force",2022
@@ -73,6 +83,7 @@
 401424444,2022,10,"Richmond","New Hampshire",2022
 401405133,2022,10,"Rutgers","Michigan",2022
 401422971,2022,10,"Samford","VMI",2022
+401421100,2022,10,"San Diego","Butler",2022
 401415254,2022,10,"San Diego State","UNLV",2022
 401415251,2022,10,"San José State","Colorado State",2022
 401415652,2022,10,"SMU","Houston",2022
