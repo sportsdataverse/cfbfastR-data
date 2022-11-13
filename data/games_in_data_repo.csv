@@ -1,44 +1,122 @@
 "game_id","year","week","home","away","season"
+401415256,2022,11,"Air Force","New Mexico",2022
+401423455,2022,11,"Alabama State","Florida A&M",2022
 401424446,2022,11,"Albany","Maine",2022
+401424934,2022,11,"Alcorn State","Bethune-Cookman",2022
 401403939,2022,11,"Arkansas","LSU",2022
+401414784,2022,11,"Arkansas State","UMass",2022
+401424946,2022,11,"Arkansas-Pine Bluff","Prairie View",2022
+401403940,2022,11,"Auburn","Texas A&M",2022
+401404109,2022,11,"Baylor","Kansas State",2022
 401416641,2022,11,"Bowling Green","Kent State",2022
 401415194,2022,11,"Brown","Columbia",2022
+401413233,2022,11,"Cal Poly","Montana State",2022
+401428195,2022,11,"Campbell","Gardner-Webb",2022
+401421135,2022,11,"Chattanooga","Samford",2022
 401415654,2022,11,"Cincinnati","East Carolina",2022
+401411158,2022,11,"Clemson","Louisville",2022
+401426371,2022,11,"Coastal Carolina","Southern Mississippi",2022
+401415258,2022,11,"Colorado State","Wyoming",2022
 401404156,2022,11,"Connecticut","Liberty",2022
 401415411,2022,11,"Cornell","Dartmouth",2022
 401423161,2022,11,"Dayton","Morehead State",2022
 401424447,2022,11,"Delaware","Richmond",2022
+401420786,2022,11,"Delaware State","Morgan State",2022
+401423142,2022,11,"Drake","Butler",2022
 401411159,2022,11,"Duke","Virginia Tech",2022
 401422977,2022,11,"East Tennessee State","Western Carolina",2022
+401425454,2022,11,"Eastern Illinois","Southeast Missouri State",2022
+401403941,2022,11,"Florida","South Carolina",2022
+401426604,2022,11,"Florida International","Florida Atlantic",2022
+401422994,2022,11,"Fordham","Lafayette",2022
 401422985,2022,11,"Georgetown","Bucknell",2022
+401426372,2022,11,"Georgia State","Louisiana Monroe",2022
+401411160,2022,11,"Georgia Tech","Miami",2022
 401443323,2022,11,"Holy Cross","Bryant",2022
+401415655,2022,11,"Houston","Temple",2022
 401426254,2022,11,"Howard","South Carolina State",2022
+401413252,2022,11,"Idaho","UC Davis",2022
+401405134,2022,11,"Illinois","Purdue",2022
+401405135,2022,11,"Iowa","Wisconsin",2022
+401413222,2022,11,"Jacksonville State","Eastern Kentucky",2022
+401418636,2022,11,"Kennesaw State","Austin Peay",2022
 401403942,2022,11,"Kentucky","Vanderbilt",2022
 401423003,2022,11,"Lehigh","Colgate",2022
+401431508,2022,11,"Lindenwood","McKendree",2022
+401441992,2022,11,"Long Island University","Stonehill",2022
 401426370,2022,11,"Louisiana","Georgia Southern",2022
 401421110,2022,11,"Marist","Valparaiso",2022
 401415653,2022,11,"Memphis","Tulsa",2022
+401421162,2022,11,"Mercer","Furman",2022
 401416638,2022,11,"Miami (OH)","Ohio",2022
+401405137,2022,11,"Michigan","Nebraska",2022
 401405138,2022,11,"Michigan State","Rutgers",2022
+401426603,2022,11,"Middle Tennessee","Charlotte",2022
+401405136,2022,11,"Minnesota","Northwestern",2022
+401403944,2022,11,"Mississippi State","Georgia",2022
+401420814,2022,11,"Missouri State","Youngstown State",2022
+401413242,2022,11,"Montana","Eastern Washington",2022
+401428473,2022,11,"Murray State","Robert Morris",2022
 401404131,2022,11,"Navy","Notre Dame",2022
+401411161,2022,11,"NC State","Boston College",2022
+401415255,2022,11,"Nevada","Boise State",2022
 401424448,2022,11,"New Hampshire","Rhode Island",2022
+401462530,2022,11,"Nicholls","Texas A&M-Commerce",2022
+401420795,2022,11,"Norfolk State","North Carolina Central",2022
+401418781,2022,11,"North Alabama","Tennessee Tech",2022
 401420819,2022,11,"North Dakota","South Dakota",2022
+401415174,2022,11,"Northern Colorado","Northern Arizona",2022
 401405139,2022,11,"Ohio State","Indiana",2022
+401404110,2022,11,"Oklahoma State","Iowa State",2022
 401426374,2022,11,"Old Dominion","James Madison",2022
+401403943,2022,11,"Ole Miss","Alabama",2022
+401404037,2022,11,"Oregon","Washington",2022
+401404036,2022,11,"Oregon State","California",2022
+401405140,2022,11,"Penn State","Maryland",2022
 401418601,2022,11,"Pennsylvania","Harvard",2022
 401425458,2022,11,"Portland State","Sacramento State",2022
+401418790,2022,11,"Sam Houston State","Abilene Christian",2022
+401421101,2022,11,"San Diego","Davidson",2022
+401415260,2022,11,"San Diego State","San José State",2022
+401426375,2022,11,"South Alabama","Texas State",2022
+401418836,2022,11,"South Dakota State","Illinois State",2022
 401415656,2022,11,"South Florida","SMU",2022
+401462531,2022,11,"Southeastern Louisiana","Northwestern State",2022
+401423952,2022,11,"Southern","Mississippi Valley State",2022
+401420839,2022,11,"Southern Illinois","North Dakota State",2022
+401473449,2022,11,"Southern Utah","Lincoln University (CA)",2022
 401423431,2022,11,"St Francis (PA)","Duquesne",2022
 401423416,2022,11,"St. Thomas (MN)","Stetson",2022
+401420876,2022,11,"Stephen F. Austin","Central Arkansas",2022
+401424449,2022,11,"Stony Brook","Towson",2022
+401411162,2022,11,"Syracuse","Florida State",2022
 401403945,2022,11,"Tennessee","Missouri",2022
+401425470,2022,11,"Tennessee State","UT Martin",2022
+401404113,2022,11,"Texas","TCU",2022
+401423924,2022,11,"Texas Southern","Grambling",2022
+401404111,2022,11,"Texas Tech","Kansas",2022
+401421144,2022,11,"The Citadel","Virginia Lynchburg",2022
 401416636,2022,11,"Toledo","Ball State",2022
+401404142,2022,11,"Troy","Army",2022
+401415657,2022,11,"Tulane","UCF",2022
+401426606,2022,11,"UAB","North Texas",2022
+401404034,2022,11,"UCLA","Arizona",2022
 401415259,2022,11,"UNLV","Fresno State",2022
 401404033,2022,11,"USC","Colorado",2022
+401426605,2022,11,"UT San Antonio","Louisiana Tech",2022
+401404038,2022,11,"Utah","Stanford",2022
+401462520,2022,11,"Utah Tech","Tarleton State",2022
 401411163,2022,11,"Virginia","Pittsburgh",2022
 401423423,2022,11,"Wagner","Sacred Heart",2022
+401411164,2022,11,"Wake Forest","North Carolina",2022
+401404035,2022,11,"Washington State","Arizona State",2022
+401413264,2022,11,"Weber State","Idaho State",2022
 401404112,2022,11,"West Virginia","Oklahoma",2022
+401418843,2022,11,"Western Illinois","Indiana State",2022
+401426607,2022,11,"Western Kentucky","Rice",2022
 401416639,2022,11,"Western Michigan","Northern Illinois",2022
 401424392,2022,11,"William & Mary","Villanova",2022
+401413211,2022,11,"Wofford","VMI",2022
 401431402,2022,11,"Yale","Princeton",2022
 401404028,2022,10,"Arizona State","UCLA",2022
 401403932,2022,10,"Arkansas","Liberty",2022
