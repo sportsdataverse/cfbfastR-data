@@ -1,4 +1,6 @@
 "game_id","year","week","home","away","season"
+401416643,2022,12,"Ball State","Ohio",2022
+401416642,2022,12,"Toledo","Bowling Green",2022
 401415256,2022,11,"Air Force","New Mexico",2022
 401423455,2022,11,"Alabama State","Florida A&M",2022
 401424446,2022,11,"Albany","Maine",2022
@@ -12,6 +14,7 @@
 401415194,2022,11,"Brown","Columbia",2022
 401413233,2022,11,"Cal Poly","Montana State",2022
 401428195,2022,11,"Campbell","Gardner-Webb",2022
+401416640,2022,11,"Central Michigan","Buffalo",2022
 401421135,2022,11,"Chattanooga","Samford",2022
 401415654,2022,11,"Cincinnati","East Carolina",2022
 401411158,2022,11,"Clemson","Louisville",2022
@@ -32,8 +35,10 @@
 401422985,2022,11,"Georgetown","Bucknell",2022
 401426372,2022,11,"Georgia State","Louisiana Monroe",2022
 401411160,2022,11,"Georgia Tech","Miami",2022
+401415257,2022,11,"Hawai'i","Utah State",2022
 401443323,2022,11,"Holy Cross","Bryant",2022
 401415655,2022,11,"Houston","Temple",2022
+401462229,2022,11,"Houston Christian","McNeese",2022
 401426254,2022,11,"Howard","South Carolina State",2022
 401413252,2022,11,"Idaho","UC Davis",2022
 401405134,2022,11,"Illinois","Purdue",2022
@@ -46,6 +51,7 @@
 401441992,2022,11,"Long Island University","Stonehill",2022
 401426370,2022,11,"Louisiana","Georgia Southern",2022
 401421110,2022,11,"Marist","Valparaiso",2022
+401426373,2022,11,"Marshall","Appalachian State",2022
 401415653,2022,11,"Memphis","Tulsa",2022
 401421162,2022,11,"Mercer","Furman",2022
 401416638,2022,11,"Miami (OH)","Ohio",2022
