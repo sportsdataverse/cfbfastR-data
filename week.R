@@ -373,7 +373,7 @@ df_year_players_pos20 <- df_year_players_pos20 %>%
 write.csv(df_game_ids, 'data/games_in_data_repo.csv', row.names = FALSE)
 saveRDS(df_game_ids, 'data/games_in_data_repo.rds')
 saveRDS(df_year_players_pos20,glue::glue('data/rds/pbp_players_pos_{current_season}.rds'))
-arrow::write_parquet(df_year_players_pos20,glue::glue('data/parquet/pbp_players_pos_{current_season}.parquet'))
+
 
 message <- sprintf("Updated %s (ET) using cfbfastR version %s", lubridate::now("America/New_York"), utils::packageVersion("cfbfastR"))
 
