@@ -1272,6 +1272,7 @@
 401405069,2022,1,"Boston College","Rutgers",2022
 401422978,2022,1,"Bucknell","Towson",2022
 401423136,2022,1,"Butler","St. Thomas University (Fl)",2022
+401441997,2022,1,"BYU","SMU",2022
 401403968,2022,1,"California","UC Davis",2022
 401421137,2022,1,"Campbell","The Citadel",2022
 401420806,2022,1,"Central Arkansas","Missouri State",2022
@@ -1287,12 +1288,14 @@
 401425510,2022,1,"East Tennessee State","Mars Hill",2022
 401416590,2022,1,"Eastern Michigan","Eastern Kentucky",2022
 401413236,2022,1,"Eastern Washington","Tennessee State",2022
+401508870,2022,1,"Ferris State","Colorado Mines",2022
 401403857,2022,1,"Florida","Utah",2022
 401426530,2022,1,"Florida Atlantic","Charlotte",2022
 401426533,2022,1,"Florida International","Bryant",2022
 401411090,2022,1,"Florida State","Duquesne",2022
 401403867,2022,1,"Florida State","LSU",2022
 401413224,2022,1,"Fresno State","Cal Poly",2022
+401442038,2022,1,"Fresno State","Washington State",2022
 401421156,2022,1,"Furman","North Greenville",2022
 401432239,2022,1,"Gardner-Webb","Limestone",2022
 401403858,2022,1,"Georgia","Oregon",2022
@@ -1333,6 +1336,7 @@
 401415210,2022,1,"New Mexico","Maine",2022
 401409235,2022,1,"New Mexico State","Nevada",2022
 401411091,2022,1,"North Carolina","Florida A&M",2022
+401441996,2022,1,"North Carolina Central","Jackson State",2022
 401420797,2022,1,"North Carolina Central","North Carolina A&T",2022
 401508871,2022,1,"North Central","Mount Union",2022
 401420836,2022,1,"North Dakota State","Drake",2022
@@ -1347,6 +1351,7 @@
 401426330,2022,1,"Old Dominion","Virginia Tech",2022
 401403860,2022,1,"Ole Miss","Troy",2022
 401403969,2022,1,"Oregon State","Boise State",2022
+401441999,2022,1,"Oregon State","Florida",2022
 401411092,2022,1,"Pittsburgh","West Virginia",2022
 401423918,2022,1,"Prairie View","Texas Southern",2022
 401405064,2022,1,"Purdue","Penn State",2022
@@ -1357,8 +1362,10 @@
 401415213,2022,1,"San José State","Portland State",2022
 401421116,2022,1,"South Alabama","Nicholls",2022
 401403863,2022,1,"South Carolina","Georgia State",2022
+401508851,2022,1,"South Dakota State","Montana State",2022
 401415612,2022,1,"South Florida","BYU",2022
 401404157,2022,1,"Southern Mississippi","Liberty",2022
+401442041,2022,1,"Southern Mississippi","Rice",2022
 401420877,2022,1,"Southern Utah","St. Thomas (MN)",2022
 401403970,2022,1,"Stanford","Colgate",2022
 401424414,2022,1,"Stony Brook","Rhode Island",2022
