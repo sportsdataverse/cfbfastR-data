@@ -69,9 +69,9 @@
 401404047,2022,13,"Oregon State","Oregon",2022
 401405154,2022,13,"Penn State","Michigan State",2022
 401505437,2022,13,"Richmond","Davidson",2022
+401415666,2022,13,"SMU","Memphis",2022
 401415267,2022,13,"San Diego State","Air Force",2022
 401415271,2022,13,"San José State","Hawai'i",2022
-401415666,2022,13,"SMU","Memphis",2022
 401426389,2022,13,"South Alabama","Old Dominion",2022
 401415667,2022,13,"South Florida","UCF",2022
 401423953,2022,13,"Southern","Grambling",2022
@@ -102,11 +102,11 @@
 401403947,2022,12,"Arkansas","Ole Miss",2022
 401404143,2022,12,"Army","Connecticut",2022
 401426613,2022,12,"Auburn","Western Kentucky",2022
+401420863,2022,12,"BYU","Utah Tech",2022
 401416643,2022,12,"Ball State","Ohio",2022
 401404114,2022,12,"Baylor","TCU",2022
 401422986,2022,12,"Bucknell","Marist",2022
 401423143,2022,12,"Butler","St. Thomas (MN)",2022
-401420863,2022,12,"BYU","Utah Tech",2022
 401404041,2022,12,"California","Stanford",2022
 401413223,2022,12,"Central Arkansas","Jacksonville State",2022
 401416645,2022,12,"Central Michigan","Western Michigan",2022
@@ -134,10 +134,10 @@
 401404116,2022,12,"Kansas","Texas",2022
 401416644,2022,12,"Kent State","Eastern Michigan",2022
 401403949,2022,12,"Kentucky","Georgia",2022
+401426612,2022,12,"LSU","UAB",2022
 401422995,2022,12,"Lafayette","Lehigh",2022
 401404165,2022,12,"Liberty","Virginia Tech",2022
 401411167,2022,12,"Louisville","NC State",2022
-401426612,2022,12,"LSU","UAB",2022
 401405144,2022,12,"Maryland","Ohio State",2022
 401420868,2022,12,"McNeese","Lamar",2022
 401415662,2022,12,"Memphis","North Alabama",2022
@@ -194,12 +194,12 @@
 401415661,2022,12,"UCF","Navy",2022
 401404044,2022,12,"UCLA","USC",2022
 401420845,2022,12,"UT Martin","Eastern Illinois",2022
-401415265,2022,12,"Utah State","San José State",2022
 401426609,2022,12,"UTEP","Florida International",2022
+401415265,2022,12,"Utah State","San José State",2022
+401421145,2022,12,"VMI","The Citadel",2022
 401421115,2022,12,"Valparaiso","Drake",2022
 401403955,2022,12,"Vanderbilt","Florida",2022
 401424451,2022,12,"Villanova","Delaware",2022
-401421145,2022,12,"VMI","The Citadel",2022
 401411171,2022,12,"Wake Forest","Syracuse",2022
 401404042,2022,12,"Washington","Colorado",2022
 401404117,2022,12,"West Virginia","Kansas State",2022
@@ -268,8 +268,8 @@
 401420814,2022,11,"Missouri State","Youngstown State",2022
 401413242,2022,11,"Montana","Eastern Washington",2022
 401428473,2022,11,"Murray State","Robert Morris",2022
-401404131,2022,11,"Navy","Notre Dame",2022
 401411161,2022,11,"NC State","Boston College",2022
+401404131,2022,11,"Navy","Notre Dame",2022
 401415255,2022,11,"Nevada","Boise State",2022
 401424448,2022,11,"New Hampshire","Rhode Island",2022
 401462530,2022,11,"Nicholls","Texas A&M-Commerce",2022
@@ -365,13 +365,13 @@
 401404106,2022,10,"Kansas","Oklahoma State",2022
 401404107,2022,10,"Kansas State","Texas",2022
 401416632,2022,10,"Kent State","Ball State",2022
+401403934,2022,10,"LSU","Alabama",2022
 401462228,2022,10,"Lamar","Southeastern Louisiana",2022
 401425428,2022,10,"Long Island University","Central Connecticut",2022
 401426367,2022,10,"Louisiana","Troy",2022
 401426368,2022,10,"Louisiana Monroe","Texas State",2022
 401426600,2022,10,"Louisiana Tech","Middle Tennessee",2022
 401411152,2022,10,"Louisville","James Madison",2022
-401403934,2022,10,"LSU","Alabama",2022
 401418807,2022,10,"McNeese","Eastern Illinois",2022
 401415651,2022,10,"Memphis","UCF",2022
 401411153,2022,10,"Miami","Florida State",2022
@@ -402,17 +402,17 @@
 401426601,2022,10,"Rice","UTEP",2022
 401424444,2022,10,"Richmond","New Hampshire",2022
 401405133,2022,10,"Rutgers","Michigan",2022
+401415652,2022,10,"SMU","Houston",2022
 401422971,2022,10,"Samford","VMI",2022
 401421100,2022,10,"San Diego","Butler",2022
 401415254,2022,10,"San Diego State","UNLV",2022
 401415251,2022,10,"San José State","Colorado State",2022
-401415652,2022,10,"SMU","Houston",2022
 401420813,2022,10,"South Dakota","Missouri State",2022
 401426369,2022,10,"Southern Mississippi","Georgia State",2022
 401404032,2022,10,"Stanford","Washington State",2022
 401420785,2022,10,"Stony Brook","Morgan State",2022
-401462519,2022,10,"Tarleton State","Abilene Christian",2022
 401404108,2022,10,"TCU","Texas Tech",2022
+401462519,2022,10,"Tarleton State","Abilene Christian",2022
 401415648,2022,10,"Temple","South Florida",2022
 401425426,2022,10,"Tennessee State","Southeast Missouri State",2022
 401428479,2022,10,"Tennessee Tech","Lindenwood",2022
@@ -447,11 +447,11 @@
 401426363,2022,9,"Arkansas State","South Alabama",2022
 401403927,2022,9,"Auburn","Arkansas",2022
 401413221,2022,9,"Austin Peay","Jacksonville State",2022
+401415645,2022,9,"BYU","East Carolina",2022
 401415246,2022,9,"Boise State","Colorado State",2022
 401415192,2022,9,"Brown","Pennsylvania",2022
 401422983,2022,9,"Bucknell","Colgate",2022
 401423141,2022,9,"Butler","Morehead State",2022
-401415645,2022,9,"BYU","East Carolina",2022
 401404024,2022,9,"California","Oregon",2022
 401418780,2022,9,"Central Arkansas","North Alabama",2022
 401404023,2022,9,"Colorado","Arizona State",2022
@@ -526,9 +526,9 @@
 401404025,2022,9,"UCLA","Stanford",2022
 401409242,2022,9,"UMass","New Mexico State",2022
 401426596,2022,9,"UTEP","Middle Tennessee",2022
+401422926,2022,9,"VMI","Mercer",2022
 401424441,2022,9,"Villanova","Hampton",2022
 401411150,2022,9,"Virginia","Miami",2022
-401422926,2022,9,"VMI","Mercer",2022
 401404026,2022,9,"Washington State","Utah",2022
 401413338,2022,9,"Weber State","Montana",2022
 401404103,2022,9,"West Virginia","TCU",2022
@@ -571,6 +571,7 @@
 401426355,2022,8,"James Madison","Marshall",2022
 401418648,2022,8,"Kennesaw State","Tennessee Tech",2022
 401416628,2022,8,"Kent State","Akron",2022
+401403923,2022,8,"LSU","Ole Miss",2022
 401422991,2022,8,"Lafayette","Holy Cross",2022
 401420866,2022,8,"Lamar","Prairie View",2022
 401422982,2022,8,"Lehigh","Bucknell",2022
@@ -578,7 +579,6 @@
 401426357,2022,8,"Louisiana","Arkansas State",2022
 401426590,2022,8,"Louisiana Tech","Rice",2022
 401411143,2022,8,"Louisville","Pittsburgh",2022
-401403923,2022,8,"LSU","Ole Miss",2022
 401405118,2022,8,"Maryland","Northwestern",2022
 401423420,2022,8,"Merrimack","Sacred Heart",2022
 401411144,2022,8,"Miami","Duke",2022
@@ -606,8 +606,8 @@
 401428487,2022,8,"Presbyterian College","St. Thomas (MN)",2022
 401428459,2022,8,"Robert Morris","North Carolina A&T",2022
 401405121,2022,8,"Rutgers","Indiana",2022
-401413337,2022,8,"Sacramento State","Montana",2022
 401415641,2022,8,"SMU","Cincinnati",2022
+401413337,2022,8,"Sacramento State","Montana",2022
 401426354,2022,8,"South Alabama","Troy",2022
 401403925,2022,8,"South Carolina","Texas A&M",2022
 401420830,2022,8,"South Dakota","Southern Illinois",2022
@@ -616,8 +616,8 @@
 401441291,2022,8,"St Francis (PA)","Stonehill",2022
 401404018,2022,8,"Stanford","Arizona State",2022
 401424439,2022,8,"Stony Brook","Maine",2022
-401473814,2022,8,"Tarleton State","Southwest Baptist",2022
 401404097,2022,8,"TCU","Kansas State",2022
+401473814,2022,8,"Tarleton State","Southwest Baptist",2022
 401415638,2022,8,"Temple","Tulsa",2022
 401403926,2022,8,"Tennessee","UT Martin",2022
 401425424,2022,8,"Tennessee State","Eastern Illinois",2022
@@ -627,8 +627,8 @@
 401424369,2022,8,"Towson","William & Mary",2022
 401415639,2022,8,"Tulane","Memphis",2022
 401426591,2022,8,"UT San Antonio","North Texas",2022
-401420871,2022,8,"Utah Tech","Sam Houston State",2022
 401426589,2022,8,"UTEP","Florida Atlantic",2022
+401420871,2022,8,"Utah Tech","Sam Houston State",2022
 401424437,2022,8,"Villanova","Albany",2022
 401423435,2022,8,"Wagner","Long Island University",2022
 401411145,2022,8,"Wake Forest","Boston College",2022
@@ -642,11 +642,11 @@
 401423443,2022,7,"Arkansas-Pine Bluff","Alabama A&M",2022
 401404139,2022,7,"Army","Colgate",2022
 401418634,2022,7,"Austin Peay","Murray State",2022
+401403916,2022,7,"BYU","Arkansas",2022
 401404153,2022,7,"Ball State","Connecticut",2022
 401424939,2022,7,"Bethune-Cookman","Jackson State",2022
 401416622,2022,7,"Bowling Green","Miami (OH)",2022
 401428197,2022,7,"Bryant","Charleston Southern",2022
-401403916,2022,7,"BYU","Arkansas",2022
 401421131,2022,7,"Chattanooga","VMI",2022
 401426348,2022,7,"Coastal Carolina","Old Dominion",2022
 401404014,2022,7,"Colorado","California",2022
@@ -705,8 +705,8 @@
 401405113,2022,7,"Purdue","Nebraska",2022
 401424397,2022,7,"Rhode Island","Elon",2022
 401424435,2022,7,"Richmond","Villanova",2022
-401442045,2022,7,"Sacred Heart","Stonehill",2022
 401415635,2022,7,"SMU","Navy",2022
+401442045,2022,7,"Sacred Heart","Stonehill",2022
 401426350,2022,7,"South Alabama","Louisiana Monroe",2022
 401415636,2022,7,"South Florida","Tulane",2022
 401425519,2022,7,"Southern Illinois","Western Illinois",2022
@@ -740,11 +740,11 @@
 401404009,2022,6,"Arizona State","Washington",2022
 401426343,2022,6,"Arkansas State","James Madison",2022
 401423920,2022,6,"Arkansas-Pine Bluff","Texas Southern",2022
+401404127,2022,6,"BYU","Notre Dame",2022
 401415232,2022,6,"Boise State","Fresno State",2022
 401411131,2022,6,"Boston College","Clemson",2022
 401416617,2022,6,"Bowling Green","Buffalo",2022
 401423139,2022,6,"Butler","Dayton",2022
-401404127,2022,6,"BYU","Notre Dame",2022
 401428191,2022,6,"Campbell","Charleston Southern",2022
 401426670,2022,6,"Central Arkansas","Lindenwood",2022
 401415189,2022,6,"Central Connecticut","Brown",2022
@@ -768,10 +768,10 @@
 401404089,2022,6,"Kansas","TCU",2022
 401418646,2022,6,"Kennesaw State","North Alabama",2022
 401403912,2022,6,"Kentucky","South Carolina",2022
+401403913,2022,6,"LSU","Tennessee",2022
 401422990,2022,6,"Lafayette","Princeton",2022
 401426344,2022,6,"Louisiana Monroe","Coastal Carolina",2022
 401426580,2022,6,"Louisiana Tech","UTEP",2022
-401403913,2022,6,"LSU","Tennessee",2022
 401405109,2022,6,"Maryland","Purdue",2022
 401415630,2022,6,"Memphis","Houston",2022
 401422924,2022,6,"Mercer","Western Carolina",2022
@@ -783,8 +783,8 @@
 401413261,2022,6,"Montana State","Idaho State",2022
 401420781,2022,6,"Morgan State","Norfolk State",2022
 401420844,2022,6,"Murray State","UT Martin",2022
-401415632,2022,6,"Navy","Tulsa",2022
 401411134,2022,6,"NC State","Florida State",2022
+401415632,2022,6,"Navy","Tulsa",2022
 401415233,2022,6,"Nevada","Colorado State",2022
 401424433,2022,6,"New Hampshire","Stony Brook",2022
 401415234,2022,6,"New Mexico","Wyoming",2022
@@ -841,12 +841,12 @@
 401426340,2022,5,"Arkansas State","Louisiana Monroe",2022
 401404137,2022,5,"Army","Georgia State",2022
 401403903,2022,5,"Auburn","LSU",2022
+401415226,2022,5,"BYU","Utah State",2022
 401416608,2022,5,"Ball State","Northern Illinois",2022
 401404083,2022,5,"Baylor","Oklahoma State",2022
 401411124,2022,5,"Boston College","Louisville",2022
 401422979,2022,5,"Bucknell","Lafayette",2022
 401416610,2022,5,"Buffalo","Miami (OH)",2022
-401415226,2022,5,"BYU","Utah State",2022
 401420801,2022,5,"Campbell","North Carolina Central",2022
 401418633,2022,5,"Central Arkansas","Austin Peay",2022
 401426573,2022,5,"Charlotte","UTEP",2022
@@ -946,8 +946,8 @@
 401403997,2022,4,"Arizona State","Utah",2022
 401403894,2022,4,"Auburn","Missouri",2022
 401418632,2022,4,"Austin Peay","Eastern Kentucky",2022
-401415187,2022,4,"Brown","Harvard",2022
 401415223,2022,4,"BYU","Wyoming",2022
+401415187,2022,4,"Brown","Harvard",2022
 401403996,2022,4,"California","Arizona",2022
 401421158,2022,4,"Charleston Southern","Furman",2022
 401405096,2022,4,"Cincinnati","Indiana",2022
@@ -972,11 +972,11 @@
 401404079,2022,4,"Kansas","Duke",2022
 401413205,2022,4,"Kennesaw State","Wofford",2022
 401403896,2022,4,"Kentucky","Northern Illinois",2022
+401403897,2022,4,"LSU","New Mexico",2022
 401404160,2022,4,"Liberty","Akron",2022
 401441991,2022,4,"Long Island University","Bryant",2022
 401426336,2022,4,"Louisiana Monroe","Louisiana",2022
 401411119,2022,4,"Louisville","South Florida",2022
-401403897,2022,4,"LSU","New Mexico",2022
 401418803,2022,4,"McNeese","Mississippi College",2022
 401426569,2022,4,"Memphis","North Texas",2022
 401426568,2022,4,"Miami","Middle Tennessee",2022
@@ -1008,10 +1008,10 @@
 401426566,2022,4,"Purdue","Florida Atlantic",2022
 401424428,2022,4,"Richmond","Stony Brook",2022
 401405091,2022,4,"Rutgers","Iowa",2022
+401404078,2022,4,"SMU","TCU",2022
 401422929,2022,4,"Samford","Western Carolina",2022
 401415224,2022,4,"San Diego State","Toledo",2022
 401415225,2022,4,"San José State","Western Michigan",2022
-401404078,2022,4,"SMU","TCU",2022
 401426567,2022,4,"South Alabama","Louisiana Tech",2022
 401426564,2022,4,"South Carolina","Charlotte",2022
 401420828,2022,4,"South Dakota","North Dakota State",2022
@@ -1078,11 +1078,11 @@
 401404074,2022,3,"Kansas State","Tulane",2022
 401416603,2022,3,"Kent State","Long Island University",2022
 401403884,2022,3,"Kentucky","Youngstown State",2022
+401403885,2022,3,"LSU","Mississippi State",2022
 401422988,2022,3,"Lafayette","William & Mary",2022
 401415178,2022,3,"Lamar","Northern Colorado",2022
 401422998,2022,3,"Lehigh","Richmond",2022
 401411109,2022,3,"Louisville","Florida State",2022
-401403885,2022,3,"LSU","Mississippi State",2022
 401405087,2022,3,"Maryland","SMU",2022
 401415622,2022,3,"Memphis","Arkansas State",2022
 401421139,2022,3,"Mercer","The Citadel",2022
@@ -1147,13 +1147,13 @@
 401426553,2022,2,"Army","UT San Antonio",2022
 401403870,2022,2,"Auburn","San José State",2022
 401418630,2022,2,"Austin Peay","Mississippi Valley State",2022
+401404062,2022,2,"BYU","Baylor",2022
 401416594,2022,2,"Ball State","Western Michigan",2022
 401424936,2022,2,"Bethune-Cookman","South Carolina State",2022
 401416595,2022,2,"Bowling Green","Eastern Kentucky",2022
 401426492,2022,2,"Bryant","Rhode Island",2022
 401416596,2022,2,"Buffalo","Holy Cross",2022
 401423137,2022,2,"Butler","Taylor",2022
-401404062,2022,2,"BYU","Baylor",2022
 401413225,2022,2,"Cal Poly","San Diego",2022
 401403976,2022,2,"California","UNLV",2022
 401423418,2022,2,"Central Connecticut","Sacred Heart",2022
@@ -1183,11 +1183,11 @@
 401404064,2022,2,"Iowa","Iowa State",2022
 401420788,2022,2,"James Madison","Norfolk State",2022
 401403876,2022,2,"Kansas State","Missouri",2022
+401403873,2022,2,"LSU","Southern",2022
 401426551,2022,2,"Liberty","UAB",2022
 401416598,2022,2,"Louisiana","Eastern Michigan",2022
 401421117,2022,2,"Louisiana Monroe","Nicholls",2022
 401426547,2022,2,"Louisiana Tech","Stephen F. Austin",2022
-401403873,2022,2,"LSU","Southern",2022
 401424421,2022,2,"Maine","Colgate",2022
 401435073,2022,2,"Merrimack","Assumption",2022
 401411105,2022,2,"Miami","Southern Mississippi",2022
@@ -1200,8 +1200,8 @@
 401413334,2022,2,"Montana","South Dakota",2022
 401413341,2022,2,"Montana State","Morehead State",2022
 401413215,2022,2,"Murray State","Jacksonville State",2022
-401415617,2022,2,"Navy","Memphis",2022
 401411106,2022,2,"NC State","Charleston Southern",2022
+401415617,2022,2,"Navy","Memphis",2022
 401405072,2022,2,"Nebraska","Georgia Southern",2022
 401415216,2022,2,"Nevada","Incarnate Word",2022
 401415214,2022,2,"New Mexico","Boise State",2022
@@ -1224,9 +1224,9 @@
 401426550,2022,2,"Rice","McNeese",2022
 401423425,2022,2,"Richmond","St Francis (PA)",2022
 401405081,2022,2,"Rutgers","Wagner",2022
+401415616,2022,2,"SMU","Lamar",2022
 401415170,2022,2,"Sam Houston State","Northern Arizona",2022
 401413257,2022,2,"San Diego State","Idaho State",2022
-401415616,2022,2,"SMU","Lamar",2022
 401415182,2022,2,"South Dakota State","UC Davis",2022
 401415618,2022,2,"South Florida","Howard",2022
 401425451,2022,2,"Southern Illinois","Southeast Missouri State",2022
@@ -1247,10 +1247,10 @@
 401415620,2022,2,"Tulsa","Northern Illinois",2022
 401415613,2022,2,"UCF","Louisville",2022
 401403981,2022,2,"UCLA","Alabama State",2022
+401426552,2022,2,"UTEP","New Mexico State",2022
 401403982,2022,2,"Utah","Southern Utah",2022
 401415215,2022,2,"Utah State","Weber State",2022
 401420856,2022,2,"Utah Tech","Chadron State",2022
-401426552,2022,2,"UTEP","New Mexico State",2022
 401403879,2022,2,"Vanderbilt","Wake Forest",2022
 401411108,2022,2,"Virginia Tech","Boston College",2022
 401403983,2022,2,"Washington","Portland State",2022
@@ -1270,6 +1270,7 @@
 401425418,2022,1,"Arkansas State","Grambling",2022
 401424943,2022,1,"Arkansas-Pine Bluff","Lane",2022
 401403856,2022,1,"Auburn","Mercer",2022
+401441997,2022,1,"BYU","SMU",2022
 401424416,2022,1,"Baylor","Albany",2022
 401442001,2022,1,"Boise State","North Texas",2022
 401405069,2022,1,"Boston College","Rutgers",2022
@@ -1277,7 +1278,6 @@
 401422978,2022,1,"Bucknell","Towson",2022
 401441998,2022,1,"Buffalo","Georgia Southern",2022
 401423136,2022,1,"Butler","St. Thomas University (Fl)",2022
-401441997,2022,1,"BYU","SMU",2022
 401403968,2022,1,"California","UC Davis",2022
 401421137,2022,1,"Campbell","The Citadel",2022
 401420806,2022,1,"Central Arkansas","Missouri State",2022
@@ -1349,8 +1349,8 @@
 401426537,2022,1,"Missouri","Louisiana Tech",2022
 401442007,2022,1,"Missouri","Wake Forest",2022
 401413333,2022,1,"Montana","Northwestern State",2022
-401415611,2022,1,"Navy","Delaware",2022
 401442035,2022,1,"NC State","Maryland",2022
+401415611,2022,1,"Navy","Delaware",2022
 401405063,2022,1,"Nebraska","North Dakota",2022
 401424402,2022,1,"New Hampshire","Monmouth",2022
 401415210,2022,1,"New Mexico","Maine",2022
@@ -1415,10 +1415,10 @@
 401442013,2022,1,"USC","Tulane",2022
 401420840,2022,1,"UT Martin","Western Illinois",2022
 401426542,2022,1,"UT San Antonio","Houston",2022
+401426531,2022,1,"UTEP","North Texas",2022
 401442014,2022,1,"Utah","Penn State",2022
 401404146,2022,1,"Utah State","Connecticut",2022
 401442000,2022,1,"Utah State","Memphis",2022
-401426531,2022,1,"UTEP","North Texas",2022
 401466246,2022,1,"Valparaiso","Indiana Wesleyan",2022
 401403866,2022,1,"Vanderbilt","Elon",2022
 401424415,2022,1,"Villanova","Lehigh",2022
@@ -1469,10 +1469,10 @@
 401287949,2021,13,"Iowa State","TCU",2021
 401287950,2021,13,"Kansas","West Virginia",2021
 401308842,2021,13,"Kent State","Miami (OH)",2021
+401282150,2021,13,"LSU","Texas A&M",2021
 401286299,2021,13,"Liberty","Army",2021
 401309650,2021,13,"Louisiana","Louisiana Monroe",2021
 401282149,2021,13,"Louisville","Kentucky",2021
-401282150,2021,13,"LSU","Texas A&M",2021
 401282272,2021,13,"Marshall","Western Kentucky",2021
 401301053,2021,13,"Memphis","Tulane",2021
 401282781,2021,13,"Michigan","Ohio State",2021
@@ -1491,9 +1491,9 @@
 401282753,2021,13,"Purdue","Indiana",2021
 401282271,2021,13,"Rice","Louisiana Tech",2021
 401282766,2021,13,"Rutgers","Maryland",2021
+401301055,2021,13,"SMU","Tulsa",2021
 401310753,2021,13,"San Diego State","Boise State",2021
 401310757,2021,13,"San José State","Fresno State",2021
-401301055,2021,13,"SMU","Tulsa",2021
 401309648,2021,13,"South Alabama","Coastal Carolina",2021
 401282152,2021,13,"South Carolina","Clemson",2021
 401282269,2021,13,"Southern Mississippi","Florida International",2021
@@ -1533,15 +1533,15 @@
 401282721,2021,12,"Iowa","Illinois",2021
 401287943,2021,12,"Kansas State","Baylor",2021
 401282137,2021,12,"Kentucky","New Mexico State",2021
-401286298,2021,12,"Liberty","Louisiana",2021
 401282138,2021,12,"LSU","Louisiana Monroe",2021
+401286298,2021,12,"Liberty","Louisiana",2021
 401282770,2021,12,"Maryland","Michigan",2021
 401282694,2021,12,"Miami","Virginia Tech",2021
 401308841,2021,12,"Miami (OH)","Bowling Green",2021
 401282140,2021,12,"Mississippi State","Tennessee State",2021
 401282141,2021,12,"Missouri","Florida",2021
-401301047,2021,12,"Navy","East Carolina",2021
 401282695,2021,12,"NC State","Syracuse",2021
+401301047,2021,12,"Navy","East Carolina",2021
 401310747,2021,12,"Nevada","Air Force",2021
 401282696,2021,12,"North Carolina","Wofford",2021
 401282808,2021,12,"Northwestern","Purdue",2021
@@ -1566,9 +1566,9 @@
 401310751,2021,12,"UNLV","San Diego State",2021
 401309904,2021,12,"USC","UCLA",2021
 401282267,2021,12,"UT San Antonio","UAB",2021
+401282266,2021,12,"UTEP","Rice",2021
 401309901,2021,12,"Utah","Oregon",2021
 401310750,2021,12,"Utah State","Wyoming",2021
-401282266,2021,12,"UTEP","Rice",2021
 401309899,2021,12,"Washington State","Arizona",2021
 401287947,2021,12,"West Virginia","Texas",2021
 401282263,2021,12,"Western Kentucky","Florida Atlantic",2021
@@ -1593,10 +1593,10 @@
 401282728,2021,11,"Indiana","Rutgers",2021
 401282762,2021,11,"Iowa","Minnesota",2021
 401287939,2021,11,"Kansas State","West Virginia",2021
+401282130,2021,11,"LSU","Arkansas",2021
 401309638,2021,11,"Louisiana Monroe","Arkansas State",2021
 401282254,2021,11,"Louisiana Tech","Charlotte",2021
 401282687,2021,11,"Louisville","Syracuse",2021
-401282130,2021,11,"LSU","Arkansas",2021
 401282257,2021,11,"Marshall","UAB",2021
 401301042,2021,11,"Memphis","East Carolina",2021
 401308840,2021,11,"Miami (OH)","Buffalo",2021
@@ -1612,9 +1612,9 @@
 401282780,2021,11,"Penn State","Michigan",2021
 401282683,2021,11,"Pittsburgh","North Carolina",2021
 401282259,2021,11,"Rice","Western Kentucky",2021
+401301041,2021,11,"SMU","UCF",2021
 401310746,2021,11,"San Diego State","Nevada",2021
 401310744,2021,11,"San José State","Utah State",2021
-401301041,2021,11,"SMU","UCF",2021
 401301040,2021,11,"South Florida","Cincinnati",2021
 401301043,2021,11,"Temple","Houston",2021
 401282133,2021,11,"Tennessee","Georgia",2021
@@ -1640,8 +1640,8 @@
 401309892,2021,10,"Arizona State","USC",2021
 401282121,2021,10,"Arkansas","Mississippi State",2021
 401309633,2021,10,"Arkansas State","Appalachian State",2021
-401282677,2021,10,"Boston College","Virginia Tech",2021
 401309914,2021,10,"BYU","Idaho State",2021
+401282677,2021,10,"Boston College","Virginia Tech",2021
 401282247,2021,10,"Charlotte","Rice",2021
 401301037,2021,10,"Cincinnati","Tulsa",2021
 401309891,2021,10,"Colorado","Oregon State",2021
@@ -1697,9 +1697,9 @@
 401309628,2021,9,"Appalachian State","Louisiana Monroe",2021
 401309885,2021,9,"Arizona State","Washington State",2021
 401282116,2021,9,"Auburn","Ole Miss",2021
+401282669,2021,9,"BYU","Virginia",2021
 401287929,2021,9,"Baylor","Texas",2021
 401309578,2021,9,"Buffalo","Bowling Green",2021
-401282669,2021,9,"BYU","Virginia",2021
 401309882,2021,9,"California","Oregon State",2021
 401282670,2021,9,"Clemson","Florida State",2021
 401309627,2021,9,"Coastal Carolina","Troy",2021
@@ -1814,9 +1814,9 @@
 401282760,2021,7,"Iowa","Purdue",2021
 401287921,2021,7,"Kansas","Texas Tech",2021
 401287922,2021,7,"Kansas State","Iowa State",2021
+401282106,2021,7,"LSU","Florida",2021
 401309620,2021,7,"Louisiana","Appalachian State",2021
 401286296,2021,7,"Louisiana Monroe","Liberty",2021
-401282106,2021,7,"LSU","Florida",2021
 401301022,2021,7,"Memphis","Navy",2021
 401308837,2021,7,"Miami (OH)","Akron",2021
 401282796,2021,7,"Minnesota","Nebraska",2021
@@ -1842,8 +1842,8 @@
 401309622,2021,7,"Texas State","Troy",2021
 401310720,2021,7,"UNLV","Utah State",2021
 401282233,2021,7,"UT San Antonio","Rice",2021
-401309876,2021,7,"Utah","Arizona State",2021
 401282230,2021,7,"UTEP","Louisiana Tech",2021
+401309876,2021,7,"Utah","Arizona State",2021
 401282660,2021,7,"Virginia","Duke",2021
 401282661,2021,7,"Virginia Tech","Pittsburgh",2021
 401309874,2021,7,"Washington","UCLA",2021
@@ -1856,8 +1856,8 @@
 401309868,2021,6,"Arizona State","Stanford",2021
 401309616,2021,6,"Arkansas State","Coastal Carolina",2021
 401282097,2021,6,"Auburn","Georgia",2021
-401287917,2021,6,"Baylor","West Virginia",2021
 401309913,2021,6,"BYU","Boise State",2021
+401287917,2021,6,"Baylor","West Virginia",2021
 401301018,2021,6,"Cincinnati","Temple",2021
 401310715,2021,6,"Colorado State","San José State",2021
 401282652,2021,6,"Duke","Georgia Tech",2021
@@ -1927,8 +1927,8 @@
 401282223,2021,5,"Michigan State","Western Kentucky",2021
 401282216,2021,5,"Middle Tennessee","Marshall",2021
 401282093,2021,5,"Missouri","Tennessee",2021
-401301013,2021,5,"Navy","UCF",2021
 401282220,2021,5,"NC State","Louisiana Tech",2021
+401301013,2021,5,"Navy","UCF",2021
 401282800,2021,5,"Nebraska","Northwestern",2021
 401310710,2021,5,"New Mexico","Air Force",2021
 401282650,2021,5,"North Carolina","Duke",2021
@@ -1940,8 +1940,8 @@
 401282793,2021,5,"Purdue","Minnesota",2021
 401282218,2021,5,"Rice","Southern Mississippi",2021
 401282813,2021,5,"Rutgers","Ohio State",2021
-401310713,2021,5,"San José State","New Mexico State",2021
 401301016,2021,5,"SMU","South Florida",2021
+401310713,2021,5,"San José State","New Mexico State",2021
 401282094,2021,5,"South Carolina","Troy",2021
 401309864,2021,5,"Stanford","Oregon",2021
 401287915,2021,5,"TCU","Texas",2021
@@ -1952,8 +1952,8 @@
 401309866,2021,5,"UCLA","Arizona State",2021
 401286302,2021,5,"UMass","Toledo",2021
 401282222,2021,5,"UT San Antonio","UNLV",2021
-401309912,2021,5,"Utah State","BYU",2021
 401282217,2021,5,"UTEP","Old Dominion",2021
+401309912,2021,5,"Utah State","BYU",2021
 401282096,2021,5,"Vanderbilt","Connecticut",2021
 401282651,2021,5,"Wake Forest","Louisville",2021
 401287916,2021,5,"West Virginia","Texas Tech",2021
@@ -1965,10 +1965,10 @@
 401282082,2021,4,"Arkansas","Texas A&M",2021
 401308834,2021,4,"Army","Miami (OH)",2021
 401282083,2021,4,"Auburn","Georgia State",2021
+401301009,2021,4,"BYU","South Florida",2021
 401309555,2021,4,"Ball State","Toledo",2021
 401287907,2021,4,"Baylor","Iowa State",2021
 401282086,2021,4,"Boston College","Missouri",2021
-401301009,2021,4,"BYU","South Florida",2021
 401282206,2021,4,"Central Michigan","Florida International",2021
 401282204,2021,4,"Charlotte","Middle Tennessee",2021
 401286301,2021,4,"Coastal Carolina","UMass",2021
@@ -2013,9 +2013,9 @@
 401287911,2021,4,"Texas","Texas Tech",2021
 401282211,2021,4,"Tulane","UAB",2021
 401309860,2021,4,"USC","Oregon State",2021
+401282212,2021,4,"UTEP","New Mexico",2021
 401309861,2021,4,"Utah","Washington State",2021
 401310706,2021,4,"Utah State","Boise State",2021
-401282212,2021,4,"UTEP","New Mexico",2021
 401282088,2021,4,"Vanderbilt","Georgia",2021
 401282638,2021,4,"Virginia","Wake Forest",2021
 401282645,2021,4,"Virginia Tech","Richmond",2021
@@ -2029,10 +2029,10 @@
 401309853,2021,3,"Arizona","Northern Arizona",2021
 401282069,2021,3,"Arkansas","Georgia Southern",2021
 401286189,2021,3,"Army","Connecticut",2021
+401309854,2021,3,"BYU","Arizona State",2021
 401287903,2021,3,"Boise State","Oklahoma State",2021
 401309551,2021,3,"Bowling Green","Murray State",2021
 401309552,2021,3,"Buffalo","Coastal Carolina",2021
-401309854,2021,3,"BYU","Arizona State",2021
 401309849,2021,3,"California","Sacramento State",2021
 401282627,2021,3,"Clemson","Georgia Tech",2021
 401282791,2021,3,"Colorado","Minnesota",2021
@@ -2049,11 +2049,11 @@
 401287904,2021,3,"Kansas","Baylor",2021
 401287905,2021,3,"Kansas State","Nevada",2021
 401282073,2021,3,"Kentucky","Chattanooga",2021
+401282074,2021,3,"LSU","Central Michigan",2021
 401282201,2021,3,"Liberty","Old Dominion",2021
 401309606,2021,3,"Louisiana","Ohio",2021
 401282199,2021,3,"Louisiana Tech","SMU",2021
 401282626,2021,3,"Louisville","UCF",2021
-401282074,2021,3,"LSU","Central Michigan",2021
 401282200,2021,3,"Marshall","East Carolina",2021
 401282076,2021,3,"Memphis","Mississippi State",2021
 401282629,2021,3,"Miami","Michigan State",2021
@@ -2100,10 +2100,10 @@
 401301003,2021,2,"Arkansas State","Memphis",2021
 401282193,2021,2,"Army","Western Kentucky",2021
 401282058,2021,2,"Auburn","Alabama State",2021
+401309848,2021,2,"BYU","Utah",2021
 401287895,2021,2,"Baylor","Texas Southern",2021
 401282191,2021,2,"Boise State","UTEP",2021
 401309546,2021,2,"Bowling Green","South Alabama",2021
-401309848,2021,2,"BYU","Utah",2021
 401309548,2021,2,"Central Michigan","Robert Morris",2021
 401282181,2021,2,"Charlotte","Gardner-Webb",2021
 401301002,2021,2,"Cincinnati","Murray State",2021
@@ -2125,10 +2125,10 @@
 401287897,2021,2,"Kansas State","Southern Illinois",2021
 401309545,2021,2,"Kent State","VMI",2021
 401282061,2021,2,"Kentucky","Missouri",2021
+401282062,2021,2,"LSU","McNeese",2021
 401309603,2021,2,"Louisiana","Nicholls",2021
 401282184,2021,2,"Louisiana Tech","Southeastern Louisiana",2021
 401282619,2021,2,"Louisville","Eastern Kentucky",2021
-401282062,2021,2,"LSU","McNeese",2021
 401286207,2021,2,"Maryland","Howard",2021
 401282620,2021,2,"Miami","Appalachian State",2021
 401282773,2021,2,"Michigan","Washington",2021
@@ -2184,10 +2184,10 @@
 401331215,2021,1,"Army","Missouri",2021
 401281944,2021,1,"Auburn","Akron",2021
 401331221,2021,1,"Auburn","Houston",2021
+401331168,2021,1,"BYU","UAB",2021
 401331218,2021,1,"Ball State","Georgia State",2021
 401309540,2021,1,"Ball State","Western Illinois",2021
 401282609,2021,1,"Boston College","Colgate",2021
-401331168,2021,1,"BYU","UAB",2021
 401309837,2021,1,"California","Nevada",2021
 401331654,2021,1,"Central Michigan","Washington State",2021
 401282052,2021,1,"Charlotte","Duke",2021
@@ -2230,8 +2230,8 @@
 401331224,2021,1,"Minnesota","West Virginia",2021
 401281949,2021,1,"Mississippi State","Louisiana Tech",2021
 401281950,2021,1,"Missouri","Central Michigan",2021
-401282174,2021,1,"Navy","Marshall",2021
 401282607,2021,1,"NC State","South Florida",2021
+401282174,2021,1,"Navy","Marshall",2021
 401327913,2021,1,"Nebraska","Fordham",2021
 401331219,2021,1,"Nevada","Western Michigan",2021
 401282049,2021,1,"New Mexico State","UTEP",2021
@@ -2251,9 +2251,9 @@
 401331230,2021,1,"Purdue","Tennessee",2021
 401282822,2021,1,"Rutgers","Temple",2021
 401331233,2021,1,"Rutgers","Wake Forest",2021
+401300998,2021,1,"SMU","Abilene Christian",2021
 401310699,2021,1,"San Diego State","New Mexico State",2021
 401331214,2021,1,"San Diego State","UT San Antonio",2021
-401300998,2021,1,"SMU","Abilene Christian",2021
 401282177,2021,1,"South Alabama","Southern Mississippi",2021
 401281951,2021,1,"South Carolina","Eastern Illinois",2021
 401331229,2021,1,"South Carolina","North Carolina",2021
@@ -2269,8 +2269,8 @@
 401300995,2021,1,"UCF","Boise State",2021
 401309833,2021,1,"UCLA","Hawai'i",2021
 401281948,2021,1,"UCLA","LSU",2021
-401309834,2021,1,"Utah","Weber State",2021
 401282178,2021,1,"UTEP","Bethune-Cookman",2021
+401309834,2021,1,"Utah","Weber State",2021
 401282613,2021,1,"Virginia","William & Mary",2021
 401331226,2021,1,"Virginia Tech","Maryland",2021
 401309937,2021,1,"Virginia Tech","North Carolina",2021
@@ -2302,10 +2302,10 @@
 401249429,2020,15,"Arizona","Arizona State",2020
 401267164,2020,15,"Arkansas","Alabama",2020
 401207203,2020,15,"Army","Navy",2020
+401249435,2020,15,"BYU","San Diego State",2020
 401249885,2020,15,"Ball State","Western Michigan",2020
 401250713,2020,15,"Baylor","Oklahoma State",2020
 401249886,2020,15,"Buffalo","Akron",2020
-401249435,2020,15,"BYU","San Diego State",2020
 401249428,2020,15,"Colorado","Utah",2020
 401249884,2020,15,"Eastern Michigan","Northern Illinois",2020
 401251100,2020,15,"Florida","LSU",2020
@@ -2356,8 +2356,8 @@
 401257812,2020,14,"Marshall","Rice",2020
 401247340,2020,14,"Michigan State","Ohio State",2020
 401265818,2020,14,"Missouri","Arkansas",2020
-401264083,2020,14,"Navy","Tulsa",2020
 401234659,2020,14,"NC State","Georgia Tech",2020
+401264083,2020,14,"Navy","Tulsa",2020
 401249032,2020,14,"Nevada","Fresno State",2020
 401249034,2020,14,"New Mexico","Wyoming",2020
 401248781,2020,14,"North Carolina","Western Carolina",2020
@@ -2431,9 +2431,9 @@
 401237136,2020,12,"Arkansas","LSU",2020
 401235975,2020,12,"Army","Georgia Southern",2020
 401237137,2020,12,"Auburn","Tennessee",2020
+401209818,2020,12,"BYU","North Alabama",2020
 401249870,2020,12,"Ball State","Northern Illinois",2020
 401249868,2020,12,"Bowling Green","Buffalo",2020
-401209818,2020,12,"BYU","North Alabama",2020
 401249872,2020,12,"Central Michigan","Western Michigan",2020
 401215333,2020,12,"Coastal Carolina","Appalachian State",2020
 401249871,2020,12,"Eastern Michigan","Toledo",2020
@@ -2567,8 +2567,8 @@
 401237119,2020,9,"Alabama","Mississippi State",2020
 401215320,2020,9,"Arkansas State","Troy",2020
 401237121,2020,9,"Auburn","LSU",2020
-401236013,2020,9,"Baylor","TCU",2020
 401239887,2020,9,"BYU","Western Kentucky",2020
+401236013,2020,9,"Baylor","TCU",2020
 401212543,2020,9,"Cincinnati","Memphis",2020
 401234624,2020,9,"Clemson","Boston College",2020
 401234625,2020,9,"Duke","Charlotte",2020
@@ -2606,9 +2606,9 @@
 401249001,2020,9,"Wyoming","Hawai'i",2020
 401240642,2020,8,"Appalachian State","Arkansas State",2020
 401240116,2020,8,"Army","Mercer",2020
+401240998,2020,8,"BYU","Texas State",2020
 401248997,2020,8,"Boise State","Utah State",2020
 401234617,2020,8,"Boston College","Georgia Tech",2020
-401240998,2020,8,"BYU","Texas State",2020
 401207154,2020,8,"Charlotte","UTEP",2020
 401234618,2020,8,"Clemson","Syracuse",2020
 401215316,2020,8,"Coastal Carolina","Georgia Southern",2020
@@ -2616,9 +2616,9 @@
 401248994,2020,8,"Fresno State","Hawai'i",2020
 401247295,2020,8,"Indiana","Penn State",2020
 401236010,2020,8,"Kansas State","Kansas",2020
+401237118,2020,8,"LSU","South Carolina",2020
 401207160,2020,8,"Liberty","Southern Mississippi",2020
 401234619,2020,8,"Louisville","Florida State",2020
-401237118,2020,8,"LSU","South Carolina",2020
 401207156,2020,8,"Marshall","Florida Atlantic",2020
 401212516,2020,8,"Memphis","Temple",2020
 401234620,2020,8,"Miami","Virginia",2020
@@ -2635,9 +2635,9 @@
 401234622,2020,8,"Pittsburgh","Notre Dame",2020
 401247296,2020,8,"Purdue","Iowa",2020
 401207158,2020,8,"Rice","Middle Tennessee",2020
+401212488,2020,8,"SMU","Cincinnati",2020
 401248996,2020,8,"San Diego State","UNLV",2020
 401248993,2020,8,"San José State","Air Force",2020
-401212488,2020,8,"SMU","Cincinnati",2020
 401250784,2020,8,"South Alabama","Louisiana Monroe",2020
 401212479,2020,8,"South Florida","Tulsa",2020
 401236011,2020,8,"TCU","Oklahoma",2020
@@ -2682,8 +2682,8 @@
 401246425,2020,6,"Arkansas State","Central Arkansas",2020
 401240114,2020,6,"Army","The Citadel",2020
 401237101,2020,6,"Auburn","Arkansas",2020
-401234603,2020,6,"Boston College","Pittsburgh",2020
 401240997,2020,6,"BYU","UT San Antonio",2020
+401234603,2020,6,"Boston College","Pittsburgh",2020
 401234604,2020,6,"Clemson","Miami",2020
 401207143,2020,6,"Florida International","Middle Tennessee",2020
 401237103,2020,6,"Georgia","Tennessee",2020
@@ -2691,9 +2691,9 @@
 401212523,2020,6,"Houston","Tulane",2020
 401236003,2020,6,"Iowa State","Texas Tech",2020
 401237104,2020,6,"Kentucky","Mississippi State",2020
+401237105,2020,6,"LSU","Missouri",2020
 401207215,2020,6,"Liberty","Louisiana Monroe",2020
 401207145,2020,6,"Louisiana Tech","UTEP",2020
-401237105,2020,6,"LSU","Missouri",2020
 401212515,2020,6,"Navy","Temple",2020
 401234607,2020,6,"North Carolina","Virginia Tech",2020
 401207142,2020,6,"North Texas","Charlotte",2020
@@ -2710,8 +2710,8 @@
 401212557,2020,5,"Air Force","Navy",2020
 401237093,2020,5,"Alabama","Texas A&M",2020
 401240040,2020,5,"Army","Abilene Christian",2020
-401234597,2020,5,"Boston College","North Carolina",2020
 401246275,2020,5,"BYU","Louisiana Tech",2020
+401234597,2020,5,"Boston College","North Carolina",2020
 401212476,2020,5,"Cincinnati","South Florida",2020
 401234598,2020,5,"Clemson","Virginia",2020
 401215304,2020,5,"Coastal Carolina","Arkansas State",2020
@@ -2742,16 +2742,16 @@
 401236253,2020,4,"Appalachian State","Campbell",2020
 401237033,2020,4,"Arkansas","Georgia",2020
 401237034,2020,4,"Auburn","Kentucky",2020
+401236223,2020,4,"BYU","Troy",2020
 401235993,2020,4,"Baylor","Kansas",2020
 401241303,2020,4,"Boston College","Texas State",2020
-401236223,2020,4,"BYU","Troy",2020
 401240996,2020,4,"Cincinnati","Army",2020
 401212536,2020,4,"East Carolina","UCF",2020
+401237035,2020,4,"LSU","Mississippi State",2020
 401207126,2020,4,"Liberty","Florida International",2020
 401215303,2020,4,"Louisiana","Georgia Southern",2020
 401240194,2020,4,"Louisiana Monroe","UTEP",2020
 401232157,2020,4,"Louisiana Tech","Houston Baptist",2020
-401237035,2020,4,"LSU","Mississippi State",2020
 401234593,2020,4,"Miami","Florida State",2020
 401236951,2020,4,"Missouri","Alabama",2020
 401235996,2020,4,"Oklahoma","Kansas State",2020
@@ -2812,8 +2812,8 @@
 401240174,2020,1,"Alabama","Ohio State",2020
 401235700,2020,1,"Army","Middle Tennessee",2020
 401256197,2020,1,"Army","West Virginia",2020
-401256141,2020,1,"Buffalo","Marshall",2020
 401256137,2020,1,"BYU","UCF",2020
+401256141,2020,1,"Buffalo","Marshall",2020
 401240173,2020,1,"Clemson","Ohio State",2020
 401256143,2020,1,"Coastal Carolina","Liberty",2020
 401256151,2020,1,"Colorado","Texas",2020
@@ -2877,10 +2877,10 @@
 401112084,2019,14,"Kansas","Baylor",2019
 401112095,2019,14,"Kansas State","Iowa State",2019
 401110868,2019,14,"Kentucky","Louisville",2019
+401110869,2019,14,"LSU","Texas A&M",2019
 401114346,2019,14,"Liberty","New Mexico State",2019
 401121982,2019,14,"Louisiana","Louisiana Monroe",2019
 401114323,2019,14,"Louisiana Tech","UT San Antonio",2019
-401110869,2019,14,"LSU","Texas A&M",2019
 401114321,2019,14,"Marshall","Florida International",2019
 401117913,2019,14,"Memphis","Cincinnati",2019
 401112228,2019,14,"Michigan","Ohio State",2019
@@ -2899,9 +2899,9 @@
 401112261,2019,14,"Penn State","Rutgers",2019
 401112522,2019,14,"Pittsburgh","Boston College",2019
 401112168,2019,14,"Purdue","Indiana",2019
+401117917,2019,14,"SMU","Tulane",2019
 401117218,2019,14,"San Diego State","BYU",2019
 401117557,2019,14,"San José State","Fresno State",2019
-401117917,2019,14,"SMU","Tulane",2019
 401121979,2019,14,"South Alabama","Arkansas State",2019
 401110870,2019,14,"South Carolina","Clemson",2019
 401114212,2019,14,"Stanford","Notre Dame",2019
@@ -2913,8 +2913,8 @@
 401121978,2019,14,"Troy","Appalachian State",2019
 401117912,2019,14,"UCF","South Florida",2019
 401114183,2019,14,"UCLA","California",2019
-401114192,2019,14,"Utah","Colorado",2019
 401114326,2019,14,"UTEP","Rice",2019
+401114192,2019,14,"Utah","Colorado",2019
 401112521,2019,14,"Virginia","Virginia Tech",2019
 401114232,2019,14,"Washington","Washington State",2019
 401114324,2019,14,"Western Kentucky","Middle Tennessee",2019
@@ -2942,10 +2942,10 @@
 401112094,2019,13,"Iowa State","Kansas",2019
 401119309,2019,13,"Kent State","Ball State",2019
 401110858,2019,13,"Kentucky","UT Martin",2019
+401110859,2019,13,"LSU","Arkansas",2019
 401121977,2019,13,"Louisiana","Troy",2019
 401121975,2019,13,"Louisiana Monroe","Coastal Carolina",2019
 401112516,2019,13,"Louisville","Syracuse",2019
-401110859,2019,13,"LSU","Arkansas",2019
 401112210,2019,13,"Maryland","Nebraska",2019
 401119307,2019,13,"Miami (OH)","Akron",2019
 401114316,2019,13,"Middle Tennessee","Old Dominion",2019
@@ -2986,10 +2986,10 @@
 401121969,2019,12,"Arkansas State","Coastal Carolina",2019
 401114333,2019,12,"Army","VMI",2019
 401110849,2019,12,"Auburn","Georgia",2019
+401117217,2019,12,"BYU","Idaho State",2019
 401119304,2019,12,"Ball State","Central Michigan",2019
 401112082,2019,12,"Baylor","Oklahoma",2019
 401117545,2019,12,"Boise State","New Mexico",2019
-401117217,2019,12,"BYU","Idaho State",2019
 401114181,2019,12,"California","USC",2019
 401112508,2019,12,"Clemson","Wake Forest",2019
 401117544,2019,12,"Colorado State","Air Force",2019
@@ -3041,9 +3041,9 @@
 401114160,2019,11,"Arizona State","USC",2019
 401110843,2019,11,"Arkansas","Western Kentucky",2019
 401114332,2019,11,"Army","UMass",2019
+401114353,2019,11,"BYU","Liberty",2019
 401117541,2019,11,"Boise State","Wyoming",2019
 401112502,2019,11,"Boston College","Florida State",2019
-401114353,2019,11,"BYU","Liberty",2019
 401114180,2019,11,"California","Washington State",2019
 401117901,2019,11,"Cincinnati","Connecticut",2019
 401121964,2019,11,"Coastal Carolina","Louisiana",2019
@@ -3068,8 +3068,8 @@
 401114307,2019,11,"Old Dominion","UT San Antonio",2019
 401110847,2019,11,"Ole Miss","New Mexico State",2019
 401114205,2019,11,"Oregon State","Washington",2019
-401117542,2019,11,"San Diego State","Nevada",2019
 401117902,2019,11,"SMU","East Carolina",2019
+401117542,2019,11,"San Diego State","Nevada",2019
 401110848,2019,11,"South Carolina","Appalachian State",2019
 401117899,2019,11,"South Florida","Temple",2019
 401114308,2019,11,"Southern Mississippi","UAB",2019
@@ -3153,8 +3153,8 @@
 401112110,2019,9,"Kansas State","Oklahoma",2019
 401119291,2019,9,"Kent State","Miami (OH)",2019
 401110832,2019,9,"Kentucky","Missouri",2019
-401112493,2019,9,"Louisville","Virginia",2019
 401110833,2019,9,"LSU","Auburn",2019
+401112493,2019,9,"Louisville","Virginia",2019
 401114297,2019,9,"Marshall","Western Kentucky",2019
 401112227,2019,9,"Michigan","Notre Dame",2019
 401112218,2019,9,"Michigan State","Penn State",2019
@@ -3184,8 +3184,8 @@
 401114159,2019,9,"UCLA","Arizona State",2019
 401114357,2019,9,"UMass","Connecticut",2019
 401117534,2019,9,"UNLV","San Diego State",2019
-401114179,2019,9,"Utah","California",2019
 401114296,2019,9,"UTEP","Louisiana Tech",2019
+401114179,2019,9,"Utah","California",2019
 401119288,2019,9,"Western Michigan","Bowling Green",2019
 401117533,2019,9,"Wyoming","Nevada",2019
 401119281,2019,8,"Akron","Buffalo",2019
@@ -3193,10 +3193,10 @@
 401121955,2019,8,"Appalachian State","Louisiana Monroe",2019
 401110825,2019,8,"Arkansas","Auburn",2019
 401121954,2019,8,"Arkansas State","Louisiana",2019
+401117215,2019,8,"BYU","Boise State",2019
 401119285,2019,8,"Ball State","Toledo",2019
 401112484,2019,8,"Boston College","NC State",2019
 401119282,2019,8,"Bowling Green","Central Michigan",2019
-401117215,2019,8,"BYU","Boise State",2019
 401114178,2019,8,"California","Oregon State",2019
 401117885,2019,8,"Cincinnati","Tulsa",2019
 401117886,2019,8,"Connecticut","Houston",2019
@@ -3228,8 +3228,8 @@
 401110827,2019,8,"Ole Miss","Texas A&M",2019
 401112226,2019,8,"Penn State","Michigan",2019
 401112234,2019,8,"Rutgers","Minnesota",2019
-401117529,2019,8,"San José State","San Diego State",2019
 401117887,2019,8,"SMU","Temple",2019
+401117529,2019,8,"San José State","San Diego State",2019
 401110829,2019,8,"South Carolina","Florida",2019
 401114210,2019,8,"Stanford","UCLA",2019
 401112483,2019,8,"Syracuse","Pittsburgh",2019
@@ -3270,9 +3270,9 @@
 401112162,2019,7,"Indiana","Rutgers",2019
 401112195,2019,7,"Iowa","Penn State",2019
 401110818,2019,7,"Kentucky","Arkansas",2019
+401110819,2019,7,"LSU","Florida",2019
 401121950,2019,7,"Louisiana","Appalachian State",2019
 401114281,2019,7,"Louisiana Tech","UMass",2019
-401110819,2019,7,"LSU","Florida",2019
 401114283,2019,7,"Marshall","Old Dominion",2019
 401112478,2019,7,"Miami","Virginia",2019
 401112233,2019,7,"Minnesota","Nebraska",2019
@@ -3319,9 +3319,9 @@
 401112088,2019,6,"Iowa State","TCU",2019
 401112101,2019,6,"Kansas","Oklahoma",2019
 401112077,2019,6,"Kansas State","Baylor",2019
+401110813,2019,6,"LSU","Utah State",2019
 401117877,2019,6,"Louisiana Monroe","Memphis",2019
 401112473,2019,6,"Louisville","Boston College",2019
-401110813,2019,6,"LSU","Utah State",2019
 401112476,2019,6,"Miami","Virginia Tech",2019
 401112194,2019,6,"Michigan","Iowa",2019
 401114275,2019,6,"Middle Tennessee","Marshall",2019
@@ -3338,8 +3338,8 @@
 401114177,2019,6,"Oregon","California",2019
 401112260,2019,6,"Penn State","Purdue",2019
 401112205,2019,6,"Rutgers","Maryland",2019
-401117519,2019,6,"San José State","New Mexico",2019
 401117878,2019,6,"SMU","Tulsa",2019
+401117519,2019,6,"San José State","New Mexico",2019
 401121948,2019,6,"South Alabama","Georgia Southern",2019
 401114209,2019,6,"Stanford","Washington",2019
 401110816,2019,6,"Tennessee","Georgia",2019
@@ -3412,9 +3412,9 @@
 401110798,2019,4,"Arkansas","San José State",2019
 401121941,2019,4,"Arkansas State","Southern Illinois",2019
 401114327,2019,4,"Army","Morgan State",2019
+401114235,2019,4,"BYU","Washington",2019
 401117506,2019,4,"Boise State","Air Force",2019
 401117870,2019,4,"Buffalo","Temple",2019
-401114235,2019,4,"BYU","Washington",2019
 401112456,2019,4,"Clemson","Charlotte",2019
 401117507,2019,4,"Colorado State","Toledo",2019
 401116697,2019,4,"East Carolina","William & Mary",2019
@@ -3466,11 +3466,11 @@
 401112141,2019,3,"Arizona","Texas Tech",2019
 401110786,2019,3,"Arkansas","Colorado State",2019
 401110787,2019,3,"Auburn","Kent State",2019
+401114219,2019,3,"BYU","USC",2019
 401114257,2019,3,"Ball State","Florida Atlantic",2019
 401117503,2019,3,"Boise State","Portland State",2019
 401112098,2019,3,"Boston College","Kansas",2019
 401114258,2019,3,"Bowling Green","Louisiana Tech",2019
-401114219,2019,3,"BYU","USC",2019
 401114176,2019,3,"California","North Texas",2019
 401119263,2019,3,"Central Michigan","Akron",2019
 401114255,2019,3,"Charlotte","UMass",2019
@@ -3485,9 +3485,9 @@
 401112159,2019,3,"Indiana","Ohio State",2019
 401112086,2019,3,"Iowa State","Iowa",2019
 401110789,2019,3,"Kentucky","Florida",2019
+401110790,2019,3,"LSU","Northwestern State",2019
 401114348,2019,3,"Liberty","Buffalo",2019
 401121940,2019,3,"Louisiana","Texas Southern",2019
-401110790,2019,3,"LSU","Northwestern State",2019
 401114259,2019,3,"Marshall","Ohio",2019
 401112454,2019,3,"Miami","Bethune-Cookman",2019
 401112214,2019,3,"Michigan State","Arizona State",2019
@@ -3586,8 +3586,8 @@
 401112445,2019,2,"Pittsburgh","Ohio",2019
 401110785,2019,2,"Purdue","Vanderbilt",2019
 401112447,2019,2,"Rice","Wake Forest",2019
-401117501,2019,2,"San José State","Tulsa",2019
 401114253,2019,2,"SMU","North Texas",2019
+401117501,2019,2,"San José State","Tulsa",2019
 401121938,2019,2,"South Alabama","Jackson State",2019
 401110782,2019,2,"South Carolina","Charleston Southern",2019
 401110783,2019,2,"Tennessee","BYU",2019
@@ -3617,14 +3617,14 @@
 401114238,2019,1,"Army","Rice",2019
 401135287,2019,1,"Auburn","Minnesota",2019
 401110722,2019,1,"Auburn","Oregon",2019
+401135269,2019,1,"BYU","Hawai'i",2019
+401114223,2019,1,"BYU","Utah",2019
 401112157,2019,1,"Ball State","Indiana",2019
 401135289,2019,1,"Baylor","Georgia",2019
 401112073,2019,1,"Baylor","Stephen F. Austin",2019
 401112435,2019,1,"Boston College","Virginia Tech",2019
 401119254,2019,1,"Bowling Green","Morgan State",2019
 401119255,2019,1,"Buffalo","Robert Morris",2019
-401135269,2019,1,"BYU","Hawai'i",2019
-401114223,2019,1,"BYU","Utah",2019
 401114174,2019,1,"California","UC Davis",2019
 401119253,2019,1,"Central Michigan","Albany",2019
 401135260,2019,1,"Charlotte","Buffalo",2019
@@ -3654,14 +3654,14 @@
 401135261,2019,1,"Kent State","Utah State",2019
 401110724,2019,1,"Kentucky","Toledo",2019
 401135283,2019,1,"Kentucky","Virginia Tech",2019
+401135295,2019,1,"LSU","Clemson",2019
+401110725,2019,1,"LSU","Georgia Southern",2019
+401135278,2019,1,"LSU","Oklahoma",2019
 401112434,2019,1,"Liberty","Syracuse",2019
 401110727,2019,1,"Louisiana","Mississippi State",2019
 401128468,2019,1,"Louisiana Monroe","Grambling",2019
 401135281,2019,1,"Louisville","Mississippi State",2019
 401112436,2019,1,"Louisville","Notre Dame",2019
-401135295,2019,1,"LSU","Clemson",2019
-401110725,2019,1,"LSU","Georgia Southern",2019
-401135278,2019,1,"LSU","Oklahoma",2019
 401135268,2019,1,"Marshall","UCF",2019
 401114240,2019,1,"Marshall","VMI",2019
 401112201,2019,1,"Maryland","Howard",2019
@@ -3671,8 +3671,8 @@
 401112222,2019,1,"Michigan","Middle Tennessee",2019
 401112212,2019,1,"Michigan State","Tulsa",2019
 401112229,2019,1,"Minnesota","South Dakota State",2019
-401117857,2019,1,"Navy","Holy Cross",2019
 401112432,2019,1,"NC State","East Carolina",2019
+401117857,2019,1,"Navy","Holy Cross",2019
 401112238,2019,1,"Nebraska","South Alabama",2019
 401135292,2019,1,"Nevada","Ohio",2019
 401112262,2019,1,"Nevada","Purdue",2019
@@ -3802,8 +3802,8 @@
 401022569,2018,13,"UNLV","Nevada",2018
 401012800,2018,13,"USC","Notre Dame",2018
 401015054,2018,13,"UT San Antonio","North Texas",2018
-401012802,2018,13,"Utah","BYU",2018
 401015056,2018,13,"UTEP","Southern Mississippi",2018
+401012802,2018,13,"Utah","BYU",2018
 401012357,2018,13,"Vanderbilt","Tennessee",2018
 401013183,2018,13,"Virginia Tech","Virginia",2018
 401012798,2018,13,"Washington State","Washington",2018
@@ -3816,9 +3816,9 @@
 401021693,2018,12,"Arkansas State","Louisiana Monroe",2018
 401013375,2018,12,"Army","Colgate",2018
 401012339,2018,12,"Auburn","Liberty",2018
+401013446,2018,12,"BYU","New Mexico State",2018
 401020780,2018,12,"Ball State","Western Michigan",2018
 401013036,2018,12,"Baylor","TCU",2018
-401013446,2018,12,"BYU","New Mexico State",2018
 401015044,2018,12,"Charlotte","Florida International",2018
 401013176,2018,12,"Clemson","Duke",2018
 401021694,2018,12,"Coastal Carolina","Georgia Southern",2018
@@ -3836,9 +3836,9 @@
 401013064,2018,12,"Kansas State","Texas Tech",2018
 401020783,2018,12,"Kent State","Toledo",2018
 401012342,2018,12,"Kentucky","Middle Tennessee",2018
+401012343,2018,12,"LSU","Rice",2018
 401021695,2018,12,"Louisiana","South Alabama",2018
 401013178,2018,12,"Louisville","NC State",2018
-401012343,2018,12,"LSU","Rice",2018
 401015047,2018,12,"Marshall","UT San Antonio",2018
 401012878,2018,12,"Maryland","Ohio State",2018
 401012860,2018,12,"Michigan","Indiana",2018
@@ -3858,8 +3858,8 @@
 401012793,2018,12,"Oregon","Arizona State",2018
 401013353,2018,12,"Purdue","Wisconsin",2018
 401012849,2018,12,"Rutgers","Penn State",2018
-401022562,2018,12,"San José State","Nevada",2018
 401019530,2018,12,"SMU","Memphis",2018
+401022562,2018,12,"San José State","Nevada",2018
 401012345,2018,12,"South Carolina","Chattanooga",2018
 401015046,2018,12,"Southern Mississippi","Louisiana Tech",2018
 401019533,2018,12,"Temple","South Florida",2018
@@ -3933,9 +3933,9 @@
 401013366,2018,11,"UMass","BYU",2018
 401012787,2018,11,"USC","California",2018
 401015038,2018,11,"UT San Antonio","Florida International",2018
+401015041,2018,11,"UTEP","Middle Tennessee",2018
 401012789,2018,11,"Utah","Oregon",2018
 401022557,2018,11,"Utah State","San José State",2018
-401015041,2018,11,"UTEP","Middle Tennessee",2018
 401013174,2018,11,"Virginia","Liberty",2018
 401013077,2018,11,"West Virginia","TCU",2018
 401020772,2018,10,"Akron","Northern Illinois",2018
@@ -3960,8 +3960,8 @@
 401012812,2018,10,"Illinois","Minnesota",2018
 401013045,2018,10,"Kansas","Iowa State",2018
 401012326,2018,10,"Kentucky","Georgia",2018
-401021685,2018,10,"Louisiana Monroe","Georgia Southern",2018
 401012327,2018,10,"LSU","Alabama",2018
+401021685,2018,10,"Louisiana Monroe","Georgia Southern",2018
 401012877,2018,10,"Maryland","Michigan State",2018
 401013163,2018,10,"Miami","Duke",2018
 401012894,2018,10,"Michigan","Penn State",2018
@@ -4003,8 +4003,8 @@
 401020768,2018,9,"Akron","Central Michigan",2018
 401012775,2018,9,"Arizona","Oregon",2018
 401012319,2018,9,"Arkansas","Vanderbilt",2018
-401013154,2018,9,"Boston College","Miami",2018
 401016409,2018,9,"BYU","Northern Illinois",2018
+401013154,2018,9,"Boston College","Miami",2018
 401012778,2018,9,"California","Washington",2018
 401015026,2018,9,"Charlotte","Southern Mississippi",2018
 401012777,2018,9,"Colorado","Oregon State",2018
@@ -4038,8 +4038,8 @@
 401015029,2018,9,"Old Dominion","Middle Tennessee",2018
 401012868,2018,9,"Penn State","Iowa",2018
 401013156,2018,9,"Pittsburgh","Duke",2018
-401022549,2018,9,"San José State","UNLV",2018
 401019514,2018,9,"SMU","Cincinnati",2018
+401022549,2018,9,"San José State","UNLV",2018
 401021679,2018,9,"South Alabama","Troy",2018
 401012323,2018,9,"South Carolina","Tennessee",2018
 401012779,2018,9,"Stanford","Washington State",2018
@@ -4048,8 +4048,8 @@
 401019516,2018,9,"Tulsa","Tulane",2018
 401012774,2018,9,"UCLA","Utah",2018
 401012776,2018,9,"USC","Arizona State",2018
-401022545,2018,9,"Utah State","New Mexico",2018
 401015031,2018,9,"UTEP","UAB",2018
+401022545,2018,9,"Utah State","New Mexico",2018
 401013158,2018,9,"Virginia","North Carolina",2018
 401013153,2018,9,"Virginia Tech","Georgia Tech",2018
 401013033,2018,9,"West Virginia","Baylor",2018
@@ -4073,10 +4073,10 @@
 401012867,2018,8,"Iowa","Maryland",2018
 401020761,2018,8,"Kent State","Akron",2018
 401012314,2018,8,"Kentucky","Vanderbilt",2018
+401012315,2018,8,"LSU","Mississippi State",2018
 401013453,2018,8,"Liberty","Idaho State",2018
 401021678,2018,8,"Louisiana Monroe","Texas State",2018
 401015022,2018,8,"Louisiana Tech","UTEP",2018
-401012315,2018,8,"LSU","Mississippi State",2018
 401015021,2018,8,"Marshall","Florida Atlantic",2018
 401012884,2018,8,"Michigan State","Michigan",2018
 401015019,2018,8,"Middle Tennessee","Charlotte",2018
@@ -4114,10 +4114,10 @@
 401012308,2018,7,"Arkansas","Ole Miss",2018
 401021672,2018,7,"Arkansas State","Appalachian State",2018
 401012309,2018,7,"Auburn","Tennessee",2018
+401016408,2018,7,"BYU","Hawai'i",2018
 401013144,2018,7,"Boston College","Louisville",2018
 401020760,2018,7,"Bowling Green","Western Michigan",2018
 401020756,2018,7,"Buffalo","Akron",2018
-401016408,2018,7,"BYU","Hawai'i",2018
 401012767,2018,7,"California","UCLA",2018
 401020757,2018,7,"Central Michigan","Ball State",2018
 401015013,2018,7,"Charlotte","Western Kentucky",2018
@@ -4132,9 +4132,9 @@
 401012856,2018,7,"Indiana","Iowa",2018
 401013043,2018,7,"Iowa State","West Virginia",2018
 401013061,2018,7,"Kansas State","Oklahoma State",2018
+401012310,2018,7,"LSU","Georgia",2018
 401013452,2018,7,"Liberty","Troy",2018
 401013442,2018,7,"Louisiana","New Mexico State",2018
-401012310,2018,7,"LSU","Georgia",2018
 401012825,2018,7,"Maryland","Rutgers",2018
 401019506,2018,7,"Memphis","UCF",2018
 401020810,2018,7,"Miami (OH)","Kent State",2018
@@ -4168,10 +4168,10 @@
 401020812,2018,6,"Akron","Miami (OH)",2018
 401012759,2018,6,"Arizona","California",2018
 401012300,2018,6,"Arkansas","Alabama",2018
+401016407,2018,6,"BYU","Utah State",2018
 401020754,2018,6,"Ball State","Northern Illinois",2018
 401013031,2018,6,"Baylor","Kansas State",2018
 401022528,2018,6,"Boise State","San Diego State",2018
-401016407,2018,6,"BYU","Utah State",2018
 401020752,2018,6,"Central Michigan","Buffalo",2018
 401019501,2018,6,"Cincinnati","Tulane",2018
 401012761,2018,6,"Colorado","Arizona State",2018
@@ -4245,8 +4245,8 @@
 401013050,2018,5,"Kansas","Oklahoma State",2018
 401013060,2018,5,"Kansas State","Texas",2018
 401012296,2018,5,"Kentucky","South Carolina",2018
-401013133,2018,5,"Louisville","Florida State",2018
 401012297,2018,5,"LSU","Ole Miss",2018
+401013133,2018,5,"Louisville","Florida State",2018
 401013466,2018,5,"Miami","North Carolina",2018
 401020750,2018,5,"Miami (OH)","Western Michigan",2018
 401012881,2018,5,"Michigan State","Central Michigan",2018
@@ -4262,8 +4262,8 @@
 401013030,2018,5,"Oklahoma","Baylor",2018
 401013347,2018,5,"Penn State","Ohio State",2018
 401012824,2018,5,"Rutgers","Indiana",2018
-401022527,2018,5,"San José State","Hawai'i",2018
 401019498,2018,5,"SMU","Houston Baptist",2018
+401022527,2018,5,"San José State","Hawai'i",2018
 401013041,2018,5,"TCU","Iowa State",2018
 401012293,2018,5,"Texas A&M","Arkansas",2018
 401013325,2018,5,"Texas Tech","West Virginia",2018
@@ -4282,10 +4282,10 @@
 401021661,2018,4,"Appalachian State","Gardner-Webb",2018
 401021662,2018,4,"Arkansas State","UNLV",2018
 401012285,2018,4,"Auburn","Arkansas",2018
+401016406,2018,4,"BYU","McNeese",2018
 401015000,2018,4,"Ball State","Western Kentucky",2018
 401013029,2018,4,"Baylor","Kansas",2018
 401020811,2018,4,"Bowling Green","Miami (OH)",2018
-401016406,2018,4,"BYU","McNeese",2018
 401020684,2018,4,"Central Michigan","Maine",2018
 401019491,2018,4,"Cincinnati","Ohio",2018
 401022523,2018,4,"Colorado State","Illinois State",2018
@@ -4300,10 +4300,10 @@
 401012865,2018,4,"Iowa","Wisconsin",2018
 401013040,2018,4,"Iowa State","Akron",2018
 401012286,2018,4,"Kentucky","Mississippi State",2018
+401012287,2018,4,"LSU","Louisiana Tech",2018
 401013450,2018,4,"Liberty","North Texas",2018
 401021663,2018,4,"Louisiana","Coastal Carolina",2018
 401021664,2018,4,"Louisiana Monroe","Troy",2018
-401012287,2018,4,"LSU","Louisiana Tech",2018
 401013126,2018,4,"Marshall","NC State",2018
 401012875,2018,4,"Maryland","Minnesota",2018
 401019494,2018,4,"Memphis","South Alabama",2018
@@ -4320,8 +4320,8 @@
 401012750,2018,4,"Oregon State","Arizona",2018
 401013119,2018,4,"Purdue","Boston College",2018
 401012823,2018,4,"Rutgers","Buffalo",2018
-401020683,2018,4,"San Diego State","Eastern Michigan",2018
 401019495,2018,4,"SMU","Navy",2018
+401020683,2018,4,"San Diego State","Eastern Michigan",2018
 401019492,2018,4,"South Florida","East Carolina",2018
 401014998,2018,4,"Southern Mississippi","Rice",2018
 401013127,2018,4,"Syracuse","Connecticut",2018
@@ -4333,8 +4333,8 @@
 401013360,2018,4,"UMass","Charlotte",2018
 401012748,2018,4,"USC","Washington State",2018
 401014999,2018,4,"UT San Antonio","Texas State",2018
-401022522,2018,4,"Utah State","Air Force",2018
 401013440,2018,4,"UTEP","New Mexico State",2018
+401022522,2018,4,"Utah State","Air Force",2018
 401012291,2018,4,"Vanderbilt","South Carolina",2018
 401013123,2018,4,"Virginia","Louisville",2018
 401013129,2018,4,"Wake Forest","Notre Dame",2018
@@ -4411,10 +4411,10 @@
 401012727,2018,2,"Arizona State","Michigan State",2018
 401013367,2018,2,"Army","Liberty",2018
 401012262,2018,2,"Auburn","Alabama State",2018
+401012735,2018,2,"BYU","California",2018
 401019483,2018,2,"Boise State","Connecticut",2018
 401013097,2018,2,"Boston College","Holy Cross",2018
 401012873,2018,2,"Bowling Green","Maryland",2018
-401012735,2018,2,"BYU","California",2018
 401013049,2018,2,"Central Michigan","Kansas",2018
 401014981,2018,2,"Charlotte","Appalachian State",2018
 401014990,2018,2,"Coastal Carolina","UAB",2018
@@ -4431,9 +4431,9 @@
 401012863,2018,2,"Iowa","Iowa State",2018
 401012266,2018,2,"Kansas State","Mississippi State",2018
 401020677,2018,2,"Kent State","Howard",2018
+401012264,2018,2,"LSU","Southeastern Louisiana",2018
 401014984,2018,2,"Louisiana Tech","Southern",2018
 401013101,2018,2,"Louisville","Indiana State",2018
-401012264,2018,2,"LSU","Southeastern Louisiana",2018
 401014985,2018,2,"Marshall","Eastern Kentucky",2018
 401013102,2018,2,"Miami","Savannah State",2018
 401019482,2018,2,"Miami (OH)","Cincinnati",2018
@@ -4441,8 +4441,8 @@
 401014986,2018,2,"Middle Tennessee","UT Martin",2018
 401013329,2018,2,"Minnesota","Fresno State",2018
 401012267,2018,2,"Missouri","Wyoming",2018
-401019479,2018,2,"Navy","Memphis",2018
 401013104,2018,2,"NC State","Georgia State",2018
+401019479,2018,2,"Navy","Memphis",2018
 401012729,2018,2,"Nebraska","Colorado",2018
 401014987,2018,2,"North Texas","Incarnate Word",2018
 401012730,2018,2,"Northern Illinois","Utah",2018
@@ -4457,8 +4457,8 @@
 401012732,2018,2,"Oregon State","Southern Utah",2018
 401013105,2018,2,"Pittsburgh","Penn State",2018
 401013352,2018,2,"Purdue","Eastern Michigan",2018
-401022518,2018,2,"San Diego State","Sacramento State",2018
 401019477,2018,2,"SMU","TCU",2018
+401022518,2018,2,"San Diego State","Sacramento State",2018
 401012268,2018,2,"South Carolina","Georgia",2018
 401013100,2018,2,"South Florida","Georgia Tech",2018
 401014989,2018,2,"Southern Mississippi","Louisiana Monroe",2018
@@ -4496,11 +4496,11 @@
 401032064,2018,1,"Army","Houston",2018
 401032073,2018,1,"Auburn","Purdue",2018
 401012248,2018,1,"Auburn","Washington",2018
+401032062,2018,1,"BYU","Western Michigan",2018
 401020671,2018,1,"Ball State","Central Connecticut",2018
 401013026,2018,1,"Baylor","Abilene Christian",2018
 401013087,2018,1,"Boston College","UMass",2018
 401020674,2018,1,"Buffalo","Delaware State",2018
-401032062,2018,1,"BYU","Western Michigan",2018
 401012684,2018,1,"California","North Carolina",2018
 401014973,2018,1,"Charlotte","Fordham",2018
 401013088,2018,1,"Clemson","Furman",2018
@@ -4531,12 +4531,12 @@
 401013048,2018,1,"Kansas","Nicholls",2018
 401013057,2018,1,"Kansas State","South Dakota",2018
 401012251,2018,1,"Kentucky","Central Michigan",2018
+401013095,2018,1,"LSU","Miami",2018
 401013448,2018,1,"Liberty","Old Dominion",2018
 401021654,2018,1,"Louisiana","Grambling",2018
 401035253,2018,1,"Louisiana","Tulane",2018
 401021655,2018,1,"Louisiana Monroe","Southeastern Louisiana",2018
 401032066,2018,1,"Louisiana Tech","Hawai'i",2018
-401013095,2018,1,"LSU","Miami",2018
 401012872,2018,1,"Maryland","Texas",2018
 401019474,2018,1,"Memphis","Mercer",2018
 401014975,2018,1,"Miami (OH)","Marshall",2018
@@ -4597,9 +4597,9 @@
 401012679,2018,1,"UCLA","Cincinnati",2018
 401013357,2018,1,"UMass","Duquesne",2018
 401012678,2018,1,"USC","UNLV",2018
+401014980,2018,1,"UTEP","Northern Arizona",2018
 401035250,2018,1,"Utah","Northwestern",2018
 401012675,2018,1,"Utah","Weber State",2018
-401014980,2018,1,"UTEP","Northern Arizona",2018
 401032072,2018,1,"Vanderbilt","Baylor",2018
 401012259,2018,1,"Vanderbilt","Middle Tennessee",2018
 401013094,2018,1,"Virginia","Richmond",2018
@@ -4649,10 +4649,10 @@
 400935418,2017,13,"Illinois","Northwestern",2017
 400934558,2017,13,"Kansas State","Iowa State",2017
 400933935,2017,13,"Kentucky","Louisville",2017
+400933936,2017,13,"LSU","Texas A&M",2017
 400944881,2017,13,"Louisiana","Georgia Southern",2017
 400944880,2017,13,"Louisiana Monroe","Arkansas State",2017
 400938669,2017,13,"Louisiana Tech","UT San Antonio",2017
-400933936,2017,13,"LSU","Texas A&M",2017
 400938670,2017,13,"Marshall","Southern Mississippi",2017
 400935419,2017,13,"Maryland","Penn State",2017
 400941852,2017,13,"Memphis","East Carolina",2017
@@ -4671,9 +4671,9 @@
 400935422,2017,13,"Purdue","Indiana",2017
 400938672,2017,13,"Rice","North Texas",2017
 400935423,2017,13,"Rutgers","Michigan State",2017
+400941854,2017,13,"SMU","Tulane",2017
 400945308,2017,13,"San Diego State","New Mexico",2017
 400945309,2017,13,"San José State","Wyoming",2017
-400941854,2017,13,"SMU","Tulane",2017
 400933937,2017,13,"South Carolina","Clemson",2017
 400934583,2017,13,"Stanford","Notre Dame",2017
 400937531,2017,13,"Syracuse","Boston College",2017
@@ -4695,11 +4695,11 @@
 400933922,2017,12,"Arkansas","Mississippi State",2017
 400944875,2017,12,"Arkansas State","Texas State",2017
 400933923,2017,12,"Auburn","Louisiana Monroe",2017
+400938895,2017,12,"BYU","UMass",2017
 400945024,2017,12,"Ball State","Buffalo",2017
 400934551,2017,12,"Baylor","Iowa State",2017
 400945300,2017,12,"Boise State","Air Force",2017
 400945022,2017,12,"Bowling Green","Toledo",2017
-400938895,2017,12,"BYU","UMass",2017
 400937521,2017,12,"Clemson","The Citadel",2017
 400945301,2017,12,"Colorado State","San José State",2017
 400937520,2017,12,"Connecticut","Boston College",2017
@@ -4745,8 +4745,8 @@
 400941846,2017,12,"Tulane","Houston",2017
 400935323,2017,12,"USC","UCLA",2017
 400938664,2017,12,"UT San Antonio","Marshall",2017
-400945303,2017,12,"Utah State","Hawai'i",2017
 400938663,2017,12,"UTEP","Louisiana Tech",2017
+400945303,2017,12,"Utah State","Hawai'i",2017
 400933929,2017,12,"Vanderbilt","Missouri",2017
 400937528,2017,12,"Virginia Tech","Pittsburgh",2017
 400937527,2017,12,"Wake Forest","NC State",2017
@@ -4777,9 +4777,9 @@
 400935403,2017,11,"Illinois","Indiana",2017
 400934548,2017,11,"Iowa State","Oklahoma State",2017
 400934547,2017,11,"Kansas State","West Virginia",2017
+400933914,2017,11,"LSU","Arkansas",2017
 400938656,2017,11,"Louisiana Tech","Florida Atlantic",2017
 400937518,2017,11,"Louisville","Virginia",2017
-400933914,2017,11,"LSU","Arkansas",2017
 400938657,2017,11,"Marshall","Western Kentucky",2017
 400935404,2017,11,"Maryland","Michigan",2017
 400934581,2017,11,"Miami","Notre Dame",2017
@@ -4851,8 +4851,8 @@
 400938649,2017,10,"Old Dominion","Charlotte",2017
 400935401,2017,10,"Purdue","Illinois",2017
 400935402,2017,10,"Rutgers","Maryland",2017
-400945294,2017,10,"San José State","San Diego State",2017
 400941836,2017,10,"SMU","UCF",2017
+400945294,2017,10,"San José State","San Diego State",2017
 400944869,2017,10,"South Alabama","Louisiana",2017
 400934545,2017,10,"TCU","Texas",2017
 400941834,2017,10,"Temple","Navy",2017
@@ -4878,10 +4878,10 @@
 400945007,2017,9,"Akron","Buffalo",2017
 400935305,2017,9,"Arizona","Washington State",2017
 400935306,2017,9,"Arizona State","USC",2017
+400945288,2017,9,"BYU","San José State",2017
 400945006,2017,9,"Ball State","Toledo",2017
 400934538,2017,9,"Baylor","Texas",2017
 400937504,2017,9,"Boston College","Florida State",2017
-400945288,2017,9,"BYU","San José State",2017
 400937505,2017,9,"Clemson","Georgia Tech",2017
 400944863,2017,9,"Coastal Carolina","Texas State",2017
 400935308,2017,9,"Colorado","California",2017
@@ -4923,8 +4923,8 @@
 400944864,2017,9,"Troy","Georgia Southern",2017
 400986609,2017,9,"UCF","Austin Peay",2017
 400938893,2017,9,"UMass","Appalachian State",2017
-400945284,2017,9,"Utah State","Boise State",2017
 400938648,2017,9,"UTEP","UT San Antonio",2017
+400945284,2017,9,"Utah State","Boise State",2017
 400937506,2017,9,"Virginia Tech","Duke",2017
 400937507,2017,9,"Wake Forest","Louisville",2017
 400935307,2017,9,"Washington","UCLA",2017
@@ -5010,10 +5010,10 @@
 400934527,2017,7,"Iowa State","Kansas",2017
 400934530,2017,7,"Kansas State","TCU",2017
 400944995,2017,7,"Kent State","Miami (OH)",2017
+400933889,2017,7,"LSU","Auburn",2017
 400944852,2017,7,"Louisiana","Texas State",2017
 400944856,2017,7,"Louisiana Monroe","Georgia State",2017
 400937494,2017,7,"Louisville","Boston College",2017
-400933889,2017,7,"LSU","Auburn",2017
 400938634,2017,7,"Marshall","Old Dominion",2017
 400935377,2017,7,"Maryland","Northwestern",2017
 400941823,2017,7,"Memphis","Navy",2017
@@ -5048,9 +5048,9 @@
 400944988,2017,6,"Akron","Ball State",2017
 400944850,2017,6,"Appalachian State","New Mexico State",2017
 400933880,2017,6,"Auburn","Ole Miss",2017
+400945267,2017,6,"BYU","Boise State",2017
 400937488,2017,6,"Boston College","Virginia Tech",2017
 400944993,2017,6,"Buffalo","Western Michigan",2017
-400945267,2017,6,"BYU","Boise State",2017
 400938627,2017,6,"Charlotte","Marshall",2017
 400941816,2017,6,"Cincinnati","UCF",2017
 400937489,2017,6,"Clemson","Wake Forest",2017
@@ -5070,8 +5070,8 @@
 400944989,2017,6,"Miami (OH)","Bowling Green",2017
 400935372,2017,6,"Michigan","Michigan State",2017
 400938628,2017,6,"Middle Tennessee","Florida International",2017
-400941815,2017,6,"Navy","Air Force",2017
 400937487,2017,6,"NC State","Louisville",2017
+400941815,2017,6,"Navy","Air Force",2017
 400935373,2017,6,"Nebraska","Wisconsin",2017
 400945270,2017,6,"Nevada","Hawai'i",2017
 400934577,2017,6,"North Carolina","Notre Dame",2017
@@ -5097,9 +5097,9 @@
 400945271,2017,6,"UNLV","San Diego State",2017
 400935290,2017,6,"USC","Oregon State",2017
 400938676,2017,6,"UT San Antonio","Southern Mississippi",2017
+400938631,2017,6,"UTEP","Western Kentucky",2017
 400935291,2017,6,"Utah","Stanford",2017
 400945268,2017,6,"Utah State","Colorado State",2017
-400938631,2017,6,"UTEP","Western Kentucky",2017
 400933885,2017,6,"Vanderbilt","Georgia",2017
 400937490,2017,6,"Virginia","Duke",2017
 400935293,2017,6,"Washington","California",2017
@@ -5123,10 +5123,10 @@
 400934519,2017,5,"Kansas State","Baylor",2017
 400944986,2017,5,"Kent State","Buffalo",2017
 400933876,2017,5,"Kentucky","Eastern Michigan",2017
+400933877,2017,5,"LSU","Troy",2017
 400944844,2017,5,"Louisiana Monroe","Coastal Carolina",2017
 400938624,2017,5,"Louisiana Tech","South Alabama",2017
 400937484,2017,5,"Louisville","Murray State",2017
-400933877,2017,5,"LSU","Troy",2017
 400935366,2017,5,"Michigan State","Iowa",2017
 400935367,2017,5,"Minnesota","Maryland",2017
 400937485,2017,5,"NC State","Syracuse",2017
@@ -5137,8 +5137,8 @@
 400935368,2017,5,"Penn State","Indiana",2017
 400937486,2017,5,"Pittsburgh","Rice",2017
 400935369,2017,5,"Rutgers","Ohio State",2017
-400944987,2017,5,"San Diego State","Northern Illinois",2017
 400941809,2017,5,"SMU","Connecticut",2017
+400944987,2017,5,"San Diego State","Northern Illinois",2017
 400938626,2017,5,"Southern Mississippi","North Texas",2017
 400935285,2017,5,"Stanford","Arizona State",2017
 400941811,2017,5,"Temple","Houston",2017
@@ -5181,9 +5181,9 @@
 400935360,2017,4,"Iowa","Penn State",2017
 400934514,2017,4,"Kansas","West Virginia",2017
 400933866,2017,4,"Kentucky","Florida",2017
+400933867,2017,4,"LSU","Syracuse",2017
 400944842,2017,4,"Louisiana","Louisiana Monroe",2017
 400937474,2017,4,"Louisville","Kent State",2017
-400933867,2017,4,"LSU","Syracuse",2017
 400935361,2017,4,"Maryland","UCF",2017
 400941805,2017,4,"Memphis","Southern Illinois",2017
 400937475,2017,4,"Miami","Toledo",2017
@@ -5199,8 +5199,8 @@
 400934516,2017,4,"Oklahoma State","TCU",2017
 400935364,2017,4,"Purdue","Michigan",2017
 400938615,2017,4,"Rice","Florida International",2017
-400945260,2017,4,"San José State","Utah State",2017
 400941806,2017,4,"SMU","Arkansas State",2017
+400945260,2017,4,"San José State","Utah State",2017
 400944841,2017,4,"South Alabama","Idaho",2017
 400933869,2017,4,"South Carolina","Louisiana Tech",2017
 400941803,2017,4,"South Florida","Temple",2017
@@ -5220,11 +5220,11 @@
 400933854,2017,3,"Alabama","Colorado State",2017
 400944838,2017,3,"Arkansas State","Arkansas-Pine Bluff",2017
 400933855,2017,3,"Auburn","Mercer",2017
+400935349,2017,3,"BYU","Wisconsin",2017
 400944900,2017,3,"Ball State","Tennessee Tech",2017
 400945256,2017,3,"Boise State","New Mexico",2017
 400934574,2017,3,"Boston College","Notre Dame",2017
 400944899,2017,3,"Buffalo","Colgate",2017
-400935349,2017,3,"BYU","Wisconsin",2017
 400933858,2017,3,"California","Ole Miss",2017
 400938606,2017,3,"Charlotte","North Carolina A&T",2017
 400935271,2017,3,"Colorado","Northern Colorado",2017
@@ -5270,8 +5270,8 @@
 400938612,2017,3,"UAB","Coastal Carolina",2017
 400934511,2017,3,"USC","Texas",2017
 400938613,2017,3,"UT San Antonio","Southern",2017
-400935272,2017,3,"Utah","San José State",2017
 400935269,2017,3,"UTEP","Arizona",2017
+400935272,2017,3,"Utah","San José State",2017
 400933863,2017,3,"Vanderbilt","Kansas State",2017
 400937467,2017,3,"Virginia","Connecticut",2017
 400937469,2017,3,"Wake Forest","Utah State",2017
@@ -5288,11 +5288,11 @@
 400935259,2017,2,"Arizona State","San Diego State",2017
 400933842,2017,2,"Arkansas","TCU",2017
 400934562,2017,2,"Army","Buffalo",2017
+400935263,2017,2,"BYU","Utah",2017
 400938605,2017,2,"Ball State","UAB",2017
 400934498,2017,2,"Baylor","UT San Antonio",2017
 400937453,2017,2,"Boston College","Wake Forest",2017
 400944897,2017,2,"Bowling Green","South Dakota",2017
-400935263,2017,2,"BYU","Utah",2017
 400935268,2017,2,"California","Weber State",2017
 400933843,2017,2,"Clemson","Auburn",2017
 400935262,2017,2,"Colorado","Texas State",2017
@@ -5308,8 +5308,8 @@
 400934501,2017,2,"Kansas State","Charlotte",2017
 400944896,2017,2,"Kent State","Howard",2017
 400933846,2017,2,"Kentucky","Eastern Kentucky",2017
-400933849,2017,2,"Louisiana Tech","Mississippi State",2017
 400933847,2017,2,"LSU","Chattanooga",2017
+400933849,2017,2,"Louisiana Tech","Mississippi State",2017
 400935242,2017,2,"Maryland","Towson",2017
 400944894,2017,2,"Miami (OH)","Austin Peay",2017
 400935243,2017,2,"Michigan","Cincinnati",2017
@@ -5340,8 +5340,8 @@
 400935261,2017,2,"UCLA","Hawai'i",2017
 400938602,2017,2,"UMass","Old Dominion",2017
 400935260,2017,2,"USC","Stanford",2017
-400945253,2017,2,"Utah State","Idaho State",2017
 400938603,2017,2,"UTEP","Rice",2017
+400945253,2017,2,"Utah State","Idaho State",2017
 400933853,2017,2,"Vanderbilt","Alabama A&M",2017
 400935347,2017,2,"Virginia","Indiana",2017
 400937460,2017,2,"Virginia Tech","Delaware",2017
@@ -5361,10 +5361,10 @@
 400953391,2017,1,"Army","San Diego State",2017
 400933829,2017,1,"Auburn","Georgia Southern",2017
 400953411,2017,1,"Auburn","UCF",2017
+400945031,2017,1,"BYU","Portland State",2017
 400934489,2017,1,"Baylor","Liberty",2017
 400944830,2017,1,"Boise State","Troy",2017
 400953398,2017,1,"Boston College","Iowa",2017
-400945031,2017,1,"BYU","Portland State",2017
 400944890,2017,1,"Central Michigan","Rhode Island",2017
 400941787,2017,1,"Cincinnati","Austin Peay",2017
 400953413,2017,1,"Clemson","Alabama",2017
@@ -5397,9 +5397,9 @@
 400934488,2017,1,"Iowa State","Northern Iowa",2017
 400934490,2017,1,"Kansas","Southeast Missouri State",2017
 400934491,2017,1,"Kansas State","Central Arkansas",2017
-400938593,2017,1,"Louisiana Tech","Northwestern State",2017
 400933833,2017,1,"LSU","BYU",2017
 400953414,2017,1,"LSU","Notre Dame",2017
+400938593,2017,1,"Louisiana Tech","Northwestern State",2017
 400938594,2017,1,"Marshall","Miami (OH)",2017
 400953406,2017,1,"Memphis","Iowa State",2017
 400941789,2017,1,"Memphis","Louisiana Monroe",2017
@@ -5443,11 +5443,11 @@
 400935238,2017,1,"Purdue","Louisville",2017
 400935257,2017,1,"Rice","Stanford",2017
 400935250,2017,1,"Rutgers","Washington",2017
+400954523,2017,1,"SMU","Louisiana Tech",2017
+400941792,2017,1,"SMU","Stephen F. Austin",2017
 400945250,2017,1,"San Diego State","UC Davis",2017
 400945251,2017,1,"San José State","Cal Poly",2017
 400941786,2017,1,"San José State","South Florida",2017
-400954523,2017,1,"SMU","Louisiana Tech",2017
-400941792,2017,1,"SMU","Stephen F. Austin",2017
 400953410,2017,1,"South Carolina","Michigan",2017
 400933837,2017,1,"South Carolina","NC State",2017
 400941791,2017,1,"South Florida","Stony Brook",2017
@@ -5500,8 +5500,8 @@
 400869252,2016,13,"Air Force","Boise State",2016
 400869068,2016,13,"Alabama","Auburn",2016
 400869167,2016,13,"Arizona","Arizona State",2016
-400869338,2016,13,"Bowling Green","Buffalo",2016
 400868933,2016,13,"BYU","Utah State",2016
+400869338,2016,13,"Bowling Green","Buffalo",2016
 400869169,2016,13,"California","UCLA",2016
 400869074,2016,13,"Clemson","South Carolina",2016
 400869170,2016,13,"Colorado","Utah",2016
@@ -5537,8 +5537,8 @@
 400869171,2016,13,"Oregon State","Oregon",2016
 400869702,2016,13,"Penn State","Michigan State",2016
 400869500,2016,13,"Pittsburgh","Syracuse",2016
-400869253,2016,13,"San Diego State","Colorado State",2016
 400869572,2016,13,"SMU","Navy",2016
+400869253,2016,13,"San Diego State","Colorado State",2016
 400869418,2016,13,"Southern Mississippi","Louisiana Tech",2016
 400869172,2016,13,"Stanford","Rice",2016
 400869571,2016,13,"Temple","East Carolina",2016
@@ -5561,11 +5561,11 @@
 400869848,2016,12,"Appalachian State","Louisiana Monroe",2016
 400868920,2016,12,"Army","Morgan State",2016
 400869057,2016,12,"Auburn","Alabama A&M",2016
+400868932,2016,12,"BYU","UMass",2016
 400868884,2016,12,"Baylor","Kansas State",2016
 400869246,2016,12,"Boise State","UNLV",2016
 400869490,2016,12,"Boston College","Connecticut",2016
 400869330,2016,12,"Bowling Green","Kent State",2016
-400868932,2016,12,"BYU","UMass",2016
 400869166,2016,12,"California","Stanford",2016
 400869331,2016,12,"Central Michigan","Ohio",2016
 400869410,2016,12,"Charlotte","Middle Tennessee",2016
@@ -5602,8 +5602,8 @@
 400869698,2016,12,"Purdue","Wisconsin",2016
 400869414,2016,12,"Rice","UTEP",2016
 400869641,2016,12,"Rutgers","Penn State",2016
-400869247,2016,12,"San José State","Air Force",2016
 400869565,2016,12,"SMU","South Florida",2016
+400869247,2016,12,"San José State","Air Force",2016
 400925661,2016,12,"South Alabama","Presbyterian College",2016
 400869063,2016,12,"South Carolina","Western Carolina",2016
 400869493,2016,12,"Syracuse","Florida State",2016
@@ -5627,9 +5627,9 @@
 400869155,2016,11,"Arizona State","Utah",2016
 400869050,2016,11,"Arkansas","LSU",2016
 400869843,2016,11,"Arkansas State","New Mexico State",2016
+400868931,2016,11,"BYU","Southern Utah",2016
 400869325,2016,11,"Ball State","Eastern Michigan",2016
 400869329,2016,11,"Buffalo","Miami (OH)",2016
-400868931,2016,11,"BYU","Southern Utah",2016
 400869404,2016,11,"Charlotte","Rice",2016
 400869485,2016,11,"Clemson","Pittsburgh",2016
 400869483,2016,11,"Duke","North Carolina",2016
@@ -5699,17 +5699,17 @@
 400869593,2016,10,"Iowa State","Oklahoma",2016
 400869610,2016,10,"Kansas State","Oklahoma State",2016
 400869043,2016,10,"Kentucky","Georgia",2016
+400869044,2016,10,"LSU","Alabama",2016
 400869840,2016,10,"Louisiana","Idaho",2016
 400869841,2016,10,"Louisiana Monroe","South Alabama",2016
-400869044,2016,10,"LSU","Alabama",2016
 400869481,2016,10,"Miami","Pittsburgh",2016
 400869324,2016,10,"Miami (OH)","Central Michigan",2016
 400869685,2016,10,"Michigan","Maryland",2016
 400869403,2016,10,"Middle Tennessee","UT San Antonio",2016
 400869686,2016,10,"Minnesota","Purdue",2016
 400869046,2016,10,"Mississippi State","Texas A&M",2016
-400868954,2016,10,"Navy","Notre Dame",2016
 400869479,2016,10,"NC State","Florida State",2016
+400868954,2016,10,"Navy","Notre Dame",2016
 400869238,2016,10,"New Mexico","Nevada",2016
 400869480,2016,10,"North Carolina","Georgia Tech",2016
 400869400,2016,10,"North Texas","Louisiana Tech",2016
@@ -5722,8 +5722,8 @@
 400869688,2016,10,"Penn State","Iowa",2016
 400869399,2016,10,"Rice","Florida Atlantic",2016
 400869639,2016,10,"Rutgers","Indiana",2016
-400869240,2016,10,"San Diego State","Hawai'i",2016
 400869556,2016,10,"SMU","Memphis",2016
+400869240,2016,10,"San Diego State","Hawai'i",2016
 400869047,2016,10,"South Carolina","Missouri",2016
 400869397,2016,10,"Southern Mississippi","Charlotte",2016
 400869153,2016,10,"Stanford","Oregon State",2016
@@ -5786,9 +5786,9 @@
 400868965,2016,9,"UMass","Wagner",2016
 400869145,2016,9,"USC","California",2016
 400869395,2016,9,"UT San Antonio","North Texas",2016
+400869396,2016,9,"UTEP","Old Dominion",2016
 400869148,2016,9,"Utah","Washington",2016
 400869234,2016,9,"Utah State","San Diego State",2016
-400869396,2016,9,"UTEP","Old Dominion",2016
 400869475,2016,9,"Virginia","Louisville",2016
 400868917,2016,9,"Wake Forest","Army",2016
 400869683,2016,9,"Wisconsin","Nebraska",2016
@@ -5813,8 +5813,8 @@
 400869609,2016,8,"Kansas State","Texas",2016
 400869315,2016,8,"Kent State","Ohio",2016
 400869031,2016,8,"Kentucky","Mississippi State",2016
-400869469,2016,8,"Louisville","NC State",2016
 400869032,2016,8,"LSU","Ole Miss",2016
+400869469,2016,8,"Louisville","NC State",2016
 400869386,2016,8,"Marshall","Charlotte",2016
 400869675,2016,8,"Maryland","Michigan State",2016
 400869676,2016,8,"Michigan","Illinois",2016
@@ -5828,8 +5828,8 @@
 400869678,2016,8,"Northwestern","Indiana",2016
 400869645,2016,8,"Penn State","Ohio State",2016
 400869389,2016,8,"Rice","Prairie View",2016
-400869230,2016,8,"San Diego State","San José State",2016
 400869545,2016,8,"SMU","Houston",2016
+400869230,2016,8,"San Diego State","San José State",2016
 400869830,2016,8,"South Alabama","Troy",2016
 400868964,2016,8,"South Carolina","UMass",2016
 400869143,2016,8,"Stanford","Colorado",2016
@@ -5854,10 +5854,10 @@
 400869024,2016,7,"Arkansas","Ole Miss",2016
 400869826,2016,7,"Arkansas State","South Alabama",2016
 400868915,2016,7,"Army","Lafayette",2016
+400868928,2016,7,"BYU","Mississippi State",2016
 400868880,2016,7,"Baylor","Kansas",2016
 400869220,2016,7,"Boise State","Colorado State",2016
 400869305,2016,7,"Buffalo","Ball State",2016
-400868928,2016,7,"BYU","Mississippi State",2016
 400869382,2016,7,"Charlotte","Florida International",2016
 400869462,2016,7,"Clemson","NC State",2016
 400869137,2016,7,"Colorado","Arizona State",2016
@@ -5869,10 +5869,10 @@
 400869222,2016,7,"Hawai'i","UNLV",2016
 400869541,2016,7,"Houston","Tulsa",2016
 400869670,2016,7,"Indiana","Nebraska",2016
+400869027,2016,7,"LSU","Southern Mississippi",2016
 400869825,2016,7,"Louisiana","Appalachian State",2016
 400869829,2016,7,"Louisiana Monroe","Texas State",2016
 400869461,2016,7,"Louisville","Duke",2016
-400869027,2016,7,"LSU","Southern Mississippi",2016
 400869671,2016,7,"Maryland","Minnesota",2016
 400869723,2016,7,"Miami","North Carolina",2016
 400869309,2016,7,"Miami (OH)","Kent State",2016
@@ -5922,8 +5922,8 @@
 400868927,2016,6,"Michigan State","BYU",2016
 400869668,2016,6,"Minnesota","Iowa",2016
 400869021,2016,6,"Mississippi State","Auburn",2016
-400869536,2016,6,"Navy","Houston",2016
 400868951,2016,6,"NC State","Notre Dame",2016
+400869536,2016,6,"Navy","Houston",2016
 400869216,2016,6,"Nevada","Fresno State",2016
 400869214,2016,6,"New Mexico","Boise State",2016
 400869459,2016,6,"North Carolina","Virginia Tech",2016
@@ -5947,8 +5947,8 @@
 400869533,2016,6,"Tulsa","SMU",2016
 400869132,2016,6,"USC","Colorado",2016
 400869381,2016,6,"UT San Antonio","Southern Mississippi",2016
-400869130,2016,6,"Utah","Arizona",2016
 400869378,2016,6,"UTEP","Florida International",2016
+400869130,2016,6,"Utah","Arizona",2016
 400869460,2016,6,"Wake Forest","Syracuse",2016
 400869303,2016,6,"Western Michigan","Northern Illinois",2016
 400869213,2016,6,"Wyoming","Air Force",2016
@@ -5957,11 +5957,11 @@
 400869818,2016,5,"Appalachian State","Georgia State",2016
 400869011,2016,5,"Arkansas","Alcorn State",2016
 400869012,2016,5,"Auburn","Louisiana Monroe",2016
+400868926,2016,5,"BYU","Toledo",2016
 400869297,2016,5,"Ball State","Northern Illinois",2016
 400869207,2016,5,"Boise State","Utah State",2016
 400869294,2016,5,"Boston College","Buffalo",2016
 400869295,2016,5,"Bowling Green","Eastern Michigan",2016
-400868926,2016,5,"BYU","Toledo",2016
 400869128,2016,5,"California","Utah",2016
 400869298,2016,5,"Central Michigan","Western Michigan",2016
 400869529,2016,5,"Cincinnati","South Florida",2016
@@ -5980,8 +5980,8 @@
 400869662,2016,5,"Iowa","Northwestern",2016
 400868879,2016,5,"Iowa State","Baylor",2016
 400869293,2016,5,"Kent State","Akron",2016
-400869372,2016,5,"Louisiana Tech","UTEP",2016
 400869014,2016,5,"LSU","Missouri",2016
+400869372,2016,5,"Louisiana Tech","UTEP",2016
 400869663,2016,5,"Maryland","Purdue",2016
 400869296,2016,5,"Miami (OH)","Ohio",2016
 400869664,2016,5,"Michigan","Wisconsin",2016
@@ -6063,9 +6063,9 @@
 400869121,2016,4,"UCLA","Stanford",2016
 400868960,2016,4,"UMass","Mississippi State",2016
 400869205,2016,4,"UNLV","Idaho",2016
+400869369,2016,4,"UTEP","Southern Mississippi",2016
 400869118,2016,4,"Utah","USC",2016
 400869199,2016,4,"Utah State","Air Force",2016
-400869369,2016,4,"UTEP","Southern Mississippi",2016
 400869288,2016,4,"Virginia","Central Michigan",2016
 400869451,2016,4,"Virginia Tech","East Carolina",2016
 400868925,2016,4,"West Virginia","BYU",2016
@@ -6075,9 +6075,9 @@
 400869108,2016,3,"Arizona","Hawai'i",2016
 400868992,2016,3,"Arkansas","Texas State",2016
 400868993,2016,3,"Auburn","Texas A&M",2016
+400868924,2016,3,"BYU","UCLA",2016
 400869279,2016,3,"Ball State","Eastern Kentucky",2016
 400869281,2016,3,"Bowling Green","Middle Tennessee",2016
-400868924,2016,3,"BYU","UCLA",2016
 400869117,2016,3,"California","Texas",2016
 400869198,2016,3,"Central Michigan","UNLV",2016
 400869280,2016,3,"Charlotte","Eastern Michigan",2016
@@ -6093,9 +6093,9 @@
 400869358,2016,3,"Kansas State","Florida Atlantic",2016
 400869282,2016,3,"Kent State","Monmouth",2016
 400868995,2016,3,"Kentucky","New Mexico State",2016
+400868996,2016,3,"LSU","Mississippi State",2016
 400869814,2016,3,"Louisiana","South Alabama",2016
 400869440,2016,3,"Louisville","Florida State",2016
-400868996,2016,3,"LSU","Mississippi State",2016
 400869278,2016,3,"Marshall","Akron",2016
 400869520,2016,3,"Memphis","Kansas",2016
 400869283,2016,3,"Miami (OH)","Western Kentucky",2016
@@ -6115,8 +6115,8 @@
 400869519,2016,3,"Penn State","Temple",2016
 400869361,2016,3,"Rice","Baylor",2016
 400869192,2016,3,"Rutgers","New Mexico",2016
-400869112,2016,3,"San José State","Utah",2016
 400869522,2016,3,"SMU","Liberty",2016
+400869112,2016,3,"San José State","Utah",2016
 400868999,2016,3,"South Carolina","East Carolina",2016
 400869362,2016,3,"Southern Mississippi","Troy",2016
 400869110,2016,3,"Stanford","USC",2016
@@ -6130,8 +6130,8 @@
 400869518,2016,3,"UCF","Maryland",2016
 400868959,2016,3,"UMass","Florida International",2016
 400869109,2016,3,"UT San Antonio","Arizona State",2016
-400869193,2016,3,"Utah State","Arkansas State",2016
 400868912,2016,3,"UTEP","Army",2016
+400869193,2016,3,"Utah State","Arkansas State",2016
 400869437,2016,3,"Virginia Tech","Boston College",2016
 400869445,2016,3,"Wake Forest","Delaware",2016
 400869115,2016,3,"Washington","Portland State",2016
@@ -6166,9 +6166,9 @@
 400869269,2016,2,"Indiana","Ball State",2016
 400868888,2016,2,"Iowa","Iowa State",2016
 400869277,2016,2,"Kansas","Ohio",2016
+400868985,2016,2,"LSU","Jacksonville State",2016
 400869812,2016,2,"Louisiana","McNeese",2016
 400869352,2016,2,"Louisiana Tech","South Carolina State",2016
-400868985,2016,2,"LSU","Jacksonville State",2016
 400869719,2016,2,"Miami","Florida Atlantic",2016
 400869271,2016,2,"Miami (OH)","Eastern Illinois",2016
 400869510,2016,2,"Michigan","UCF",2016
@@ -6270,9 +6270,9 @@
 400869092,2016,1,"Minnesota","Oregon State",2016
 400876090,2016,1,"Mississippi State","Miami (OH)",2016
 400868975,2016,1,"Mississippi State","South Alabama",2016
+400869422,2016,1,"NC State","William & Mary",2016
 400869509,2016,1,"Navy","Fordham",2016
 400876047,2016,1,"Navy","Louisiana Tech",2016
-400869422,2016,1,"NC State","William & Mary",2016
 400869179,2016,1,"Nebraska","Fresno State",2016
 400869181,2016,1,"Nevada","Cal Poly",2016
 400869177,2016,1,"New Mexico","South Dakota",2016
@@ -6316,10 +6316,10 @@
 400869174,2016,1,"UNLV","Jackson State",2016
 400869349,2016,1,"UT San Antonio","Alabama State",2016
 400876038,2016,1,"UT San Antonio","New Mexico",2016
+400869348,2016,1,"UTEP","New Mexico State",2016
 400903226,2016,1,"Utah","Indiana",2016
 400869091,2016,1,"Utah","Southern Utah",2016
 400869173,2016,1,"Utah State","Weber State",2016
-400869348,2016,1,"UTEP","New Mexico State",2016
 400876092,2016,1,"Vanderbilt","NC State",2016
 400868968,2016,1,"Vanderbilt","South Carolina",2016
 400869427,2016,1,"Virginia","Richmond",2016
@@ -6372,8 +6372,8 @@
 400763577,2015,13,"Illinois","Northwestern",2015
 400763465,2015,13,"Kansas","Kansas State",2015
 400603916,2015,13,"Kentucky","Louisville",2015
-400763659,2015,13,"Louisiana Tech","Southern Mississippi",2015
 400603917,2015,13,"LSU","Texas A&M",2015
+400763659,2015,13,"Louisiana Tech","Southern Mississippi",2015
 400764920,2015,13,"Memphis","SMU",2015
 400763578,2015,13,"Michigan","Ohio State",2015
 400763579,2015,13,"Michigan State","Penn State",2015
@@ -6419,9 +6419,9 @@
 400603922,2015,12,"Arkansas","Mississippi State",2015
 400760499,2015,12,"Army","Rutgers",2015
 400603923,2015,12,"Auburn","Idaho",2015
+400787288,2015,12,"BYU","Fresno State",2015
 400790881,2015,12,"Boise State","Air Force",2015
 400787356,2015,12,"Bowling Green","Toledo",2015
-400787288,2015,12,"BYU","Fresno State",2015
 400756987,2015,12,"Clemson","Wake Forest",2015
 400764913,2015,12,"Connecticut","Houston",2015
 400603924,2015,12,"Florida","Florida Atlantic",2015
@@ -6464,9 +6464,9 @@
 400787359,2015,12,"UMass","Miami (OH)",2015
 400787291,2015,12,"UNLV","San Diego State",2015
 400763658,2015,12,"UT San Antonio","Rice",2015
+400763657,2015,12,"UTEP","Louisiana Tech",2015
 400757081,2015,12,"Utah","UCLA",2015
 400787290,2015,12,"Utah State","Nevada",2015
-400763657,2015,12,"UTEP","Louisiana Tech",2015
 400603930,2015,12,"Vanderbilt","Texas A&M",2015
 400756988,2015,12,"Virginia","Duke",2015
 400756992,2015,12,"Virginia Tech","North Carolina",2015
@@ -6498,9 +6498,9 @@
 400763565,2015,11,"Indiana","Michigan",2015
 400763566,2015,11,"Iowa","Minnesota",2015
 400763455,2015,11,"Iowa State","Oklahoma State",2015
+400603932,2015,11,"LSU","Arkansas",2015
 400787471,2015,11,"Louisiana Monroe","Arkansas State",2015
 400756983,2015,11,"Louisville","Virginia",2015
-400603932,2015,11,"LSU","Arkansas",2015
 400763651,2015,11,"Marshall","Florida International",2015
 400787353,2015,11,"Miami (OH)","Akron",2015
 400763567,2015,11,"Michigan State","Maryland",2015
@@ -6568,8 +6568,8 @@
 400757069,2015,10,"Oregon State","UCLA",2015
 400756978,2015,10,"Pittsburgh","Notre Dame",2015
 400763563,2015,10,"Purdue","Illinois",2015
-400790887,2015,10,"San José State","BYU",2015
 400764901,2015,10,"SMU","Temple",2015
+400790887,2015,10,"San José State","BYU",2015
 400787466,2015,10,"South Alabama","Idaho",2015
 400603909,2015,10,"Tennessee","South Carolina",2015
 400763452,2015,10,"Texas","Kansas",2015
@@ -6618,8 +6618,8 @@
 400764898,2015,9,"Memphis","Tulane",2015
 400787340,2015,9,"Miami (OH)","Buffalo",2015
 400763553,2015,9,"Minnesota","Michigan",2015
-400764899,2015,9,"Navy","South Florida",2015
 400756969,2015,9,"NC State","Clemson",2015
+400764899,2015,9,"Navy","South Florida",2015
 400787462,2015,9,"New Mexico State","Idaho",2015
 400763639,2015,9,"North Texas","UT San Antonio",2015
 400763640,2015,9,"Old Dominion","Western Kentucky",2015
@@ -6648,11 +6648,11 @@
 400757057,2015,8,"Arizona","Washington State",2015
 400603887,2015,8,"Arkansas","Auburn",2015
 400787454,2015,8,"Arkansas State","Louisiana",2015
+400787429,2015,8,"BYU","Wagner",2015
 400787336,2015,8,"Ball State","Central Michigan",2015
 400763441,2015,8,"Baylor","Iowa State",2015
 400787267,2015,8,"Boise State","Wyoming",2015
 400787333,2015,8,"Buffalo","Ohio",2015
-400787429,2015,8,"BYU","Wagner",2015
 400763632,2015,8,"Charlotte","Southern Mississippi",2015
 400764892,2015,8,"Cincinnati","Connecticut",2015
 400764890,2015,8,"East Carolina","Temple",2015
@@ -6661,9 +6661,9 @@
 400787456,2015,8,"Idaho","Louisiana Monroe",2015
 400763547,2015,8,"Illinois","Wisconsin",2015
 400787334,2015,8,"Kent State","Bowling Green",2015
+400603888,2015,8,"LSU","Western Kentucky",2015
 400763634,2015,8,"Louisiana Tech","Middle Tennessee",2015
 400756959,2015,8,"Louisville","Boston College",2015
-400603888,2015,8,"LSU","Western Kentucky",2015
 400763635,2015,8,"Marshall","North Texas",2015
 400763548,2015,8,"Maryland","Penn State",2015
 400756960,2015,8,"Miami","Clemson",2015
@@ -6699,10 +6699,10 @@
 400756964,2015,8,"Wake Forest","NC State",2015
 400787337,2015,8,"Western Michigan","Miami (OH)",2015
 400760495,2015,7,"Army","Bucknell",2015
+400764886,2015,7,"BYU","Cincinnati",2015
 400787329,2015,7,"Ball State","Georgia State",2015
 400763437,2015,7,"Baylor","West Virginia",2015
 400787331,2015,7,"Bowling Green","Akron",2015
-400764886,2015,7,"BYU","Cincinnati",2015
 400787332,2015,7,"Central Michigan","Buffalo",2015
 400756953,2015,7,"Clemson","Boston College",2015
 400757051,2015,7,"Colorado","Arizona",2015
@@ -6720,8 +6720,8 @@
 400763439,2015,7,"Kansas","Texas Tech",2015
 400763440,2015,7,"Kansas State","Oklahoma",2015
 400603898,2015,7,"Kentucky","Auburn",2015
-400787451,2015,7,"Louisiana Monroe","Appalachian State",2015
 400603893,2015,7,"LSU","Florida",2015
+400787451,2015,7,"Louisiana Monroe","Appalachian State",2015
 400603894,2015,7,"Memphis","Ole Miss",2015
 400756956,2015,7,"Miami","Virginia Tech",2015
 400787327,2015,7,"Miami (OH)","Northern Illinois",2015
@@ -6760,9 +6760,9 @@
 400757046,2015,6,"Arizona","Oregon State",2015
 400757047,2015,6,"Arizona State","Colorado",2015
 400756949,2015,6,"Army","Duke",2015
+400764881,2015,6,"BYU","East Carolina",2015
 400756947,2015,6,"Boston College","Wake Forest",2015
 400787321,2015,6,"Bowling Green","UMass",2015
-400764881,2015,6,"BYU","East Carolina",2015
 400756948,2015,6,"Clemson","Georgia Tech",2015
 400787255,2015,6,"Colorado State","Boise State",2015
 400787322,2015,6,"Eastern Michigan","Akron",2015
@@ -6776,8 +6776,8 @@
 400763534,2015,6,"Iowa","Illinois",2015
 400763432,2015,6,"Kansas","Baylor",2015
 400763433,2015,6,"Kansas State","TCU",2015
-400787449,2015,6,"Louisiana","Texas State",2015
 400603903,2015,6,"LSU","South Carolina",2015
+400787449,2015,6,"Louisiana","Texas State",2015
 400763623,2015,6,"Marshall","Southern Mississippi",2015
 400763535,2015,6,"Michigan","Northwestern",2015
 400603900,2015,6,"Mississippi State","Troy",2015
@@ -6815,11 +6815,11 @@
 400787253,2015,5,"Appalachian State","Wyoming",2015
 400787444,2015,5,"Arkansas State","Idaho",2015
 400603877,2015,5,"Auburn","San José State",2015
+400764874,2015,5,"BYU","Connecticut",2015
 400787317,2015,5,"Ball State","Toledo",2015
 400763431,2015,5,"Baylor","Texas Tech",2015
 400787248,2015,5,"Boise State","Hawai'i",2015
 400787318,2015,5,"Buffalo","Bowling Green",2015
-400764874,2015,5,"BYU","Connecticut",2015
 400757044,2015,5,"California","Washington State",2015
 400787315,2015,5,"Central Michigan","Northern Illinois",2015
 400763614,2015,5,"Charlotte","Temple",2015
@@ -6836,16 +6836,16 @@
 400763427,2015,5,"Iowa State","Kansas",2015
 400787319,2015,5,"Kent State","Miami (OH)",2015
 400603880,2015,5,"Kentucky","Eastern Kentucky",2015
+400603881,2015,5,"LSU","Eastern Michigan",2015
 400787445,2015,5,"Louisiana Monroe","Georgia Southern",2015
 400763615,2015,5,"Louisiana Tech","Louisiana",2015
-400603881,2015,5,"LSU","Eastern Michigan",2015
 400763616,2015,5,"Marshall","Old Dominion",2015
 400763530,2015,5,"Maryland","Michigan",2015
 400763531,2015,5,"Michigan State","Purdue",2015
 400603882,2015,5,"Middle Tennessee","Vanderbilt",2015
 400603883,2015,5,"Missouri","South Carolina",2015
-400764876,2015,5,"Navy","Air Force",2015
 400756943,2015,5,"NC State","Louisville",2015
+400764876,2015,5,"Navy","Air Force",2015
 400787251,2015,5,"Nevada","UNLV",2015
 400787252,2015,5,"New Mexico","New Mexico State",2015
 400763532,2015,5,"Northwestern","Minnesota",2015
@@ -6853,8 +6853,8 @@
 400763429,2015,5,"Oklahoma State","Kansas State",2015
 400760494,2015,5,"Penn State","Army",2015
 400763617,2015,5,"Rice","Western Kentucky",2015
-400787250,2015,5,"San Diego State","Fresno State",2015
 400764877,2015,5,"SMU","East Carolina",2015
+400787250,2015,5,"San Diego State","Fresno State",2015
 400764875,2015,5,"South Florida","Memphis",2015
 400763618,2015,5,"Southern Mississippi","North Texas",2015
 400757041,2015,5,"Stanford","Arizona",2015
@@ -6866,8 +6866,8 @@
 400764879,2015,5,"Tulsa","Houston",2015
 400757042,2015,5,"UCLA","Arizona State",2015
 400763620,2015,5,"UMass","Florida International",2015
-400787249,2015,5,"Utah State","Colorado State",2015
 400763619,2015,5,"UTEP","UT San Antonio",2015
+400787249,2015,5,"Utah State","Colorado State",2015
 400756945,2015,5,"Virginia Tech","Pittsburgh",2015
 400756941,2015,5,"Wake Forest","Florida State",2015
 400763533,2015,5,"Wisconsin","Iowa",2015
@@ -6912,8 +6912,8 @@
 400763525,2015,4,"Penn State","San Diego State",2015
 400763526,2015,4,"Purdue","Bowling Green",2015
 400763423,2015,4,"Rutgers","Kansas",2015
-400787244,2015,4,"San José State","Fresno State",2015
 400768337,2015,4,"SMU","James Madison",2015
+400787244,2015,4,"San José State","Fresno State",2015
 400756936,2015,4,"South Alabama","NC State",2015
 400603848,2015,4,"South Carolina","UCF",2015
 400603849,2015,4,"Syracuse","LSU",2015
@@ -6954,8 +6954,8 @@
 400756926,2015,3,"Iowa","Pittsburgh",2015
 400763417,2015,3,"Kansas State","Louisiana Tech",2015
 400603853,2015,3,"Kentucky","Florida",2015
-400756919,2015,3,"Louisville","Clemson",2015
 400603854,2015,3,"LSU","Auburn",2015
+400756919,2015,3,"Louisville","Clemson",2015
 400763602,2015,3,"Marshall","Norfolk State",2015
 400763510,2015,3,"Maryland","South Florida",2015
 400756923,2015,3,"Miami","Nebraska",2015
@@ -7006,9 +7006,9 @@
 400603861,2015,2,"Arkansas","Toledo",2015
 400603862,2015,2,"Arkansas State","Missouri",2015
 400603863,2015,2,"Auburn","Jacksonville State",2015
+400787118,2015,2,"BYU","Boise State",2015
 400763408,2015,2,"Baylor","Lamar",2015
 400756906,2015,2,"Boston College","Howard",2015
-400787118,2015,2,"BYU","Boise State",2015
 400757022,2015,2,"California","San Diego State",2015
 400787306,2015,2,"Central Michigan","Monmouth",2015
 400763594,2015,2,"Charlotte","Presbyterian College",2015
@@ -7141,9 +7141,9 @@
 400763398,2015,1,"Minnesota","TCU",2015
 400852728,2015,1,"Mississippi State","NC State",2015
 400603834,2015,1,"Missouri","Southeast Missouri State",2015
+400756901,2015,1,"NC State","Troy",2015
 400764860,2015,1,"Navy","Colgate",2015
 400852721,2015,1,"Navy","Pittsburgh",2015
-400756901,2015,1,"NC State","Troy",2015
 400763495,2015,1,"Nebraska","BYU",2015
 400852720,2015,1,"Nebraska","UCLA",2015
 400787108,2015,1,"Nevada","UC Davis",2015
@@ -7162,9 +7162,9 @@
 400756902,2015,1,"Pittsburgh","Youngstown State",2015
 400763591,2015,1,"Rice","Wagner",2015
 400763496,2015,1,"Rutgers","Norfolk State",2015
+400764855,2015,1,"SMU","Baylor",2015
 400791346,2015,1,"San Diego State","San Diego",2015
 400787109,2015,1,"San José State","New Hampshire",2015
-400764855,2015,1,"SMU","Baylor",2015
 400787414,2015,1,"South Alabama","Gardner-Webb",2015
 400603840,2015,1,"South Carolina","North Carolina",2015
 400764861,2015,1,"South Florida","Florida A&M",2015
@@ -7253,8 +7253,8 @@
 400548324,2014,14,"Ole Miss","Mississippi State",2014
 400548320,2014,14,"Oregon State","Oregon",2014
 400547959,2014,14,"Penn State","Michigan State",2014
-400548254,2014,14,"San Diego State","San José State",2014
 400547721,2014,14,"SMU","Houston",2014
+400548254,2014,14,"San Diego State","San José State",2014
 400548453,2014,14,"South Alabama","Navy",2014
 400547719,2014,14,"South Florida","UCF",2014
 400548089,2014,14,"Southern Mississippi","UAB",2014
@@ -7281,9 +7281,9 @@
 400548332,2014,13,"Arkansas","Ole Miss",2014
 400548460,2014,13,"Army","Fordham",2014
 400548329,2014,13,"Auburn","Samford",2014
+400548463,2014,13,"BYU","Savannah State",2014
 400548161,2014,13,"Ball State","Eastern Michigan",2014
 400547896,2014,13,"Baylor","Oklahoma State",2014
-400548463,2014,13,"BYU","Savannah State",2014
 400548315,2014,13,"California","Stanford",2014
 400548162,2014,13,"Central Michigan","Western Michigan",2014
 400547749,2014,13,"Clemson","Georgia State",2014
@@ -7336,10 +7336,10 @@
 400548307,2014,12,"Arizona","Washington",2014
 400548336,2014,12,"Arkansas","LSU",2014
 400548445,2014,12,"Arkansas State","Appalachian State",2014
+400548242,2014,12,"BYU","UNLV",2014
 400548239,2014,12,"Boise State","San Diego State",2014
 400548154,2014,12,"Bowling Green","Kent State",2014
 400548151,2014,12,"Buffalo","Akron",2014
-400548242,2014,12,"BYU","UNLV",2014
 400548156,2014,12,"Central Michigan","Miami (OH)",2014
 400547710,2014,12,"Cincinnati","East Carolina",2014
 400547759,2014,12,"Duke","Virginia Tech",2014
@@ -7355,8 +7355,8 @@
 400547940,2014,12,"Maryland","Michigan State",2014
 400547770,2014,12,"Miami","Florida State",2014
 400547965,2014,12,"Minnesota","Ohio State",2014
-400548446,2014,12,"Navy","Georgia Southern",2014
 400547807,2014,12,"NC State","Wake Forest",2014
+400548446,2014,12,"Navy","Georgia Southern",2014
 400547800,2014,12,"North Carolina","Pittsburgh",2014
 400548152,2014,12,"Northern Illinois","Toledo",2014
 400547980,2014,12,"Notre Dame","Northwestern",2014
@@ -7364,8 +7364,8 @@
 400548308,2014,12,"Oregon State","Arizona State",2014
 400547713,2014,12,"Penn State","Temple",2014
 400547925,2014,12,"Rutgers","Indiana",2014
-400548240,2014,12,"San José State","Hawai'i",2014
 400547712,2014,12,"SMU","South Florida",2014
+400548240,2014,12,"San José State","Hawai'i",2014
 400548449,2014,12,"South Alabama","Texas State",2014
 400548309,2014,12,"Stanford","Utah",2014
 400548340,2014,12,"Tennessee","Kentucky",2014
@@ -7376,8 +7376,8 @@
 400548153,2014,12,"UMass","Ball State",2014
 400548306,2014,12,"USC","California",2014
 400548076,2014,12,"UT San Antonio","Southern Mississippi",2014
-400548241,2014,12,"Utah State","New Mexico",2014
 400548075,2014,12,"UTEP","North Texas",2014
+400548241,2014,12,"Utah State","New Mexico",2014
 400548077,2014,12,"Western Kentucky","Army",2014
 400548155,2014,12,"Western Michigan","Eastern Michigan",2014
 400547974,2014,12,"Wisconsin","Nebraska",2014
@@ -7498,9 +7498,9 @@
 400547911,2014,9,"Illinois","Minnesota",2014
 400547878,2014,9,"Kansas State","Texas",2014
 400548355,2014,9,"Kentucky","Mississippi State",2014
+400548354,2014,9,"LSU","Ole Miss",2014
 400548431,2014,9,"Louisiana","Arkansas State",2014
 400548433,2014,9,"Louisiana Monroe","Texas State",2014
-400548354,2014,9,"LSU","Ole Miss",2014
 400548055,2014,9,"Marshall","Florida Atlantic",2014
 400548141,2014,9,"Miami (OH)","Kent State",2014
 400547949,2014,9,"Michigan State","Michigan",2014
@@ -7534,10 +7534,10 @@
 400548364,2014,8,"Alabama","Texas A&M",2014
 400548285,2014,8,"Arizona State","Stanford",2014
 400548359,2014,8,"Arkansas","Georgia",2014
+400548219,2014,8,"BYU","Nevada",2014
 400548216,2014,8,"Boise State","Fresno State",2014
 400547734,2014,8,"Boston College","Clemson",2014
 400548138,2014,8,"Bowling Green","Western Michigan",2014
-400548219,2014,8,"BYU","Nevada",2014
 400548287,2014,8,"California","UCLA",2014
 400548135,2014,8,"Central Michigan","Ball State",2014
 400548217,2014,8,"Colorado State","Utah State",2014
@@ -7550,9 +7550,9 @@
 400548430,2014,8,"Idaho","New Mexico State",2014
 400547922,2014,8,"Indiana","Michigan State",2014
 400548134,2014,8,"Kent State","Army",2014
+400548360,2014,8,"LSU","Kentucky",2014
 400548052,2014,8,"Louisiana Tech","UT San Antonio",2014
 400547805,2014,8,"Louisville","NC State",2014
-400548360,2014,8,"LSU","Kentucky",2014
 400547931,2014,8,"Maryland","Iowa",2014
 400548053,2014,8,"Middle Tennessee","UAB",2014
 400547964,2014,8,"Minnesota","Purdue",2014
@@ -7567,8 +7567,8 @@
 400548288,2014,8,"Oregon","Washington",2014
 400548284,2014,8,"Oregon State","Utah",2014
 400547813,2014,8,"Pittsburgh","Virginia Tech",2014
-400548218,2014,8,"San Diego State","Hawai'i",2014
 400547693,2014,8,"SMU","Cincinnati",2014
+400548218,2014,8,"San Diego State","Hawai'i",2014
 400548429,2014,8,"South Alabama","Georgia State",2014
 400548363,2014,8,"South Carolina","Furman",2014
 400547876,2014,8,"TCU","Oklahoma State",2014
@@ -7610,8 +7610,8 @@
 400547963,2014,7,"Minnesota","Northwestern",2014
 400548369,2014,7,"Mississippi State","Auburn",2014
 400548370,2014,7,"Missouri","Georgia",2014
-400548464,2014,7,"Navy","VMI",2014
 400547733,2014,7,"NC State","Boston College",2014
+400548464,2014,7,"Navy","VMI",2014
 400548211,2014,7,"Nevada","Colorado State",2014
 400548214,2014,7,"New Mexico","San Diego State",2014
 400548129,2014,7,"Northern Illinois","Central Michigan",2014
@@ -7633,8 +7633,8 @@
 400548282,2014,7,"UCLA","Oregon",2014
 400548212,2014,7,"UNLV","Fresno State",2014
 400548045,2014,7,"UT San Antonio","Florida International",2014
-400548210,2014,7,"Utah State","Air Force",2014
 400548048,2014,7,"UTEP","Old Dominion",2014
+400548210,2014,7,"Utah State","Air Force",2014
 400548372,2014,7,"Vanderbilt","Charleston Southern",2014
 400547910,2014,7,"Wisconsin","Illinois",2014
 400548205,2014,6,"Air Force","Navy",2014
@@ -7643,8 +7643,8 @@
 400548419,2014,6,"Arkansas State","Louisiana Monroe",2014
 400548120,2014,6,"Army","Ball State",2014
 400548373,2014,6,"Auburn","LSU",2014
-400548121,2014,6,"Bowling Green","Buffalo",2014
 400548204,2014,6,"BYU","Utah State",2014
+400548121,2014,6,"Bowling Green","Buffalo",2014
 400548124,2014,6,"Central Michigan","Ohio",2014
 400547683,2014,6,"Cincinnati","Memphis",2014
 400547744,2014,6,"Clemson","NC State",2014
@@ -7707,14 +7707,14 @@
 400547862,2014,5,"Kansas","Texas",2014
 400547861,2014,5,"Kansas State","UTEP",2014
 400548383,2014,5,"Kentucky","Vanderbilt",2014
+400548379,2014,5,"LSU","New Mexico State",2014
 400548417,2014,5,"Louisiana Monroe","Troy",2014
 400547833,2014,5,"Louisville","Wake Forest",2014
-400548379,2014,5,"LSU","New Mexico State",2014
 400547754,2014,5,"Miami","Duke",2014
 400547947,2014,5,"Michigan","Minnesota",2014
 400547955,2014,5,"Michigan State","Wyoming",2014
-400548038,2014,5,"Navy","Western Kentucky",2014
 400547764,2014,5,"NC State","Florida State",2014
+400548038,2014,5,"Navy","Western Kentucky",2014
 400547908,2014,5,"Nebraska","Illinois",2014
 400548200,2014,5,"New Mexico","Fresno State",2014
 400548118,2014,5,"Ohio","Eastern Illinois",2014
@@ -7726,9 +7726,9 @@
 400547811,2014,5,"Pittsburgh","Akron",2014
 400547930,2014,5,"Purdue","Iowa",2014
 400547679,2014,5,"Rutgers","Tulane",2014
+400547677,2014,5,"SMU","TCU",2014
 400548202,2014,5,"San Diego State","UNLV",2014
 400548201,2014,5,"San José State","Nevada",2014
-400547677,2014,5,"SMU","TCU",2014
 400548380,2014,5,"South Carolina","Missouri",2014
 400548037,2014,5,"Southern Mississippi","Rice",2014
 400547818,2014,5,"Syracuse","Notre Dame",2014
@@ -7749,10 +7749,10 @@
 400548266,2014,4,"Arizona","California",2014
 400548115,2014,4,"Arkansas","Northern Illinois",2014
 400548203,2014,4,"Arkansas State","Utah State",2014
+400547822,2014,4,"BYU","Virginia",2014
 400548194,2014,4,"Boise State","Louisiana",2014
 400547731,2014,4,"Boston College","Maine",2014
 400548114,2014,4,"Buffalo","Norfolk State",2014
-400547822,2014,4,"BYU","Virginia",2014
 400547668,2014,4,"Cincinnati","Miami (OH)",2014
 400548196,2014,4,"Colorado","Hawai'i",2014
 400547673,2014,4,"Duke","Tulane",2014
@@ -7765,15 +7765,15 @@
 400547907,2014,4,"Illinois","Texas State",2014
 400547857,2014,4,"Kansas","Central Michigan",2014
 400547856,2014,4,"Kansas State","Auburn",2014
-400548028,2014,4,"Louisiana Tech","Northwestern State",2014
 400548386,2014,4,"LSU","Mississippi State",2014
+400548028,2014,4,"Louisiana Tech","Northwestern State",2014
 400547670,2014,4,"Memphis","Middle Tennessee",2014
 400547946,2014,4,"Michigan","Utah",2014
 400547954,2014,4,"Michigan State","Eastern Michigan",2014
 400547962,2014,4,"Minnesota","San José State",2014
 400547918,2014,4,"Missouri","Indiana",2014
-400547996,2014,4,"Navy","Rutgers",2014
 400547804,2014,4,"NC State","Presbyterian College",2014
+400547996,2014,4,"Navy","Rutgers",2014
 400547789,2014,4,"Nebraska","Miami",2014
 400548197,2014,4,"New Mexico State","New Mexico",2014
 400548030,2014,4,"North Texas","Nicholls",2014
@@ -7803,11 +7803,11 @@
 400548027,2014,4,"Wyoming","Florida Atlantic",2014
 400548024,2014,3,"Alabama","Southern Mississippi",2014
 400548192,2014,3,"Arizona","Nevada",2014
+400547658,2014,3,"BYU","Houston",2014
 400548107,2014,3,"Ball State","Indiana State",2014
 400547730,2014,3,"Boston College","USC",2014
 400547917,2014,3,"Bowling Green","Indiana",2014
 400548106,2014,3,"Buffalo","Baylor",2014
-400547658,2014,3,"BYU","Houston",2014
 400547816,2014,3,"Central Michigan","Syracuse",2014
 400547659,2014,3,"Cincinnati","Toledo",2014
 400548263,2014,3,"Colorado","Arizona State",2014
@@ -7851,8 +7851,8 @@
 400547664,2014,3,"Tulane","Southeastern Louisiana",2014
 400548025,2014,3,"UAB","Alabama A&M",2014
 400548108,2014,3,"UNLV","Northern Illinois",2014
-400547831,2014,3,"Utah State","Wake Forest",2014
 400548026,2014,3,"UTEP","New Mexico State",2014
+400547831,2014,3,"Utah State","Wake Forest",2014
 400548109,2014,3,"Vanderbilt","UMass",2014
 400547781,2014,3,"Virginia","Louisville",2014
 400547662,2014,3,"Virginia Tech","East Carolina",2014
@@ -7881,10 +7881,10 @@
 400547847,2014,2,"Kansas","Southeast Missouri State",2014
 400548104,2014,2,"Kent State","South Alabama",2014
 400548103,2014,2,"Kentucky","Ohio",2014
+400548394,2014,2,"LSU","Sam Houston State",2014
 400548014,2014,2,"Louisiana","Louisiana Tech",2014
 400548411,2014,2,"Louisiana Monroe","Idaho",2014
 400547780,2014,2,"Louisville","Murray State",2014
-400548394,2014,2,"LSU","Sam Houston State",2014
 400548015,2014,2,"Marshall","Rhode Island",2014
 400547787,2014,2,"Miami","Florida A&M",2014
 400548100,2014,2,"Miami (OH)","Eastern Kentucky",2014
@@ -7920,9 +7920,9 @@
 400548099,2014,2,"UMass","Colorado",2014
 400548187,2014,2,"UNLV","Northern Colorado",2014
 400548018,2014,2,"UT San Antonio","Arizona",2014
+400547845,2014,2,"UTEP","Texas Tech",2014
 400548182,2014,2,"Utah","Fresno State",2014
 400548188,2014,2,"Utah State","Idaho State",2014
-400547845,2014,2,"UTEP","Texas Tech",2014
 400548395,2014,2,"Vanderbilt","Ole Miss",2014
 400547821,2014,2,"Virginia","Richmond",2014
 400547830,2014,2,"Wake Forest","Gardner-Webb",2014
@@ -7968,14 +7968,14 @@
 400547839,2014,1,"Kansas State","Stephen F. Austin",2014
 400548097,2014,1,"Kent State","Ohio",2014
 400548400,2014,1,"Kentucky","UT Martin",2014
+400610214,2014,1,"LSU","Notre Dame",2014
+400548000,2014,1,"LSU","Wisconsin",2014
 400610197,2014,1,"Louisiana","Nevada",2014
 400548406,2014,1,"Louisiana","Southern",2014
 400547829,2014,1,"Louisiana Monroe","Wake Forest",2014
 400610222,2014,1,"Louisiana Tech","Illinois",2014
 400610215,2014,1,"Louisville","Georgia",2014
 400547786,2014,1,"Louisville","Miami",2014
-400610214,2014,1,"LSU","Notre Dame",2014
-400548000,2014,1,"LSU","Wisconsin",2014
 400547936,2014,1,"Maryland","James Madison",2014
 400547645,2014,1,"Memphis","Austin Peay",2014
 400610225,2014,1,"Memphis","BYU",2014
@@ -7987,8 +7987,8 @@
 400610217,2014,1,"Minnesota","Missouri",2014
 400548009,2014,1,"Mississippi State","Southern Mississippi",2014
 400548401,2014,1,"Missouri","South Dakota State",2014
-400547982,2014,1,"Navy","Ohio State",2014
 400547802,2014,1,"NC State","Georgia Southern",2014
+400547982,2014,1,"Navy","Ohio State",2014
 400547968,2014,1,"Nebraska","Florida Atlantic",2014
 400548174,2014,1,"Nevada","Southern Utah",2014
 400548011,2014,1,"New Mexico","UTEP",2014
@@ -8038,8 +8038,8 @@
 400547728,2014,1,"UMass","Boston College",2014
 400548172,2014,1,"USC","Fresno State",2014
 400610220,2014,1,"USC","Nebraska",2014
-400548256,2014,1,"Utah","Idaho State",2014
 400610202,2014,1,"UTEP","Utah State",2014
+400548256,2014,1,"Utah","Idaho State",2014
 400547640,2014,1,"Vanderbilt","Temple",2014
 400547820,2014,1,"Virginia","UCLA",2014
 400610207,2014,1,"Virginia Tech","Cincinnati",2014
