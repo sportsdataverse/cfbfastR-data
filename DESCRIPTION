@@ -1,0 +1,82 @@
+Package: cfbfastR.data
+Title: Access College Football Play by Play Data
+Version: 1.9.4
+Authors@R: c(
+    person("Saiem", "Gilani", , "saiem.gilani@gmail.com", role = c("cre", "aut")),
+    person("Akshay", "Easwaran", , "akeaswaran@me.com", role = "aut"),
+    person("Jared", "Lee", , "13jaredlee@gmail.com", role = "aut"),
+    person("Eric", "Hess", , "eric.hess.13@gmail.com", role = "aut"),
+    person("Michael", "Egle", , "mjegle@iastate.edu", role = "ctb"),
+    person("Nate", "Manzo", , "natem67@gmail.com", role = "ctb"),
+    person("Jason", "DeLoach", , "jdeloach5@gmail.com", role = "ctb"),
+    person("Tej", "Seth", , "tejseth@umich.edu", role = "ctb"),
+    person("Conor", "McQuiston", , "mcqconor@umich.edu", role = "ctb"),
+    person("Tan", "Ho", , "tan@tanho.ca", role = "ctb"),
+    person("Keegan", "Abdoo", , "kabdoo@draft.ly", role = "ctb"),
+    person("Matt", "Spencer", , "maatspencer@gmail.com", role = "ctb"),
+    person("Sebastian", "Carl", , "mrcaseb@gmail.com", role = "ctb"),
+    person("John", "Edwards", , "edwards1860@gmail.com", role = "ctb")
+  )
+Description: A utility to quickly obtain clean and tidy college football
+    data. Serves as a wrapper around the
+    <https://collegefootballdata.com/> API and provides functions to
+    access live play by play and box score data from ESPN
+    <https://www.espn.com> when available. It provides users the
+    capability to access a plethora of endpoints, and supplement that data
+    with additional information (Expected Points Added/Win Probability
+    added).
+License: CC BY 4.0
+URL: https://github.com/sportsdataverse/cfbfastR-data
+BugReports: https://github.com/sportsdataverse/cfbfastR-data/issues
+SystemRequirements: pandoc (>= 1.12.3), pandoc-citeproc
+Depends:
+    R (>= 4.0.0)
+Imports:
+    arrow (>= 5.0.0),
+    cli (>= 3.0.0),
+    data.table (>= 1.14.0),
+    dplyr (>= 1.0.7),
+    future (>= 1.21.0),
+    furrr (>= 0.2.2),
+    glue (>= 1.4.2),
+    httr (>= 0.5),
+    janitor,
+    jsonlite (>= 1.8.0),
+    lubridate,
+    magrittr (>= 2.0.1),
+    mgcv (>= 1.8-33),
+    nnet,
+    optparse (>= 1.6.2),
+    progressr (>= 0.6.0),
+    purrr (>= 0.3.0),
+    Rcpp (>= 1.0.7),
+    RcppParallel (>= 5.1.4),
+    rlang (>= 0.4.0),
+    rvest (>= 1.0.0),
+    stringr (>= 1.3.0),
+    tictoc (>= 1.0.0),
+    tidyr (>= 1.0.0),
+    usethis (>= 1.6.0)
+Remotes:
+    sportsdataverse/cfbfastR,
+    sportsdataverse/sportsdataverse-data,
+    ropensci/piggyback
+Suggests:
+    crayon (>= 1.3.4),
+    curl,
+    DBI,
+    ggplot2,
+    ggrepel,
+    qs (>= 0.25.1),
+    rmarkdown,
+    RSQLite,
+    stats,
+    stringi,
+    testthat,
+    tibble (>= 3.0),
+    xml2 (>= 1.3),
+    yaml
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
