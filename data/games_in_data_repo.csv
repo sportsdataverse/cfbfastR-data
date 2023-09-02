@@ -1,24 +1,35 @@
 "game_id","year","week","home","away","season"
 401540278,2023,1,"Abilene Christian","Northern Colorado",2023
+401532570,2023,1,"Air Force","Robert Morris",2023
 401540628,2023,1,"Albany","Fordham",2023
 401523987,2023,1,"Arizona State","Southern Utah",2023
+401520150,2023,1,"Arkansas","Western Carolina",2023
+401525464,2023,1,"Boston College","Northern Illinois",2023
 401540470,2023,1,"Charleston Southern","North Greenville",2023
 401520174,2023,1,"Connecticut","NC State",2023
+401540012,2023,1,"Duquesne","Edinboro",2023
 401532394,2023,1,"Eastern Michigan","Howard",2023
 401540534,2023,1,"Furman","Tennessee Tech",2023
+401540057,2023,1,"Georgetown","Marist",2023
 401531834,2023,1,"Georgia State","Rhode Island",2023
 401525462,2023,1,"Georgia Tech","Louisville",2023
 401523988,2023,1,"Hawai'i","Stanford",2023
+401540099,2023,1,"Illinois State","Dayton",2023
 401540299,2023,1,"Indiana State","Eastern Illinois",2023
+401520157,2023,1,"Iowa","Utah State",2023
 401539999,2023,1,"Jackson State","South Carolina State",2023
 401520145,2023,1,"Jacksonville State","UTEP",2023
 401525815,2023,1,"Kansas","Missouri State",2023
 401540607,2023,1,"Kennesaw State","Tusculum",2023
+401520159,2023,1,"Kentucky","Ball State",2023
 401540244,2023,1,"Lamar","Idaho",2023
+401540078,2023,1,"Lehigh","Villanova",2023
+401520160,2023,1,"Liberty","Bowling Green",2023
 401550428,2023,1,"Lindenwood","Wisconsin-Stevens Point",2023
 401520146,2023,1,"Louisiana Tech","Florida International",2023
 401540199,2023,1,"Mercer","North Alabama",2023
 401525463,2023,1,"Miami","Miami (OH)",2023
+401520162,2023,1,"Michigan","East Carolina",2023
 401520163,2023,1,"Michigan State","Central Michigan",2023
 401520148,2023,1,"Minnesota","Nebraska",2023
 401520165,2023,1,"Missouri","South Dakota",2023
@@ -26,15 +37,22 @@
 401525450,2023,1,"New Mexico State","UMass",2023
 401540285,2023,1,"Nicholls","Sacramento State",2023
 401525434,2023,1,"Notre Dame","Navy",2023
+401532395,2023,1,"Ohio","Long Island University",2023
+401525822,2023,1,"Oklahoma","Arkansas State",2023
+401520170,2023,1,"Purdue","Fresno State",2023
+401520172,2023,1,"SMU","Louisiana Tech",2023
 401541855,2023,1,"Samford","Shorter",2023
 401532392,2023,1,"San Diego State","Ohio",2023
 401540463,2023,1,"South Dakota State","Western Oregon",2023
 401540323,2023,1,"Stony Brook","Delaware",2023
+401523994,2023,1,"TCU","Colorado",2023
+401520179,2023,1,"Tennessee","Virginia",2023
 401531337,2023,1,"Tulsa","Arkansas-Pine Bluff",2023
 401531377,2023,1,"UAB","North Carolina A&T",2023
 401525816,2023,1,"UCF","Kent State",2023
 401523986,2023,1,"USC","San José State",2023
 401520176,2023,1,"Utah","Florida",2023
+401540396,2023,1,"VMI","Davidson",2023
 401520147,2023,1,"Vanderbilt","Hawai'i",2023
 401525461,2023,1,"Wake Forest","Elon",2023
 401532393,2023,1,"Western Michigan","St Francis (PA)",2023
