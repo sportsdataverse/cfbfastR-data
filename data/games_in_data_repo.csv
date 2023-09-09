@@ -1,4 +1,8 @@
 "game_id","year","week","home","away","season"
+401540397,2023,2,"Davidson","Barton College",2023
+401520193,2023,2,"Indiana","Indiana State",2023
+401520195,2023,2,"Kansas","Illinois",2023
+401525469,2023,2,"Louisville","Murray State",2023
 401540278,2023,1,"Abilene Christian","Northern Colorado",2023
 401532570,2023,1,"Air Force","Robert Morris",2023
 401520149,2023,1,"Alabama","Middle Tennessee",2023
@@ -19,9 +23,13 @@
 401525818,2023,1,"Cincinnati","Eastern Kentucky",2023
 401523990,2023,1,"Colorado State","Washington State",2023
 401520174,2023,1,"Connecticut","NC State",2023
+401525468,2023,1,"Duke","Clemson",2023
 401540012,2023,1,"Duquesne","Edinboro",2023
 401532394,2023,1,"Eastern Michigan","Howard",2023
+401540148,2023,1,"Florida A&M","Jackson State",2023
 401531418,2023,1,"Florida Atlantic","Monmouth",2023
+401520153,2023,1,"Florida International","Maine",2023
+401520182,2023,1,"Florida State","LSU",2023
 401540043,2023,1,"Fordham","Wagner",2023
 401540534,2023,1,"Furman","Tennessee Tech",2023
 401540057,2023,1,"Georgetown","Marist",2023
@@ -68,6 +76,7 @@
 401540258,2023,1,"Montana","Butler",2023
 401540219,2023,1,"Montana State","Utah Tech",2023
 401540527,2023,1,"Morehead State","West Virginia State",2023
+401540363,2023,1,"Murray State","Presbyterian College",2023
 401525450,2023,1,"New Mexico State","UMass",2023
 401520166,2023,1,"New Mexico State","Western Illinois",2023
 401540285,2023,1,"Nicholls","Sacramento State",2023
@@ -89,11 +98,13 @@
 401525465,2023,1,"Pittsburgh","Wofford",2023
 401520170,2023,1,"Purdue","Fresno State",2023
 401539978,2023,1,"Richmond","Morgan State",2023
+401520171,2023,1,"Rutgers","Northwestern",2023
 401520172,2023,1,"SMU","Louisiana Tech",2023
 401540027,2023,1,"Sacred Heart","Lafayette",2023
 401541855,2023,1,"Samford","Shorter",2023
 401532571,2023,1,"San Diego State","Idaho State",2023
 401532392,2023,1,"San Diego State","Ohio",2023
+401532573,2023,1,"San José State","Oregon State",2023
 401540463,2023,1,"South Dakota State","Western Oregon",2023
 401540173,2023,1,"Southern Illinois","Austin Peay",2023
 401531840,2023,1,"Southern Mississippi","Alcorn State",2023
