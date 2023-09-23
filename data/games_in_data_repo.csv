@@ -1,4 +1,11 @@
 "game_id","year","week","home","away","season"
+401540087,2023,4,"Alabama A&M","Arkansas-Pine Bluff",2023
+401531849,2023,4,"Coastal Carolina","Georgia State",2023
+401540291,2023,4,"Harvard","Brown",2023
+401520266,2023,4,"Purdue","Wisconsin",2023
+401532583,2023,4,"San Diego State","Boise State",2023
+401532584,2023,4,"San José State","Air Force",2023
+401525505,2023,4,"Virginia","NC State",2023
 401541630,2023,3,"Abilene Christian","Incarnate Word",2023
 401532581,2023,3,"Air Force","Utah State",2023
 401540389,2023,3,"Alcorn State","McNeese",2023
@@ -19,6 +26,7 @@
 401541637,2023,3,"Butler","Wabash College",2023
 401540226,2023,3,"Cal Poly","Lincoln University (CA)",2023
 401524006,2023,3,"California","Idaho",2023
+401540471,2023,3,"Charleston Southern","William & Mary",2023
 401531403,2023,3,"Charlotte","Georgia State",2023
 401540582,2023,3,"Chattanooga","The Citadel",2023
 401525835,2023,3,"Cincinnati","Miami (OH)",2023
@@ -30,6 +38,7 @@
 401540034,2023,3,"Delaware","St Francis (PA)",2023
 401520223,2023,3,"Duke","Northwestern",2023
 401540101,2023,3,"Eastern Illinois","Illinois State",2023
+401540192,2023,3,"Eastern Kentucky","Western Carolina",2023
 401526834,2023,3,"Eastern Michigan","UMass",2023
 401540236,2023,3,"Eastern Washington","Southeastern Louisiana",2023
 401540411,2023,3,"Elon","North Carolina A&T",2023
@@ -59,6 +68,7 @@
 401520234,2023,3,"Middle Tennessee","Murray State",2023
 401520235,2023,3,"Mississippi State","LSU",2023
 401520236,2023,3,"Missouri","Kansas State",2023
+401540313,2023,3,"Monmouth","Campbell",2023
 401540259,2023,3,"Montana","Ferris State",2023
 401540267,2023,3,"Montana State","Stetson",2023
 401539979,2023,3,"Morgan State","Towson",2023
