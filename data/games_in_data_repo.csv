@@ -1,11 +1,31 @@
 "game_id","year","week","home","away","season"
 401540087,2023,4,"Alabama A&M","Arkansas-Pine Bluff",2023
+401525845,2023,4,"Cincinnati","Oklahoma",2023
+401525507,2023,4,"Clemson","Florida State",2023
 401531849,2023,4,"Coastal Carolina","Georgia State",2023
+401540058,2023,4,"Columbia","Georgetown",2023
+401540081,2023,4,"Dartmouth","Lehigh",2023
+401540040,2023,4,"Fordham","Stonehill",2023
+401540599,2023,4,"Furman","Mercer",2023
 401540291,2023,4,"Harvard","Brown",2023
+401540102,2023,4,"Illinois State","Lindenwood",2023
+401525511,2023,4,"Marshall","Virginia Tech",2023
+401520260,2023,4,"Michigan","Rutgers",2023
+401531338,2023,4,"Northern Illinois","Tulsa",2023
+401540422,2023,4,"Princeton","Bryant",2023
 401520266,2023,4,"Purdue","Wisconsin",2023
 401532583,2023,4,"San Diego State","Boise State",2023
 401532584,2023,4,"San José State","Air Force",2023
+401540029,2023,4,"St Francis (PA)","Sacred Heart",2023
+401520268,2023,4,"Syracuse","Army",2023
+401525849,2023,4,"TCU","SMU",2023
+401520270,2023,4,"Texas A&M","Auburn",2023
+401520271,2023,4,"Troy","Western Kentucky",2023
+401540622,2023,4,"VMI","Wofford",2023
+401520274,2023,4,"Vanderbilt","Kentucky",2023
+401540549,2023,4,"Villanova","Rhode Island",2023
 401525505,2023,4,"Virginia","NC State",2023
+401540307,2023,4,"Yale","Cornell",2023
 401541630,2023,3,"Abilene Christian","Incarnate Word",2023
 401532581,2023,3,"Air Force","Utah State",2023
 401540389,2023,3,"Alcorn State","McNeese",2023
