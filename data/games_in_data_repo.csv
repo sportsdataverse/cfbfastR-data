@@ -1,4 +1,12 @@
 "game_id","year","week","home","away","season"
+401525851,2023,5,"BYU","Cincinnati",2023
+401525512,2023,5,"NC State","Louisville",2023
+401524020,2023,5,"Oregon State","Utah",2023
+401541632,2023,5,"Princeton","Columbia",2023
+401520276,2023,5,"Sam Houston State","Jacksonville State",2023
+401531339,2023,5,"Tulsa","Temple",2023
+401520278,2023,5,"UTEP","Louisiana Tech",2023
+401520277,2023,5,"Western Kentucky","Middle Tennessee",2023
 401520250,2023,4,"Alabama","Ole Miss",2023
 401540087,2023,4,"Alabama A&M","Arkansas-Pine Bluff",2023
 401540126,2023,4,"Alcorn State","Prairie View",2023
@@ -18,6 +26,7 @@
 401540399,2023,4,"Davidson","St. Andrews",2023
 401540324,2023,4,"Delaware","New Hampshire",2023
 401531413,2023,4,"East Carolina","Gardner-Webb",2023
+401540390,2023,4,"Eastern Illinois","McNeese",2023
 401540193,2023,4,"Eastern Kentucky","Southeast Missouri State",2023
 401520251,2023,4,"Florida","Charlotte",2023
 401540117,2023,4,"Florida A&M","Alabama State",2023
