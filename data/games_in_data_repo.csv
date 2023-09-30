@@ -1,12 +1,38 @@
 "game_id","year","week","home","away","season"
+401532412,2023,5,"Akron","Buffalo",2023
+401520279,2023,5,"Arkansas","Texas A&M",2023
 401525851,2023,5,"BYU","Cincinnati",2023
+401540005,2023,5,"Brown","Central Connecticut",2023
+401540555,2023,5,"Butler","Presbyterian College",2023
+401532410,2023,5,"Central Michigan","Eastern Michigan",2023
+401520292,2023,5,"Connecticut","Utah State",2023
+401540400,2023,5,"Davidson","San Diego",2023
+401540468,2023,5,"Dayton","St. Thomas (MN)",2023
+401539972,2023,5,"Delaware State","Virginia Lynchburg",2023
+401540412,2023,5,"Elon","William & Mary",2023
+401531880,2023,5,"James Madison","South Alabama",2023
+401520282,2023,5,"Kentucky","Florida",2023
+401540013,2023,5,"Long Island University","Duquesne",2023
+401540522,2023,5,"Marist","Stetson",2023
+401520284,2023,5,"Minnesota","Louisiana",2023
+401540082,2023,5,"Monmouth","Lehigh",2023
 401525512,2023,5,"NC State","Louisville",2023
+401540384,2023,5,"North Dakota State","South Dakota",2023
+401520287,2023,5,"Northwestern","Penn State",2023
 401524020,2023,5,"Oregon State","Utah",2023
+401540335,2023,5,"Pennsylvania","Dartmouth",2023
 401541632,2023,5,"Princeton","Columbia",2023
+401534852,2023,5,"Robert Morris","Howard",2023
+401540030,2023,5,"Sacred Heart","Merrimack",2023
 401520276,2023,5,"Sam Houston State","Jacksonville State",2023
+401540591,2023,5,"Samford","East Tennessee State",2023
+401540035,2023,5,"Stonehill","St Francis (PA)",2023
+401525514,2023,5,"Syracuse","Clemson",2023
+401531370,2023,5,"Tulane","UAB",2023
 401531339,2023,5,"Tulsa","Temple",2023
 401520278,2023,5,"UTEP","Louisiana Tech",2023
 401520277,2023,5,"Western Kentucky","Middle Tennessee",2023
+401539981,2023,5,"Yale","Morgan State",2023
 401520250,2023,4,"Alabama","Ole Miss",2023
 401540087,2023,4,"Alabama A&M","Arkansas-Pine Bluff",2023
 401540126,2023,4,"Alcorn State","Prairie View",2023
