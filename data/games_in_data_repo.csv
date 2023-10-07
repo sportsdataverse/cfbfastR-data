@@ -1,4 +1,11 @@
 "game_id","year","week","home","away","season"
+401540309,2023,6,"Harvard","Cornell",2023
+401520301,2023,6,"Illinois","Nebraska",2023
+401520296,2023,6,"Liberty","Sam Houston State",2023
+401520295,2023,6,"Louisiana Tech","Western Kentucky",2023
+401520294,2023,6,"Middle Tennessee","Jacksonville State",2023
+401520297,2023,6,"New Mexico State","Florida International",2023
+401525857,2023,6,"Oklahoma State","Kansas State",2023
 401532589,2023,5,"Air Force","San Diego State",2023
 401532412,2023,5,"Akron","Buffalo",2023
 401540088,2023,5,"Alabama A&M","Tuskegee",2023
@@ -16,6 +23,7 @@
 401524022,2023,5,"California","Arizona State",2023
 401532410,2023,5,"Central Michigan","Eastern Michigan",2023
 401540473,2023,5,"Charleston Southern","Kennesaw State",2023
+401524023,2023,5,"Colorado","USC",2023
 401532585,2023,5,"Colorado State","Utah Tech",2023
 401520292,2023,5,"Connecticut","Utah State",2023
 401540308,2023,5,"Cornell","Colgate",2023
@@ -58,6 +66,7 @@
 401531424,2023,5,"Navy","South Florida",2023
 401520286,2023,5,"Nebraska","Michigan",2023
 401540509,2023,5,"New Hampshire","Towson",2023
+401539989,2023,5,"Norfolk State","North Carolina A&T",2023
 401540194,2023,5,"North Alabama","Eastern Kentucky",2023
 401539996,2023,5,"North Carolina Central","Campbell",2023
 401540384,2023,5,"North Dakota State","South Dakota",2023
