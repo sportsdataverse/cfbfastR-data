@@ -1,5 +1,107 @@
 "game_id","year","week","home","away","season"
+401532598,2023,7,"Air Force","Wyoming",2023
+401520316,2023,7,"Alabama","Arkansas",2023
+401531888,2023,7,"Appalachian State","Coastal Carolina",2023
+401520317,2023,7,"Army","Troy",2023
+401540177,2023,7,"Austin Peay","Gardner-Webb",2023
+401532419,2023,7,"Ball State","Toledo",2023
+401540143,2023,7,"Bethune-Cookman","Texas Southern",2023
+401540293,2023,7,"Brown","Princeton",2023
+401532421,2023,7,"Buffalo","Bowling Green",2023
+401540401,2023,7,"Butler","Davidson",2023
+401540188,2023,7,"Central Arkansas","Stephen F. Austin",2023
+401532420,2023,7,"Central Michigan","Akron",2023
+401540474,2023,7,"Charleston Southern","Lindenwood",2023
+401531405,2023,7,"Charlotte","Navy",2023
+401525863,2023,7,"Cincinnati","Iowa State",2023
+401540337,2023,7,"Colgate","Dartmouth",2023
+401524029,2023,7,"Colorado","Stanford",2023
+401532593,2023,7,"Colorado State","Boise State",2023
+401541633,2023,7,"Columbia","Pennsylvania",2023
+401540510,2023,7,"Dayton","Presbyterian College",2023
+401540325,2023,7,"Delaware","North Carolina A&T",2023
+401540515,2023,7,"Drake","St. Thomas (MN)",2023
+401525523,2023,7,"Duke","NC State",2023
+401540006,2023,7,"Duquesne","Central Connecticut",2023
+401531415,2023,7,"East Carolina","SMU",2023
+401540593,2023,7,"East Tennessee State","Wofford",2023
+401540195,2023,7,"Eastern Kentucky","Tarleton State",2023
+401532422,2023,7,"Eastern Michigan","Kent State",2023
+401520314,2023,7,"Florida International","UTEP",2023
+401525524,2023,7,"Florida State","Syracuse",2023
+401531889,2023,7,"Georgia State","Marshall",2023
+401540110,2023,7,"Grambling","Alabama A&M",2023
+401534853,2023,7,"Harvard","Howard",2023
+401532595,2023,7,"Hawai'i","San Diego State",2023
+401525862,2023,7,"Houston","West Virginia",2023
+401540168,2023,7,"Houston Christian","Prairie View",2023
+401540246,2023,7,"Idaho","Montana",2023
+401540104,2023,7,"Illinois State","Indiana State",2023
+401540439,2023,7,"Incarnate Word","Texas A&M-Commerce",2023
+401540120,2023,7,"Jackson State","Alabama State",2023
+401520312,2023,7,"Jacksonville State","Liberty",2023
+401531890,2023,7,"James Madison","Georgia Southern",2023
+401520318,2023,7,"Kentucky","Missouri",2023
+401520319,2023,7,"LSU","Auburn",2023
+401540061,2023,7,"Lehigh","Georgetown",2023
+401540022,2023,7,"Maine","Long Island University",2023
+401540524,2023,7,"Marist","San Diego",2023
+401520320,2023,7,"Maryland","Illinois",2023
+401531371,2023,7,"Memphis","Tulane",2023
+401540586,2023,7,"Mercer","Chattanooga",2023
+401520321,2023,7,"Michigan","Indiana",2023
+401520313,2023,7,"Middle Tennessee","Louisiana Tech",2023
+401540418,2023,7,"Monmouth","Hampton",2023
+401540230,2023,7,"Montana State","Cal Poly",2023
+401540365,2023,7,"Murray State","Southern Illinois",2023
+401532597,2023,7,"Nevada","UNLV",2023
+401540530,2023,7,"New Hampshire","Albany",2023
+401532596,2023,7,"New Mexico","San José State",2023
+401520315,2023,7,"New Mexico State","Sam Houston State",2023
+401525526,2023,7,"North Carolina","Miami",2023
+401540372,2023,7,"North Dakota","North Dakota State",2023
+401531390,2023,7,"North Texas","Temple",2023
+401540275,2023,7,"Northern Arizona","Portland State",2023
+401540281,2023,7,"Northern Colorado","Sacramento State",2023
+401532424,2023,7,"Northern Illinois","Ohio",2023
+401524031,2023,7,"Notre Dame","USC",2023
+401525864,2023,7,"Oklahoma State","Kansas",2023
+401524032,2023,7,"Oregon State","UCLA",2023
+401520322,2023,7,"Penn State","UMass",2023
+401525525,2023,7,"Pittsburgh","Louisville",2023
+401520323,2023,7,"Purdue","Ohio State",2023
+401520324,2023,7,"Rutgers","Michigan State",2023
+401540601,2023,7,"Samford","Furman",2023
+401520325,2023,7,"South Carolina","Florida",2023
+401540442,2023,7,"South Dakota","Youngstown State",2023
+401540408,2023,7,"South Dakota State","Northern Iowa",2023
+401531420,2023,7,"South Florida","Florida Atlantic",2023
+401540480,2023,7,"Southeast Missouri State","Eastern Illinois",2023
+401540378,2023,7,"Southeastern Louisiana","Lamar",2023
+401540036,2023,7,"St Francis (PA)","Wagner",2023
+401540575,2023,7,"Stony Brook","Fordham",2023
+401525865,2023,7,"TCU","BYU",2023
+401520326,2023,7,"Tennessee","Texas A&M",2023
+401539990,2023,7,"Tennessee State","Norfolk State",2023
+401531891,2023,7,"Texas State","Louisiana Monroe",2023
+401525866,2023,7,"Texas Tech","Kansas State",2023
+401540619,2023,7,"The Citadel","VMI",2023
+401531381,2023,7,"UT San Antonio","UAB",2023
+401524033,2023,7,"Utah","California",2023
+401532594,2023,7,"Utah State","Fresno State",2023
+401540458,2023,7,"Valparaiso","Morehead State",2023
+401520327,2023,7,"Vanderbilt","Georgia",2023
+401540413,2023,7,"Villanova","Elon",2023
+401525527,2023,7,"Virginia Tech","Wake Forest",2023
+401524034,2023,7,"Washington","Oregon",2023
+401524030,2023,7,"Washington State","Arizona",2023
+401540289,2023,7,"Weber State","UC Davis",2023
+401540349,2023,7,"Western Illinois","Missouri State",2023
+401532423,2023,7,"Western Michigan","Miami (OH)",2023
+401520328,2023,7,"Wisconsin","Iowa",2023
+401540031,2023,7,"Yale","Sacred Heart",2023
 401532418,2023,6,"Akron","Northern Illinois",2023
+401540089,2023,6,"Alabama A&M","Jackson State",2023
 401540119,2023,6,"Alabama State","Bethune-Cookman",2023
 401540127,2023,6,"Alcorn State","Grambling",2023
 401524026,2023,6,"Arizona State","Colorado",2023
@@ -24,6 +126,7 @@
 401532414,2023,6,"Eastern Michigan","Ball State",2023
 401539997,2023,6,"Elon","North Carolina Central",2023
 401520299,2023,6,"Florida","Vanderbilt",2023
+401531340,2023,6,"Florida Atlantic","Tulsa",2023
 401525518,2023,6,"Florida State","Virginia Tech",2023
 401540083,2023,6,"Fordham","Lehigh",2023
 401540600,2023,6,"Furman","The Citadel",2023
