@@ -1,4 +1,14 @@
 "game_id","year","week","home","away","season"
+401520329,2023,8,"Jacksonville State","Western Kentucky",2023
+401520330,2023,8,"Liberty","Middle Tennessee",2023
+401531893,2023,8,"Marshall","James Madison",2023
+401539983,2023,8,"Morgan State","North Carolina Central",2023
+401540432,2023,8,"Northwestern State","Southeastern Louisiana",2023
+401520331,2023,8,"Sam Houston State","Florida International",2023
+401531892,2023,8,"South Alabama","Southern Mississippi",2023
+401531391,2023,8,"Temple","SMU",2023
+401531341,2023,8,"Tulsa","Rice",2023
+401520332,2023,8,"UTEP","New Mexico State",2023
 401532598,2023,7,"Air Force","Wyoming",2023
 401520316,2023,7,"Alabama","Arkansas",2023
 401531888,2023,7,"Appalachian State","Coastal Carolina",2023
@@ -18,6 +28,7 @@
 401524029,2023,7,"Colorado","Stanford",2023
 401532593,2023,7,"Colorado State","Boise State",2023
 401541633,2023,7,"Columbia","Pennsylvania",2023
+401540051,2023,7,"Cornell","Bucknell",2023
 401540510,2023,7,"Dayton","Presbyterian College",2023
 401540325,2023,7,"Delaware","North Carolina A&T",2023
 401540515,2023,7,"Drake","St. Thomas (MN)",2023
@@ -51,6 +62,7 @@
 401540586,2023,7,"Mercer","Chattanooga",2023
 401520321,2023,7,"Michigan","Indiana",2023
 401520313,2023,7,"Middle Tennessee","Louisiana Tech",2023
+401540136,2023,7,"Mississippi Valley State","Arkansas-Pine Bluff",2023
 401540418,2023,7,"Monmouth","Hampton",2023
 401540230,2023,7,"Montana State","Cal Poly",2023
 401540365,2023,7,"Murray State","Southern Illinois",2023
@@ -78,6 +90,7 @@
 401531420,2023,7,"South Florida","Florida Atlantic",2023
 401540480,2023,7,"Southeast Missouri State","Eastern Illinois",2023
 401540378,2023,7,"Southeastern Louisiana","Lamar",2023
+401540170,2023,7,"Southern","Lincoln University (CA)",2023
 401540036,2023,7,"St Francis (PA)","Wagner",2023
 401540575,2023,7,"Stony Brook","Fordham",2023
 401525865,2023,7,"TCU","BYU",2023
