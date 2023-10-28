@@ -1,14 +1,45 @@
 "game_id","year","week","home","away","season"
+401520349,2023,9,"Army","UMass",2023
+401520351,2023,9,"Boston College","Connecticut",2023
+401540459,2023,9,"Butler","Valparaiso",2023
 401540008,2023,9,"Central Connecticut","Long Island University",2023
 401531407,2023,9,"Charlotte","Florida Atlantic",2023
+401540053,2023,9,"Colgate","Bucknell",2023
+401540330,2023,9,"Cornell","Princeton",2023
+401534855,2023,9,"Delaware State","Howard",2023
+401540517,2023,9,"Drake","Stetson",2023
+401532431,2023,9,"Eastern Michigan","Western Michigan",2023
 401520347,2023,9,"Florida International","Jacksonville State",2023
+401540070,2023,9,"Fordham","Holy Cross",2023
+401540594,2023,9,"Furman","East Tennessee State",2023
 401531929,2023,9,"Georgia Southern","Georgia State",2023
+401540106,2023,9,"Illinois State","Northern Iowa",2023
+401525874,2023,9,"Kansas","Oklahoma",2023
+401525875,2023,9,"Kansas State","Houston",2023
 401520345,2023,9,"Louisiana Tech","New Mexico State",2023
+401540492,2023,9,"Maine","Albany",2023
 401539998,2023,9,"North Carolina Central","South Carolina State",2023
+401520356,2023,9,"Northwestern","Maryland",2023
+401520358,2023,9,"Penn State","Indiana",2023
 401540295,2023,9,"Pennsylvania","Brown",2023
+401540497,2023,9,"Robert Morris","Tennessee Tech",2023
+401531342,2023,9,"SMU","Tulsa",2023
+401540016,2023,9,"Sacred Heart","Duquesne",2023
 401520348,2023,9,"Sam Houston State","UTEP",2023
+401540443,2023,9,"South Dakota","South Dakota State",2023
+401540037,2023,9,"St Francis (PA)","Merrimack",2023
+401540526,2023,9,"St. Thomas (MN)","Marist",2023
+401520359,2023,9,"Texas A&M","South Carolina",2023
+401540327,2023,9,"Towson","Delaware",2023
+401525878,2023,9,"UCF","West Virginia",2023
+401540588,2023,9,"VMI","Chattanooga",2023
+401540576,2023,9,"Villanova","Stony Brook",2023
 401525533,2023,9,"Virginia Tech","Syracuse",2023
+401540042,2023,9,"Wagner","Stonehill",2023
+401525536,2023,9,"Wake Forest","Florida State",2023
 401520346,2023,9,"Western Kentucky","Liberty",2023
+401540504,2023,9,"William & Mary","Monmouth",2023
+401541634,2023,9,"Yale","Columbia",2023
 401520333,2023,8,"Alabama","Tennessee",2023
 401540571,2023,8,"Albany","Rhode Island",2023
 401520334,2023,8,"Arkansas","Mississippi State",2023
