@@ -1,38 +1,62 @@
 "game_id","year","week","home","away","season"
+401532439,2023,11,"Buffalo","Ohio",2023
+401532442,2023,11,"Kent State","Bowling Green",2023
+401531911,2023,11,"Louisiana","Southern Mississippi",2023
+401525546,2023,11,"Louisville","Virginia",2023
+401532441,2023,11,"Miami (OH)","Akron",2023
+401532437,2023,11,"Northern Illinois","Ball State",2023
+401531437,2023,11,"SMU","North Texas",2023
+401532440,2023,11,"Toledo","Eastern Michigan",2023
+401532618,2023,11,"UNLV","Wyoming",2023
+401532438,2023,11,"Western Michigan","Central Michigan",2023
 401540224,2023,10,"Abilene Christian","Utah Tech",2023
 401520361,2023,10,"Air Force","Army",2023
 401532436,2023,10,"Akron","Kent State",2023
 401520362,2023,10,"Alabama","LSU",2023
 401540112,2023,10,"Alabama A&M","Florida A&M",2023
 401540121,2023,10,"Alabama State","Grambling",2023
+401540617,2023,10,"Albany","William & Mary",2023
 401540130,2023,10,"Alcorn State","Southern",2023
 401531905,2023,10,"Appalachian State","Marshall",2023
 401524045,2023,10,"Arizona","UCLA",2023
 401531908,2023,10,"Arkansas State","Louisiana",2023
 401525880,2023,10,"Baylor","Houston",2023
+401540146,2023,10,"Bethune-Cookman","Mississippi Valley State",2023
 401532435,2023,10,"Bowling Green","Ball State",2023
+401540296,2023,10,"Brown","Yale",2023
+401540427,2023,10,"Bryant","Gardner-Webb",2023
 401532433,2023,10,"Central Michigan","Northern Illinois",2023
 401540476,2023,10,"Charleston Southern","Tennessee State",2023
+401540589,2023,10,"Chattanooga","Furman",2023
 401525881,2023,10,"Cincinnati","UCF",2023
 401525441,2023,10,"Clemson","Notre Dame",2023
 401524046,2023,10,"Colorado","Oregon State",2023
+401540343,2023,10,"Columbia","Harvard",2023
+401540340,2023,10,"Dartmouth","Princeton",2023
+401540328,2023,10,"Delaware","Elon",2023
 401525539,2023,10,"Duke","Wake Forest",2023
 401531374,2023,10,"East Carolina","Tulane",2023
+401540595,2023,10,"East Tennessee State","VMI",2023
 401540180,2023,10,"Eastern Kentucky","Austin Peay",2023
 401540232,2023,10,"Eastern Washington","Cal Poly",2023
 401520363,2023,10,"Florida","Arkansas",2023
+401540054,2023,10,"Fordham","Bucknell",2023
 401532608,2023,10,"Fresno State","Boise State",2023
 401520364,2023,10,"Georgia","Missouri",2023
 401531906,2023,10,"Georgia State","James Madison",2023
 401540256,2023,10,"Idaho State","Weber State",2023
 401544202,2023,10,"Incarnate Word","Nicholls",2023
 401520365,2023,10,"Indiana","Wisconsin",2023
+401540304,2023,10,"Indiana State","Youngstown State",2023
 401525882,2023,10,"Iowa State","Kansas",2023
+401540075,2023,10,"Lafayette","Colgate",2023
 401540380,2023,10,"Lamar","Texas A&M-Commerce",2023
+401540071,2023,10,"Lehigh","Holy Cross",2023
 401520366,2023,10,"Liberty","Louisiana Tech",2023
 401540481,2023,10,"Lindenwood","Eastern Illinois",2023
 401525543,2023,10,"Louisville","Virginia Tech",2023
 401540420,2023,10,"Maine","Hampton",2023
+401540518,2023,10,"Marist","Drake",2023
 401520367,2023,10,"Maryland","Penn State",2023
 401531425,2023,10,"Memphis","South Florida",2023
 401520368,2023,10,"Michigan","Purdue",2023
@@ -40,16 +64,20 @@
 401520370,2023,10,"Minnesota","Illinois",2023
 401520371,2023,10,"Mississippi State","Kentucky",2023
 401540107,2023,10,"Missouri State","Illinois State",2023
+401540505,2023,10,"Monmouth","Stony Brook",2023
 401540263,2023,10,"Montana","Sacramento State",2023
 401553854,2023,10,"Montana State","Northern Arizona",2023
 401540551,2023,10,"Morehead State","Butler",2023
+401539975,2023,10,"Morgan State","Delaware State",2023
 401540367,2023,10,"Murray State","North Dakota",2023
 401525544,2023,10,"NC State","Miami",2023
 401532610,2023,10,"Nevada","Hawai'i",2023
+401540533,2023,10,"New Hampshire","Villanova",2023
 401532611,2023,10,"New Mexico","UNLV",2023
 401520372,2023,10,"New Mexico State","Middle Tennessee",2023
 401540190,2023,10,"North Alabama","Central Arkansas",2023
 401525545,2023,10,"North Carolina","Campbell",2023
+401540546,2023,10,"North Carolina A&T","Towson",2023
 401539991,2023,10,"North Carolina Central","Norfolk State",2023
 401531399,2023,10,"North Texas","UT San Antonio",2023
 401540248,2023,10,"Northern Colorado","Idaho",2023
@@ -59,19 +87,24 @@
 401531907,2023,10,"Old Dominion","Coastal Carolina",2023
 401520374,2023,10,"Ole Miss","Texas A&M",2023
 401524047,2023,10,"Oregon","California",2023
+401540331,2023,10,"Pennsylvania","Cornell",2023
 401525541,2023,10,"Pittsburgh","Florida State",2023
 401540138,2023,10,"Prairie View","Arkansas-Pine Bluff",2023
+401540557,2023,10,"Presbyterian College","San Diego",2023
 401531440,2023,10,"Rice","SMU",2023
 401520375,2023,10,"Rutgers","Ohio State",2023
+401540009,2023,10,"Sacred Heart","Central Connecticut",2023
 401525451,2023,10,"Sam Houston State","Kennesaw State",2023
 401532612,2023,10,"San Diego State","Utah State",2023
 401520376,2023,10,"South Carolina","Jacksonville State",2023
 401540386,2023,10,"South Dakota State","North Dakota State",2023
 401540498,2023,10,"Southeast Missouri State","Robert Morris",2023
 401540395,2023,10,"Southeastern Louisiana","McNeese",2023
+401540444,2023,10,"Southern Illinois","South Dakota",2023
 401531909,2023,10,"Southern Mississippi","Louisiana Monroe",2023
 401540210,2023,10,"Southern Utah","Lincoln University (CA)",2023
 401540024,2023,10,"St Francis (PA)","Long Island University",2023
+401540404,2023,10,"Stetson","Davidson",2023
 401525540,2023,10,"Syracuse","Boston College",2023
 401540217,2023,10,"Tarleton State","Stephen F. Austin",2023
 401531392,2023,10,"Temple","Navy",2023
@@ -80,6 +113,7 @@
 401525884,2023,10,"Texas","Kansas State",2023
 401531910,2023,10,"Texas State","Georgia Southern",2023
 401525879,2023,10,"Texas Tech","TCU",2023
+401540614,2023,10,"The Citadel","Mercer",2023
 401532434,2023,10,"Toledo","Buffalo",2023
 401531904,2023,10,"Troy","South Alabama",2023
 401531343,2023,10,"Tulsa","Charlotte",2023
@@ -92,6 +126,7 @@
 401540460,2023,10,"Valparaiso","Dayton",2023
 401520379,2023,10,"Vanderbilt","Auburn",2023
 401525542,2023,10,"Virginia","Georgia Tech",2023
+401540017,2023,10,"Wagner","Duquesne",2023
 401524050,2023,10,"Washington State","Stanford",2023
 401525885,2023,10,"West Virginia","BYU",2023
 401540626,2023,10,"Wofford","Western Carolina",2023
