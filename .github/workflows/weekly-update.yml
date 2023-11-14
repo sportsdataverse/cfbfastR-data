@@ -32,8 +32,6 @@ jobs:
       - uses: r-lib/actions/setup-pandoc@v1  
       - name: Install dependencies
         run: |
-          packageurl <- "https://cloud.r-project.org/src/contrib/stringi_1.7.12.tar.gz"
-          install.packages(packageurl, repos=NULL, type="source")
           install.packages(c("remotes","ggplot2","ggrepel","stringr","attempt","assertthat","nnet","mgcv","rlang","tibble","geosphere","glue","maps","janitor", "jsonlite","dplyr","purrr","arrow", "tidyr", "readr"))
           remotes::install_github("sportsdataverse/cfbfastR")
         shell: Rscript {0}  
