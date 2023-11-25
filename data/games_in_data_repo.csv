@@ -1,4 +1,21 @@
 "game_id","year","week","home","away","season"
+401532452,2023,13,"Akron","Ohio",2023
+401540124,2023,13,"Alabama State","Tuskegee",2023
+401520426,2023,13,"Arkansas","Missouri",2023
+401532625,2023,13,"Boise State","Air Force",2023
+401525560,2023,13,"Boston College","Miami",2023
+401532449,2023,13,"Buffalo","Eastern Michigan",2023
+401532451,2023,13,"Central Michigan","Toledo",2023
+401520435,2023,13,"Michigan State","Penn State",2023
+401520424,2023,13,"Mississippi State","Ole Miss",2023
+401520425,2023,13,"Nebraska","Iowa",2023
+401532629,2023,13,"New Mexico","Utah State",2023
+401525900,2023,13,"Oklahoma","TCU",2023
+401524063,2023,13,"Oregon","Oregon State",2023
+401531394,2023,13,"Temple","Memphis",2023
+401525901,2023,13,"Texas","Texas Tech",2023
+401531376,2023,13,"Tulane","UT San Antonio",2023
+401532450,2023,13,"Western Michigan","Bowling Green",2023
 401532624,2023,12,"Air Force","UNLV",2023
 401520401,2023,12,"Alabama","Chattanooga",2023
 401540114,2023,12,"Alabama A&M","Mississippi Valley State",2023
@@ -55,6 +72,7 @@
 401540056,2023,12,"Marist","Bucknell",2023
 401520410,2023,12,"Maryland","Michigan",2023
 401531431,2023,12,"Memphis","SMU",2023
+401540019,2023,12,"Merrimack","Duquesne",2023
 401525558,2023,12,"Miami","Louisville",2023
 401532447,2023,12,"Miami (OH)","Buffalo",2023
 401520411,2023,12,"Middle Tennessee","UTEP",2023
@@ -119,6 +137,7 @@
 401520422,2023,12,"Wisconsin","Nebraska",2023
 401540604,2023,12,"Wofford","Furman",2023
 401532620,2023,12,"Wyoming","Hawai'i",2023
+401540345,2023,12,"Yale","Harvard",2023
 401540218,2023,11,"Abilene Christian","Tarleton State",2023
 401520380,2023,11,"Arkansas","Auburn",2023
 401520381,2023,11,"Army","Holy Cross",2023
