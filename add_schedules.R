@@ -5,7 +5,7 @@ library(purrr)
 library(glue)
 
 
-games <- purrr::map_dfr(
+games <- purrr::map_dfr(2001:cfbfastR:::most_recent_cfb_season(), function(x){ games <- tryCatch({ cfbfastR::cfbd_game_info(x) }, error = function(e) { message <- sprintf("Error retrieving game info for season %s: %s", x, conditionMessage(e)); stop(message); });
   2001:cfbfastR:::most_recent_cfb_season(), 
   function(x){
     games <- cfbfastR::cfbd_game_info(x)
