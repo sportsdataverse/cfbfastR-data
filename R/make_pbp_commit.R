@@ -1,7 +1,6 @@
-message <- sprintf("Updated %s (ET) using cfbfastR version %s", lubridate::now("America/New_York"), utils::packageVersion("cfbfastR"))
+message <- glue("Updated {lubridate::now('America/New_York')} (ET) using cfbfastR version {utils::packageVersion('cfbfastR')}")
 
-system(glue::glue('git config --local user.email "actions@GitHub.com" '))
-system(glue::glue('git config --local user.name "GitHub Actions"'))
-system(glue::glue('git add .'))
-system(glue::glue('git commit -am "{message}"'))
-system(glue::glue('git push'))
+system("git config --local user.email 'actions@GitHub.com'")
+system("git config --local user.name 'GitHub Actions'")
+system("git add .")
+system(glue("git commit -am '{message}'"))
