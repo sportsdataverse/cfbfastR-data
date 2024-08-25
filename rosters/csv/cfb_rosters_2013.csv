@@ -1,5 +1,5 @@
 athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_city,home_state,home_country,home_latitude,home_longitude,home_county_fips,recruit_ids,headshot_url,season
-13223,Justin,Johnson,Fresno State,184,72,84,NA,WR,Gardena,CA,USA,33.8963593,-118.3053037,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/13223.png,2013
+13223,Justin,Johnson,Fresno State,201,73,25,1,DB,Gardena,CA,USA,33.8963593,-118.3053037,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/13223.png,2013
 100009,Johnny,Jackson,Arizona,NA,NA,NA,NA,WR,San Diego,CA,USA,32.7174209,-117.1627714,06073,,https://a.espncdn.com/i/headshots/college-football/players/full/100009.png,2013
 106739,Eric,Thomas,Troy,NA,73,3,NA,WR,Shreveport,LA,USA,32.5221828,-93.7651944,22017,,https://a.espncdn.com/i/headshots/college-football/players/full/106739.png,2013
 109907,Jon,Lee,Air Force,NA,70,24,NA,RB,Bethlehem,GA,USA,34.9020296,-84.0774118,13291,,https://a.espncdn.com/i/headshots/college-football/players/full/109907.png,2013
@@ -4695,7 +4695,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 532543,Najee,Ray,UT Martin,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/532543.png,2013
 532573,Vinny,Miller,The Citadel,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/532573.png,2013
 532578,Jake,Stenson,The Citadel,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/532578.png,2013
-532607,Eric,Goins,The Citadel,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/532607.png,2013
+532607,Eric,Goins,The Citadel,207,74,90,4,PK,Herndon,VA,USA,38.9695316,-77.3859479,51059,,https://a.espncdn.com/i/headshots/college-football/players/full/532607.png,2013
 532608,John,Loughery,Elon,NA,NA,NA,NA,QB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/532608.png,2013
 532612,Tracey,Coppedge,Elon,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/532612.png,2013
 532616,B.J.,Bennett,Elon,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/532616.png,2013
@@ -6043,7 +6043,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 545266,Sean,Avant,Syracuse,217,70,83,NA,WR,Miramar,FL,USA,25.975911449999998,-80.33472128115224,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/545266.png,2013
 545269,Brisly,Estime,Syracuse,NA,69,1,NA,WR,Delray Beach,FL,USA,26.4614625,-80.0728201,12099,,https://a.espncdn.com/i/headshots/college-football/players/full/545269.png,2013
 545271,Marqez,Hodge,Syracuse,NA,71,33,NA,LB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/545271.png,2013
-545273,Isaiah,Johnson,Syracuse,204,75,20,4,DB,New Castle,DE,USA,39.6620572,-75.5663132,10003,,https://a.espncdn.com/i/headshots/college-football/players/full/545273.png,2013
+545273,Isaiah,Johnson,Syracuse,205,75,20,4,DB,New Castle,DE,USA,39.6620572,-75.5663132,10003,,https://a.espncdn.com/i/headshots/college-football/players/full/545273.png,2013
 545274,Darius,Kelly,Syracuse,NA,70,8,NA,?,Sierra Vista,AZ,USA,31.5455709,-110.2772249,04003,,https://a.espncdn.com/i/headshots/college-football/players/full/545274.png,2013
 545275,Mitch,Kimble,Syracuse,215,75,13,NA,QB,Jerseyville,IL,USA,39.1200471,-90.3284479,17083,,https://a.espncdn.com/i/headshots/college-football/players/full/545275.png,2013
 545278,Kendall,Moore,Syracuse,250,78,88,NA,TE,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/545278.png,2013
@@ -7872,7 +7872,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 552342,Brandon,Smith,Penn State,228,72,47,NA,LB,Winfield,PA,USA,33.928993,-87.8172457,01093,,https://a.espncdn.com/i/headshots/college-football/players/full/552342.png,2013
 552346,Von,Walker,Penn State,NA,71,25,NA,LB,Mill Hall,PA,USA,41.10729,-77.48443,42035,,https://a.espncdn.com/i/headshots/college-football/players/full/552346.png,2013
 552353,Tim,DiGiorgio,Temple,NA,75,13,NA,QB,Philadelphia,PA,USA,39.9527237,-75.1635262,42101,,https://a.espncdn.com/i/headshots/college-football/players/full/552353.png,2013
-552356,Chris,Smith,Temple,225,70,49,NA,LB,North Plainfield,NJ,USA,40.6301025,-74.4273743,34035,,https://a.espncdn.com/i/headshots/college-football/players/full/552356.png,2013
+552356,Chris,Smith,Temple,280,74,66,3,OL,North Plainfield,NJ,USA,40.6301025,-74.4273743,34035,,https://a.espncdn.com/i/headshots/college-football/players/full/552356.png,2013
 552417,Keith,Goss,Campbell,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/552417.png,2013
 552420,Christian,Hayes,Campbell,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/552420.png,2013
 552423,DeShawn,Jones,Campbell,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/552423.png,2013
@@ -8011,7 +8011,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 552945,Mike,Myers,East Carolina,283,72,92,NA,DT,Goose Creek,SC,USA,32.9961038,-80.0387292,45015,,https://a.espncdn.com/i/headshots/college-football/players/full/552945.png,2013
 552946,Travis,Phillips,East Carolina,178,71,14,NA,DB,Montpelier,VA,USA,37.8212538,-77.6844345,51085,,https://a.espncdn.com/i/headshots/college-football/players/full/552946.png,2013
 552948,Travon,Simmons,East Carolina,NA,70,37,NA,DB,Marietta,GA,USA,33.9528472,-84.5496148,13067,,https://a.espncdn.com/i/headshots/college-football/players/full/552948.png,2013
-552949,Xavier,Smith,East Carolina,247,72,10,4,LB,Raleigh,NC,USA,35.7803977,-78.6390989,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/552949.png,2013
+552949,Xavier,Smith,East Carolina,252,73,10,4,LB,Raleigh,NC,USA,35.7803977,-78.6390989,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/552949.png,2013
 552951,Jimmy,Williams,East Carolina,198,71,81,NA,WR,Washington,NC,USA,35.5493702,-77.0535574,37013,,https://a.espncdn.com/i/headshots/college-football/players/full/552951.png,2013
 552953,Cam,Worthy,East Carolina,NA,75,9,NA,WR,Blair,SC,USA,32.4215124,-100.0600967,48441,,https://a.espncdn.com/i/headshots/college-football/players/full/552953.png,2013
 552955,Daeshawn,Bertram,Western Kentucky,225,68,54,NA,LB,Louisville,KY,USA,38.2542376,-85.759407,21111,,https://a.espncdn.com/i/headshots/college-football/players/full/552955.png,2013
@@ -8050,7 +8050,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 553279,Levi,Te'o,Southern Utah,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553279.png,2013
 553303,J.C.,Baker,Western Illinois,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553303.png,2013
 553311,Joe,Pavlik,Fordham,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553311.png,2013
-553348,Jake,Ryder,Towson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553348.png,2013
+553348,Jack,Ryder,Towson,185,74,16,1,QB,Media,PA,USA,39.9167783,-75.387693,42045,,https://a.espncdn.com/i/headshots/college-football/players/full/553348.png,2013
 553401,Isaiah,McKinney,Tennessee Tech,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553401.png,2013
 553452,Chris,Callahan,Baylor,NA,69,40,NA,PK,Houston,TX,USA,29.7589382,-95.3676974,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/553452.png,2013
 553456,Will,Gleeson,Ole Miss,192,75,94,NA,P,Melbourne,,Australia,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553456.png,2013

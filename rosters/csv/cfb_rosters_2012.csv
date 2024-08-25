@@ -1,5 +1,5 @@
 athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_city,home_state,home_country,home_latitude,home_longitude,home_county_fips,recruit_ids,headshot_url,season
-13223,Justin,Johnson,Fresno State,184,72,84,NA,WR,Gardena,CA,USA,33.8963593,-118.3053037,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/13223.png,2012
+13223,Justin,Johnson,Fresno State,201,73,25,1,DB,Gardena,CA,USA,33.8963593,-118.3053037,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/13223.png,2012
 105679,Ben,Martin,Rutgers,NA,71,30,NA,DB,Galloway,NJ,USA,40.3692104,-74.1567618,34025,,https://a.espncdn.com/i/headshots/college-football/players/full/105679.png,2012
 106739,Eric,Thomas,Troy,NA,73,3,NA,WR,Shreveport,LA,USA,32.5221828,-93.7651944,22017,,https://a.espncdn.com/i/headshots/college-football/players/full/106739.png,2012
 109907,Jon,Lee,Air Force,NA,70,24,NA,RB,Bethlehem,GA,USA,34.9020296,-84.0774118,13291,,https://a.espncdn.com/i/headshots/college-football/players/full/109907.png,2012

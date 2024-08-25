@@ -166,7 +166,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 530347,Jared,Crump,Wake Forest,NA,75,88,NA,WR,St. John's,FL,USA,27.3027501,-80.4026589,12111,,https://a.espncdn.com/i/headshots/college-football/players/full/530347.png,2016
 530348,Shelldon,Lewinson,Wake Forest,NA,74,95,NA,DL,Seffner,FL,USA,27.998541000000003,-82.27488400114905,12057,,https://a.espncdn.com/i/headshots/college-football/players/full/530348.png,2016
 530349,Lynx,Hawthorne,Baylor,NA,72,7,NA,WR,Refugio,TX,USA,28.3045305,-97.2745885,48391,,https://a.espncdn.com/i/headshots/college-football/players/full/530349.png,2016
-530355,Keith,Brown,Western Kentucky,NA,73,2,NA,LB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/530355.png,2016
+530355,Keith,Brown,Western Kentucky,235,73,22,3,LB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/530355.png,2016
 530360,Brandon,Radcliff,Louisville,NA,69,23,NA,RB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/530360.png,2016
 530361,Devontre,Parnell,Southern Mississippi,NA,71,20,NA,DB,Winnsboro,SC,USA,34.3807012,-81.0864776,45039,,https://a.espncdn.com/i/headshots/college-football/players/full/530361.png,2016
 530369,Lamar,Atkins,Louisville,NA,71,46,NA,FB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/530369.png,2016
@@ -1187,7 +1187,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 537355,Adrian,Kollock Jr.,South Carolina State,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/537355.png,2016
 537357,Marquise,Jones,South Carolina State,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/537357.png,2016
 537358,Shaquan,Brock,South Carolina State,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/537358.png,2016
-537359,Tyler,Smith,South Carolina State,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/537359.png,2016
+537359,Tyler,Smith,South Carolina State,215,75,15,1,RB,Gaffney,SC,USA,35.0717945,-81.6498195,45021,,https://a.espncdn.com/i/headshots/college-football/players/full/537359.png,2016
 537360,Phillip,Henry,South Carolina State,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/537360.png,2016
 537361,Dondre,Brown,South Carolina State,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/537361.png,2016
 537394,Dillon,DeBoer,Florida Atlantic,NA,78,66,NA,OL,Tarpon Springs,FL,USA,28.148082950000003,-82.74380159717906,12103,,https://a.espncdn.com/i/headshots/college-football/players/full/537394.png,2016
@@ -2396,7 +2396,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 548728,Zak,Pettit,UC Davis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/548728.png,2016
 548730,Colby,Wadman,UC Davis,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/548730.png,2016
 548731,Brandon,Weaver,UC Davis,240,75,10,NA,DL,Andrews,TX,USA,32.3187158,-102.5457155,48003,,https://a.espncdn.com/i/headshots/college-football/players/full/548731.png,2016
-548732,Zach,Jones,UC Davis,NA,NA,NA,NA,NA,Rogers,AR,USA,36.3320197,-94.1185366,05007,,https://a.espncdn.com/i/headshots/college-football/players/full/548732.png,2016
+548732,Zach,Jones,UC Davis,210,72,52,3,LB,Rogers,AR,USA,36.3320197,-94.1185366,05007,,https://a.espncdn.com/i/headshots/college-football/players/full/548732.png,2016
 548738,Omar,Tebo,Lamar,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/548738.png,2016
 548742,Erik,Jones,McNeese,180,72,2,NA,DB,Leander,TX,USA,30.5586046,-97.8444364,48491,,https://a.espncdn.com/i/headshots/college-football/players/full/548742.png,2016
 548743,Khalil,Thomas,McNeese,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/548743.png,2016
@@ -3185,7 +3185,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 551315,Jarrad,Davis,Florida,NA,74,40,NA,LB,Kingsland,GA,USA,30.7999563,-81.6898261,13039,,https://a.espncdn.com/i/headshots/college-football/players/full/551315.png,2016
 551318,Ahmad,Fulwood,Florida,NA,76,5,NA,WR,Jacksonville ,FL,USA,30.3321838,-81.655651,12031,,https://a.espncdn.com/i/headshots/college-football/players/full/551318.png,2016
 551329,Jordan,Sherit,Florida,254,76,17,NA,DL,Tampa,FL,USA,27.9477595,-82.458444,12057,,https://a.espncdn.com/i/headshots/college-football/players/full/551329.png,2016
-551331,Max,Staver,Houston Baptist,NA,NA,NA,NA,QB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/551331.png,2016
+551331,Max,Staver,Houston Christian,NA,NA,NA,NA,QB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/551331.png,2016
 551332,Garrett,Stephens,Florida,190,69,30,NA,DB,Louisville,KY,USA,38.2542376,-85.759407,21111,,https://a.espncdn.com/i/headshots/college-football/players/full/551332.png,2016
 551334,Chris,Thompson,Florida,NA,72,85,NA,WR,Gainesville ,FL,USA,29.6519684,-82.3249846,12001,,https://a.espncdn.com/i/headshots/college-football/players/full/551334.png,2016
 551335,Johnny,Townsend,Florida,202,73,19,NA,P,Orlando,FL,USA,28.5421109,-81.3790304,12095,,https://a.espncdn.com/i/headshots/college-football/players/full/551335.png,2016
@@ -3213,7 +3213,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 551505,Jeremiah,Harris Jr.,Savannah State,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/551505.png,2016
 551508,John,Barron,Savannah State,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/551508.png,2016
 551534,Elliot,Markuson,Ole Miss,225,72,80,NA,LB,Oxford,MS,USA,34.3664127,-89.5187664,28071,,https://a.espncdn.com/i/headshots/college-football/players/full/551534.png,2016
-551542,La'Travien,Gee,Houston Baptist,185,74,3,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/551542.png,2016
+551542,La'Travien,Gee,Houston Christian,185,74,3,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/551542.png,2016
 551546,Michael,Downing Jr.,TCU,188,71,16,NA,S,Alpharetta,GA,USA,34.0709576,-84.2747329,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/551546.png,2016
 551549,Matt,Pryor,TCU,358,79,64,NA,G,Long Beach,CA,USA,33.7690164,-118.1916048,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/551549.png,2016
 551552,Troy,Cook,UT Martin,206,73,10,NA,QB,Dallas,TX,USA,32.7762719,-96.7968559,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/551552.png,2016
@@ -3247,7 +3247,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 551786,Devin,Clegg,Charlotte,NA,77,95,NA,DL,Burlington,NC,USA,36.0956918,-79.4377991,37001,,https://a.espncdn.com/i/headshots/college-football/players/full/551786.png,2016
 551788,Brandon,Banks,Charlotte,NA,75,5,NA,DL,High Point,NC,USA,35.9556924,-80.0053176,37081,,https://a.espncdn.com/i/headshots/college-football/players/full/551788.png,2016
 551790,Daquan,Lucas,Charlotte,NA,70,24,NA,LB,St. Stephen,SC,USA,33.406361000000004,-79.92930142942461,45015,,https://a.espncdn.com/i/headshots/college-football/players/full/551790.png,2016
-551798,Craig,Bell,Houston Baptist,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/551798.png,2016
+551798,Craig,Bell,Houston Christian,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/551798.png,2016
 551808,Prince,Sam,Louisiana Tech,NA,74,23,NA,CB,Allen,TX,USA,33.1031744,-96.6705503,48085,,https://a.espncdn.com/i/headshots/college-football/players/full/551808.png,2016
 551836,CJ,Kleckley,Mercer,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/551836.png,2016
 551853,Tyler,Ward,Mercer,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/551853.png,2016
@@ -3362,7 +3362,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 552341,Garrett,Sickels,Penn State,NA,76,90,NA,DE,Red Bank,NJ,USA,40.3470543,-74.0643065,34025,,https://a.espncdn.com/i/headshots/college-football/players/full/552341.png,2016
 552342,Brandon,Smith,Penn State,228,72,47,NA,LB,Winfield,PA,USA,33.928993,-87.8172457,01093,,https://a.espncdn.com/i/headshots/college-football/players/full/552342.png,2016
 552346,Von,Walker,Penn State,NA,71,25,NA,LB,Mill Hall,PA,USA,41.10729,-77.48443,42035,,https://a.espncdn.com/i/headshots/college-football/players/full/552346.png,2016
-552356,Chris,Smith,Temple,225,70,49,NA,LB,North Plainfield,NJ,USA,40.6301025,-74.4273743,34035,,https://a.espncdn.com/i/headshots/college-football/players/full/552356.png,2016
+552356,Chris,Smith,Temple,280,74,66,3,OL,North Plainfield,NJ,USA,40.6301025,-74.4273743,34035,,https://a.espncdn.com/i/headshots/college-football/players/full/552356.png,2016
 552364,Kahlid,Hagens,UT Martin,207,75,18,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/552364.png,2016
 552368,Justin,Jackson,UT Martin,168,70,5,NA,DB,Leander,TX,USA,30.5586046,-97.8444364,48491,,https://a.espncdn.com/i/headshots/college-football/players/full/552368.png,2016
 552369,Tae,Martin,UT Martin,192,72,3,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/552369.png,2016
@@ -3510,7 +3510,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 552945,Mike,Myers,East Carolina,283,72,92,NA,DT,Goose Creek,SC,USA,32.9961038,-80.0387292,45015,,https://a.espncdn.com/i/headshots/college-football/players/full/552945.png,2016
 552946,Travis,Phillips,East Carolina,178,71,14,NA,DB,Montpelier,VA,USA,37.8212538,-77.6844345,51085,,https://a.espncdn.com/i/headshots/college-football/players/full/552946.png,2016
 552948,Travon,Simmons,East Carolina,NA,70,37,NA,DB,Marietta,GA,USA,33.9528472,-84.5496148,13067,,https://a.espncdn.com/i/headshots/college-football/players/full/552948.png,2016
-552949,Xavier,Smith,East Carolina,247,72,10,4,LB,Raleigh,NC,USA,35.7803977,-78.6390989,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/552949.png,2016
+552949,Xavier,Smith,East Carolina,252,73,10,4,LB,Raleigh,NC,USA,35.7803977,-78.6390989,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/552949.png,2016
 552951,Jimmy,Williams,East Carolina,198,71,81,NA,WR,Washington,NC,USA,35.5493702,-77.0535574,37013,,https://a.espncdn.com/i/headshots/college-football/players/full/552951.png,2016
 552952,Larry,Williams,Oklahoma State,330,76,56,4,OL,Wilmington,NC,USA,34.2257282,-77.9447107,37129,,https://a.espncdn.com/i/headshots/college-football/players/full/552952.png,2016
 552955,Daeshawn,Bertram,Western Kentucky,225,68,54,NA,LB,Louisville,KY,USA,38.2542376,-85.759407,21111,,https://a.espncdn.com/i/headshots/college-football/players/full/552955.png,2016
@@ -3531,7 +3531,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 553056,Jai,Franklin,Morgan State,280,75,55,NA,DL,Andrews,TX,USA,32.3187158,-102.5457155,48003,,https://a.espncdn.com/i/headshots/college-football/players/full/553056.png,2016
 553069,Bunmi,Rotimi,Old Dominion,275,76,44,NA,DE,Alexandria,VA,USA,38.8051095,-77.0470229,51510,,https://a.espncdn.com/i/headshots/college-football/players/full/553069.png,2016
 553072,Melvin,Vaughn,Old Dominion,233,74,9,NA,TE,Chesapeake,VA,USA,36.7183708,-76.2466798,51550,,https://a.espncdn.com/i/headshots/college-football/players/full/553072.png,2016
-553074,Aaron,Young,Old Dominion,NA,71,27,NA,CB,Washington,DC,USA,38.8949855,-77.0365708,11001,,https://a.espncdn.com/i/headshots/college-football/players/full/553074.png,2016
+553074,Aaron,Young,Old Dominion,200,70,5,4,RB,Washington,DC,USA,38.8949855,-77.0365708,11001,,https://a.espncdn.com/i/headshots/college-football/players/full/553074.png,2016
 553075,Desmond,Banks,Idaho,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553075.png,2016
 553077,Zach,Cable,Idaho,258,75,90,NA,DL,Andrews,TX,USA,32.3187158,-102.5457155,48003,,https://a.espncdn.com/i/headshots/college-football/players/full/553077.png,2016
 553083,Sheldon,Kinard,Western Carolina,260,73,78,NA,DT,Spring Branch,TX,USA,29.885073249999998,-98.4196833729311,48091,,https://a.espncdn.com/i/headshots/college-football/players/full/553083.png,2016
@@ -3582,7 +3582,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 553276,Toa,Afatasi,Southern Utah,210,69,26,NA,RB,Ewa Beach,HI,USA,21.315603,-158.008804,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/553276.png,2016
 553281,Mitch,Dalley,Southern Utah,200,72,31,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/553281.png,2016
 553311,Joe,Pavlik,Fordham,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553311.png,2016
-553348,Jake,Ryder,Towson,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553348.png,2016
+553348,Jack,Ryder,Towson,185,74,16,1,QB,Media,PA,USA,39.9167783,-75.387693,42045,,https://a.espncdn.com/i/headshots/college-football/players/full/553348.png,2016
 553350,Elliott,Normand,Tennessee Tech,225,72,0,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/553350.png,2016
 553416,Ryan,Torzsa,Delaware,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553416.png,2016
 553452,Chris,Callahan,Baylor,NA,69,40,NA,PK,Houston,TX,USA,29.7589382,-95.3676974,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/553452.png,2016
@@ -3615,17 +3615,17 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 553580,David,Harris,Air Force,NA,72,53,NA,DL,Cedar Hill,TX,USA,32.5888072,-96.9553675,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/553580.png,2016
 553611,D.J.,Johnson,Air Force,NA,70,3,NA,RB,Roopville,GA,USA,33.4565021,-85.1307779,13045,,https://a.espncdn.com/i/headshots/college-football/players/full/553611.png,2016
 553614,Weston,Steelhammer,Air Force,NA,74,8,NA,DB,Shreveport,LA,USA,32.5221828,-93.7651944,22017,,https://a.espncdn.com/i/headshots/college-football/players/full/553614.png,2016
-553654,Taylor,Thompson,Houston Baptist,175,71,24,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/553654.png,2016
-553658,Cody,Moncure,Houston Baptist,225,74,22,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/553658.png,2016
+553654,Taylor,Thompson,Houston Christian,175,71,24,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/553654.png,2016
+553658,Cody,Moncure,Houston Christian,225,74,22,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/553658.png,2016
 553666,Arkez,Cooper,Grambling,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553666.png,2016
-553682,Josh,Erwin,Houston Baptist,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553682.png,2016
+553682,Josh,Erwin,Houston Christian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553682.png,2016
 553683,Jonathan,Wallace,Grambling,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553683.png,2016
-553712,Wesley,Lewis,Houston Baptist,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553712.png,2016
+553712,Wesley,Lewis,Houston Christian,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553712.png,2016
 553718,Jestin,Kelly,Grambling,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553718.png,2016
-553720,Garrett,Dolan,Houston Baptist,240,74,40,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/553720.png,2016
-553728,Tyler,Helaire,Houston Baptist,265,76,96,NA,DT,Spring Branch,TX,USA,29.885073249999998,-98.4196833729311,48091,,https://a.espncdn.com/i/headshots/college-football/players/full/553728.png,2016
-553792,Kameron,Lecoq,Houston Baptist,240,75,82,NA,DE,Fairfield,TX,USA,31.7244035,-96.1648789,48161,,https://a.espncdn.com/i/headshots/college-football/players/full/553792.png,2016
-553811,Austin,Holley,Houston Baptist,285,73,64,NA,DT,Spring Branch,TX,USA,29.885073249999998,-98.4196833729311,48091,,https://a.espncdn.com/i/headshots/college-football/players/full/553811.png,2016
+553720,Garrett,Dolan,Houston Christian,240,74,40,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/553720.png,2016
+553728,Tyler,Helaire,Houston Christian,265,76,96,NA,DT,Spring Branch,TX,USA,29.885073249999998,-98.4196833729311,48091,,https://a.espncdn.com/i/headshots/college-football/players/full/553728.png,2016
+553792,Kameron,Lecoq,Houston Christian,240,75,82,NA,DE,Fairfield,TX,USA,31.7244035,-96.1648789,48161,,https://a.espncdn.com/i/headshots/college-football/players/full/553792.png,2016
+553811,Austin,Holley,Houston Christian,285,73,64,NA,DT,Spring Branch,TX,USA,29.885073249999998,-98.4196833729311,48091,,https://a.espncdn.com/i/headshots/college-football/players/full/553811.png,2016
 553818,Kadeem,Thomas,Alabama State,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553818.png,2016
 553823,Trey,Jenkins,Alabama State,185,71,36,NA,S,Daphne,AL,USA,30.6035255,-87.9036047,01003,,https://a.espncdn.com/i/headshots/college-football/players/full/553823.png,2016
 553827,Jameel,Jackson,Grambling,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/553827.png,2016
@@ -3638,7 +3638,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 554024,Adrian,Duncan,Abilene Christian,NA,NA,NA,NA,RB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/554024.png,2016
 554029,Calvin,Darville,Florida A&M,255,77,57,NA,DL,Andrews,TX,USA,32.3187158,-102.5457155,48003,,https://a.espncdn.com/i/headshots/college-football/players/full/554029.png,2016
 554039,Montavius,Williams,Florida A&M,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/554039.png,2016
-554079,Ethan,Fry,Houston Baptist,190,73,7,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/554079.png,2016
+554079,Ethan,Fry,Houston Christian,190,73,7,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/554079.png,2016
 554118,Brandon,Peoples,Wagner,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/554118.png,2016
 554123,Jason,Rae,UCF,NA,71,73,NA,OL,Weston,FL,USA,26.103632,-80.40310198173701,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/554123.png,2016
 554128,Michael,Colubiale,UCF,223,73,86,4,TE,Port Orange,FL,USA,29.101628050000002,-81.01059617608054,12127,,https://a.espncdn.com/i/headshots/college-football/players/full/554128.png,2016
@@ -3709,7 +3709,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 555927,Jeremy,Taylor,North Carolina A&T,190,71,48,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/555927.png,2016
 556014,Riley,Donovan,South Dakota,195,73,4,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/556014.png,2016
 556111,Mitchell,Cox,Washington State,193,72,94,NA,PK,Kent,WA,USA,47.3826903,-122.2270272,53033,,https://a.espncdn.com/i/headshots/college-football/players/full/556111.png,2016
-556179,Terrell,Brown,Houston Baptist,210,74,36,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/556179.png,2016
+556179,Terrell,Brown,Houston Christian,210,74,36,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/556179.png,2016
 556187,Trevor,Thomas,Central Michigan,215,71,35,NA,LB,Davison,MI,USA,43.0346872,-83.5180155,26049,,https://a.espncdn.com/i/headshots/college-football/players/full/556187.png,2016
 556188,Brian,Eavey,Central Michigan,NA,74,96,NA,PK,Grand Ledge,MI,USA,42.7533685,-84.7463757,26045,,https://a.espncdn.com/i/headshots/college-football/players/full/556188.png,2016
 556191,Trevian,Hicks,East Carolina,208,71,37,NA,DB,Winterville,NC,USA,35.5290511,-77.4010762,37147,,https://a.espncdn.com/i/headshots/college-football/players/full/556191.png,2016
@@ -4359,7 +4359,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 3119823,Kyle,Buss,Connecticut,181,73,26,4,WR,New Berlin,NY,USA,42.6239023,-75.3321363,36017,,https://a.espncdn.com/i/headshots/college-football/players/full/3119823.png,2016
 3119840,Collier,Smith,South Alabama,240,74,29,3,TE,Birmingham,AL,USA,33.5206824,-86.8024326,01073,,https://a.espncdn.com/i/headshots/college-football/players/full/3119840.png,2016
 3119854,Grant,Lanza,Texas State,270,76,92,NA,DT,Trophy Club,TX,USA,33.00367,-97.20303354151261,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/3119854.png,2016
-3119963,Christian,Guzman,Houston Baptist,185,71,39,NA,P,Houston,TX,USA,29.7589382,-95.3676974,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/3119963.png,2016
+3119963,Christian,Guzman,Houston Christian,185,71,39,NA,P,Houston,TX,USA,29.7589382,-95.3676974,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/3119963.png,2016
 3119969,Jeilyn,Williams,Incarnate Word,170,69,13,NA,CB,Llano,TX,USA,30.752919,-98.6754992,48299,,https://a.espncdn.com/i/headshots/college-football/players/full/3119969.png,2016
 3119971,Sean,Hoeferkamp,Incarnate Word,205,73,17,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/3119971.png,2016
 3119974,Dorland,Fields,Incarnate Word,195,69,7,NA,RB,Ewa Beach,HI,USA,21.315603,-158.008804,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/3119974.png,2016
@@ -4737,7 +4737,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 3122421,Keenen,Brown,Oklahoma State,250,75,6,4,TE,Houston,TX,USA,29.7589382,-95.3676974,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/3122421.png,2016
 3122422,Trey,Carter,Oklahoma State,299,75,99,4,DT,Dallas,TX,USA,32.7762719,-96.7968559,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/3122422.png,2016
 3122424,Taylor,Cornelius,Oklahoma State,232,78,14,4,QB,Bushland,TX,USA,35.1928933,-102.0603777,48375,,https://a.espncdn.com/i/headshots/college-football/players/full/3122424.png,2016
-3122427,Chris,Hardeman,Houston Baptist,185,69,21,NA,CB,Llano,TX,USA,30.752919,-98.6754992,48299,,https://a.espncdn.com/i/headshots/college-football/players/full/3122427.png,2016
+3122427,Chris,Hardeman,Houston Christian,185,69,21,NA,CB,Llano,TX,USA,30.752919,-98.6754992,48299,,https://a.espncdn.com/i/headshots/college-football/players/full/3122427.png,2016
 3122429,Matt,Hockett,Oklahoma State,227,74,59,4,P,Norman,OK,USA,35.2225717,-97.4394816,40027,,https://a.espncdn.com/i/headshots/college-football/players/full/3122429.png,2016
 3122430,Chris,Lacy,Oklahoma State,205,75,15,NA,WR,DeSoto,TX,USA,32.6061241,-96.865612653687,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/3122430.png,2016
 3122432,Brad,Lundblade,Oklahoma State,300,75,71,NA,OL,Argyle,TX,USA,33.110156,-97.17940980147037,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/3122432.png,2016
@@ -6289,18 +6289,18 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 3134360,Drew,Before,Washington,NA,72,31,NA,WR,Spokane,WA,USA,47.6579425,-117.4212265,53063,,https://a.espncdn.com/i/headshots/college-football/players/full/3134360.png,2016
 3134361,John,Gardner,Washington,197,75,89,4,WR,Woodinville,WA,USA,47.7545827,-122.1588902,53033,,https://a.espncdn.com/i/headshots/college-football/players/full/3134361.png,2016
 3134362,Vita,Vea,Washington,340,77,50,NA,DL,Milpitas,CA,USA,37.4282724,-121.9066238,06085,,https://a.espncdn.com/i/headshots/college-football/players/full/3134362.png,2016
-3134370,Isaiah,Hall,Houston Baptist,205,73,1,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/3134370.png,2016
-3134371,Taaron,Timmons,Houston Baptist,230,76,2,NA,DE,Fairfield,TX,USA,31.7244035,-96.1648789,48161,,https://a.espncdn.com/i/headshots/college-football/players/full/3134371.png,2016
-3134373,B.J.,Kelly,Houston Baptist,195,69,5,NA,RB,Ewa Beach,HI,USA,21.315603,-158.008804,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/3134373.png,2016
-3134374,Taylor,Holmes,Houston Baptist,220,74,7,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/3134374.png,2016
-3134375,Terrance,Peters,Houston Baptist,190,68,8,NA,RB,Ewa Beach,HI,USA,21.315603,-158.008804,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/3134375.png,2016
-3134376,Derek,Broussard,Houston Baptist,180,69,13,NA,CB,Llano,TX,USA,30.752919,-98.6754992,48299,,https://a.espncdn.com/i/headshots/college-football/players/full/3134376.png,2016
-3134377,D'Angelo,Wallace,Houston Baptist,157,69,16,NA,CB,Llano,TX,USA,30.752919,-98.6754992,48299,,https://a.espncdn.com/i/headshots/college-football/players/full/3134377.png,2016
-3134378,Brandon,Taylor,Houston Baptist,165,69,2,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/3134378.png,2016
-3134379,Dominique,Barnett,Houston Baptist,192,73,19,NA,CB,Llano,TX,USA,30.752919,-98.6754992,48299,,https://a.espncdn.com/i/headshots/college-football/players/full/3134379.png,2016
-3134381,Ari,Nelson-Henton,Houston Baptist,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3134381.png,2016
-3134384,Mev,Ajdin,Houston Baptist,240,73,32,NA,RB,Ewa Beach,HI,USA,21.315603,-158.008804,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/3134384.png,2016
-3134395,Trae,Gardner,Houston Baptist,300,72,90,NA,DL,Andrews,TX,USA,32.3187158,-102.5457155,48003,,https://a.espncdn.com/i/headshots/college-football/players/full/3134395.png,2016
+3134370,Isaiah,Hall,Houston Christian,205,73,1,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/3134370.png,2016
+3134371,Taaron,Timmons,Houston Christian,230,76,2,NA,DE,Fairfield,TX,USA,31.7244035,-96.1648789,48161,,https://a.espncdn.com/i/headshots/college-football/players/full/3134371.png,2016
+3134373,B.J.,Kelly,Houston Christian,195,69,5,NA,RB,Ewa Beach,HI,USA,21.315603,-158.008804,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/3134373.png,2016
+3134374,Taylor,Holmes,Houston Christian,220,74,7,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/3134374.png,2016
+3134375,Terrance,Peters,Houston Christian,190,68,8,NA,RB,Ewa Beach,HI,USA,21.315603,-158.008804,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/3134375.png,2016
+3134376,Derek,Broussard,Houston Christian,180,69,13,NA,CB,Llano,TX,USA,30.752919,-98.6754992,48299,,https://a.espncdn.com/i/headshots/college-football/players/full/3134376.png,2016
+3134377,D'Angelo,Wallace,Houston Christian,157,69,16,NA,CB,Llano,TX,USA,30.752919,-98.6754992,48299,,https://a.espncdn.com/i/headshots/college-football/players/full/3134377.png,2016
+3134378,Brandon,Taylor,Houston Christian,165,69,2,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/3134378.png,2016
+3134379,Dominique,Barnett,Houston Christian,192,73,19,NA,CB,Llano,TX,USA,30.752919,-98.6754992,48299,,https://a.espncdn.com/i/headshots/college-football/players/full/3134379.png,2016
+3134381,Ari,Nelson-Henton,Houston Christian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3134381.png,2016
+3134384,Mev,Ajdin,Houston Christian,240,73,32,NA,RB,Ewa Beach,HI,USA,21.315603,-158.008804,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/3134384.png,2016
+3134395,Trae,Gardner,Houston Christian,300,72,90,NA,DL,Andrews,TX,USA,32.3187158,-102.5457155,48003,,https://a.espncdn.com/i/headshots/college-football/players/full/3134395.png,2016
 3134412,Jeffery,Farrar,South Florida,218,71,30,4,LB,Pasadena,CA,USA,34.1476452,-118.1444779,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/3134412.png,2016
 3134413,Jordan,Dascalo,Eastern Washington,225,73,45,NA,P,Woodland Hills,CA,USA,34.1684364,-118.6058382,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/3134413.png,2016
 3134415,Taylor,Comfort,Washington State,280,72,56,4,DL,Sultan,WA,USA,47.862282,-121.8147315,53061,,https://a.espncdn.com/i/headshots/college-football/players/full/3134415.png,2016
@@ -6751,7 +6751,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 3150747,Jalen,Embry,Northern Illinois,197,71,3,4,CB,Detroit,MI,USA,42.3315509,-83.0466403,26163,,https://a.espncdn.com/i/headshots/college-football/players/full/3150747.png,2016
 3150749,Austin,Kelly,Iowa,245,71,46,4,FB,Hickory Hills,IL,USA,41.7255879,-87.825055,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/3150749.png,2016
 3150763,Kagen,Skidmore,Eastern Kentucky,306,74,63,NA,OL,Royse City,TX,USA,32.9761045,-96.331334,48397,,https://a.espncdn.com/i/headshots/college-football/players/full/3150763.png,2016
-3150778,Kyle,Bowling,Houston Baptist,215,73,25,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/3150778.png,2016
+3150778,Kyle,Bowling,Houston Christian,215,73,25,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/3150778.png,2016
 3150925,Rob,Howard,Gardner-Webb,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3150925.png,2016
 3152004,David,Lee,Howard,220,74,31,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/3152004.png,2016
 3152031,Ty,Rutledge,Southern Utah,198,74,13,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/3152031.png,2016
@@ -7387,13 +7387,13 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 3909819,Zuri,Elrington,Murray State,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3909819.png,2016
 3910017,Raphael,Garner,Central Arkansas,226,75,30,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/3910017.png,2016
 3910021,Zach,Gougler,Central Arkansas,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3910021.png,2016
-3910034,David,Racine,Houston Baptist,205,75,4,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/3910034.png,2016
-3910038,Terrance,Manderville,Houston Baptist,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3910038.png,2016
-3910039,Tay,Spann,Houston Baptist,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3910039.png,2016
-3910040,Tony,Dawson,Houston Baptist,NA,NA,NA,NA,QB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3910040.png,2016
-3910041,Nicholas,Smith,Houston Baptist,185,74,5,NA,DB,Leander,TX,USA,30.5586046,-97.8444364,48491,,https://a.espncdn.com/i/headshots/college-football/players/full/3910041.png,2016
-3910042,Dorrin,Turner,Houston Baptist,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3910042.png,2016
-3910044,Avery,Wright,Houston Baptist,200,73,41,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/3910044.png,2016
+3910034,David,Racine,Houston Christian,205,75,4,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/3910034.png,2016
+3910038,Terrance,Manderville,Houston Christian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3910038.png,2016
+3910039,Tay,Spann,Houston Christian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3910039.png,2016
+3910040,Tony,Dawson,Houston Christian,NA,NA,NA,NA,QB,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3910040.png,2016
+3910041,Nicholas,Smith,Houston Christian,185,74,5,NA,DB,Leander,TX,USA,30.5586046,-97.8444364,48491,,https://a.espncdn.com/i/headshots/college-football/players/full/3910041.png,2016
+3910042,Dorrin,Turner,Houston Christian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3910042.png,2016
+3910044,Avery,Wright,Houston Christian,200,73,41,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/3910044.png,2016
 3910082,Lamont,Johnson,Incarnate Word,170,72,6,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/3910082.png,2016
 3910083,McLane,Carter,Texas Tech,225,75,17,4,QB,Gilmer,TX,USA,32.7312256,-94.9469309,48459,,https://a.espncdn.com/i/headshots/college-football/players/full/3910083.png,2016
 3910085,Jawun,Jiles,Incarnate Word,193,70,35,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/3910085.png,2016
@@ -9624,7 +9624,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 3928944,Braxton,Lewis,Iowa State,190,71,33,4,DB,Overland Park,KS,USA,38.9742502,-94.6851702,20091,,https://a.espncdn.com/i/headshots/college-football/players/full/3928944.png,2016
 3928948,Collin,Olson,Iowa State,290,73,63,4,OL,Ankeny,IA,USA,41.7318715,-93.6003837,19153,,https://a.espncdn.com/i/headshots/college-football/players/full/3928948.png,2016
 3928953,Conner,Greene,Iowa State,235,73,31,4,TE,North Liberty,IA,USA,41.748868,-91.5972564,19103,,https://a.espncdn.com/i/headshots/college-football/players/full/3928953.png,2016
-3928957,Ricardo,Barnett,Houston Baptist,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3928957.png,2016
+3928957,Ricardo,Barnett,Houston Christian,NA,NA,NA,NA,WR,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/3928957.png,2016
 3928970,Deondre,Ford,Kansas,NA,73,15,NA,QB,Waco,TX,USA,31.549333,-97.1466695,48309,,https://a.espncdn.com/i/headshots/college-football/players/full/3928970.png,2016
 3928971,Steven,Sims Jr.,Kansas,NA,70,11,NA,WR,Houston,TX,USA,29.7589382,-95.3676974,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/3928971.png,2016
 3928972,Tyrone,Miller Jr.,Kansas,188,72,22,4,S,Ann Arbor,MI,USA,42.2681569,-83.7312291,26161,,https://a.espncdn.com/i/headshots/college-football/players/full/3928972.png,2016
@@ -10626,14 +10626,14 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4033782,Mike,Fiacable,Indiana,205,73,9,NA,QB,Fort Wayne,IN,USA,41.0799898,-85.1386015,18003,,https://a.espncdn.com/i/headshots/college-football/players/full/4033782.png,2016
 4033787,Joshua,Brown,Indiana,260,72,50,NA,DL,Hillsborough,NJ,USA,40.498516,-74.69516247480118,34035,,https://a.espncdn.com/i/headshots/college-football/players/full/4033787.png,2016
 4033790,Logan,Justus,Indiana,182,71,82,4,PK,McCordsville,IN,USA,39.8939648,-85.9219417,18059,,https://a.espncdn.com/i/headshots/college-football/players/full/4033790.png,2016
-4033797,Trey,Sneed,Rutgers,214,70,4,2,RB,Orange Park,FL,USA,30.1654707,-81.7016346,12019,,https://a.espncdn.com/i/headshots/college-football/players/full/4033797.png,2016
+4033797,Trey,Sneed,Rutgers,215,71,3,4,RB,Orange Park,FL,USA,30.1654707,-81.7016346,12019,,https://a.espncdn.com/i/headshots/college-football/players/full/4033797.png,2016
 4033799,Solomon,Manning,Rutgers,241,73,34,NA,FB,Colonia,NJ,USA,40.5745485,-74.3020918,34023,,https://a.espncdn.com/i/headshots/college-football/players/full/4033799.png,2016
 4033801,Tre,Nation,Illinois,NA,71,6,NA,RB,Leeds,AL,USA,33.506102,-86.61711816402307,01073,,https://a.espncdn.com/i/headshots/college-football/players/full/4033801.png,2016
 4033802,Dele,Harding,Illinois,230,73,9,4,LB,Elkton,MD,USA,39.6065073,-75.8330934,24015,,https://a.espncdn.com/i/headshots/college-football/players/full/4033802.png,2016
 4033803,M.J.,McGriff,Illinois,190,68,80,4,WR,Vero Beach,FL,USA,27.6387163,-80.3975399,12061,,https://a.espncdn.com/i/headshots/college-football/players/full/4033803.png,2016
 4033804,Zarrian,Holcombe,Illinois,235,78,16,NA,WR,Houston,TX,USA,29.7589382,-95.3676974,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/4033804.png,2016
 4033805,Stanley,Green,Illinois,190,71,7,4,DB,East Saint Louis,IL,USA,38.6244952,-90.1509429,17163,,https://a.espncdn.com/i/headshots/college-football/players/full/4033805.png,2016
-4033807,Harvey,Clayton Jr.,Illinois,215,74,20,NA,DB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/4033807.png,2016
+4033807,Harvey,Clayton Jr.,Illinois,205,74,14,4,DB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/4033807.png,2016
 4033808,Evan,Jones,Illinois,190,74,26,NA,DB,Atlanta,GA,USA,33.7490987,-84.3901849,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/4033808.png,2016
 4033809,Ahmari,Hayes,Illinois,190,75,27,NA,DB,Davis,CA,USA,38.545379,-121.7445835,06113,,https://a.espncdn.com/i/headshots/college-football/players/full/4033809.png,2016
 4033811,Christion,Abercrombie,Illinois,230,73,34,NA,LB,Atlanta,GA,USA,33.7490987,-84.3901849,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/4033811.png,2016
@@ -10851,7 +10851,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4035425,Saivion,Smith,LSU,200,73,8,3,CB,St. Petersburg,FL,USA,27.7703796,-82.6695085,12103,,https://a.espncdn.com/i/headshots/college-football/players/full/4035425.png,2016
 4035426,Stephen,Sullivan,LSU,242,77,10,4,TE,Donaldsonville,LA,USA,30.1010324,-90.9928774,22005,,https://a.espncdn.com/i/headshots/college-football/players/full/4035426.png,2016
 4035427,Dee,Anderson,LSU,229,78,11,4,WR,DeSoto,TX,USA,32.6061241,-96.865612653687,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4035427.png,2016
-4035430,Lindsey,Scott Jr.,LSU,220,71,18,3,QB,Zachary,LA,USA,30.6485191,-91.1564961,22033,,https://a.espncdn.com/i/headshots/college-football/players/full/4035430.png,2016
+4035430,Lindsey,Scott Jr.,LSU,212,71,1,4,QB,Zachary,LA,USA,30.6485191,-91.1564961,22033,,https://a.espncdn.com/i/headshots/college-football/players/full/4035430.png,2016
 4035433,Kristian,Fulton,LSU,200,72,1,4,CB,New Orleans,LA,USA,29.9499323,-90.0701156,22071,,https://a.espncdn.com/i/headshots/college-football/players/full/4035433.png,2016
 4035434,Devin,White,LSU,240,73,40,3,LB,Springhill,LA,USA,33.0059692,-93.4668396,22119,,https://a.espncdn.com/i/headshots/college-football/players/full/4035434.png,2016
 4035435,Drake,Davis,LSU,218,76,14,3,WR,Baton Rouge,LA,USA,30.4459596,-91.18738,22033,,https://a.espncdn.com/i/headshots/college-football/players/full/4035435.png,2016
@@ -10925,13 +10925,13 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4035578,Dylan,Hays,Arkansas,294,75,69,2,OL,Little Rock,AR,USA,34.7464809,-92.2895948,05119,,https://a.espncdn.com/i/headshots/college-football/players/full/4035578.png,2016
 4035581,Alexy,Jean-Baptiste,Arkansas,245,75,6,4,DL,Pompano Beach,FL,USA,26.2378597,-80.1247667,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/4035581.png,2016
 4035582,Hayden,Johnson,Arkansas,248,74,32,4,TE,Columbia,MO,USA,38.951883,-92.3337366,29019,,https://a.espncdn.com/i/headshots/college-football/players/full/4035582.png,2016
-4035583,Jordan,Jones,Arkansas,185,73,5,4,WR,Smackover,AR,USA,33.3648455,-92.7248822,05139,,https://a.espncdn.com/i/headshots/college-football/players/full/4035583.png,2016
+4035583,Jordan,Jones,Arkansas,197,74,1,4,WR,Smackover,AR,USA,33.3648455,-92.7248822,05139,,https://a.espncdn.com/i/headshots/college-football/players/full/4035583.png,2016
 4035584,Cole,Kelley,Arkansas,258,79,15,2,QB,Lafayette,LA,USA,30.2240897,-92.0198427,22055,,https://a.espncdn.com/i/headshots/college-football/players/full/4035584.png,2016
 4035585,Giovanni,LaFrance,Arkansas,248,73,20,2,LB,New Orleans,LA,USA,29.9499323,-90.0701156,22071,,https://a.espncdn.com/i/headshots/college-football/players/full/4035585.png,2016
 4035587,Connor,Limpert,Arkansas,175,73,19,4,PK,Allen,TX,USA,33.1031744,-96.6705503,48085,,https://a.espncdn.com/i/headshots/college-football/players/full/4035587.png,2016
 4035593,Cheyenne,O'Grady,Arkansas,256,76,85,4,TE,Fayetteville,AR,USA,36.0625843,-94.1574328,05143,,https://a.espncdn.com/i/headshots/college-football/players/full/4035593.png,2016
 4035598,Britto,Tutt,Arkansas,176,73,14,4,DB,Augusta,GA,USA,33.4709714,-81.9748429,13245,,https://a.espncdn.com/i/headshots/college-football/players/full/4035598.png,2016
-4035599,Dee,Walker,Arkansas,216,74,33,2,LB,Moultrie,GA,USA,31.179998,-83.7887928,13071,,https://a.espncdn.com/i/headshots/college-football/players/full/4035599.png,2016
+4035599,Dee,Walker,Arkansas,224,74,NA,4,LB,Moultrie,GA,USA,31.179998,-83.7887928,13071,,https://a.espncdn.com/i/headshots/college-football/players/full/4035599.png,2016
 4035600,Devwah,Whaley,Arkansas,212,71,21,4,RB,Beaumont,TX,USA,30.0860459,-94.1018461,48245,,https://a.espncdn.com/i/headshots/college-football/players/full/4035600.png,2016
 4035601,Levonta,Taylor,Florida State,190,70,1,4,DB,Virginia Beach,VA,USA,36.8529841,-75.9774183,51810,,https://a.espncdn.com/i/headshots/college-football/players/full/4035601.png,2016
 4035602,Dontavious,Jackson,Florida State,229,75,5,4,LB,Alief,TX,USA,29.7110641,-95.5963337,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/4035602.png,2016
@@ -10990,7 +10990,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4035710,Lorenzo,Neal,Purdue,325,75,9,4,DT,Houston,TX,USA,29.7589382,-95.3676974,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/4035710.png,2016
 4035712,Terrance,Landers,Purdue,NA,76,13,NA,WR,Dayton,OH,USA,39.7589478,-84.1916069,39113,,https://a.espncdn.com/i/headshots/college-football/players/full/4035712.png,2016
 4035714,Jack,Wegher,Purdue,205,70,32,NA,RB,Sioux City,SD,USA,42.4966815,-96.4058782,19193,,https://a.espncdn.com/i/headshots/college-football/players/full/4035714.png,2016
-4035715,Josh,Hayes,Purdue,185,72,23,NA,CB,Indianapolis,IN,USA,39.7683331,-86.1583502,18097,,https://a.espncdn.com/i/headshots/college-football/players/full/4035715.png,2016
+4035715,Josh,Hayes,Purdue,185,72,2,4,DB,Indianapolis,IN,USA,39.7683331,-86.1583502,18097,,https://a.espncdn.com/i/headshots/college-football/players/full/4035715.png,2016
 4035716,C.J.,Parker,Purdue,205,73,26,NA,S,Menifee,CA,USA,33.6864432,-117.1770437,06065,,https://a.espncdn.com/i/headshots/college-football/players/full/4035716.png,2016
 4035717,David,Day,Purdue,190,70,42,4,CB,Indianapolis,IN,USA,39.7683331,-86.1583502,18097,,https://a.espncdn.com/i/headshots/college-football/players/full/4035717.png,2016
 4035718,Navon,Mosley,Purdue,200,72,27,4,S,West Bloomfield,MI,USA,42.5679,-83.3733,36069,,https://a.espncdn.com/i/headshots/college-football/players/full/4035718.png,2016
@@ -11130,7 +11130,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4036179,Kendall,Brown,NC State,263,76,52,2,OT,Jacksonville,FL,USA,30.3321838,-81.655651,12031,,https://a.espncdn.com/i/headshots/college-football/players/full/4036179.png,2016
 4036180,David,Pierson,NC State,227,73,43,2,LB,Wendell,NC,USA,35.780987,-78.3697213,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/4036180.png,2016
 4036189,Thaddeus,Moss,NC State,249,75,81,3,TE,Charleston,WV,USA,38.3505995,-81.6332812,54039,,https://a.espncdn.com/i/headshots/college-football/players/full/4036189.png,2016
-4036210,Tyrrell,Pigrome,Maryland,200,70,1,4,QB,Birmingham,AL,USA,33.5206824,-86.8024326,01073,,https://a.espncdn.com/i/headshots/college-football/players/full/4036210.png,2016
+4036210,Tyrrell,Pigrome,Maryland,200,70,4,4,QB,Birmingham,AL,USA,33.5206824,-86.8024326,01073,,https://a.espncdn.com/i/headshots/college-football/players/full/4036210.png,2016
 4036211,DJ,Turner,Maryland,205,69,7,4,WR,Glenarden,MD,USA,38.9292782,-76.8616387,24033,,https://a.espncdn.com/i/headshots/college-football/players/full/4036211.png,2016
 4036212,Elijah,Daniels,Maryland,193,72,12,NA,DB,Davie,FL,USA,26.075729,-80.28410897530864,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/4036212.png,2016
 4036213,Antoine,Brooks Jr.,Maryland,215,71,25,4,DB,Lanham,MD,USA,38.9670551,-76.8619166,24033,,https://a.espncdn.com/i/headshots/college-football/players/full/4036213.png,2016
@@ -11241,7 +11241,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4036653,Mark,Michaud,Georgia Southern,220,76,23,4,WR,Spring Valley,NY,USA,41.1130231,-74.0437839,36087,,https://a.espncdn.com/i/headshots/college-football/players/full/4036653.png,2016
 4036654,George,Johnson Jr.,Georgia Southern,165,69,25,NA,WR,Broxton,GA,USA,31.6252871,-82.8866292,13069,,https://a.espncdn.com/i/headshots/college-football/players/full/4036654.png,2016
 4036655,Amari,Thompson,Georgia Southern,200,74,28,3,S,Minneola,FL,USA,28.5744441,-81.7461873,12069,,https://a.espncdn.com/i/headshots/college-football/players/full/4036655.png,2016
-4036663,Todd,Bradley-Glenn,Georgia Southern,230,72,1,4,LB,Valdosta,GA,USA,30.8327022,-83.2784851,13185,,https://a.espncdn.com/i/headshots/college-football/players/full/4036663.png,2016
+4036663,Todd,Bradley-Glenn,Georgia Southern,230,72,1,6,LB,Valdosta,GA,USA,30.8327022,-83.2784851,13185,,https://a.espncdn.com/i/headshots/college-football/players/full/4036663.png,2016
 4036667,Darius,Roper,Georgia Southern,NA,75,55,NA,DL,Jersey City,NJ,USA,40.7281575,-74.0776417,34017,,https://a.espncdn.com/i/headshots/college-football/players/full/4036667.png,2016
 4036677,Mike,Jackson,Georgia Southern,NA,70,82,NA,WR,Lake City,FL,USA,30.1896756,-82.6392899,12023,,https://a.espncdn.com/i/headshots/college-football/players/full/4036677.png,2016
 4036678,Magill,Bauerle,Georgia Southern,195,73,84,4,P,Athens,GA,USA,33.9597677,-83.376398,13059,,https://a.espncdn.com/i/headshots/college-football/players/full/4036678.png,2016
@@ -11550,7 +11550,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4038514,Tahj,Deans,East Carolina,184,74,8,2,WR,Bailey,NC,USA,35.7809129,-78.118429,37127,,https://a.espncdn.com/i/headshots/college-football/players/full/4038514.png,2016
 4038516,Kendall,Futrell,East Carolina,226,74,44,4,DL,Winterville,NC,USA,35.5290511,-77.4010762,37147,,https://a.espncdn.com/i/headshots/college-football/players/full/4038516.png,2016
 4038518,Colby,Gore,East Carolina,180,71,26,4,DB,Little River,SC,USA,33.8727006,-78.6232583,45051,,https://a.espncdn.com/i/headshots/college-football/players/full/4038518.png,2016
-4038519,Cortez,Herrin,East Carolina,342,75,70,4,OL,Saluda,SC,USA,34.0015232,-81.7720522,45081,,https://a.espncdn.com/i/headshots/college-football/players/full/4038519.png,2016
+4038519,Cortez,Herrin,East Carolina,320,75,70,4,OL,Saluda,SC,USA,34.0015232,-81.7720522,45081,,https://a.espncdn.com/i/headshots/college-football/players/full/4038519.png,2016
 4038521,Hussein,Howe,East Carolina,175,69,6,4,RB,Jacksonville,FL,USA,30.3321838,-81.655651,12031,,https://a.espncdn.com/i/headshots/college-football/players/full/4038521.png,2016
 4038523,Cam,Marshmon,East Carolina,159,69,83,3,WR,Raleigh,NC,USA,35.7803977,-78.6390989,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/4038523.png,2016
 4038524,Gardner,Minshew,East Carolina,216,74,5,NA,QB,Brandon,MS,USA,32.2731475,-89.9868058,28121,,https://a.espncdn.com/i/headshots/college-football/players/full/4038524.png,2016
@@ -11740,7 +11740,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4039253,Trevon,Wesco,West Virginia,274,76,88,4,TE,Martinsburg,WV,USA,39.4562528,-77.9639604,54003,,https://a.espncdn.com/i/headshots/college-football/players/full/4039253.png,2016
 4039254,Kyzir,White,West Virginia,216,74,8,NA,S,Macungie,PA,USA,40.5159304,-75.5551858,42077,,https://a.espncdn.com/i/headshots/college-football/players/full/4039254.png,2016
 4039255,Jonn,Young,West Virginia,201,72,43,4,P,Advance,NC,USA,35.9412482,-80.4092217,37059,,https://a.espncdn.com/i/headshots/college-football/players/full/4039255.png,2016
-4039259,Dante,Cleveland,Central Michigan,270,74,92,2,DL,Hoffman Estates,IL,USA,42.0706558,-88.2293978,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/4039259.png,2016
+4039259,Dante,Cleveland,Central Michigan,290,76,93,4,DT,Hoffman Estates,IL,USA,42.0706558,-88.2293978,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/4039259.png,2016
 4039260,Bailey,Edwards,Central Michigan,187,74,84,2,WR,Chelsea,MI,USA,42.3180163,-84.020224,26161,,https://a.espncdn.com/i/headshots/college-football/players/full/4039260.png,2016
 4039262,Kumehnnu,Gwilly,Central Michigan,252,74,33,4,LB,Shelby Township,MI,USA,43.60107655,-86.33794306170321,26127,,https://a.espncdn.com/i/headshots/college-football/players/full/4039262.png,2016
 4039263,Tee'ondre,Harvey,Central Michigan,165,72,15,2,DB,Detroit,MI,USA,42.3315509,-83.0466403,26163,,https://a.espncdn.com/i/headshots/college-football/players/full/4039263.png,2016
@@ -11795,7 +11795,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4039358,Patrick,Taylor Jr.,Memphis,227,75,6,4,RB,Humble,TX,USA,29.9988312,-95.2621553,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/4039358.png,2016
 4039359,Darrell,Henderson,Memphis,200,69,8,3,RB,Batesville,MS,USA,34.3114982,-89.9442567,28107,,https://a.espncdn.com/i/headshots/college-football/players/full/4039359.png,2016
 4039360,John,Williams,Memphis,169,69,9,4,WR,Destrehan,LA,USA,29.960933,-90.3705407077716,22089,,https://a.espncdn.com/i/headshots/college-football/players/full/4039360.png,2016
-4039365,Jahod,Booker,Memphis,175,71,27,2,WR,Montgomery,AL,USA,32.3669656,-86.3006485,01101,,https://a.espncdn.com/i/headshots/college-football/players/full/4039365.png,2016
+4039365,Jahod,Booker,Memphis,186,71,15,4,WR,Montgomery,AL,USA,32.3669656,-86.3006485,01101,,https://a.espncdn.com/i/headshots/college-football/players/full/4039365.png,2016
 4039371,Christian,Slaughter,Memphis,190,70,39,NA,DB,Cedar Hill,TX,USA,32.5888072,-96.9553675,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4039371.png,2016
 4039374,Dustin,Woodard,Memphis,291,74,53,4,OL,Chandler,AZ,USA,33.3062223,-111.8413317,04013,,https://a.espncdn.com/i/headshots/college-football/players/full/4039374.png,2016
 4039375,Bryce,Huff,Memphis,255,75,55,4,DE,Mobile,AL,USA,30.6943566,-88.0430541,01097,,https://a.espncdn.com/i/headshots/college-football/players/full/4039375.png,2016
@@ -11970,7 +11970,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4040483,Denzel,Chukwukelu,UTEP,290,76,11,4,DT,Rockwall,TX,USA,32.9312336,-96.4597089,48397,,https://a.espncdn.com/i/headshots/college-football/players/full/4040483.png,2016
 4040484,Kevin,Dove,UTEP,245,72,15,NA,RB,El Campo,TX,USA,29.1966405,-96.2696867,48481,,https://a.espncdn.com/i/headshots/college-football/players/full/4040484.png,2016
 4040486,Makana,Fraser,UTEP,NA,74,43,NA,LB,Keaau,HI,USA,19.6170245,-155.0335095822415,15001,,https://a.espncdn.com/i/headshots/college-football/players/full/4040486.png,2016
-4040489,Broderick,Harrell,UTEP,210,71,28,3,DB,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/4040489.png,2016
+4040489,Broderick,Harrell,UTEP,200,71,1,4,DB,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/4040489.png,2016
 4040493,Dante,Lovilotte,UTEP,230,71,3,NA,LB,Port Arthur,TX,USA,29.8988618,-93.9288723,48245,,https://a.espncdn.com/i/headshots/college-football/players/full/4040493.png,2016
 4040494,Kolbi,McGary,UTEP,NA,73,39,NA,DB,Cedar Hill,TX,USA,32.5888072,-96.9553675,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4040494.png,2016
 4040497,Tyrone,Nelson,UTEP,NA,71,22,NA,RB,Los Angeles,CA,USA,34.0536909,-118.2427666,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4040497.png,2016
@@ -12086,7 +12086,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4040762,Rashad,Smith,Florida Atlantic,220,73,7,4,LB,Florida City,FL,USA,25.4480101,-80.479102,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/4040762.png,2016
 4040765,Bradley,Clement,Florida Atlantic,225,71,16,3,LB,North Lauderdale,FL,USA,26.2094962,-80.21792615233777,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/4040765.png,2016
 4040766,Trent,Wessel,Florida Atlantic,189,74,15,4,QB,Tampa,FL,USA,27.9477595,-82.458444,12057,,https://a.espncdn.com/i/headshots/college-football/players/full/4040766.png,2016
-4040767,Chris,Tooley,Florida Atlantic,185,71,26,4,CB,Orlando,FL,USA,28.5421109,-81.3790304,12095,,https://a.espncdn.com/i/headshots/college-football/players/full/4040767.png,2016
+4040767,Chris,Tooley,Florida Atlantic,160,72,26,2,CB,Orlando,FL,USA,28.5421109,-81.3790304,12095,,https://a.espncdn.com/i/headshots/college-football/players/full/4040767.png,2016
 4040768,Da'Von,Brown,Florida Atlantic,192,72,27,4,S,Belle Glade,FL,USA,26.6845104,-80.6675577,12099,,https://a.espncdn.com/i/headshots/college-football/players/full/4040768.png,2016
 4040771,John,Raine,Florida Atlantic,235,74,0,4,TE,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/4040771.png,2016
 4040773,David,Belvin III,Florida Atlantic,220,75,33,4,LB,Palmetto,FL,USA,27.5214269,-82.5723193,12081,,https://a.espncdn.com/i/headshots/college-football/players/full/4040773.png,2016
@@ -12630,7 +12630,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4047859,Winston,Lee,Syracuse,NA,70,32,NA,DB,Hudson,NY,USA,42.2528649,-73.790959,36021,,https://a.espncdn.com/i/headshots/college-football/players/full/4047859.png,2016
 4047913,Alex,Furbank,Virginia,NA,72,84,NA,PK,Fairfax,VA,USA,38.8462236,-77.3063733,51600,,https://a.espncdn.com/i/headshots/college-football/players/full/4047913.png,2016
 4047916,Casey,Marksberry,Colorado,185,75,17,NA,QB,Gwinnett,GA,USA,33.9566869,-84.0227467,13135,,https://a.espncdn.com/i/headshots/college-football/players/full/4047916.png,2016
-4047917,Uryan,Hudson,Colorado,160,69,13,3,CB,Manvel,TX,USA,29.4664706,-95.355714,48039,,https://a.espncdn.com/i/headshots/college-football/players/full/4047917.png,2016
+4047917,Uryan,Hudson,Colorado,170,69,23,4,DB,Manvel,TX,USA,29.4664706,-95.355714,48039,,https://a.espncdn.com/i/headshots/college-football/players/full/4047917.png,2016
 4047918,Chase,Sanders,Colorado,195,72,33,3,?,Jupiter,FL,USA,26.9260832,-80.12108914060954,12099,,https://a.espncdn.com/i/headshots/college-football/players/full/4047918.png,2016
 4047922,Colby,Pursell,Colorado,305,76,65,3,OL,Valencia,CA,USA,34.1466768,-117.2725427,06071,,https://a.espncdn.com/i/headshots/college-football/players/full/4047922.png,2016
 4047939,Dexter,Myers,Oregon,190,72,10,4,S,Pasadena,CA,USA,34.1476452,-118.1444779,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4047939.png,2016
@@ -12660,14 +12660,14 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4048246,DeAndre,Pierce,Boise State,185,71,2,4,DB,Long Beach,CA,USA,33.7690164,-118.1916048,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4048246.png,2016
 4048249,Kayode,Rufai,Boise State,259,76,45,2,DE,Portland,OR,USA,45.5202471,-122.6741949,41051,,https://a.espncdn.com/i/headshots/college-football/players/full/4048249.png,2016
 4048258,Blake,Whitlock,Boise State,222,73,36,4,?,Reno,NV,USA,39.5261206,-119.8126581,32031,,https://a.espncdn.com/i/headshots/college-football/players/full/4048258.png,2016
-4048260,Desmond,Williams,Boise State,205,71,9,2,?,Corona,CA,USA,33.8752945,-117.5664449,06065,,https://a.espncdn.com/i/headshots/college-football/players/full/4048260.png,2016
+4048260,Desmond,Williams,Boise State,200,71,NA,4,S,Corona,CA,USA,33.8752945,-117.5664449,06065,,https://a.espncdn.com/i/headshots/college-football/players/full/4048260.png,2016
 4048380,J,Prtichard,Hawai'i,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/4048380.png,2016
 4048659,Elijah,Lilly,New Mexico,160,72,19,4,WR,San Bernardino,CA,USA,34.1083449,-117.2897652,06071,,https://a.espncdn.com/i/headshots/college-football/players/full/4048659.png,2016
 4048676,Rayshad,Lewis,Utah State,177,70,27,4,WR,Orlando,FL,USA,28.5421109,-81.3790304,12095,,https://a.espncdn.com/i/headshots/college-football/players/full/4048676.png,2016
 4048678,Baron,Gajkowski,Utah State,200,73,15,2,S,Alpine,UT,USA,40.4532834,-111.7779865,49049,,https://a.espncdn.com/i/headshots/college-football/players/full/4048678.png,2016
 4048681,Ron'quavion,Tarver,Utah State,215,75,1,4,WR,Belle Glade,FL,USA,26.6845104,-80.6675577,12099,,https://a.espncdn.com/i/headshots/college-football/players/full/4048681.png,2016
 4048682,Patrick Lee,Miranda,Utah State,220,70,20,NA,LB,Pawtucket,RI,USA,41.878711,-71.3825558,44007,,https://a.espncdn.com/i/headshots/college-football/players/full/4048682.png,2016
-4048685,Braxton,Gunther,Utah State,185,70,8,3,S,Woods Cross,UT,USA,40.8716964,-111.8925775,49011,,https://a.espncdn.com/i/headshots/college-football/players/full/4048685.png,2016
+4048685,Braxton,Gunther,Utah State,180,70,25,4,S,Woods Cross,UT,USA,40.8716964,-111.8925775,49011,,https://a.espncdn.com/i/headshots/college-football/players/full/4048685.png,2016
 4048690,Justus,Te'i,Utah State,260,75,51,4,DL,Oceanside,CA,USA,33.1958696,-117.3794834,06073,,https://a.espncdn.com/i/headshots/college-football/players/full/4048690.png,2016
 4048696,Derek,Hastings,Utah State,NA,74,85,NA,TE,Lehi,UT,USA,40.3880902,-111.8491619,49049,,https://a.espncdn.com/i/headshots/college-football/players/full/4048696.png,2016
 4048701,Mohelika,Uasike,Utah State,305,73,66,3,?,Euless,TX,USA,32.8457865,-97.0667142473263,48439,,https://a.espncdn.com/i/headshots/college-football/players/full/4048701.png,2016
@@ -12770,13 +12770,13 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4050971,Eric,Johnson,Florida State,256,77,93,NA,DL,Stuart,FL,USA,27.197983,-80.2519175,12085,,https://a.espncdn.com/i/headshots/college-football/players/full/4050971.png,2016
 4050972,Tristan,Crowder,Missouri State,235,75,94,NA,DL,Andrews,TX,USA,32.3187158,-102.5457155,48003,,https://a.espncdn.com/i/headshots/college-football/players/full/4050972.png,2016
 4050992,Jordan,Jones,UT San Antonio,160,70,39,NA,DB,Clearwater,FL,USA,27.9658533,-82.8001026,12103,,https://a.espncdn.com/i/headshots/college-football/players/full/4050992.png,2016
-4051056,Greg,Vincent,Houston Baptist,265,74,10,NA,DT,Spring Branch,TX,USA,29.885073249999998,-98.4196833729311,48091,,https://a.espncdn.com/i/headshots/college-football/players/full/4051056.png,2016
-4051059,Otis,Lanier,Houston Baptist,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/4051059.png,2016
-4051061,Marlon,Wilkins,Houston Baptist,186,70,18,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/4051061.png,2016
-4051062,Will,Shealy,Houston Baptist,170,73,15,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/4051062.png,2016
-4051067,Alec,Chadwick,Houston Baptist,162,74,38,NA,PK,Lancaster,TX,USA,32.5920798,-96.7561083,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4051067.png,2016
-4051069,Caleb,Johnson,Houston Baptist,220,74,46,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/4051069.png,2016
-4051070,Andre,Walker,Houston Baptist,221,73,49,NA,DE,Fairfield,TX,USA,31.7244035,-96.1648789,48161,,https://a.espncdn.com/i/headshots/college-football/players/full/4051070.png,2016
+4051056,Greg,Vincent,Houston Christian,265,74,10,NA,DT,Spring Branch,TX,USA,29.885073249999998,-98.4196833729311,48091,,https://a.espncdn.com/i/headshots/college-football/players/full/4051056.png,2016
+4051059,Otis,Lanier,Houston Christian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/4051059.png,2016
+4051061,Marlon,Wilkins,Houston Christian,186,70,18,NA,S,Krum,TX,USA,33.2618362,-97.2374668,48121,,https://a.espncdn.com/i/headshots/college-football/players/full/4051061.png,2016
+4051062,Will,Shealy,Houston Christian,170,73,15,NA,WR,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/4051062.png,2016
+4051067,Alec,Chadwick,Houston Christian,162,74,38,NA,PK,Lancaster,TX,USA,32.5920798,-96.7561083,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4051067.png,2016
+4051069,Caleb,Johnson,Houston Christian,220,74,46,NA,LB,Chicago,IL,USA,41.8755616,-87.6244212,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/4051069.png,2016
+4051070,Andre,Walker,Houston Christian,221,73,49,NA,DE,Fairfield,TX,USA,31.7244035,-96.1648789,48161,,https://a.espncdn.com/i/headshots/college-football/players/full/4051070.png,2016
 4051098,Damon,Atwater-Stephens,Delaware State,280,75,55,NA,OL,Royse City,TX,USA,32.9761045,-96.331334,48397,,https://a.espncdn.com/i/headshots/college-football/players/full/4051098.png,2016
 4051100,Keenan,Black,Delaware State,185,74,5,NA,QB,Dallas,TX,USA,32.7762719,-96.7968559,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4051100.png,2016
 4051102,Nigel,Bynum,Delaware State,170,70,28,NA,DB,Leander,TX,USA,30.5586046,-97.8444364,48491,,https://a.espncdn.com/i/headshots/college-football/players/full/4051102.png,2016
@@ -13102,12 +13102,12 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4078374,Matt,Naranjo,New Mexico,196,70,96,4,P,Skokie,IL,USA,42.0333694,-87.7333972,17031,,https://a.espncdn.com/i/headshots/college-football/players/full/4078374.png,2016
 4078375,Rafael,Hidalgo,New Mexico,170,70,14,4,WR,Brooklyn,NY,USA,40.6501038,-73.9495823,36047,,https://a.espncdn.com/i/headshots/college-football/players/full/4078375.png,2016
 4079082,Kevin,Todd,Old Dominion,189,74,84,NA,WR,Chesapeake,VA,USA,36.7183708,-76.2466798,51550,,https://a.espncdn.com/i/headshots/college-football/players/full/4079082.png,2016
-4239084,Javan,Hawes,Cincinnati,196,72,NA,4,WR,Atlanta,GA,USA,33.7490987,-84.3901849,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/4239084.png,2016
+4239084,Javan,Hawes,Cincinnati,200,72,4,3,WR,Atlanta,GA,USA,33.7490987,-84.3901849,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/4239084.png,2016
 4239121,Darrian,Beavers,Connecticut,242,75,NA,4,LB,Cincinnati,OH,USA,39.1014537,-84.5124602,39061,,https://a.espncdn.com/i/headshots/college-football/players/full/4239121.png,2016
 4239134,David,Pindell,Connecticut,195,72,5,4,QB,Columbia,MD,USA,39.193919550000004,-76.87477229012376,24027,,https://a.espncdn.com/i/headshots/college-football/players/full/4239134.png,2016
 4239140,Ryan,Van Demark,Connecticut,302,77,74,4,OL,Princeton,NJ,USA,40.3492744,-74.6592958,34021,,https://a.espncdn.com/i/headshots/college-football/players/full/4239140.png,2016
 4239393,Cannon,Gibbs,East Carolina,228,74,4,4,LB,Brandon,MS,USA,32.2731475,-89.9868058,28121,,https://a.espncdn.com/i/headshots/college-football/players/full/4239393.png,2016
-4239395,Nate,Harvey,East Carolina,225,73,40,4,RB,Knightdale,NC,USA,35.7878975,-78.4822938,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/4239395.png,2016
+4239395,Nate,Harvey,East Carolina,225,73,40,4,DE,Knightdale,NC,USA,35.7878975,-78.4822938,37183,,https://a.espncdn.com/i/headshots/college-football/players/full/4239395.png,2016
 4239396,Brandon,Henderson,East Carolina,272,77,98,4,DL,Greenwood,SC,USA,34.1954001,-82.1617883,45047,,https://a.espncdn.com/i/headshots/college-football/players/full/4239396.png,2016
 4239399,Marcus,Holton Jr.,East Carolina,170,72,6,4,DB,Tallahassee,FL,USA,30.4380832,-84.2809332,12073,,https://a.espncdn.com/i/headshots/college-football/players/full/4239399.png,2016
 4239401,Rowe,Mellott,East Carolina,215,72,12,4,LB,Chapel Hill,NC,USA,35.9131542,-79.05578,37135,,https://a.espncdn.com/i/headshots/college-football/players/full/4239401.png,2016
@@ -13161,13 +13161,13 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4239986,Danny,Highland,Air Force,260,74,93,4,DL,Loveland,CO,USA,40.385549,-105.04436132094955,08069,,https://a.espncdn.com/i/headshots/college-football/players/full/4239986.png,2016
 4239987,Kade,Waguespack,Air Force,225,74,87,4,TE,Gonzales,LA,USA,30.2385294,-90.9200987,48177,,https://a.espncdn.com/i/headshots/college-football/players/full/4239987.png,2016
 4239991,Jake,Koehnke,Air Force,180,72,92,4,PK,Carlsbad,CA,USA,33.1580933,-117.3505966,06073,,https://a.espncdn.com/i/headshots/college-football/players/full/4239991.png,2016
-4239998,Hunter,Johnson,Clemson,215,74,12,4,QB,Brownsburg,IN,USA,39.8433769,-86.3977736,18063,,https://a.espncdn.com/i/headshots/college-football/players/full/4239998.png,2016
+4239998,Hunter,Johnson,Clemson,210,74,12,4,QB,Brownsburg,IN,USA,39.8433769,-86.3977736,18063,,https://a.espncdn.com/i/headshots/college-football/players/full/4239998.png,2016
 4240046,Michael,Sewell Jr.,New Mexico,193,73,5,4,S,Palmdale,CA,USA,34.5793131,-118.1171108,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4240046.png,2016
 4240049,Jordan,Flack,New Mexico,220,75,29,4,LB,Newbury Park,CA,USA,34.183671,-118.9118302,06111,,https://a.espncdn.com/i/headshots/college-football/players/full/4240049.png,2016
 4240052,Jermane,Conyers,New Mexico,326,74,92,4,DL,Rossville,GA,USA,34.983376,-85.28603,13295,,https://a.espncdn.com/i/headshots/college-football/players/full/4240052.png,2016
 4240059,Ja'Marcus,Ingram,Utah State,195,74,9,4,DB,Dallas,TX,USA,32.7762719,-96.7968559,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4240059.png,2016
 4240061,Michael,Smith,Utah State,195,70,60,2,PK,Tucson,AZ,USA,32.2228765,-110.9748477,04019,,https://a.espncdn.com/i/headshots/college-football/players/full/4240061.png,2016
-4240070,TreSean,Smith,Louisville,210,73,4,3,DB,Hamilton,OH,USA,39.3995067,-84.5613428,39017,,https://a.espncdn.com/i/headshots/college-football/players/full/4240070.png,2016
+4240070,TreSean,Smith,Louisville,210,73,4,4,S,Hamilton,OH,USA,39.3995067,-84.5613428,39017,,https://a.espncdn.com/i/headshots/college-football/players/full/4240070.png,2016
 4240083,Mitch,Hall,Louisville,203,73,24,4,LS,Clayton,NC,USA,35.650711,-78.4563914,37101,,https://a.espncdn.com/i/headshots/college-football/players/full/4240083.png,2016
 4240087,Ronald,Rudd,Louisville,341,77,65,4,OL,Rialto,CA,USA,34.1064001,-117.3703235,06071,,https://a.espncdn.com/i/headshots/college-football/players/full/4240087.png,2016
 4240088,Cole,Bentley,Louisville,315,75,66,4,OL,Lenore,WV,USA,37.7989878,-82.2868078,54059,,https://a.espncdn.com/i/headshots/college-football/players/full/4240088.png,2016
@@ -13215,9 +13215,9 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4240630,De'Andre,Wilder,Miami,202,75,11,2,LB,Opa Locka,FL,USA,25.896733849999997,-80.25949640850294,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/4240630.png,2016
 4240640,Colvin,Alford,Miami,220,72,37,3,LB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/4240640.png,2016
 4240647,Navaughn,Donaldson,Miami,350,78,55,4,OL,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/4240647.png,2016
-4240663,Malik,Robinson,North Carolina,230,72,24,4,LB,Snellville,GA,USA,33.857328,-84.0199108,13135,,https://a.espncdn.com/i/headshots/college-football/players/full/4240663.png,2016
-4240687,DeAngelo,Gibbs,Georgia,200,73,6,3,WR,Oxford,GA,USA,33.6190031,-83.8674052,13217,,https://a.espncdn.com/i/headshots/college-football/players/full/4240687.png,2016
-4240688,JJ,Holloman,Georgia,200,74,16,3,WR,Covington,GA,USA,33.5967815,-83.8601827,13217,,https://a.espncdn.com/i/headshots/college-football/players/full/4240688.png,2016
+4240663,Malik,Robinson,North Carolina,230,72,8,4,LB,Snellville,GA,USA,33.857328,-84.0199108,13135,,https://a.espncdn.com/i/headshots/college-football/players/full/4240663.png,2016
+4240687,DeAngelo,Gibbs,Georgia,225,73,17,4,DB,Oxford,GA,USA,33.6190031,-83.8674052,13217,,https://a.espncdn.com/i/headshots/college-football/players/full/4240687.png,2016
+4240688,JJ,Holloman,Georgia,200,74,13,4,WR,Covington,GA,USA,33.5967815,-83.8601827,13217,,https://a.espncdn.com/i/headshots/college-football/players/full/4240688.png,2016
 4240694,D'Marcus,Hayes,Georgia,315,77,78,4,OL,Madison,MS,USA,32.4618086,-90.1153638,28089,,https://a.espncdn.com/i/headshots/college-football/players/full/4240694.png,2016
 4240710,A.J.,Davis,Mississippi State,215,72,1,4,RB,Graceville,FL,USA,30.9568503,-85.5165993,12063,,https://a.espncdn.com/i/headshots/college-football/players/full/4240710.png,2016
 4240727,Tyler,Sear,Pittsburgh,260,76,35,3,TE,New Castle,PA,USA,40.9999202,-80.3471856,42073,,https://a.espncdn.com/i/headshots/college-football/players/full/4240727.png,2016
@@ -13314,7 +13314,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4241702,Elijah,Rogers,Texas State,225,76,85,4,TE,Metairie,LA,USA,30.001852,-90.1767149159888,22051,,https://a.espncdn.com/i/headshots/college-football/players/full/4241702.png,2016
 4241705,Sami,Awad,Texas State,300,73,91,4,NT,Duncanville,TX,USA,32.6518004,-96.9083366,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4241705.png,2016
 4241720,Marcus,Jones,Troy,185,68,8,4,CB,Enterprise,AL,USA,31.3151708,-85.8552161,01031,,https://a.espncdn.com/i/headshots/college-football/players/full/4241720.png,2016
-4241721,Terence,Dunlap,Troy,175,71,1,3,CB,Maplesville,AL,USA,32.7884608,-86.8716549,01021,,https://a.espncdn.com/i/headshots/college-football/players/full/4241721.png,2016
+4241721,Terence,Dunlap,Troy,175,72,NA,4,DB,Maplesville,AL,USA,32.7884608,-86.8716549,01021,,https://a.espncdn.com/i/headshots/college-football/players/full/4241721.png,2016
 4241723,Damion,Willis,Troy,199,76,15,4,WR,Meridian,MS,USA,32.3643098,-88.703656,28075,,https://a.espncdn.com/i/headshots/college-football/players/full/4241723.png,2016
 4241731,Rasool,Clemons,Troy,250,77,52,3,DE,Newark,NJ,USA,40.735657,-74.1723667,34013,,https://a.espncdn.com/i/headshots/college-football/players/full/4241731.png,2016
 4241784,Shawn,Robinson,TCU,231,74,12,4,LB,DeSoto,TX,USA,32.6061241,-96.865612653687,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4241784.png,2016
@@ -13348,7 +13348,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4241988,Trevon,Grimes,Ohio State,218,76,8,4,WR,Fort Lauderdale,FL,USA,26.1223084,-80.1433786,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/4241988.png,2016
 4241998,Nathan,Brock,Ohio State,290,76,50,4,OL,Powell,OH,USA,40.1578403,-83.0751869,39041,,https://a.espncdn.com/i/headshots/college-football/players/full/4241998.png,2016
 4242002,Brock,Davin,Ohio State,240,75,84,4,TE,Cincinnati,OH,USA,39.1014537,-84.5124602,39061,,https://a.espncdn.com/i/headshots/college-football/players/full/4242002.png,2016
-4242148,Jarrod,Barnes,Arkansas,183,71,81,2,WR,Cabot,AR,USA,34.974532,-92.0165336,05085,,https://a.espncdn.com/i/headshots/college-football/players/full/4242148.png,2016
+4242148,Jarrod,Barnes,Arkansas,180,71,1,3,WR,Cabot,AR,USA,34.974532,-92.0165336,05085,,https://a.espncdn.com/i/headshots/college-football/players/full/4242148.png,2016
 4242151,Ty,Clary,Arkansas,315,76,66,4,OL,Fayetteville,AR,USA,36.0625843,-94.1574328,05143,,https://a.espncdn.com/i/headshots/college-football/players/full/4242151.png,2016
 4242156,Kyrei,Fisher,Arkansas,237,73,8,4,LB,Tulsa,OK,USA,36.1556805,-95.9929113,40143,,https://a.espncdn.com/i/headshots/college-football/players/full/4242156.png,2016
 4242169,Jonathan,Nance,Arkansas,190,72,4,4,WR,Gulfport,MS,USA,30.3674198,-89.0928155,28047,,https://a.espncdn.com/i/headshots/college-football/players/full/4242169.png,2016
@@ -13366,7 +13366,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4242263,Anthony,Luke,San Diego State,260,76,45,4,DL,Roseville,CA,USA,38.7521235,-121.2880059,06061,,https://a.espncdn.com/i/headshots/college-football/players/full/4242263.png,2016
 4242298,T.J.,Jallow,Purdue,210,74,5,4,S,Olive Branch,MS,USA,34.9617605,-89.8295315,28033,,https://a.espncdn.com/i/headshots/college-football/players/full/4242298.png,2016
 4242304,Kai,Higgins,Purdue,260,76,98,4,DE,Pomona,CA,USA,34.0553813,-117.7517496,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4242304.png,2016
-4242306,Sinjun,Astani,San José State,260,76,93,4,DL,Malibu,CA,USA,34.035591,-118.689423,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4242306.png,2016
+4242306,Sinjun,Astani,San José State,270,76,93,4,DL,Malibu,CA,USA,34.035591,-118.689423,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4242306.png,2016
 4242311,Jake,Colman,San José State,308,75,72,4,OL,Ventura,CA,USA,34.3435092,-119.29560423163717,06111,,https://a.espncdn.com/i/headshots/college-football/players/full/4242311.png,2016
 4242313,Brandon,Ezell,San José State,182,72,12,4,CB,Los Alamitos,CA,USA,33.8038865,-118.0772433,06059,,https://a.espncdn.com/i/headshots/college-football/players/full/4242313.png,2016
 4242317,Sailosi,Latu,San José State,334,75,4,4,DT,American Fork,UT,USA,40.3768954,-111.7957645,49049,,https://a.espncdn.com/i/headshots/college-football/players/full/4242317.png,2016
@@ -13444,7 +13444,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4243468,Carson,Jordan,Western Kentucky,255,74,43,4,DL,Poplarville,MS,USA,30.8401863,-89.5342315,28109,,https://a.espncdn.com/i/headshots/college-football/players/full/4243468.png,2016
 4243469,Marcelis,Logan,Western Kentucky,185,69,20,4,RB,Lexington,KY,USA,38.0464066,-84.4970393,21067,,https://a.espncdn.com/i/headshots/college-football/players/full/4243469.png,2016
 4243476,Jaylon,George,Western Kentucky,290,75,90,4,DL,Atlanta,GA,USA,33.7490987,-84.3901849,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/4243476.png,2016
-4243534,Emmanuel,Logan-Greene,UCF,160,68,17,4,WR,Ft. Lauderdale,FL,USA,26.1223084,-80.1433786,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/4243534.png,2016
+4243534,Mannie,Logan-Greene,UCF,175,69,NA,4,WR,Ft. Lauderdale,FL,USA,26.1223084,-80.1433786,12011,,https://a.espncdn.com/i/headshots/college-football/players/full/4243534.png,2016
 4243539,Noah,Vedral,UCF,200,73,NA,4,QB,Wahoo,NE,USA,41.2111084,-96.6197985,31155,,https://a.espncdn.com/i/headshots/college-football/players/full/4243539.png,2016
 4243546,Cordarrian,Richardson,UCF,240,72,25,2,RB,Memphis,TN,USA,35.1490215,-90.0516285,47157,,https://a.espncdn.com/i/headshots/college-football/players/full/4243546.png,2016
 4243559,Elijah,Spann,UCF,165,66,83,4,WR,Tampa,FL,USA,27.9477595,-82.458444,12057,,https://a.espncdn.com/i/headshots/college-football/players/full/4243559.png,2016
@@ -13477,7 +13477,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4243977,Tavonn,Salter,Middle Tennessee,194,74,86,4,WR,Atlanta,GA,USA,33.7490987,-84.3901849,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/4243977.png,2016
 4243978,Jordan,Ferguson,Middle Tennessee,271,74,9,4,DE,Atlanta,GA,USA,33.7490987,-84.3901849,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/4243978.png,2016
 4243979,Rosheem,Collins,Middle Tennessee,316,73,96,4,DL,Waycross,GA,USA,31.2135511,-82.3540178,13299,,https://a.espncdn.com/i/headshots/college-football/players/full/4243979.png,2016
-4244029,Jarret,Doege,Bowling Green,210,74,2,4,QB,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/4244029.png,2016
+4244029,Jarret,Doege,Bowling Green,208,74,9,4,QB,Lubbock,TX,USA,33.5635206,-101.879336,48303,,https://a.espncdn.com/i/headshots/college-football/players/full/4244029.png,2016
 4244030,Fred,Garth,Bowling Green,190,76,4,4,DB,Amory,MS,USA,33.9842768,-88.488099,28095,,https://a.espncdn.com/i/headshots/college-football/players/full/4244030.png,2016
 4244048,Matt,Tanner,Bowling Green,311,79,75,4,OL,Jacksonville,FL,USA,30.3321838,-81.655651,12031,,https://a.espncdn.com/i/headshots/college-football/players/full/4244048.png,2016
 4244077,Sam,Thomas,Kent State,234,72,35,2,LB,Baltimore,MD,USA,39.2908816,-76.610759,24510,,https://a.espncdn.com/i/headshots/college-football/players/full/4244077.png,2016
@@ -13499,7 +13499,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4244719,Antwan,Davis,Ball State,204,71,1,4,WR,Saint John,IN,USA,38.0792104,-87.4500133,18173,,https://a.espncdn.com/i/headshots/college-football/players/full/4244719.png,2016
 4244725,Joseph,Greenwood,Ball State,213,71,45,4,LS,Delaware,OH,USA,40.2986724,-83.067965,39041,,https://a.espncdn.com/i/headshots/college-football/players/full/4244725.png,2016
 4244731,Verenzo,Holmes,Ball State,185,70,38,4,DB,Grovetown,GA,USA,33.4504157,-82.1981764,13073,,https://a.espncdn.com/i/headshots/college-football/players/full/4244731.png,2016
-4244739,Khalil,Newton,Ball State,187,73,89,2,WR,Lithonia,GA,USA,33.7123305,-84.1051939,13089,,https://a.espncdn.com/i/headshots/college-football/players/full/4244739.png,2016
+4244739,Khalil,Newton,Ball State,185,73,15,4,WR,Lithonia,GA,USA,33.7123305,-84.1051939,13089,,https://a.espncdn.com/i/headshots/college-football/players/full/4244739.png,2016
 4244778,Trevor,Conklin,Central Michigan,220,71,83,3,LB,Chesterfield,MI,USA,38.661953,-90.5643258,29189,,https://a.espncdn.com/i/headshots/college-football/players/full/4244778.png,2016
 4244822,Desmond,Kelly,Eastern Michigan,311,73,52,4,DL,Baltimore,MD,USA,39.2908816,-76.610759,24510,,https://a.espncdn.com/i/headshots/college-football/players/full/4244822.png,2016
 4244823,Ville,Valasti,Eastern Michigan,260,77,55,4,DL,Helsinki,,Finland,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/4244823.png,2016
@@ -13510,7 +13510,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4244846,Kereon,Merrell,Marshall,180,71,5,4,DB,Vienna,GA,USA,32.0913402,-83.7964675,13093,,https://a.espncdn.com/i/headshots/college-football/players/full/4244846.png,2016
 4244847,Artis,Johnson,Marshall,223,73,21,4,LB,Lott,TX,USA,31.2061063,-97.0326706,48145,,https://a.espncdn.com/i/headshots/college-football/players/full/4244847.png,2016
 4244848,Tyler,Brown,Marshall,219,74,32,4,LB,Huntington,WV,USA,38.4192496,-82.445154,54011,,https://a.espncdn.com/i/headshots/college-football/players/full/4244848.png,2016
-4244849,Marcel,Williams,Marshall,183,70,9,4,WR,Palm Coast,FL,USA,29.5541432,-81.2207673,12035,,https://a.espncdn.com/i/headshots/college-football/players/full/4244849.png,2016
+4244849,Marcel,Williams,Marshall,202,71,82,1,WR,Palm Coast,FL,USA,29.5541432,-81.2207673,12035,,https://a.espncdn.com/i/headshots/college-football/players/full/4244849.png,2016
 4245110,Delmond,Landry,Southern Mississippi,308,75,17,4,DL,Donaldsonville,LA,USA,30.1010324,-90.9928774,22005,,https://a.espncdn.com/i/headshots/college-football/players/full/4245110.png,2016
 4245113,Taran,Lambert,Southern Mississippi,180,72,14,3,DB,Burlington,WA,USA,40.8075391,-91.1129234,19057,,https://a.espncdn.com/i/headshots/college-football/players/full/4245113.png,2016
 4245114,Darius,Kennedy,Southern Mississippi,232,74,24,4,LB,Moss Point,MS,USA,30.4115881,-88.5344601,28059,,https://a.espncdn.com/i/headshots/college-football/players/full/4245114.png,2016
@@ -13550,7 +13550,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4246891,Kedrick,Bradley,Liberty,230,71,17,4,LB,Chattanooga,TN,USA,35.0457219,-85.3094883,47065,,https://a.espncdn.com/i/headshots/college-football/players/full/4246891.png,2016
 4246897,Mason,Cunningham,Liberty,200,72,4,3,QB,Shelbyville,TN,USA,35.483406,-86.4602717,47003,,https://a.espncdn.com/i/headshots/college-football/players/full/4246897.png,2016
 4246904,Kentory,Matthews,Liberty,180,68,9,4,RB,Virginia Beach,VA,USA,36.8529841,-75.9774183,51810,,https://a.espncdn.com/i/headshots/college-football/players/full/4246904.png,2016
-4247538,Tre,Caine,Colgate,195,73,29,3,DB,Detroit,MI,USA,42.3315509,-83.0466403,26163,,https://a.espncdn.com/i/headshots/college-football/players/full/4247538.png,2016
+4247538,Tre,Caine,Colgate,195,72,11,4,S,Detroit,MI,USA,42.3315509,-83.0466403,26163,,https://a.espncdn.com/i/headshots/college-football/players/full/4247538.png,2016
 4247726,Bryan,Cook,Howard,208,73,6,4,S,Cincinnati,OH,USA,39.1014537,-84.5124602,39061,,https://a.espncdn.com/i/headshots/college-football/players/full/4247726.png,2016
 4248693,Reynard,Ellis,Furman,240,72,25,4,LB,Birmingham,AL,USA,33.5206824,-86.8024326,01073,,https://a.espncdn.com/i/headshots/college-football/players/full/4248693.png,2016
 4248709,Cam,Burnette,Furman,205,74,83,3,WR,Summerville,SC,USA,33.0206179,-80.1747537,45035,,https://a.espncdn.com/i/headshots/college-football/players/full/4248709.png,2016
@@ -13566,7 +13566,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4250047,J'Len,Smith,Western Illinois,237,74,54,2,DL,Memphis,TN,USA,35.1490215,-90.0516285,47157,,https://a.espncdn.com/i/headshots/college-football/players/full/4250047.png,2016
 4250127,Tyler,Traynham,Clemson,165,65,37,4,RB,Spartanburg,SC,USA,34.9498007,-81.9320157,45083,,https://a.espncdn.com/i/headshots/college-football/players/full/4250127.png,2016
 4250608,Samari,Springs,Richmond,189,72,29,3,S,Ashburn,VA,USA,39.0437192,-77.4874899,51107,,https://a.espncdn.com/i/headshots/college-football/players/full/4250608.png,2016
-4251243,Kendall,Catalon,Southern,185,69,6,4,WR,Mansfield,TX,USA,32.5631924,-97.1416768,48439,,https://a.espncdn.com/i/headshots/college-football/players/full/4251243.png,2016
+4251243,Kendall,Catalon,Southern,180,70,18,4,WR,Mansfield,TX,USA,32.5631924,-97.1416768,48439,,https://a.espncdn.com/i/headshots/college-football/players/full/4251243.png,2016
 4252364,Kyle,Williams,Arizona State,192,71,10,4,WR,Murrieta,CA,USA,33.577752399999994,-117.18845420205307,06065,,https://a.espncdn.com/i/headshots/college-football/players/full/4252364.png,2016
 4253121,Jonathan,Smith,North Carolina,228,72,7,4,LB,Laurinburg,NC,USA,34.7740495,-79.4628248,37165,,https://a.espncdn.com/i/headshots/college-football/players/full/4253121.png,2016
 4253126,Anthony,Smith,Texas State,200,70,21,3,LB,Fort Worth,TX,USA,32.753177,-97.3327459,48439,,https://a.espncdn.com/i/headshots/college-football/players/full/4253126.png,2016
@@ -13578,7 +13578,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4255935,Ricky,Leung-Wai,San José State,255,74,91,2,DT,Bakersfield,CA,USA,35.3738712,-119.0194639,06029,,https://a.espncdn.com/i/headshots/college-football/players/full/4255935.png,2016
 4255939,DeJon,Packer,San José State,224,71,21,4,RB,San Jose,CA,USA,37.3361905,-121.8905833,06085,,https://a.espncdn.com/i/headshots/college-football/players/full/4255939.png,2016
 4255943,John,Toussaint,San José State,187,72,2,4,CB,Miami,FL,USA,25.7742658,-80.1936589,12086,,https://a.espncdn.com/i/headshots/college-football/players/full/4255943.png,2016
-4255953,Dylan,Boles,Stanford,283,76,58,4,DE,Adel,IA,USA,41.6175278,-94.0183875,19049,,https://a.espncdn.com/i/headshots/college-football/players/full/4255953.png,2016
+4255953,Dylan,Boles,Stanford,285,76,58,4,DL,Adel,IA,USA,41.6175278,-94.0183875,19049,,https://a.espncdn.com/i/headshots/college-football/players/full/4255953.png,2016
 4255987,Aaron,Short,Oregon State,208,73,19,4,WR,Fairfield,CA,USA,38.2493581,-122.0399663,06095,,https://a.espncdn.com/i/headshots/college-football/players/full/4255987.png,2016
 4255994,Alex,Bland,Oregon State,211,74,38,2,P,Port Adelaide,,Australia,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/4255994.png,2016
 4256002,Clay,Cordasco,Oregon State,314,77,56,4,OL,Cornish,ME,USA,43.804801,-70.801392,23031,,https://a.espncdn.com/i/headshots/college-football/players/full/4256002.png,2016
@@ -13604,7 +13604,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4257343,Tre'Veon,Hamilton,South Alabama,205,76,7,4,WR,Humble,TX,USA,29.9988312,-95.2621553,48201,,https://a.espncdn.com/i/headshots/college-football/players/full/4257343.png,2016
 4257365,Aaron,Cox,Ohio State,255,75,56,4,DE,Mantua,OH,USA,41.283944,-81.223991,39133,,https://a.espncdn.com/i/headshots/college-football/players/full/4257365.png,2016
 4258172,Jared,Char,Michigan,200,71,44,4,RB,Farmington Hills,MI,USA,42.4853125,-83.3771553,26125,,https://a.espncdn.com/i/headshots/college-football/players/full/4258172.png,2016
-4258176,Sean,Fitzgerald,Virginia,290,74,62,3,OL,Falls Church,VA,USA,38.882334,-77.1710914,51610,,https://a.espncdn.com/i/headshots/college-football/players/full/4258176.png,2016
+4258176,Sean,Fitzgerald,Virginia,301,74,60,4,OL,Falls Church,VA,USA,38.882334,-77.1710914,51610,,https://a.espncdn.com/i/headshots/college-football/players/full/4258176.png,2016
 4258183,Donovan,Jeter,Michigan,318,75,95,4,DL,Beaver Falls,PA,USA,40.7520097,-80.3192295,42007,,https://a.espncdn.com/i/headshots/college-football/players/full/4258183.png,2016
 4258199,Cesar,Ruiz,Michigan,319,76,51,3,OL,Camden,NJ,USA,39.9448402,-75.1198911,34007,,https://a.espncdn.com/i/headshots/college-football/players/full/4258199.png,2016
 4258200,O'Maury,Samuels,Michigan,195,71,5,4,RB,Los Lunas,NM,USA,34.8142093,-106.7613067,35061,,https://a.espncdn.com/i/headshots/college-football/players/full/4258200.png,2016
@@ -13647,7 +13647,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4259295,Isaiah,Harris,Charlotte,243,75,87,4,DE,Indian Trail,NC,USA,35.0768141,-80.6692352,37179,,https://a.espncdn.com/i/headshots/college-football/players/full/4259295.png,2016
 4259296,Chris,Phillips,Charlotte,238,74,87,4,TE,Woodbridge,VA,USA,38.6581723,-77.2497049,51153,,https://a.espncdn.com/i/headshots/college-football/players/full/4259296.png,2016
 4259302,Johnathan,Lewis,Rutgers,238,75,88,4,TE,East Orange,NJ,USA,40.767323,-74.2048677,34013,,https://a.espncdn.com/i/headshots/college-football/players/full/4259302.png,2016
-4259303,Everett,Wormley,Rutgers,197,72,14,3,WR,Burlington,NJ,USA,40.0712218,-74.8648859,34005,,https://a.espncdn.com/i/headshots/college-football/players/full/4259303.png,2016
+4259303,Everett,Wormley,Rutgers,197,72,5,4,WR,Burlington,NJ,USA,40.0712218,-74.8648859,34005,,https://a.espncdn.com/i/headshots/college-football/players/full/4259303.png,2016
 4259324,Travis,Vokolek,Rutgers,260,79,83,4,TE,Springfield,MO,USA,37.2166779,-93.2920373,29077,,https://a.espncdn.com/i/headshots/college-football/players/full/4259324.png,2016
 4259329,Brandon,Ritchie,TCU,195,71,32,3,PK,Colleyville,TX,USA,32.8809603,-97.155012,48439,,https://a.espncdn.com/i/headshots/college-football/players/full/4259329.png,2016
 4259336,Jacques,Guillot,TCU,229,74,39,4,DE,Laguna Vista,TX,USA,26.1009111,-97.2902543,48061,,https://a.espncdn.com/i/headshots/college-football/players/full/4259336.png,2016
@@ -13743,7 +13743,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4261661,Nathan,Guzman,UNLV,185,70,58,3,LS,Whittier,CA,USA,33.9708782,-118.0308396,06037,,https://a.espncdn.com/i/headshots/college-football/players/full/4261661.png,2016
 4261734,John,Baty,Michigan,170,71,42,4,DB,Honolulu,HI,USA,21.304547,-157.8556764,15003,,https://a.espncdn.com/i/headshots/college-football/players/full/4261734.png,2016
 4261848,Brennan,Gillis,Ball State,228,78,13,4,WR,Indianapolis,IN,USA,39.7683331,-86.1583502,18097,,https://a.espncdn.com/i/headshots/college-football/players/full/4261848.png,2016
-4261911,Monterio,Hunt,Marshall,188,73,9,4,WR,Walnut,MS,USA,34.1489999,-90.3989834,28119,,https://a.espncdn.com/i/headshots/college-football/players/full/4261911.png,2016
+4261911,Monterio,Hunt,Marshall,188,73,14,4,WR,Walnut,MS,USA,34.1489999,-90.3989834,28119,,https://a.espncdn.com/i/headshots/college-football/players/full/4261911.png,2016
 4261915,Trent,Wilderbraithwaite,Marshall,186,70,14,4,DB,Dumfries,VA,USA,38.5676202,-77.3280382,51153,,https://a.espncdn.com/i/headshots/college-football/players/full/4261915.png,2016
 4261922,Nat,Opoku,Miami,220,75,43,4,LB,Fords,NJ,USA,40.5295766,-74.3160429,34023,,https://a.espncdn.com/i/headshots/college-football/players/full/4261922.png,2016
 4262111,Bobby,Klemm,Troy,326,78,68,4,OL,Hoschton,GA,USA,34.096496,-83.7612839,13157,,https://a.espncdn.com/i/headshots/college-football/players/full/4262111.png,2016
@@ -13946,7 +13946,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4362986,Deven,Boston,UT San Antonio,225,71,24,4,RB,Buena Park,CA,USA,33.870413,-117.9962165,06059,,https://a.espncdn.com/i/headshots/college-football/players/full/4362986.png,2016
 4362996,Treyvion,Shannon,UT San Antonio,315,77,65,4,OL,Clarksdale,MS,USA,34.2006479,-90.5702071,28027,,https://a.espncdn.com/i/headshots/college-football/players/full/4362996.png,2016
 4362998,Jalyn,Galmore,UT San Antonio,305,77,70,4,OL,Batesville,MS,USA,34.3114982,-89.9442567,28107,,https://a.espncdn.com/i/headshots/college-football/players/full/4362998.png,2016
-4363098,Johnny,Lumpkin,Louisiana,266,78,88,4,TE,Atlanta,GA,USA,33.7490987,-84.3901849,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/4363098.png,2016
+4363098,Johnny,Lumpkin,Louisiana,268,78,88,4,TE,Atlanta,GA,USA,33.7490987,-84.3901849,13121,,https://a.espncdn.com/i/headshots/college-football/players/full/4363098.png,2016
 4363135,Chandler,Wachholtz,Louisiana,236,73,40,4,LB,Carlsbad,CA,USA,33.1580933,-117.3505966,06073,,https://a.espncdn.com/i/headshots/college-football/players/full/4363135.png,2016
 4363150,Zedrick,Raymond,Miami (OH),181,72,14,4,DB,Mobile,AL,USA,30.6943566,-88.0430541,01097,,https://a.espncdn.com/i/headshots/college-football/players/full/4363150.png,2016
 4363413,Kendall,Parham,UAB,175,70,8,4,WR,Hattiesburg,MS,USA,31.3271189,-89.2903392,28035,,https://a.espncdn.com/i/headshots/college-football/players/full/4363413.png,2016
@@ -14070,11 +14070,11 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4569004,Stanley,Little,Connecticut,190,69,26,4,RB,Waterbury,CT,USA,41.5538091,-73.0438362,09009,,https://a.espncdn.com/i/headshots/college-football/players/full/4569004.png,2016
 4569021,Andre,Neal,Colorado State,187,72,11,4,CB,Baltimore,MD,USA,39.2908816,-76.610759,24510,,https://a.espncdn.com/i/headshots/college-football/players/full/4569021.png,2016
 4569120,Noah,Johnson,Nebraska,293,73,69,4,OL,Sutton,NE,USA,40.6065876,-97.8593988,31035,,https://a.espncdn.com/i/headshots/college-football/players/full/4569120.png,2016
-4569288,Austin,Johnson,Louisville,300,76,64,2,OL,Louisville,KY,USA,38.2542376,-85.759407,21111,,https://a.espncdn.com/i/headshots/college-football/players/full/4569288.png,2016
+4569288,Austin,Johnson,Louisville,305,76,58,3,OL,Louisville,KY,USA,38.2542376,-85.759407,21111,,https://a.espncdn.com/i/headshots/college-football/players/full/4569288.png,2016
 4569383,Caleb,Johnson,Army,235,73,40,4,LB,Waycross,GA,USA,31.2135511,-82.3540178,13299,,https://a.espncdn.com/i/headshots/college-football/players/full/4569383.png,2016
 4569408,Ty,Morrow,Texas Tech,275,76,57,3,OL,Canadian,TX,USA,35.9120114,-100.3839018,48211,,https://a.espncdn.com/i/headshots/college-football/players/full/4569408.png,2016
 4569521,Aaron,Donkor,Arkansas State,240,74,55,4,DE,Achern,NA,Germany,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/4569521.png,2016
-4569594,Cameron,Davis,Arkansas State,193,72,22,2,RB,Bryant,AR,USA,34.5959265,-92.4890469,05125,,https://a.espncdn.com/i/headshots/college-football/players/full/4569594.png,2016
+4569594,Cameron,Davis,Arkansas State,214,72,22,4,RB,Bryant,AR,USA,34.5959265,-92.4890469,05125,,https://a.espncdn.com/i/headshots/college-football/players/full/4569594.png,2016
 4570014,David,Uyong,UT San Antonio,185,71,20,4,S,Oakland,CA,USA,37.8044557,-122.2713563,06001,,https://a.espncdn.com/i/headshots/college-football/players/full/4570014.png,2016
 4570074,Travis,Wiltjer,Wisconsin,225,74,48,4,LB,Maple City,MI,USA,44.8555539,-85.8559201,26089,,https://a.espncdn.com/i/headshots/college-football/players/full/4570074.png,2016
 4570153,Brandon,Smith,East Carolina,270,75,58,4,OL,Kernersville,NC,USA,36.1198589,-80.0736533,37067,,https://a.espncdn.com/i/headshots/college-football/players/full/4570153.png,2016
@@ -14083,8 +14083,8 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4570466,Juan,Rodriguez,UT San Antonio,250,74,80,4,TE,Edcouch,TX,USA,26.2939604,-97.9605575,48215,,https://a.espncdn.com/i/headshots/college-football/players/full/4570466.png,2016
 4570479,Jordan,Whittley,Oregon State,348,73,93,4,DL,Richmond,CA,USA,37.9357576,-122.3477486,06013,,https://a.espncdn.com/i/headshots/college-football/players/full/4570479.png,2016
 4571654,Nathan,King,Air Force,220,73,47,4,LB,Port Matilda,PA,USA,40.7996651,-78.0541814,42027,,https://a.espncdn.com/i/headshots/college-football/players/full/4571654.png,2016
-4571882,Matt,Jones,Kansas State,224,75,52,3,LB,Hubbard,OH,USA,41.156446,-80.569239,39155,,https://a.espncdn.com/i/headshots/college-football/players/full/4571882.png,2016
-4571882,Matt,Jones,West Virginia,224,75,52,3,LB,Hubbard,OH,USA,41.156446,-80.569239,39155,,https://a.espncdn.com/i/headshots/college-football/players/full/4571882.png,2016
+4571882,Matt,Jones,Kansas State,246,76,2,4,LB,Hubbard,OH,USA,41.156446,-80.569239,39155,,https://a.espncdn.com/i/headshots/college-football/players/full/4571882.png,2016
+4571882,Matt,Jones,West Virginia,246,76,2,4,LB,Hubbard,OH,USA,41.156446,-80.569239,39155,,https://a.espncdn.com/i/headshots/college-football/players/full/4571882.png,2016
 4572044,Jonathan,Lampani,Michigan,239,73,37,4,LB,Grand Rapids,MI,USA,42.9632405,-85.6678639,26081,,https://a.espncdn.com/i/headshots/college-football/players/full/4572044.png,2016
 4572057,Desmond,Nicholas,Michigan,182,71,82,4,WR,Buffalo,NY,USA,42.8867166,-78.8783922,36029,,https://a.espncdn.com/i/headshots/college-football/players/full/4572057.png,2016
 4572480,John,Ramirez,New Mexico State,245,72,56,4,LB,Las Cruces,NM,USA,32.3140354,-106.7798078,35013,,https://a.espncdn.com/i/headshots/college-football/players/full/4572480.png,2016
@@ -14093,7 +14093,7 @@ athlete_id,first_name,last_name,team,weight,height,jersey,year,position,home_cit
 4575109,Tyler,Beaver,Georgia,215,72,43,4,DB,Blue Ridge,GA,USA,34.863972,-84.324087,13111,,https://a.espncdn.com/i/headshots/college-football/players/full/4575109.png,2016
 4575628,Matt,Bromell,Southern Mississippi,195,74,94,4,P,Melbourne,VIC,Australia,NA,NA,NA,,https://a.espncdn.com/i/headshots/college-football/players/full/4575628.png,2016
 4576775,Lincoln,Warren,Texas State,180,69,28,4,WR,Mesquite,TX,USA,32.7666103,-96.599472,48113,,https://a.espncdn.com/i/headshots/college-football/players/full/4576775.png,2016
-4578686,Thomas,Brown,North Carolina,NA,NA,NA,NA,NA,Statesville,NC,USA,35.7826363,-80.8872959,37097,,https://a.espncdn.com/i/headshots/college-football/players/full/4578686.png,2016
+4578686,Thomas,Brown,North Carolina,305,75,NA,3,DL,Statesville,NC,USA,35.7826363,-80.8872959,37097,,https://a.espncdn.com/i/headshots/college-football/players/full/4578686.png,2016
 4578902,Jordan,Brown,Tulsa,NA,NA,NA,NA,NA,Stillwater,OK,USA,36.1156306,-97.0585717,40119,,https://a.espncdn.com/i/headshots/college-football/players/full/4578902.png,2016
 4584278,Brandon,Pierce,San José State,160,69,85,4,WR,Mission Hills,CA,USA,34.687584,-120.43901754304565,06083,,https://a.espncdn.com/i/headshots/college-football/players/full/4584278.png,2016
 4584519,Brayton,Hundley,Florida,180,72,32,4,WR,Port Orange,FL,USA,29.101628050000002,-81.01059617608054,12127,,https://a.espncdn.com/i/headshots/college-football/players/full/4584519.png,2016
