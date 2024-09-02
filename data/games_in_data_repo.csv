@@ -1,6 +1,7 @@
 "game_id","year","week","home","away","season"
 401643699,2024,1,"Air Force","Merrimack",2024
 401628319,2024,1,"Alabama","Western Kentucky",2024
+401636343,2024,1,"Alabama State","North Carolina Central",2024
 401628585,2024,1,"Albany","Long Island University",2024
 401634133,2024,1,"Appalachian State","East Tennessee State",2024
 401636608,2024,1,"Arizona","New Mexico",2024
@@ -14,6 +15,7 @@
 401644729,2024,1,"Bowling Green","Fordham",2024
 401644727,2024,1,"Buffalo","Lafayette",2024
 401655657,2024,1,"Butler","Upper Iowa",2024
+401634301,2024,1,"California","UC Davis",2024
 401654844,2024,1,"Charleston Southern","The Citadel",2024
 401643774,2024,1,"Charlotte","James Madison",2024
 401628591,2024,1,"Cincinnati","Towson",2024
@@ -44,6 +46,7 @@
 401636606,2024,1,"Kansas","Lindenwood",2024
 401636612,2024,1,"Kansas State","UT Martin",2024
 401628324,2024,1,"Kentucky","Southern Mississippi",2024
+401628334,2024,1,"LSU","USC",2024
 401628586,2024,1,"Liberty","Campbell",2024
 401636380,2024,1,"Louisiana","Grambling",2024
 401641007,2024,1,"Louisiana Tech","Nicholls",2024
@@ -117,6 +120,7 @@
 401641015,2024,1,"UT San Antonio","Kennesaw State",2024
 401636607,2024,1,"Utah","Southern Utah",2024
 401643703,2024,1,"Utah State","Robert Morris",2024
+401632066,2024,1,"Utah Tech","Montana State",2024
 401628333,2024,1,"Vanderbilt","Virginia Tech",2024
 401628580,2024,1,"Villanova","Youngstown State",2024
 401628589,2024,1,"Virginia","Richmond",2024
