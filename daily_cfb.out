@@ -1,16 +1,5 @@
 2024
 [1] "Working on 2024"
  elapsed 
-4.025667 
-[1] "Working on 1/131: 401628319"
-[main 2a0510e] Updated 2024-09-03 00:40:54.624603 (ET) using cfbfastR version 1.9.5
- 11 files changed, 926 insertions(+), 9597 deletions(-)
- rewrite daily_cfb.out (99%)
- rewrite data/games_in_data_repo.rds (92%)
- rewrite player_stats/csv/player_stats_2024.csv (98%)
- rewrite player_stats/parquet/player_stats_2024.parquet (98%)
- rewrite player_stats/rds/player_stats_2024.rds (99%)
- rewrite schedules/parquet/cfb_schedules_2024.parquet (73%)
- rewrite schedules/rds/cfb_schedules_2024.rds (99%)
- rewrite week.R (63%)
-Already up to date.
+4.633483 
+[1] "Working on 1/151: 401628319"
