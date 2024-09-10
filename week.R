@@ -1,3 +1,4 @@
+remotes::install_github("sportsdataverse/cfbfastR")
 library(cfbfastR)
 library(dplyr)
 library(tidyr)
