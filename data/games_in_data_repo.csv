@@ -1,4 +1,11 @@
 "game_id","year","week","home","away","season"
+401644598,2024,6,"Harvard","New Hampshire",2024
+401641001,2024,6,"Kennesaw State","Jacksonville State",2024
+401628506,2024,6,"Oregon","Michigan State",2024
+401636891,2024,6,"TCU","Houston",2024
+401643797,2024,6,"Troy","Texas State",2024
+401634779,2024,6,"UNLV","Syracuse",2024
+401641029,2024,6,"UTEP","Sam Houston",2024
 401628374,2024,5,"Alabama","Georgia",2024
 401628375,2024,5,"Auburn","Oklahoma",2024
 401632106,2024,5,"Austin Peay","Southern Utah",2024
@@ -24,6 +31,8 @@
 401634049,2024,5,"Eastern Washington","Montana",2024
 401628632,2024,5,"Elon","Richmond",2024
 401640981,2024,5,"Florida International","Louisiana Tech",2024
+401633983,2024,5,"Gardner-Webb","Tennessee Tech",2024
+401654488,2024,5,"Georgetown","Columbia",2024
 401643792,2024,5,"Georgia State","Georgia Southern",2024
 401636881,2024,5,"Houston","Iowa State",2024
 401634048,2024,5,"Idaho State","Montana State",2024
@@ -48,6 +57,7 @@
 401634184,2024,5,"Missouri State","Youngstown State",2024
 401628636,2024,5,"Monmouth","Fordham",2024
 401638662,2024,5,"Morehead State","Valparaiso",2024
+401635564,2024,5,"NC State","Northern Illinois",2024
 401641035,2024,5,"New Mexico State","New Mexico",2024
 401654553,2024,5,"Norfolk State","North Carolina Central",2024
 401634192,2024,5,"North Dakota","Murray State",2024
@@ -58,6 +68,7 @@
 401628377,2024,5,"Ole Miss","Kentucky",2024
 401628495,2024,5,"Penn State","Illinois",2024
 401656601,2024,5,"Pennsylvania","Colgate",2024
+401638659,2024,5,"Presbyterian","Davidson",2024
 401654464,2024,5,"Princeton","Howard",2024
 401628499,2024,5,"Purdue","Nebraska",2024
 401645333,2024,5,"Rice","Charlotte",2024
@@ -92,6 +103,7 @@
 401628639,2024,5,"Villanova","Long Island University",2024
 401635659,2024,5,"Wake Forest","Louisiana",2024
 401655617,2024,5,"Weber State","McNeese",2024
+401654847,2024,5,"Western Illinois","McKendree",2024
 401628633,2024,5,"William & Mary","Hampton",2024
 401634146,2024,5,"Wofford","Mercer",2024
 401643718,2024,5,"Wyoming","Air Force",2024
