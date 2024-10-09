@@ -728,11 +728,13 @@
 401628461,2024,1,"Wisconsin","Western Michigan",2024
 401520445,2023,15,"Army","Navy",2023
 401617309,2023,15,"Idaho","Albany",2023
+401617309,2023,15,"Idaho","UAlbany",2023
 401617308,2023,15,"South Dakota","North Dakota State",2023
 401617307,2023,15,"South Dakota State","Villanova",2023
 401539483,2023,14,"Alabama","Georgia",2023
 401615860,2023,14,"Albany","Richmond",2023
 401539485,2023,14,"Florida A&M","Prairie View",2023
+401539485,2023,14,"Florida A&M","Prairie View A&M",2023
 401539478,2023,14,"Florida State","Louisville",2023
 401615901,2023,14,"Furman","Chattanooga",2023
 401615879,2023,14,"Idaho","Southern Illinois",2023
@@ -744,13 +746,16 @@
 401615899,2023,14,"South Dakota State","Mercer",2023
 401539479,2023,14,"Texas","Oklahoma State",2023
 401539481,2023,14,"Toledo","Miami (OH)",2023
+401539484,2023,14,"Troy","App State",2023
 401539484,2023,14,"Troy","Appalachian State",2023
 401539477,2023,14,"Tulane","SMU",2023
+401615860,2023,14,"UAlbany","Richmond",2023
 401539482,2023,14,"UNLV","Boise State",2023
 401615939,2023,14,"Villanova","Youngstown State",2023
 401539475,2023,14,"Washington","Oregon",2023
 401532452,2023,13,"Akron","Ohio",2023
 401540124,2023,13,"Alabama State","Tuskegee",2023
+401531922,2023,13,"App State","Georgia Southern",2023
 401531922,2023,13,"Appalachian State","Georgia Southern",2023
 401524064,2023,13,"Arizona State","Arizona",2023
 401520426,2023,13,"Arkansas","Missouri",2023
@@ -777,8 +782,10 @@
 401532453,2023,13,"Kent State","Northern Illinois",2023
 401520433,2023,13,"LSU","Texas A&M",2023
 401531926,2023,13,"Louisiana","Louisiana Monroe",2023
+401531926,2023,13,"Louisiana","UL Monroe",2023
 401520432,2023,13,"Louisville","Kentucky",2023
 401531924,2023,13,"Marshall","Arkansas State",2023
+401520443,2023,13,"Massachusetts","UConn",2023
 401614599,2023,13,"Mercer","Gardner-Webb",2023
 401520434,2023,13,"Michigan","Ohio State",2023
 401520435,2023,13,"Michigan State","Penn State",2023
@@ -800,11 +807,13 @@
 401531421,2023,13,"Rice","Florida Atlantic",2023
 401520439,2023,13,"Rutgers","Maryland",2023
 401531435,2023,13,"SMU","Navy",2023
+401520440,2023,13,"Sam Houston","Middle Tennessee",2023
 401520440,2023,13,"Sam Houston State","Middle Tennessee",2023
 401532627,2023,13,"San Diego State","Fresno State",2023
 401520441,2023,13,"South Carolina","Clemson",2023
 401531410,2023,13,"South Florida","Charlotte",2023
 401614602,2023,13,"Southern Illinois","Nicholls",2023
+401531927,2023,13,"Southern Miss","Troy",2023
 401531927,2023,13,"Southern Mississippi","Troy",2023
 401524065,2023,13,"Stanford","Notre Dame",2023
 401525563,2023,13,"Syracuse","Wake Forest",2023
@@ -813,6 +822,7 @@
 401525901,2023,13,"Texas","Texas Tech",2023
 401531928,2023,13,"Texas State","South Alabama",2023
 401531376,2023,13,"Tulane","UT San Antonio",2023
+401531376,2023,13,"Tulane","UTSA",2023
 401525906,2023,13,"UCF","Houston",2023
 401524066,2023,13,"UCLA","California",2023
 401520443,2023,13,"UMass","Connecticut",2023
@@ -841,6 +851,7 @@
 401540520,2023,12,"Butler","Drake",2023
 401540234,2023,12,"Cal Poly","Weber State",2023
 401540011,2023,12,"Central Connecticut","St Francis (PA)",2023
+401540011,2023,12,"Central Connecticut","St. Francis (PA)",2023
 401531409,2023,12,"Charlotte","Rice",2023
 401525554,2023,12,"Clemson","North Carolina",2023
 401541635,2023,12,"Colgate","Fordham",2023
@@ -870,11 +881,13 @@
 401525895,2023,12,"Iowa State","Texas",2023
 401540132,2023,12,"Jackson State","Alcorn State",2023
 401520407,2023,12,"Jacksonville State","Louisiana Tech",2023
+401531918,2023,12,"James Madison","App State",2023
 401531918,2023,12,"James Madison","Appalachian State",2023
 401525896,2023,12,"Kansas","Kansas State",2023
 401520409,2023,12,"LSU","Georgia State",2023
 401540382,2023,12,"Lamar","McNeese",2023
 401540077,2023,12,"Lehigh","Lafayette",2023
+401520408,2023,12,"Liberty","Massachusetts",2023
 401520408,2023,12,"Liberty","UMass",2023
 401540056,2023,12,"Marist","Bucknell",2023
 401520410,2023,12,"Maryland","Michigan",2023
@@ -883,6 +896,7 @@
 401525558,2023,12,"Miami","Louisville",2023
 401532447,2023,12,"Miami (OH)","Buffalo",2023
 401520411,2023,12,"Middle Tennessee","UTEP",2023
+401520412,2023,12,"Mississippi State","Southern Miss",2023
 401520412,2023,12,"Mississippi State","Southern Mississippi",2023
 401520413,2023,12,"Missouri","Florida",2023
 401540265,2023,12,"Montana","Montana State",2023
@@ -901,13 +915,16 @@
 401532446,2023,12,"Ohio","Central Michigan",2023
 401520415,2023,12,"Ohio State","Minnesota",2023
 401520416,2023,12,"Ole Miss","Louisiana Monroe",2023
+401520416,2023,12,"Ole Miss","UL Monroe",2023
 401524060,2023,12,"Oregon State","Washington",2023
 401520417,2023,12,"Penn State","Rutgers",2023
 401552541,2023,12,"Pennsylvania","Princeton",2023
 401525553,2023,12,"Pittsburgh","Boston College",2023
 401540123,2023,12,"Prairie View","Alabama State",2023
+401540123,2023,12,"Prairie View A&M","Alabama State",2023
 401540552,2023,12,"Presbyterian College","Morehead State",2023
 401540483,2023,12,"Robert Morris","Eastern Illinois",2023
+401540437,2023,12,"SE Louisiana","Nicholls",2023
 401540543,2023,12,"Samford","UT Martin",2023
 401532623,2023,12,"San José State","San Diego State",2023
 401531920,2023,12,"South Alabama","Marshall",2023
@@ -928,8 +945,10 @@
 401531345,2023,12,"Tulsa","North Texas",2023
 401531385,2023,12,"UAB","Temple",2023
 401540287,2023,12,"UC Davis","Sacramento State",2023
+401520421,2023,12,"UConn","Sacred Heart",2023
 401524062,2023,12,"USC","UCLA",2023
 401531401,2023,12,"UT San Antonio","South Florida",2023
+401531401,2023,12,"UTSA","South Florida",2023
 401532619,2023,12,"Utah State","Boise State",2023
 401540212,2023,12,"Utah Tech","Southern Utah",2023
 401540624,2023,12,"VMI","Western Carolina",2023
@@ -939,6 +958,7 @@
 401524057,2023,12,"Washington State","Colorado",2023
 401525899,2023,12,"West Virginia","Cincinnati",2023
 401540445,2023,12,"Western Illinois","South Dakota",2023
+401520423,2023,12,"Western Kentucky","Sam Houston",2023
 401520423,2023,12,"Western Kentucky","Sam Houston State",2023
 401540574,2023,12,"William & Mary","Richmond",2023
 401520422,2023,12,"Wisconsin","Nebraska",2023
@@ -968,14 +988,17 @@
 401540332,2023,11,"Dartmouth","Cornell",2023
 401540512,2023,11,"Dayton","Marist",2023
 401539976,2023,11,"Delaware State","Norfolk State",2023
+401540519,2023,11,"Drake","Presbyterian",2023
 401540519,2023,11,"Drake","Presbyterian College",2023
 401540018,2023,11,"Duquesne","Stonehill",2023
 401540482,2023,11,"Eastern Illinois","Tennessee State",2023
+401540154,2023,11,"Florida A&M","Lincoln (CA)",2023
 401540154,2023,11,"Florida A&M","Lincoln University (CA)",2023
 401531416,2023,11,"Florida Atlantic","East Carolina",2023
 401525550,2023,11,"Florida State","Miami",2023
 401540603,2023,11,"Furman","VMI",2023
 401520382,2023,11,"Georgia","Ole Miss",2023
+401531913,2023,11,"Georgia State","App State",2023
 401531913,2023,11,"Georgia State","Appalachian State",2023
 401540421,2023,11,"Hampton","William & Mary",2023
 401540344,2023,11,"Harvard","Pennsylvania",2023
@@ -987,17 +1010,21 @@
 401540305,2023,11,"Indiana State","Western Illinois",2023
 401520384,2023,11,"Iowa","Rutgers",2023
 401520385,2023,11,"James Madison","Connecticut",2023
+401520385,2023,11,"James Madison","UConn",2023
 401525888,2023,11,"Kansas","Texas Tech",2023
 401525889,2023,11,"Kansas State","Baylor",2023
 401540610,2023,11,"Kennesaw State","Virginia Lynchburg",2023
+401540610,2023,11,"Kennesaw State","Virginia University Of Lynchburg",2023
 401532442,2023,11,"Kent State","Bowling Green",2023
 401520386,2023,11,"Kentucky","Alabama",2023
 401520389,2023,11,"LSU","Florida",2023
 401540076,2023,11,"Lafayette","Fordham",2023
 401520388,2023,11,"Liberty","Old Dominion",2023
 401540428,2023,11,"Lindenwood","Bryant",2023
+401531911,2023,11,"Louisiana","Southern Miss",2023
 401531911,2023,11,"Louisiana","Southern Mississippi",2023
 401531915,2023,11,"Louisiana Monroe","Troy",2023
+401520387,2023,11,"Louisiana Tech","Sam Houston",2023
 401520387,2023,11,"Louisiana Tech","Sam Houston State",2023
 401525546,2023,11,"Louisville","Virginia",2023
 401531914,2023,11,"Marshall","Georgia Southern",2023
@@ -1038,24 +1065,30 @@
 401540374,2023,11,"South Dakota","North Dakota",2023
 401531393,2023,11,"South Florida","Temple",2023
 401540169,2023,11,"Southern","Prairie View",2023
+401540169,2023,11,"Southern","Prairie View A&M",2023
 401540211,2023,11,"Stephen F. Austin","Southern Utah",2023
 401540577,2023,11,"Stony Brook","Albany",2023
+401540577,2023,11,"Stony Brook","UAlbany",2023
 401525552,2023,11,"Syracuse","Pittsburgh",2023
 401525891,2023,11,"TCU","Texas",2023
 401540487,2023,11,"Tennessee Tech","Gardner-Webb",2023
 401520397,2023,11,"Texas A&M","Mississippi State",2023
+401540436,2023,11,"Texas A&M-Commerce","SE Louisiana",2023
 401540436,2023,11,"Texas A&M-Commerce","Southeastern Louisiana",2023
 401540621,2023,11,"The Citadel","Wofford",2023
 401532440,2023,11,"Toledo","Eastern Michigan",2023
 401531344,2023,11,"Tulane","Tulsa",2023
 401525892,2023,11,"UCF","Oklahoma State",2023
 401524055,2023,11,"UCLA","Arizona State",2023
+401531915,2023,11,"UL Monroe","Troy",2023
 401532618,2023,11,"UNLV","Wyoming",2023
 401540502,2023,11,"UT Martin","Southeast Missouri State",2023
 401531400,2023,11,"UT San Antonio","Rice",2023
+401531400,2023,11,"UTSA","Rice",2023
 401532615,2023,11,"Utah State","Nevada",2023
 401540568,2023,11,"Valparaiso","Stetson",2023
 401540580,2023,11,"Villanova","Towson",2023
+401525551,2023,11,"Wake Forest","NC State",2023
 401524056,2023,11,"Washington","Utah",2023
 401540249,2023,11,"Weber State","Idaho",2023
 401540596,2023,11,"Western Carolina","East Tennessee State",2023
@@ -1071,6 +1104,7 @@
 401540121,2023,10,"Alabama State","Grambling",2023
 401540617,2023,10,"Albany","William & Mary",2023
 401540130,2023,10,"Alcorn State","Southern",2023
+401531905,2023,10,"App State","Marshall",2023
 401531905,2023,10,"Appalachian State","Marshall",2023
 401524045,2023,10,"Arizona","UCLA",2023
 401531908,2023,10,"Arkansas State","Louisiana",2023
@@ -1112,6 +1146,7 @@
 401540420,2023,10,"Maine","Hampton",2023
 401540518,2023,10,"Marist","Drake",2023
 401520367,2023,10,"Maryland","Penn State",2023
+401520400,2023,10,"Massachusetts","Merrimack",2023
 401531425,2023,10,"Memphis","South Florida",2023
 401520368,2023,10,"Michigan","Purdue",2023
 401520369,2023,10,"Michigan State","Nebraska",2023
@@ -1134,6 +1169,7 @@
 401540546,2023,10,"North Carolina A&T","Towson",2023
 401539991,2023,10,"North Carolina Central","Norfolk State",2023
 401531399,2023,10,"North Texas","UT San Antonio",2023
+401531399,2023,10,"North Texas","UTSA",2023
 401540248,2023,10,"Northern Colorado","Idaho",2023
 401540807,2023,10,"Northern Iowa","Western Illinois",2023
 401520373,2023,10,"Northwestern","Iowa",2023
@@ -1144,10 +1180,14 @@
 401540331,2023,10,"Pennsylvania","Cornell",2023
 401525541,2023,10,"Pittsburgh","Florida State",2023
 401540138,2023,10,"Prairie View","Arkansas-Pine Bluff",2023
+401540138,2023,10,"Prairie View A&M","Arkansas-Pine Bluff",2023
+401540557,2023,10,"Presbyterian","San Diego",2023
 401540557,2023,10,"Presbyterian College","San Diego",2023
 401531440,2023,10,"Rice","SMU",2023
 401520375,2023,10,"Rutgers","Ohio State",2023
+401540395,2023,10,"SE Louisiana","McNeese",2023
 401540009,2023,10,"Sacred Heart","Central Connecticut",2023
+401525451,2023,10,"Sam Houston","Kennesaw State",2023
 401525451,2023,10,"Sam Houston State","Kennesaw State",2023
 401532612,2023,10,"San Diego State","Utah State",2023
 401520376,2023,10,"South Carolina","Jacksonville State",2023
@@ -1155,14 +1195,18 @@
 401540498,2023,10,"Southeast Missouri State","Robert Morris",2023
 401540395,2023,10,"Southeastern Louisiana","McNeese",2023
 401540444,2023,10,"Southern Illinois","South Dakota",2023
+401531909,2023,10,"Southern Miss","UL Monroe",2023
 401531909,2023,10,"Southern Mississippi","Louisiana Monroe",2023
+401540210,2023,10,"Southern Utah","Lincoln (CA)",2023
 401540210,2023,10,"Southern Utah","Lincoln University (CA)",2023
 401540024,2023,10,"St Francis (PA)","Long Island University",2023
+401540024,2023,10,"St. Francis (PA)","Long Island University",2023
 401540404,2023,10,"Stetson","Davidson",2023
 401525540,2023,10,"Syracuse","Boston College",2023
 401540217,2023,10,"Tarleton State","Stephen F. Austin",2023
 401531392,2023,10,"Temple","Navy",2023
 401520377,2023,10,"Tennessee","Connecticut",2023
+401520377,2023,10,"Tennessee","UConn",2023
 401540536,2023,10,"Tennessee Tech","UT Martin",2023
 401525884,2023,10,"Texas","Kansas State",2023
 401531910,2023,10,"Texas State","Georgia Southern",2023
@@ -1172,6 +1216,7 @@
 401531904,2023,10,"Troy","South Alabama",2023
 401531343,2023,10,"Tulsa","Charlotte",2023
 401531383,2023,10,"UAB","Florida Atlantic",2023
+401540617,2023,10,"UAlbany","William & Mary",2023
 401540284,2023,10,"UC Davis","Portland State",2023
 401520400,2023,10,"UMass","Merrimack",2023
 401524048,2023,10,"USC","Washington",2023
@@ -1186,16 +1231,19 @@
 401540626,2023,10,"Wofford","Western Carolina",2023
 401532609,2023,10,"Wyoming","Colorado State",2023
 401540111,2023,9,"Alabama State","Alabama A&M",2023
+401531898,2023,9,"App State","Southern Miss",2023
 401531898,2023,9,"Appalachian State","Southern Mississippi",2023
 401524039,2023,9,"Arizona","Oregon State",2023
 401524040,2023,9,"Arizona State","Washington State",2023
 401540137,2023,9,"Arkansas-Pine Bluff","Jackson State",2023
+401520349,2023,9,"Army","Massachusetts",2023
 401520349,2023,9,"Army","UMass",2023
 401520350,2023,9,"Auburn","Mississippi State",2023
 401540179,2023,9,"Austin Peay","North Alabama",2023
 401525873,2023,9,"Baylor","Iowa State",2023
 401532607,2023,9,"Boise State","Wyoming",2023
 401520351,2023,9,"Boston College","Connecticut",2023
+401520351,2023,9,"Boston College","UConn",2023
 401540459,2023,9,"Butler","Valparaiso",2023
 401524041,2023,9,"California","USC",2023
 401540189,2023,9,"Central Arkansas","Tarleton State",2023
@@ -1206,12 +1254,14 @@
 401540053,2023,9,"Colgate","Bucknell",2023
 401532603,2023,9,"Colorado State","Air Force",2023
 401540330,2023,9,"Cornell","Princeton",2023
+401540403,2023,9,"Davidson","Presbyterian",2023
 401540403,2023,9,"Davidson","Presbyterian College",2023
 401534855,2023,9,"Delaware State","Howard",2023
 401540517,2023,9,"Drake","Stetson",2023
 401532431,2023,9,"Eastern Michigan","Western Michigan",2023
 401520352,2023,9,"Florida","Georgia",2023
 401540153,2023,9,"Florida A&M","Prairie View",2023
+401540153,2023,9,"Florida A&M","Prairie View A&M",2023
 401520347,2023,9,"Florida International","Jacksonville State",2023
 401540070,2023,9,"Fordham","Holy Cross",2023
 401532606,2023,9,"Fresno State","UNLV",2023
@@ -1227,6 +1277,7 @@
 401531900,2023,9,"James Madison","Old Dominion",2023
 401525874,2023,9,"Kansas","Oklahoma",2023
 401525875,2023,9,"Kansas State","Houston",2023
+401540609,2023,9,"Kennesaw State","Lincoln (CA)",2023
 401540609,2023,9,"Kennesaw State","Lincoln University (CA)",2023
 401520353,2023,9,"Kentucky","Tennessee",2023
 401540379,2023,9,"Lamar","Incarnate Word",2023
@@ -1234,6 +1285,7 @@
 401520345,2023,9,"Louisiana Tech","New Mexico State",2023
 401525535,2023,9,"Louisville","Duke",2023
 401540492,2023,9,"Maine","Albany",2023
+401540492,2023,9,"Maine","UAlbany",2023
 401525538,2023,9,"Miami","Virginia",2023
 401520354,2023,9,"Minnesota","Michigan State",2023
 401540262,2023,9,"Montana","Northern Colorado",2023
@@ -1261,6 +1313,7 @@
 401531342,2023,9,"SMU","Tulsa",2023
 401540255,2023,9,"Sacramento State","Idaho State",2023
 401540016,2023,9,"Sacred Heart","Duquesne",2023
+401520348,2023,9,"Sam Houston","UTEP",2023
 401520348,2023,9,"Sam Houston State","UTEP",2023
 401540620,2023,9,"Samford","The Citadel",2023
 401540550,2023,9,"San Diego","Morehead State",2023
@@ -1269,6 +1322,7 @@
 401540171,2023,9,"Southern","Texas Southern",2023
 401540209,2023,9,"Southern Utah","Abilene Christian",2023
 401540037,2023,9,"St Francis (PA)","Merrimack",2023
+401540037,2023,9,"St. Francis (PA)","Merrimack",2023
 401540526,2023,9,"St. Thomas (MN)","Marist",2023
 401524042,2023,9,"Stanford","Washington",2023
 401540496,2023,9,"Tennessee State","Lindenwood",2023
@@ -1278,7 +1332,9 @@
 401540327,2023,9,"Towson","Delaware",2023
 401525878,2023,9,"UCF","West Virginia",2023
 401524043,2023,9,"UCLA","Colorado",2023
+401531901,2023,9,"UL Monroe","Arkansas State",2023
 401531398,2023,9,"UT San Antonio","East Carolina",2023
+401531398,2023,9,"UTSA","East Carolina",2023
 401524044,2023,9,"Utah","Oregon",2023
 401540197,2023,9,"Utah Tech","Eastern Kentucky",2023
 401540588,2023,9,"VMI","Chattanooga",2023
@@ -1314,14 +1370,17 @@
 401540511,2023,8,"Dayton","Butler",2023
 401539974,2023,8,"Delaware State","South Carolina State",2023
 401540015,2023,8,"Duquesne","St Francis (PA)",2023
+401540015,2023,8,"Duquesne","St. Francis (PA)",2023
 401531406,2023,8,"East Carolina","Charlotte",2023
 401540425,2023,8,"Eastern Illinois","Bryant",2023
 401540240,2023,8,"Eastern Washington","Weber State",2023
 401540414,2023,8,"Elon","Monmouth",2023
 401531397,2023,8,"Florida Atlantic","UT San Antonio",2023
+401531397,2023,8,"Florida Atlantic","UTSA",2023
 401525530,2023,8,"Florida State","Duke",2023
 401540062,2023,8,"Georgetown","Colgate",2023
 401531894,2023,8,"Georgia Southern","Louisiana Monroe",2023
+401531894,2023,8,"Georgia Southern","UL Monroe",2023
 401525528,2023,8,"Georgia Tech","Boston College",2023
 401540069,2023,8,"Holy Cross","Lafayette",2023
 401525869,2023,8,"Houston","Texas",2023
@@ -1355,20 +1414,25 @@
 401540385,2023,8,"North Dakota State","Western Illinois",2023
 401532426,2023,8,"Northern Illinois","Eastern Michigan",2023
 401540373,2023,8,"Northern Iowa","North Dakota",2023
+401540432,2023,8,"Northwestern State","SE Louisiana",2023
 401540432,2023,8,"Northwestern State","Southeastern Louisiana",2023
 401532428,2023,8,"Ohio","Western Michigan",2023
 401520343,2023,8,"Ohio State","Penn State",2023
 401525871,2023,8,"Oklahoma","UCF",2023
+401531895,2023,8,"Old Dominion","App State",2023
 401531895,2023,8,"Old Dominion","Appalachian State",2023
 401524035,2023,8,"Oregon","Washington State",2023
 401540254,2023,8,"Portland State","Idaho State",2023
+401540525,2023,8,"Presbyterian","Marist",2023
 401540525,2023,8,"Presbyterian College","Marist",2023
 401540342,2023,8,"Princeton","Harvard",2023
 401540270,2023,8,"Sacramento State","Montana State",2023
+401520331,2023,8,"Sam Houston","Florida International",2023
 401520331,2023,8,"Sam Houston State","Florida International",2023
 401540516,2023,8,"San Diego","Drake",2023
 401532601,2023,8,"San Diego State","Nevada",2023
 401532602,2023,8,"San José State","Utah State",2023
+401531892,2023,8,"South Alabama","Southern Miss",2023
 401531892,2023,8,"South Alabama","Southern Mississippi",2023
 401540448,2023,8,"Southern Illinois","South Dakota State",2023
 401540178,2023,8,"Southern Utah","Austin Peay",2023
@@ -1379,6 +1443,7 @@
 401540531,2023,8,"Stony Brook","New Hampshire",2023
 401540216,2023,8,"Tarleton State","Morehead State",2023
 401531391,2023,8,"Temple","SMU",2023
+401540630,2023,8,"Tennessee State","Lincoln (CA)",2023
 401540630,2023,8,"Tennessee State","Lincoln University (CA)",2023
 401540500,2023,8,"Tennessee Tech","Southeast Missouri State",2023
 401540440,2023,8,"Texas A&M-Commerce","Nicholls",2023
@@ -1386,6 +1451,8 @@
 401531372,2023,8,"Tulane","North Texas",2023
 401531341,2023,8,"Tulsa","Rice",2023
 401531382,2023,8,"UAB","Memphis",2023
+401540571,2023,8,"UAlbany","Rhode Island",2023
+401520344,2023,8,"UConn","South Florida",2023
 401532599,2023,8,"UNLV","Colorado State",2023
 401524037,2023,8,"USC","Utah",2023
 401540475,2023,8,"UT Martin","Charleston Southern",2023
@@ -1401,6 +1468,7 @@
 401540105,2023,8,"Youngstown State","Illinois State",2023
 401532598,2023,7,"Air Force","Wyoming",2023
 401520316,2023,7,"Alabama","Arkansas",2023
+401531888,2023,7,"App State","Coastal Carolina",2023
 401531888,2023,7,"Appalachian State","Coastal Carolina",2023
 401520317,2023,7,"Army","Troy",2023
 401540177,2023,7,"Austin Peay","Gardner-Webb",2023
@@ -1419,6 +1487,7 @@
 401532593,2023,7,"Colorado State","Boise State",2023
 401541633,2023,7,"Columbia","Pennsylvania",2023
 401540051,2023,7,"Cornell","Bucknell",2023
+401540510,2023,7,"Dayton","Presbyterian",2023
 401540510,2023,7,"Dayton","Presbyterian College",2023
 401540325,2023,7,"Delaware","North Carolina A&T",2023
 401540515,2023,7,"Drake","St. Thomas (MN)",2023
@@ -1436,6 +1505,7 @@
 401532595,2023,7,"Hawai'i","San Diego State",2023
 401525862,2023,7,"Houston","West Virginia",2023
 401540168,2023,7,"Houston Christian","Prairie View",2023
+401540168,2023,7,"Houston Christian","Prairie View A&M",2023
 401540246,2023,7,"Idaho","Montana",2023
 401540104,2023,7,"Illinois State","Indiana State",2023
 401540439,2023,7,"Incarnate Word","Texas A&M-Commerce",2023
@@ -1458,7 +1528,9 @@
 401540365,2023,7,"Murray State","Southern Illinois",2023
 401532597,2023,7,"Nevada","UNLV",2023
 401540530,2023,7,"New Hampshire","Albany",2023
+401540530,2023,7,"New Hampshire","UAlbany",2023
 401532596,2023,7,"New Mexico","San José State",2023
+401520315,2023,7,"New Mexico State","Sam Houston",2023
 401520315,2023,7,"New Mexico State","Sam Houston State",2023
 401525526,2023,7,"North Carolina","Miami",2023
 401540372,2023,7,"North Dakota","North Dakota State",2023
@@ -1469,10 +1541,12 @@
 401524031,2023,7,"Notre Dame","USC",2023
 401525864,2023,7,"Oklahoma State","Kansas",2023
 401524032,2023,7,"Oregon State","UCLA",2023
+401520322,2023,7,"Penn State","Massachusetts",2023
 401520322,2023,7,"Penn State","UMass",2023
 401525525,2023,7,"Pittsburgh","Louisville",2023
 401520323,2023,7,"Purdue","Ohio State",2023
 401520324,2023,7,"Rutgers","Michigan State",2023
+401540378,2023,7,"SE Louisiana","Lamar",2023
 401540601,2023,7,"Samford","Furman",2023
 401520325,2023,7,"South Carolina","Florida",2023
 401540442,2023,7,"South Dakota","Youngstown State",2023
@@ -1480,16 +1554,20 @@
 401531420,2023,7,"South Florida","Florida Atlantic",2023
 401540480,2023,7,"Southeast Missouri State","Eastern Illinois",2023
 401540378,2023,7,"Southeastern Louisiana","Lamar",2023
+401540170,2023,7,"Southern","Lincoln (CA)",2023
 401540170,2023,7,"Southern","Lincoln University (CA)",2023
 401540036,2023,7,"St Francis (PA)","Wagner",2023
+401540036,2023,7,"St. Francis (PA)","Wagner",2023
 401540575,2023,7,"Stony Brook","Fordham",2023
 401525865,2023,7,"TCU","BYU",2023
 401520326,2023,7,"Tennessee","Texas A&M",2023
 401539990,2023,7,"Tennessee State","Norfolk State",2023
 401531891,2023,7,"Texas State","Louisiana Monroe",2023
+401531891,2023,7,"Texas State","UL Monroe",2023
 401525866,2023,7,"Texas Tech","Kansas State",2023
 401540619,2023,7,"The Citadel","VMI",2023
 401531381,2023,7,"UT San Antonio","UAB",2023
+401531381,2023,7,"UTSA","UAB",2023
 401524033,2023,7,"Utah","California",2023
 401532594,2023,7,"Utah State","Fresno State",2023
 401540458,2023,7,"Valparaiso","Morehead State",2023
@@ -1537,6 +1615,7 @@
 401540309,2023,6,"Harvard","Cornell",2023
 401520301,2023,6,"Illinois","Nebraska",2023
 401540103,2023,6,"Illinois State","South Dakota State",2023
+401540435,2023,6,"Incarnate Word","SE Louisiana",2023
 401540435,2023,6,"Incarnate Word","Southeastern Louisiana",2023
 401540301,2023,6,"Indiana State","Northern Iowa",2023
 401520302,2023,6,"Iowa","Purdue",2023
@@ -1544,6 +1623,7 @@
 401525860,2023,6,"Kansas","UCF",2023
 401540608,2023,6,"Kennesaw State","Tennessee State",2023
 401540377,2023,6,"Lamar","Northwestern State",2023
+401520296,2023,6,"Liberty","Sam Houston",2023
 401520296,2023,6,"Liberty","Sam Houston State",2023
 401540495,2023,6,"Lindenwood","Tennessee Tech",2023
 401540021,2023,6,"Long Island University","Sacred Heart",2023
@@ -1551,6 +1631,7 @@
 401531885,2023,6,"Louisiana Monroe","South Alabama",2023
 401520295,2023,6,"Louisiana Tech","Western Kentucky",2023
 401525439,2023,6,"Louisville","Notre Dame",2023
+401526837,2023,6,"Massachusetts","Toledo",2023
 401540041,2023,6,"Merrimack","Stonehill",2023
 401525519,2023,6,"Miami","Georgia Tech",2023
 401532416,2023,6,"Miami (OH)","Bowling Green",2023
@@ -1574,24 +1655,31 @@
 401520308,2023,6,"Ole Miss","Arkansas",2023
 401540060,2023,6,"Pennsylvania","Georgetown",2023
 401540165,2023,6,"Prairie View","Mississippi Valley State",2023
+401540165,2023,6,"Prairie View A&M","Mississippi Valley State",2023
+401540556,2023,6,"Presbyterian","Stetson",2023
 401540556,2023,6,"Presbyterian College","Stetson",2023
 401540074,2023,6,"Princeton","Lafayette",2023
 401520309,2023,6,"Rice","Connecticut",2023
+401520309,2023,6,"Rice","UConn",2023
 401540491,2023,6,"Richmond","Maine",2023
 401540364,2023,6,"South Dakota","Murray State",2023
 401540151,2023,6,"Southern","Florida A&M",2023
+401531886,2023,6,"Southern Miss","Old Dominion",2023
 401531886,2023,6,"Southern Mississippi","Old Dominion",2023
 401540563,2023,6,"St. Thomas (MN)","Butler",2023
 401540208,2023,6,"Tarleton State","Southern Utah",2023
 401531389,2023,6,"Temple","UT San Antonio",2023
+401531389,2023,6,"Temple","UTSA",2023
 401525861,2023,6,"Texas","Oklahoma",2023
 401520310,2023,6,"Texas A&M","Alabama",2023
 401540392,2023,6,"Texas A&M-Commerce","McNeese",2023
 401540578,2023,6,"Towson","Albany",2023
+401540578,2023,6,"Towson","UAlbany",2023
 401531887,2023,6,"Troy","Arkansas State",2023
 401531380,2023,6,"UAB","South Florida",2023
 401540261,2023,6,"UC Davis","Montana",2023
 401524028,2023,6,"UCLA","Washington State",2023
+401531885,2023,6,"UL Monroe","South Alabama",2023
 401526837,2023,6,"UMass","Toledo",2023
 401524025,2023,6,"USC","Arizona",2023
 401532590,2023,6,"Utah State","Colorado State",2023
@@ -1614,6 +1702,7 @@
 401525851,2023,5,"BYU","Cincinnati",2023
 401525513,2023,5,"Boston College","Virginia",2023
 401540005,2023,5,"Brown","Central Connecticut",2023
+401540555,2023,5,"Butler","Presbyterian",2023
 401540555,2023,5,"Butler","Presbyterian College",2023
 401540228,2023,5,"Cal Poly","UC Davis",2023
 401524022,2023,5,"California","Arizona State",2023
@@ -1626,6 +1715,7 @@
 401540400,2023,5,"Davidson","San Diego",2023
 401540468,2023,5,"Dayton","St. Thomas (MN)",2023
 401539972,2023,5,"Delaware State","Virginia Lynchburg",2023
+401539972,2023,5,"Delaware State","Virginia University Of Lynchburg",2023
 401525438,2023,5,"Duke","Notre Dame",2023
 401540238,2023,5,"Eastern Washington","Idaho",2023
 401540412,2023,5,"Elon","William & Mary",2023
@@ -1648,6 +1738,7 @@
 401540522,2023,5,"Marist","Stetson",2023
 401531881,2023,5,"Marshall","Old Dominion",2023
 401520283,2023,5,"Maryland","Indiana",2023
+401526836,2023,5,"Massachusetts","Arkansas State",2023
 401540391,2023,5,"McNeese","Nicholls",2023
 401531429,2023,5,"Memphis","Boise State",2023
 401540611,2023,5,"Mercer","VMI",2023
@@ -1676,35 +1767,44 @@
 401524020,2023,5,"Oregon State","Utah",2023
 401540335,2023,5,"Pennsylvania","Dartmouth",2023
 401540158,2023,5,"Prairie View","Grambling",2023
+401540158,2023,5,"Prairie View A&M","Grambling",2023
 401541632,2023,5,"Princeton","Columbia",2023
 401520289,2023,5,"Purdue","Illinois",2023
 401531414,2023,5,"Rice","East Carolina",2023
 401534852,2023,5,"Robert Morris","Howard",2023
 401520290,2023,5,"Rutgers","Wagner",2023
+401540215,2023,5,"SE Louisiana","Tarleton State",2023
 401531404,2023,5,"SMU","Charlotte",2023
 401540273,2023,5,"Sacramento State","Northern Arizona",2023
 401540030,2023,5,"Sacred Heart","Merrimack",2023
+401520276,2023,5,"Sam Houston","Jacksonville State",2023
 401520276,2023,5,"Sam Houston State","Jacksonville State",2023
 401540591,2023,5,"Samford","East Tennessee State",2023
 401540370,2023,5,"South Dakota State","North Dakota",2023
 401540215,2023,5,"Southeastern Louisiana","Tarleton State",2023
 401540347,2023,5,"Southern Illinois","Missouri State",2023
+401531883,2023,5,"Southern Miss","Texas State",2023
 401531883,2023,5,"Southern Mississippi","Texas State",2023
 401540186,2023,5,"Southern Utah","Central Arkansas",2023
 401524024,2023,5,"Stanford","Oregon",2023
 401540438,2023,5,"Stephen F. Austin","Texas A&M-Commerce",2023
 401540035,2023,5,"Stonehill","St Francis (PA)",2023
+401540035,2023,5,"Stonehill","St. Francis (PA)",2023
 401525514,2023,5,"Syracuse","Clemson",2023
 401525853,2023,5,"TCU","West Virginia",2023
 401520291,2023,5,"Tennessee","South Carolina",2023
 401525854,2023,5,"Texas","Kansas",2023
+401540172,2023,5,"Texas Southern","Lincoln (CA)",2023
 401540172,2023,5,"Texas Southern","Lincoln University (CA)",2023
 401525855,2023,5,"Texas Tech","Houston",2023
 401540618,2023,5,"The Citadel","Western Carolina",2023
 401532411,2023,5,"Toledo","Northern Illinois",2023
 401531370,2023,5,"Tulane","UAB",2023
 401531339,2023,5,"Tulsa","Temple",2023
+401540606,2023,5,"UAlbany","Villanova",2023
 401525856,2023,5,"UCF","Baylor",2023
+401520292,2023,5,"UConn","Utah State",2023
+401531882,2023,5,"UL Monroe","App State",2023
 401526836,2023,5,"UMass","Arkansas State",2023
 401532586,2023,5,"UNLV","Hawai'i",2023
 401540542,2023,5,"UT Martin","Tennessee State",2023
@@ -1719,7 +1819,9 @@
 401520250,2023,4,"Alabama","Ole Miss",2023
 401540087,2023,4,"Alabama A&M","Arkansas-Pine Bluff",2023
 401540126,2023,4,"Alcorn State","Prairie View",2023
+401540126,2023,4,"Alcorn State","Prairie View A&M",2023
 401524014,2023,4,"Arizona State","USC",2023
+401531874,2023,4,"Arkansas State","Southern Miss",2023
 401531874,2023,4,"Arkansas State","Southern Mississippi",2023
 401531871,2023,4,"Ball State","Georgia Southern",2023
 401525844,2023,4,"Baylor","Texas",2023
@@ -1732,6 +1834,7 @@
 401540058,2023,4,"Columbia","Georgetown",2023
 401520272,2023,4,"Connecticut","Duke",2023
 401540081,2023,4,"Dartmouth","Lehigh",2023
+401540399,2023,4,"Davidson","Laurinburg",2023
 401540399,2023,4,"Davidson","St. Andrews",2023
 401540324,2023,4,"Delaware","New Hampshire",2023
 401531413,2023,4,"East Carolina","Gardner-Webb",2023
@@ -1747,6 +1850,7 @@
 401540291,2023,4,"Harvard","Brown",2023
 401520253,2023,4,"Hawai'i","New Mexico State",2023
 401540067,2023,4,"Holy Cross","Colgate",2023
+401520254,2023,4,"Houston","Sam Houston",2023
 401520254,2023,4,"Houston","Sam Houston State",2023
 401540245,2023,4,"Idaho","Sacramento State",2023
 401520255,2023,4,"Illinois","Florida Atlantic",2023
@@ -1760,10 +1864,12 @@
 401525848,2023,4,"Kansas State","UCF",2023
 401520258,2023,4,"LSU","Arkansas",2023
 401540073,2023,4,"Lafayette","Monmouth",2023
+401540376,2023,4,"Lamar","Lincoln (CA)",2023
 401540376,2023,4,"Lamar","Lincoln University (CA)",2023
 401531875,2023,4,"Louisiana","Buffalo",2023
 401525506,2023,4,"Louisville","Boston College",2023
 401525511,2023,4,"Marshall","Virginia Tech",2023
+401526835,2023,4,"Massachusetts","New Mexico",2023
 401532408,2023,4,"Miami (OH)","Delaware State",2023
 401520260,2023,4,"Michigan","Rutgers",2023
 401520261,2023,4,"Michigan State","Maryland",2023
@@ -1785,6 +1891,8 @@
 401540422,2023,4,"Princeton","Bryant",2023
 401520266,2023,4,"Purdue","Wisconsin",2023
 401540499,2023,4,"Robert Morris","Virginia Lynchburg",2023
+401540499,2023,4,"Robert Morris","Virginia University Of Lynchburg",2023
+401540356,2023,4,"SE Louisiana","Houston Christian",2023
 401540583,2023,4,"Samford","Chattanooga",2023
 401540467,2023,4,"San Diego","Dayton",2023
 401532583,2023,4,"San Diego State","Boise State",2023
@@ -1795,6 +1903,7 @@
 401540356,2023,4,"Southeastern Louisiana","Houston Christian",2023
 401540207,2023,4,"Southern Utah","Western Illinois",2023
 401540029,2023,4,"St Francis (PA)","Sacred Heart",2023
+401540029,2023,4,"St. Francis (PA)","Sacred Heart",2023
 401540529,2023,4,"St. Thomas (MN)","Morehead State",2023
 401524016,2023,4,"Stanford","Arizona",2023
 401540175,2023,4,"Stephen F. Austin","Austin Peay",2023
@@ -1804,6 +1913,7 @@
 401540214,2023,4,"Tarleton State","Southwest Baptist",2023
 401525509,2023,4,"Temple","Miami",2023
 401520269,2023,4,"Tennessee","UT San Antonio",2023
+401520269,2023,4,"Tennessee","UTSA",2023
 401540535,2023,4,"Tennessee Tech","Kennesaw State",2023
 401520270,2023,4,"Texas A&M","Auburn",2023
 401531877,2023,4,"Texas State","Nevada",2023
@@ -1812,6 +1922,7 @@
 401520271,2023,4,"Troy","Western Kentucky",2023
 401531349,2023,4,"Tulane","Nicholls",2023
 401540237,2023,4,"UC Davis","Eastern Washington",2023
+401520272,2023,4,"UConn","Duke",2023
 401526835,2023,4,"UMass","New Mexico",2023
 401520273,2023,4,"UTEP","UNLV",2023
 401524017,2023,4,"Utah","UCLA",2023
@@ -1828,11 +1939,13 @@
 401525850,2023,4,"West Virginia","Texas Tech",2023
 401540472,2023,4,"Western Carolina","Charleston Southern",2023
 401540489,2023,4,"William & Mary","Maine",2023
+401531870,2023,4,"Wyoming","App State",2023
 401531870,2023,4,"Wyoming","Appalachian State",2023
 401540307,2023,4,"Yale","Cornell",2023
 401541630,2023,3,"Abilene Christian","Incarnate Word",2023
 401532581,2023,3,"Air Force","Utah State",2023
 401540389,2023,3,"Alcorn State","McNeese",2023
+401531412,2023,3,"App State","East Carolina",2023
 401531412,2023,3,"Appalachian State","East Carolina",2023
 401520219,2023,3,"Arizona","UTEP",2023
 401524005,2023,3,"Arizona State","Fresno State",2023
@@ -1860,10 +1973,13 @@
 401524007,2023,3,"Colorado","Colorado State",2023
 401520246,2023,3,"Connecticut","Florida International",2023
 401540034,2023,3,"Delaware","St Francis (PA)",2023
+401540034,2023,3,"Delaware","St. Francis (PA)",2023
 401520223,2023,3,"Duke","Northwestern",2023
 401540101,2023,3,"Eastern Illinois","Illinois State",2023
 401540192,2023,3,"Eastern Kentucky","Western Carolina",2023
+401526834,2023,3,"Eastern Michigan","Massachusetts",2023
 401526834,2023,3,"Eastern Michigan","UMass",2023
+401540236,2023,3,"Eastern Washington","SE Louisiana",2023
 401540236,2023,3,"Eastern Washington","Southeastern Louisiana",2023
 401540411,2023,3,"Elon","North Carolina A&T",2023
 401520224,2023,3,"Florida","Tennessee",2023
@@ -1886,6 +2002,7 @@
 401520231,2023,3,"Maryland","Virginia",2023
 401531428,2023,3,"Memphis","Navy",2023
 401544199,2023,3,"Merrimack","Virginia Lynchburg",2023
+401544199,2023,3,"Merrimack","Virginia University Of Lynchburg",2023
 401525499,2023,3,"Miami","Bethune-Cookman",2023
 401520232,2023,3,"Michigan","Bowling Green",2023
 401520233,2023,3,"Michigan State","Washington",2023
@@ -1910,6 +2027,7 @@
 401520240,2023,3,"Ohio State","Western Kentucky",2023
 401525839,2023,3,"Oklahoma State","South Alabama",2023
 401525504,2023,3,"Old Dominion","Wake Forest",2023
+401520241,2023,3,"Ole Miss","Georgia Tech",2023
 401524008,2023,3,"Oregon","Hawai'i",2023
 401524009,2023,3,"Oregon State","San Diego State",2023
 401540283,2023,3,"Portland State","North American University",2023
@@ -1918,18 +2036,22 @@
 401539971,2023,3,"Richmond","Delaware State",2023
 401520243,2023,3,"Rutgers","Virginia Tech",2023
 401531438,2023,3,"SMU","Prairie View",2023
+401531438,2023,3,"SMU","Prairie View A&M",2023
 401540044,2023,3,"Sacred Heart","Wagner",2023
 401540559,2023,3,"San Diego","Princeton",2023
 401540375,2023,3,"South Dakota","Lamar",2023
 401540464,2023,3,"South Dakota State","Drake",2023
 401520244,2023,3,"South Florida","Alabama",2023
 401540446,2023,3,"Southeast Missouri State","Southern Illinois",2023
+401531348,2023,3,"Southern Miss","Tulane",2023
 401531348,2023,3,"Southern Mississippi","Tulane",2023
+401524010,2023,3,"Stanford","Sacramento State",2023
 401531388,2023,3,"Temple","Norfolk State",2023
 401540484,2023,3,"Tennessee State","Gardner-Webb",2023
 401540202,2023,3,"Tennessee Tech","North Alabama",2023
 401525840,2023,3,"Texas","Wyoming",2023
 401520245,2023,3,"Texas A&M","Louisiana Monroe",2023
+401520245,2023,3,"Texas A&M","UL Monroe",2023
 401531847,2023,3,"Texas State","Jackson State",2023
 401525841,2023,3,"Texas Tech","Tarleton State",2023
 401532403,2023,3,"Toledo","San José State",2023
@@ -1939,14 +2061,17 @@
 401540206,2023,3,"UC Davis","Southern Utah",2023
 401525843,2023,3,"UCF","Villanova",2023
 401524011,2023,3,"UCLA","North Carolina Central",2023
+401520246,2023,3,"UConn","Florida International",2023
 401520247,2023,3,"UNLV","Vanderbilt",2023
 401540355,2023,3,"UT Martin","Houston Christian",2023
 401531396,2023,3,"UT San Antonio","Army",2023
+401531396,2023,3,"UTSA","Army",2023
 401524012,2023,3,"Utah","Weber State",2023
 401524013,2023,3,"Washington State","Northern Colorado",2023
 401525503,2023,3,"West Virginia","Pittsburgh",2023
 401540450,2023,3,"Western Illinois","Lindenwood",2023
 401520249,2023,3,"Wisconsin","Georgia Southern",2023
+401540554,2023,3,"Wofford","Presbyterian",2023
 401540554,2023,3,"Wofford","Presbyterian College",2023
 401540066,2023,3,"Yale","Holy Cross",2023
 401540452,2023,3,"Youngstown State","Robert Morris",2023
@@ -1966,6 +2091,7 @@
 401532400,2023,2,"Bowling Green","Eastern Illinois",2023
 401540020,2023,2,"Bryant","Long Island University",2023
 401540047,2023,2,"Bucknell","VMI",2023
+401532401,2023,2,"Buffalo","Fordham",2023
 401541636,2023,2,"Butler","Taylor",2023
 401520186,2023,2,"California","Auburn",2023
 401540183,2023,2,"Central Arkansas","Texas College",2023
@@ -1983,14 +2109,17 @@
 401520190,2023,2,"Florida","McNeese",2023
 401531419,2023,2,"Florida Atlantic","Ohio",2023
 401520189,2023,2,"Florida International","North Texas",2023
+401525493,2023,2,"Florida State","Southern Miss",2023
 401525493,2023,2,"Florida State","Southern Mississippi",2023
 401532574,2023,2,"Fresno State","Eastern Washington",2023
 401540028,2023,2,"Georgetown","Sacred Heart",2023
 401520191,2023,2,"Georgia","Ball State",2023
 401531378,2023,2,"Georgia Southern","UAB",2023
 401520192,2023,2,"Georgia State","Connecticut",2023
+401520192,2023,2,"Georgia State","UConn",2023
 401525494,2023,2,"Georgia Tech","South Carolina State",2023
 401532575,2023,2,"Hawai'i","Albany",2023
+401532575,2023,2,"Hawai'i","UAlbany",2023
 401534850,2023,2,"Howard","Morehouse",2023
 401520193,2023,2,"Indiana","Indiana State",2023
 401520194,2023,2,"Iowa State","Iowa",2023
@@ -2003,6 +2132,7 @@
 401520197,2023,2,"Louisiana Tech","Northwestern State",2023
 401525469,2023,2,"Louisville","Murray State",2023
 401520200,2023,2,"Maryland","Charlotte",2023
+401526833,2023,2,"Massachusetts","Miami (OH)",2023
 401540528,2023,2,"Mercer","Morehead State",2023
 401540079,2023,2,"Merrimack","Lehigh",2023
 401520201,2023,2,"Miami","Texas A&M",2023
@@ -2015,6 +2145,7 @@
 401531432,2023,2,"Navy","Wagner",2023
 401532576,2023,2,"Nevada","Idaho",2023
 401532577,2023,2,"New Mexico","Tennessee Tech",2023
+401525495,2023,2,"North Carolina","App State",2023
 401525495,2023,2,"North Carolina","Appalachian State",2023
 401539994,2023,2,"North Carolina A&T","North Carolina Central",2023
 401540272,2023,2,"North Dakota","Northern Arizona",2023
@@ -2030,15 +2161,19 @@
 401520209,2023,2,"Penn State","Delaware",2023
 401525496,2023,2,"Pittsburgh","Cincinnati",2023
 401540167,2023,2,"Prairie View","Abilene Christian",2023
+401540553,2023,2,"Presbyterian","Virginia University Of Lynchburg",2023
 401540553,2023,2,"Presbyterian College","Virginia Lynchburg",2023
 401525831,2023,2,"Rice","Houston",2023
 401540033,2023,2,"Robert Morris","St Francis (PA)",2023
+401540033,2023,2,"Robert Morris","St. Francis (PA)",2023
 401520210,2023,2,"Rutgers","Temple",2023
 401540286,2023,2,"Sacramento State","Texas A&M-Commerce",2023
+401520211,2023,2,"Sam Houston","Air Force",2023
 401520211,2023,2,"Sam Houston State","Air Force",2023
 401540558,2023,2,"San Diego","Colorado Mesa",2023
 401524001,2023,2,"San Diego State","UCLA",2023
 401532578,2023,2,"San José State","Cal Poly",2023
+401531844,2023,2,"South Alabama","SE Louisiana",2023
 401531844,2023,2,"South Alabama","Southeastern Louisiana",2023
 401520212,2023,2,"South Carolina","Furman",2023
 401540441,2023,2,"South Dakota","St. Thomas (MN)",2023
@@ -2054,10 +2189,12 @@
 401532398,2023,2,"Toledo","Texas Southern",2023
 401540503,2023,2,"Towson","Monmouth",2023
 401520214,2023,2,"Tulane","Ole Miss",2023
+401531843,2023,2,"UL Monroe","Lamar",2023
 401526833,2023,2,"UMass","Miami (OH)",2023
 401524003,2023,2,"USC","Stanford",2023
 401540346,2023,2,"UT Martin","Missouri State",2023
 401531395,2023,2,"UT San Antonio","Texas State",2023
+401531395,2023,2,"UTSA","Texas State",2023
 401532579,2023,2,"Utah State","Idaho State",2023
 401540220,2023,2,"Utah Tech","Montana",2023
 401540605,2023,2,"Villanova","Colgate",2023
@@ -2078,12 +2215,16 @@
 401520149,2023,1,"Alabama","Middle Tennessee",2023
 401540115,2023,1,"Alabama State","Southern",2023
 401540628,2023,1,"Albany","Fordham",2023
+401531835,2023,1,"App State","Gardner-Webb",2023
+401551731,2023,1,"App State","Miami (OH)",2023
 401531835,2023,1,"Appalachian State","Gardner-Webb",2023
 401551731,2023,1,"Appalachian State","Miami (OH)",2023
 401523989,2023,1,"Arizona","Northern Arizona",2023
 401523987,2023,1,"Arizona State","Southern Utah",2023
 401520150,2023,1,"Arkansas","Western Carolina",2023
+401520151,2023,1,"Auburn","Massachusetts",2023
 401520151,2023,1,"Auburn","UMass",2023
+401520152,2023,1,"BYU","Sam Houston",2023
 401520152,2023,1,"BYU","Sam Houston State",2023
 401525817,2023,1,"Baylor","Texas State",2023
 401551752,2023,1,"Boise State","UCLA",2023
@@ -2095,6 +2236,7 @@
 401531402,2023,1,"Charlotte","South Carolina State",2023
 401525818,2023,1,"Cincinnati","Eastern Kentucky",2023
 401618100,2023,1,"Colorado Mines","Harding",2023
+401618100,2023,1,"Colorado School Of Mines","Harding University",2023
 401523990,2023,1,"Colorado State","Washington State",2023
 401520174,2023,1,"Connecticut","NC State",2023
 401525468,2023,1,"Duke","Clemson",2023
@@ -2119,6 +2261,7 @@
 401523988,2023,1,"Hawai'i","Stanford",2023
 401540065,2023,1,"Holy Cross","Merrimack",2023
 401525819,2023,1,"Houston","UT San Antonio",2023
+401525819,2023,1,"Houston","UTSA",2023
 401540354,2023,1,"Houston Christian","Arkansas Baptist",2023
 401520155,2023,1,"Illinois","Toledo",2023
 401540099,2023,1,"Illinois State","Dayton",2023
@@ -2147,7 +2290,9 @@
 401520175,2023,1,"Louisiana Monroe","Army",2023
 401520146,2023,1,"Louisiana Tech","Florida International",2023
 401531838,2023,1,"Marshall","Albany",2023
+401531838,2023,1,"Marshall","UAlbany",2023
 401551735,2023,1,"Marshall","UT San Antonio",2023
+401551735,2023,1,"Marshall","UTSA",2023
 401551770,2023,1,"Maryland","Auburn",2023
 401520161,2023,1,"Maryland","Towson",2023
 401540213,2023,1,"McNeese","Tarleton State",2023
@@ -2161,13 +2306,16 @@
 401520163,2023,1,"Michigan State","Central Michigan",2023
 401551756,2023,1,"Minnesota","Bowling Green",2023
 401520148,2023,1,"Minnesota","Nebraska",2023
+401520164,2023,1,"Mississippi State","SE Louisiana",2023
 401520164,2023,1,"Mississippi State","Southeastern Louisiana",2023
 401520165,2023,1,"Missouri","South Dakota",2023
 401540258,2023,1,"Montana","Butler",2023
 401618099,2023,1,"Montana","North Dakota State",2023
 401540219,2023,1,"Montana State","Utah Tech",2023
 401540527,2023,1,"Morehead State","West Virginia State",2023
+401540363,2023,1,"Murray State","Presbyterian",2023
 401540363,2023,1,"Murray State","Presbyterian College",2023
+401525450,2023,1,"New Mexico State","Massachusetts",2023
 401525450,2023,1,"New Mexico State","UMass",2023
 401520166,2023,1,"New Mexico State","Western Illinois",2023
 401540285,2023,1,"Nicholls","Sacramento State",2023
@@ -2176,6 +2324,7 @@
 401520167,2023,1,"North Carolina","South Carolina",2023
 401539993,2023,1,"North Carolina Central","Winston-Salem",2023
 401618101,2023,1,"North Central","SUNY Cortland",2023
+401618101,2023,1,"North Central College","Cortland",2023
 401540369,2023,1,"North Dakota","Drake",2023
 401540235,2023,1,"North Dakota State","Eastern Washington",2023
 401523991,2023,1,"North Texas","California",2023
@@ -2211,8 +2360,10 @@
 401532573,2023,1,"San José State","Oregon State",2023
 401618179,2023,1,"South Dakota State","Albany",2023
 401555031,2023,1,"South Dakota State","Montana",2023
+401618179,2023,1,"South Dakota State","UAlbany",2023
 401540463,2023,1,"South Dakota State","Western Oregon",2023
 401540173,2023,1,"Southern Illinois","Austin Peay",2023
+401531840,2023,1,"Southern Miss","Alcorn State",2023
 401531840,2023,1,"Southern Mississippi","Alcorn State",2023
 401540562,2023,1,"St. Thomas (MN)","Black Hills State",2023
 401540565,2023,1,"Stetson","St. Thomas University (Fl)",2023
@@ -2226,15 +2377,19 @@
 401525824,2023,1,"Texas","Rice",2023
 401520173,2023,1,"Texas A&M","New Mexico",2023
 401540166,2023,1,"Texas Southern","Prairie View",2023
+401540166,2023,1,"Texas Southern","Prairie View A&M",2023
 401551753,2023,1,"Texas Tech","California",2023
 401531841,2023,1,"Troy","Stephen F. Austin",2023
 401531347,2023,1,"Tulane","South Alabama",2023
 401551758,2023,1,"Tulane","Virginia Tech",2023
 401531337,2023,1,"Tulsa","Arkansas-Pine Bluff",2023
 401531377,2023,1,"UAB","North Carolina A&T",2023
+401540628,2023,1,"UAlbany","Fordham",2023
 401551754,2023,1,"UCF","Georgia Tech",2023
 401525816,2023,1,"UCF","Kent State",2023
 401523995,2023,1,"UCLA","Coastal Carolina",2023
+401520174,2023,1,"UConn","NC State",2023
+401520175,2023,1,"UL Monroe","Army",2023
 401532572,2023,1,"UNLV","Bryant",2023
 401551757,2023,1,"UNLV","Kansas",2023
 401581109,2023,1,"USC","Louisville",2023
@@ -2253,6 +2408,7 @@
 401551761,2023,1,"West Virginia","North Carolina",2023
 401520181,2023,1,"Western Kentucky","South Florida",2023
 401532393,2023,1,"Western Michigan","St Francis (PA)",2023
+401532393,2023,1,"Western Michigan","St. Francis (PA)",2023
 401520180,2023,1,"Wisconsin","Buffalo",2023
 401525825,2023,1,"Wyoming","Texas Tech",2023
 401554566,2023,1,"Wyoming","Toledo",2023
