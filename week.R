@@ -6,11 +6,30 @@ library(readr)
 library(purrr)
 library(arrow)
 library(glue)
+library(optparse)
 
+
+option_list <- list(
+  make_option(c("-s", "--start_year"),
+    action = "store",
+    default = cfbfastR:::most_recent_cfb_season(),
+    type = "integer",
+    help = "Start year of the seasons to process"
+  ),
+  make_option(c("-e", "--end_year"),
+    action = "store",
+    default = cfbfastR:::most_recent_cfb_season(),
+    type = "integer",
+    help = "End year of the seasons to process"
+  )
+)
+opt <- parse_args(OptionParser(option_list = option_list))
+options(stringsAsFactors = FALSE)
+options(scipen = 999)
 
 # Play-by-Play Data Pull --------------------------------------------------
 week_vector <- 1:15
-year_vector <- 2024
+year_vector <- opt$s:opt$e
 
 current_season <- year_vector[length(year_vector)] # in case year_vector is actually a vector, grab last year
 version <- packageVersion("cfbfastR")
