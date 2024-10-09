@@ -5019,6 +5019,7 @@
 401249884,2020,15,"Eastern Michigan","Northern Illinois",2020
 401251100,2020,15,"Florida","LSU",2020
 401266694,2020,15,"Florida State","Duke",2020
+401215309,2020,15,"Georgia Southern","App State",2020
 401215309,2020,15,"Georgia Southern","Appalachian State",2020
 401261245,2020,15,"Georgia Tech","Pittsburgh",2020
 401249038,2020,15,"Hawai'i","UNLV",2020
@@ -5036,6 +5037,7 @@
 401247346,2020,15,"Penn State","Michigan State",2020
 401257815,2020,15,"Rice","UAB",2020
 401249037,2020,15,"San José State","Nevada",2020
+401257813,2020,15,"Southern Miss","Florida Atlantic",2020
 401257813,2020,15,"Southern Mississippi","Florida Atlantic",2020
 401266711,2020,15,"TCU","Louisiana Tech",2020
 401249883,2020,15,"Toledo","Central Michigan",2020
@@ -5046,10 +5048,12 @@
 401234572,2020,15,"Virginia Tech","Virginia",2020
 401249035,2020,15,"Wyoming","Boise State",2020
 401249881,2020,14,"Akron","Bowling Green",2020
+401252117,2020,14,"App State","Louisiana",2020
 401252117,2020,14,"Appalachian State","Louisiana",2020
 401249426,2020,14,"Arizona","Colorado",2020
 401249425,2020,14,"Arizona State","UCLA",2020
 401262493,2020,14,"Arkansas State","Louisiana Monroe",2020
+401262493,2020,14,"Arkansas State","UL Monroe",2020
 401237150,2020,14,"Auburn","Texas A&M",2020
 401249423,2020,14,"California","Oregon",2020
 401249878,2020,14,"Central Michigan","Ball State",2020
@@ -5093,6 +5097,7 @@
 401247338,2020,14,"Wisconsin","Indiana",2020
 401249892,2020,13,"Akron","Miami (OH)",2020
 401237142,2020,13,"Alabama","Auburn",2020
+401215336,2020,13,"App State","Troy",2020
 401215336,2020,13,"Appalachian State","Troy",2020
 401215337,2020,13,"Arkansas State","South Alabama",2020
 401236028,2020,13,"Baylor","Kansas State",2020
@@ -5110,6 +5115,7 @@
 401247329,2020,13,"Indiana","Maryland",2020
 401247332,2020,13,"Iowa","Nebraska",2020
 401236030,2020,13,"Kansas","TCU",2020
+401251926,2020,13,"Liberty","Massachusetts",2020
 401251926,2020,13,"Liberty","UMass",2020
 401215340,2020,13,"Louisiana Monroe","Louisiana",2020
 401247333,2020,13,"Michigan","Penn State",2020
@@ -5130,8 +5136,10 @@
 401215338,2020,13,"Texas State","Coastal Carolina",2020
 401249873,2020,13,"Toledo","Ball State",2020
 401249421,2020,13,"UCLA","Arizona",2020
+401215340,2020,13,"UL Monroe","Louisiana",2020
 401249028,2020,13,"UNLV","Wyoming",2020
 401207191,2020,13,"UT San Antonio","North Texas",2020
+401207191,2020,13,"UTSA","North Texas",2020
 401249025,2020,13,"Utah State","New Mexico",2020
 401265458,2020,13,"Washington","Utah",2020
 401249875,2020,13,"Western Michigan","Northern Illinois",2020
@@ -5144,8 +5152,10 @@
 401249870,2020,12,"Ball State","Northern Illinois",2020
 401249868,2020,12,"Bowling Green","Buffalo",2020
 401249872,2020,12,"Central Michigan","Western Michigan",2020
+401215333,2020,12,"Coastal Carolina","App State",2020
 401215333,2020,12,"Coastal Carolina","Appalachian State",2020
 401249871,2020,12,"Eastern Michigan","Toledo",2020
+401261674,2020,12,"Florida Atlantic","Massachusetts",2020
 401261674,2020,12,"Florida Atlantic","UMass",2020
 401237139,2020,12,"Georgia","Mississippi State",2020
 401249017,2020,12,"Hawai'i","Boise State",2020
@@ -5168,6 +5178,7 @@
 401247324,2020,12,"Rutgers","Michigan",2020
 401215335,2020,12,"South Alabama","Georgia State",2020
 401237141,2020,12,"South Carolina","Missouri",2020
+401207185,2020,12,"Southern Miss","UTSA",2020
 401207185,2020,12,"Southern Mississippi","UT San Antonio",2020
 401212519,2020,12,"Temple","East Carolina",2020
 401215334,2020,12,"Texas State","Arkansas State",2020
@@ -5180,6 +5191,7 @@
 401248275,2020,12,"Virginia","Abilene Christian",2020
 401249413,2020,12,"Washington","Arizona",2020
 401207181,2020,12,"Western Kentucky","Florida International",2020
+401215328,2020,11,"App State","Georgia State",2020
 401215328,2020,11,"Appalachian State","Georgia State",2020
 401249403,2020,11,"Arizona","USC",2020
 401249865,2020,11,"Ball State","Eastern Michigan",2020
@@ -5215,13 +5227,16 @@
 401207200,2020,11,"Tulane","Army",2020
 401212491,2020,11,"Tulsa","SMU",2020
 401212518,2020,11,"UCF","Temple",2020
+401261454,2020,11,"UCLA","California",2020
 401207179,2020,11,"UT San Antonio","UTEP",2020
+401207179,2020,11,"UTSA","UTEP",2020
 401249013,2020,11,"Utah State","Fresno State",2020
 401257934,2020,11,"Virginia","Louisville",2020
 401234641,2020,11,"Virginia Tech","Miami",2020
 401249404,2020,11,"Washington","Oregon State",2020
 401249405,2020,11,"Washington State","Oregon",2020
 401236024,2020,11,"West Virginia","TCU",2020
+401207178,2020,11,"Western Kentucky","Southern Miss",2020
 401207178,2020,11,"Western Kentucky","Southern Mississippi",2020
 401249866,2020,11,"Western Michigan","Toledo",2020
 401249857,2020,10,"Akron","Western Michigan",2020
@@ -5239,6 +5254,7 @@
 401237125,2020,10,"Georgia","Florida",2020
 401215326,2020,10,"Georgia Southern","Troy",2020
 401215327,2020,10,"Georgia State","Louisiana Monroe",2020
+401215327,2020,10,"Georgia State","UL Monroe",2020
 401249007,2020,10,"Hawai'i","New Mexico",2020
 401247308,2020,10,"Illinois","Minnesota",2020
 401247309,2020,10,"Indiana","Michigan",2020
@@ -5247,8 +5263,10 @@
 401236020,2020,10,"Kansas State","Oklahoma State",2020
 401249856,2020,10,"Kent State","Eastern Michigan",2020
 401253924,2020,10,"Louisiana","Arkansas State",2020
+401251931,2020,10,"Marshall","Massachusetts",2020
 401251931,2020,10,"Marshall","UMass",2020
 401212480,2020,10,"Memphis","South Florida",2020
+401249889,2020,10,"Miami (OH)","Ball State",2020
 401237126,2020,10,"Mississippi State","Vanderbilt",2020
 401234630,2020,10,"NC State","Miami",2020
 401249009,2020,10,"Nevada","Utah State",2020
@@ -5262,11 +5280,13 @@
 401247312,2020,10,"Penn State","Maryland",2020
 401249008,2020,10,"San Diego State","San José State",2020
 401237127,2020,10,"South Carolina","Texas A&M",2020
+401240035,2020,10,"Southern Miss","North Alabama",2020
 401240035,2020,10,"Southern Mississippi","North Alabama",2020
 401234631,2020,10,"Syracuse","Boston College",2020
 401236021,2020,10,"TCU","Texas Tech",2020
 401212490,2020,10,"Temple","SMU",2020
 401236022,2020,10,"Texas","West Virginia",2020
+401215324,2020,10,"Texas State","App State",2020
 401215324,2020,10,"Texas State","Appalachian State",2020
 401249858,2020,10,"Toledo","Bowling Green",2020
 401249006,2020,10,"UNLV","Fresno State",2020
@@ -5282,6 +5302,7 @@
 401234624,2020,9,"Clemson","Boston College",2020
 401234625,2020,9,"Duke","Charlotte",2020
 401237116,2020,9,"Florida","Missouri",2020
+401207162,2020,9,"Florida Atlantic","UTSA",2020
 401249000,2020,9,"Fresno State","Colorado State",2020
 401215321,2020,9,"Georgia Southern","South Alabama",2020
 401215318,2020,9,"Georgia State","Coastal Carolina",2020
@@ -5301,6 +5322,7 @@
 401247306,2020,9,"Penn State","Ohio State",2020
 401247300,2020,9,"Rutgers","Indiana",2020
 401212489,2020,9,"SMU","Navy",2020
+401207166,2020,9,"Southern Miss","Rice",2020
 401207166,2020,9,"Southern Mississippi","Rice",2020
 401234629,2020,9,"Syracuse","Wake Forest",2020
 401237120,2020,9,"Texas A&M","Arkansas",2020
@@ -5308,11 +5330,14 @@
 401236016,2020,9,"Texas Tech","Oklahoma",2020
 401212517,2020,9,"Tulane","Temple",2020
 401212533,2020,9,"Tulsa","East Carolina",2020
+401215319,2020,9,"UL Monroe","App State",2020
 401249002,2020,9,"UNLV","Nevada",2020
 401249004,2020,9,"Utah State","San Diego State",2020
+401237123,2020,9,"Vanderbilt","Ole Miss",2020
 401234628,2020,9,"Virginia","North Carolina",2020
 401236015,2020,9,"West Virginia","Kansas State",2020
 401249001,2020,9,"Wyoming","Hawai'i",2020
+401240642,2020,8,"App State","Arkansas State",2020
 401240642,2020,8,"Appalachian State","Arkansas State",2020
 401240116,2020,8,"Army","Mercer",2020
 401240998,2020,8,"BYU","Texas State",2020
@@ -5326,6 +5351,7 @@
 401247295,2020,8,"Indiana","Penn State",2020
 401236010,2020,8,"Kansas State","Kansas",2020
 401237118,2020,8,"LSU","South Carolina",2020
+401207160,2020,8,"Liberty","Southern Miss",2020
 401207160,2020,8,"Liberty","Southern Mississippi",2020
 401234619,2020,8,"Louisville","Florida State",2020
 401207156,2020,8,"Marshall","Florida Atlantic",2020
@@ -5348,6 +5374,7 @@
 401248996,2020,8,"San Diego State","UNLV",2020
 401248993,2020,8,"San José State","Air Force",2020
 401250784,2020,8,"South Alabama","Louisiana Monroe",2020
+401250784,2020,8,"South Alabama","UL Monroe",2020
 401212479,2020,8,"South Florida","Tulsa",2020
 401236011,2020,8,"TCU","Oklahoma",2020
 401237114,2020,8,"Tennessee","Alabama",2020
@@ -5357,6 +5384,7 @@
 401238036,2020,8,"UAB","Louisiana",2020
 401212524,2020,8,"UCF","Tulane",2020
 401207157,2020,8,"UT San Antonio","Louisiana Tech",2020
+401207157,2020,8,"UTSA","Louisiana Tech",2020
 401234623,2020,8,"Wake Forest","Virginia Tech",2020
 401207102,2020,8,"Western Kentucky","Chattanooga",2020
 401247297,2020,8,"Wisconsin","Illinois",2020
@@ -5365,6 +5393,7 @@
 401215310,2020,7,"Arkansas State","Georgia State",2020
 401212548,2020,7,"East Carolina","Navy",2020
 401234612,2020,7,"Florida State","North Carolina",2020
+401250215,2020,7,"Georgia Southern","Massachusetts",2020
 401250215,2020,7,"Georgia Southern","UMass",2020
 401234610,2020,7,"Georgia Tech","Clemson",2020
 401212551,2020,7,"Houston","BYU",2020
@@ -5385,6 +5414,7 @@
 401212487,2020,7,"Tulane","SMU",2020
 401207153,2020,7,"UAB","Western Kentucky",2020
 401240115,2020,7,"UT San Antonio","Army",2020
+401240115,2020,7,"UTSA","Army",2020
 401234609,2020,7,"Virginia Tech","Boston College",2020
 401234616,2020,7,"Wake Forest","Virginia",2020
 401236007,2020,7,"West Virginia","Kansas",2020
@@ -5392,6 +5422,7 @@
 401240114,2020,6,"Army","The Citadel",2020
 401237101,2020,6,"Auburn","Arkansas",2020
 401240997,2020,6,"BYU","UT San Antonio",2020
+401240997,2020,6,"BYU","UTSA",2020
 401234603,2020,6,"Boston College","Pittsburgh",2020
 401234604,2020,6,"Clemson","Miami",2020
 401207143,2020,6,"Florida International","Middle Tennessee",2020
@@ -5402,6 +5433,7 @@
 401237104,2020,6,"Kentucky","Mississippi State",2020
 401237105,2020,6,"LSU","Missouri",2020
 401207215,2020,6,"Liberty","Louisiana Monroe",2020
+401207215,2020,6,"Liberty","UL Monroe",2020
 401207145,2020,6,"Louisiana Tech","UTEP",2020
 401212515,2020,6,"Navy","Temple",2020
 401234607,2020,6,"North Carolina","Virginia Tech",2020
@@ -5409,6 +5441,7 @@
 401234606,2020,6,"Notre Dame","Florida State",2020
 401236005,2020,6,"Oklahoma","Texas",2020
 401237100,2020,6,"Ole Miss","Alabama",2020
+401212477,2020,6,"South Florida","East Carolina",2020
 401234605,2020,6,"Syracuse","Duke",2020
 401236004,2020,6,"TCU","Kansas State",2020
 401237102,2020,6,"Texas A&M","Florida",2020
@@ -5438,16 +5471,20 @@
 401215305,2020,5,"Louisiana Monroe","Georgia Southern",2020
 401207138,2020,5,"Middle Tennessee","Western Kentucky",2020
 401237094,2020,5,"Mississippi State","Arkansas",2020
+401207139,2020,5,"North Texas","Southern Miss",2020
 401207139,2020,5,"North Texas","Southern Mississippi",2020
 401234600,2020,5,"Pittsburgh","NC State",2020
 401212486,2020,5,"SMU","Memphis",2020
 401237099,2020,5,"Tennessee","Missouri",2020
 401236002,2020,5,"Texas","TCU",2020
 401207141,2020,5,"UAB","UT San Antonio",2020
+401207141,2020,5,"UAB","UTSA",2020
 401212531,2020,5,"UCF","Tulsa",2020
+401215305,2020,5,"UL Monroe","Georgia Southern",2020
 401237098,2020,5,"Vanderbilt","LSU",2020
 401240282,2020,5,"Wake Forest","Campbell",2020
 401235998,2020,5,"West Virginia","Baylor",2020
+401236253,2020,4,"App State","Campbell",2020
 401236253,2020,4,"Appalachian State","Campbell",2020
 401237033,2020,4,"Arkansas","Georgia",2020
 401237034,2020,4,"Auburn","Kentucky",2020
@@ -5461,6 +5498,7 @@
 401215303,2020,4,"Louisiana","Georgia Southern",2020
 401240194,2020,4,"Louisiana Monroe","UTEP",2020
 401232157,2020,4,"Louisiana Tech","Houston Baptist",2020
+401232157,2020,4,"Louisiana Tech","Houston Christian",2020
 401234593,2020,4,"Miami","Florida State",2020
 401236951,2020,4,"Missouri","Alabama",2020
 401235996,2020,4,"Oklahoma","Kansas State",2020
@@ -5470,35 +5508,46 @@
 401212485,2020,4,"SMU","Stephen F. Austin",2020
 401207132,2020,4,"South Alabama","UAB",2020
 401237036,2020,4,"South Carolina","Tennessee",2020
+401234734,2020,4,"Southern Miss","Tulane",2020
 401234734,2020,4,"Southern Mississippi","Tulane",2020
 401234594,2020,4,"Syracuse","Georgia Tech",2020
 401235994,2020,4,"TCU","Iowa State",2020
 401237037,2020,4,"Texas A&M","Vanderbilt",2020
 401235995,2020,4,"Texas Tech","Texas",2020
+401240194,2020,4,"UL Monroe","UTEP",2020
 401207134,2020,4,"UT San Antonio","Middle Tennessee",2020
+401207134,2020,4,"UTSA","Middle Tennessee",2020
 401234638,2020,4,"Virginia","Duke",2020
 401234566,2020,4,"Virginia Tech","NC State",2020
 401212541,2020,3,"Cincinnati","Austin Peay",2020
 401237492,2020,3,"Clemson","The Citadel",2020
 401240126,2020,3,"Coastal Carolina","Campbell",2020
+401234567,2020,3,"Duke","Boston College",2020
 401215301,2020,3,"Georgia State","Louisiana",2020
 401234568,2020,3,"Georgia Tech","UCF",2020
 401215302,2020,3,"Louisiana Monroe","Texas State",2020
 401234569,2020,3,"Louisville","Miami",2020
+401236939,2020,3,"Marshall","App State",2020
 401236939,2020,3,"Marshall","Appalachian State",2020
 401240640,2020,3,"Middle Tennessee","Troy",2020
 401234570,2020,3,"NC State","Wake Forest",2020
+401302348,2020,3,"New Mexico State","Tarleton State",2020
 401207120,2020,3,"North Texas","SMU",2020
 401241282,2020,3,"Notre Dame","South Florida",2020
 401236041,2020,3,"Oklahoma State","Tulsa",2020
 401234571,2020,3,"Pittsburgh","Syracuse",2020
+401207106,2020,3,"Southern Miss","Louisiana Tech",2020
 401207106,2020,3,"Southern Mississippi","Louisiana Tech",2020
 401212522,2020,3,"Tulane","Navy",2020
+401215302,2020,3,"UL Monroe","Texas State",2020
 401240041,2020,3,"UT San Antonio","Stephen F. Austin",2020
 401239885,2020,3,"UTEP","Abilene Christian",2020
+401240041,2020,3,"UTSA","Stephen F. Austin",2020
 401207124,2020,3,"Western Kentucky","Liberty",2020
+401236081,2020,2,"App State","Charlotte",2020
 401236081,2020,2,"Appalachian State","Charlotte",2020
 401240113,2020,2,"Army","Louisiana Monroe",2020
+401240113,2020,2,"Army","UL Monroe",2020
 401234563,2020,2,"Florida State","Georgia Tech",2020
 401215298,2020,2,"Georgia Southern","Campbell",2020
 401236221,2020,2,"Iowa State","Louisiana",2020
@@ -5514,7 +5563,9 @@
 401240039,2020,2,"South Florida","The Citadel",2020
 401236222,2020,2,"Texas","UTEP",2020
 401207113,2020,2,"Texas State","UT San Antonio",2020
+401207113,2020,2,"Texas State","UTSA",2020
 401236039,2020,2,"Texas Tech","Houston Baptist",2020
+401236039,2020,2,"Texas Tech","Houston Christian",2020
 401234562,2020,2,"Wake Forest","Clemson",2020
 401236038,2020,2,"West Virginia","Eastern Kentucky",2020
 401240152,2020,1,"Alabama","Notre Dame",2020
@@ -5541,16 +5592,20 @@
 401234576,2020,1,"Navy","BYU",2020
 401256136,2020,1,"Nevada","Tulane",2020
 401256112,2020,1,"North Carolina","Texas A&M",2020
+401256135,2020,1,"North Texas","App State",2020
 401256135,2020,1,"North Texas","Appalachian State",2020
 401207098,2020,1,"North Texas","Houston Baptist",2020
+401207098,2020,1,"North Texas","Houston Christian",2020
 401256199,2020,1,"Northwestern","Auburn",2020
 401256194,2020,1,"Oklahoma","Florida",2020
 401268773,2020,1,"San José State","Ball State",2020
+401207101,2020,1,"Southern Miss","South Alabama",2020
 401207101,2020,1,"Southern Mississippi","South Alabama",2020
 401212484,2020,1,"Texas State","SMU",2020
 401238035,2020,1,"UAB","Central Arkansas",2020
 401256144,2020,1,"UT San Antonio","Louisiana",2020
 401239884,2020,1,"UTEP","Stephen F. Austin",2020
+401256144,2020,1,"UTSA","Louisiana",2020
 401256152,2020,1,"Wisconsin","Wake Forest",2020
 401132984,2019,15,"Appalachian State","Louisiana",2019
 401132979,2019,15,"Boise State","Hawai'i",2019
