@@ -4033,14 +4033,17 @@
 401387250,2021,14,"California","USC",2021
 401331162,2021,14,"Cincinnati","Houston",2021
 401331447,2021,14,"Iowa","Michigan",2021
+401331161,2021,14,"Louisiana","App State",2021
 401331161,2021,14,"Louisiana","Appalachian State",2021
 401331160,2021,14,"Northern Illinois","Kent State",2021
 401287953,2021,14,"Oklahoma State","Baylor",2021
 401310676,2021,14,"San Diego State","Utah State",2021
 401282156,2021,14,"UT San Antonio","Western Kentucky",2021
+401282156,2021,14,"UTSA","Western Kentucky",2021
 401331159,2021,14,"Utah","Oregon",2021
 401331163,2021,14,"Wake Forest","Pittsburgh",2021
 401310752,2021,13,"Air Force","UNLV",2021
+401309646,2021,13,"App State","Georgia Southern",2021
 401309646,2021,13,"Appalachian State","Georgia Southern",2021
 401309909,2021,13,"Arizona State","Arizona",2021
 401282145,2021,13,"Arkansas","Missouri",2021
@@ -4066,6 +4069,7 @@
 401282150,2021,13,"LSU","Texas A&M",2021
 401286299,2021,13,"Liberty","Army",2021
 401309650,2021,13,"Louisiana","Louisiana Monroe",2021
+401309650,2021,13,"Louisiana","UL Monroe",2021
 401282149,2021,13,"Louisville","Kentucky",2021
 401282272,2021,13,"Marshall","Western Kentucky",2021
 401301053,2021,13,"Memphis","Tulane",2021
@@ -4076,8 +4080,10 @@
 401282699,2021,13,"NC State","North Carolina",2021
 401282761,2021,13,"Nebraska","Iowa",2021
 401310755,2021,13,"New Mexico","Utah State",2021
+401286306,2021,13,"New Mexico State","Massachusetts",2021
 401286306,2021,13,"New Mexico State","UMass",2021
 401282273,2021,13,"North Texas","UT San Antonio",2021
+401282273,2021,13,"North Texas","UTSA",2021
 401309594,2021,13,"Northern Illinois","Western Michigan",2021
 401287951,2021,13,"Oklahoma State","Oklahoma",2021
 401282268,2021,13,"Old Dominion","Charlotte",2021
@@ -4090,6 +4096,7 @@
 401310757,2021,13,"San José State","Fresno State",2021
 401309648,2021,13,"South Alabama","Coastal Carolina",2021
 401282152,2021,13,"South Carolina","Clemson",2021
+401282269,2021,13,"Southern Miss","Florida International",2021
 401282269,2021,13,"Southern Mississippi","Florida International",2021
 401282711,2021,13,"Stanford","Notre Dame",2021
 401282702,2021,13,"Syracuse","Pittsburgh",2021
@@ -4100,12 +4107,15 @@
 401282274,2021,13,"UAB","UTEP",2021
 401301050,2021,13,"UCF","South Florida",2021
 401309907,2021,13,"UCLA","California",2021
+401301052,2021,13,"UConn","Houston",2021
 401309910,2021,13,"USC","BYU",2021
 401309906,2021,13,"Utah","Colorado",2021
 401282703,2021,13,"Virginia","Virginia Tech",2021
 401309905,2021,13,"Washington","Washington State",2021
 401310756,2021,13,"Wyoming","Hawai'i",2021
+401309592,2021,12,"Akron","Kent State",2021
 401282135,2021,12,"Alabama","Arkansas",2021
+401286305,2021,12,"Army","Massachusetts",2021
 401286305,2021,12,"Army","UMass",2021
 401309591,2021,12,"Ball State","Central Michigan",2021
 401310748,2021,12,"Boise State","New Mexico",2021
@@ -4121,6 +4131,7 @@
 401282262,2021,12,"Florida International","North Texas",2021
 401282136,2021,12,"Georgia","Charleston Southern",2021
 401309645,2021,12,"Georgia Southern","BYU",2021
+401309643,2021,12,"Georgia State","Arkansas State",2021
 401310749,2021,12,"Hawai'i","Colorado State",2021
 401301045,2021,12,"Houston","Memphis",2021
 401282732,2021,12,"Indiana","Minnesota",2021
@@ -4128,10 +4139,13 @@
 401287943,2021,12,"Kansas State","Baylor",2021
 401282137,2021,12,"Kentucky","New Mexico State",2021
 401282138,2021,12,"LSU","Louisiana Monroe",2021
+401282138,2021,12,"LSU","UL Monroe",2021
 401286298,2021,12,"Liberty","Louisiana",2021
+401282264,2021,12,"Louisiana Tech","Southern Miss",2021
 401282770,2021,12,"Maryland","Michigan",2021
 401282694,2021,12,"Miami","Virginia Tech",2021
 401308841,2021,12,"Miami (OH)","Bowling Green",2021
+401282265,2021,12,"Middle Tennessee","Old Dominion",2021
 401282140,2021,12,"Mississippi State","Tennessee State",2021
 401282141,2021,12,"Missouri","Florida",2021
 401282695,2021,12,"NC State","Syracuse",2021
@@ -4152,15 +4166,19 @@
 401287945,2021,12,"TCU","Kansas",2021
 401282143,2021,12,"Tennessee","South Alabama",2021
 401282144,2021,12,"Texas A&M","Prairie View",2021
+401282144,2021,12,"Texas A&M","Prairie View A&M",2021
 401287946,2021,12,"Texas Tech","Oklahoma State",2021
+401309642,2021,12,"Troy","App State",2021
 401309642,2021,12,"Troy","Appalachian State",2021
 401301048,2021,12,"Tulane","South Florida",2021
 401301049,2021,12,"Tulsa","Temple",2021
 401286293,2021,12,"UCF","Connecticut",2021
+401286293,2021,12,"UCF","UConn",2021
 401310751,2021,12,"UNLV","San Diego State",2021
 401309904,2021,12,"USC","UCLA",2021
 401282267,2021,12,"UT San Antonio","UAB",2021
 401282266,2021,12,"UTEP","Rice",2021
+401282267,2021,12,"UTSA","UAB",2021
 401309901,2021,12,"Utah","Oregon",2021
 401310750,2021,12,"Utah State","Wyoming",2021
 401309899,2021,12,"Washington State","Arizona",2021
@@ -4168,6 +4186,7 @@
 401282263,2021,12,"Western Kentucky","Florida Atlantic",2021
 401282803,2021,12,"Wisconsin","Nebraska",2021
 401282127,2021,11,"Alabama","New Mexico State",2021
+401309637,2021,11,"App State","South Alabama",2021
 401309637,2021,11,"Appalachian State","South Alabama",2021
 401309896,2021,11,"Arizona","Utah",2021
 401310254,2021,11,"Army","Bucknell",2021
@@ -4177,6 +4196,7 @@
 401309585,2021,11,"Bowling Green","Toledo",2021
 401309586,2021,11,"Central Michigan","Kent State",2021
 401282684,2021,11,"Clemson","Connecticut",2021
+401282684,2021,11,"Clemson","UConn",2021
 401309639,2021,11,"Coastal Carolina","Georgia State",2021
 401310741,2021,11,"Colorado State","Air Force",2021
 401309583,2021,11,"Eastern Michigan","Ohio",2021
@@ -4192,13 +4212,16 @@
 401282254,2021,11,"Louisiana Tech","Charlotte",2021
 401282687,2021,11,"Louisville","Syracuse",2021
 401282257,2021,11,"Marshall","UAB",2021
+401286304,2021,11,"Massachusetts","Maine",2021
 401301042,2021,11,"Memphis","East Carolina",2021
 401308840,2021,11,"Miami (OH)","Buffalo",2021
 401282771,2021,11,"Michigan State","Maryland",2021
+401282255,2021,11,"Middle Tennessee","Florida International",2021
 401282132,2021,11,"Missouri","South Carolina",2021
 401282258,2021,11,"North Texas","UTEP",2021
 401309587,2021,11,"Northern Illinois","Ball State",2021
 401282812,2021,11,"Ohio State","Purdue",2021
+401287940,2021,11,"Oklahoma State","TCU",2021
 401282256,2021,11,"Old Dominion","Florida Atlantic",2021
 401282131,2021,11,"Ole Miss","Texas A&M",2021
 401309895,2021,11,"Oregon","Washington State",2021
@@ -4218,8 +4241,11 @@
 401309641,2021,11,"Troy","Louisiana",2021
 401301044,2021,11,"Tulane","Tulsa",2021
 401309898,2021,11,"UCLA","Colorado",2021
+401309638,2021,11,"UL Monroe","Arkansas State",2021
 401286304,2021,11,"UMass","Maine",2021
+401310745,2021,11,"UNLV","Hawai'i",2021
 401282260,2021,11,"UT San Antonio","Southern Mississippi",2021
+401282260,2021,11,"UTSA","Southern Miss",2021
 401282134,2021,11,"Vanderbilt","Kentucky",2021
 401282688,2021,11,"Virginia","Notre Dame",2021
 401282689,2021,11,"Virginia Tech","Duke",2021
@@ -4233,6 +4259,7 @@
 401309889,2021,10,"Arizona","California",2021
 401309892,2021,10,"Arizona State","USC",2021
 401282121,2021,10,"Arkansas","Mississippi State",2021
+401309633,2021,10,"Arkansas State","App State",2021
 401309633,2021,10,"Arkansas State","Appalachian State",2021
 401309914,2021,10,"BYU","Idaho State",2021
 401282677,2021,10,"Boston College","Virginia Tech",2021
@@ -4255,6 +4282,7 @@
 401309632,2021,10,"Louisiana","Georgia State",2021
 401282680,2021,10,"Louisville","Clemson",2021
 401282768,2021,10,"Maryland","Penn State",2021
+401286303,2021,10,"Massachusetts","Rhode Island",2021
 401301039,2021,10,"Memphis","SMU",2021
 401282681,2021,10,"Miami","Georgia Tech",2021
 401282727,2021,10,"Michigan","Indiana",2021
@@ -4272,22 +4300,26 @@
 401282824,2021,10,"Rutgers","Wisconsin",2021
 401282125,2021,10,"South Carolina","Florida",2021
 401301038,2021,10,"South Florida","Houston",2021
+401282252,2021,10,"Southern Miss","North Texas",2021
 401282252,2021,10,"Southern Mississippi","North Texas",2021
 401309888,2021,10,"Stanford","Utah",2021
 401287936,2021,10,"TCU","Baylor",2021
 401282126,2021,10,"Texas A&M","Auburn",2021
 401309635,2021,10,"Texas State","Louisiana Monroe",2021
+401309635,2021,10,"Texas State","UL Monroe",2021
 401309580,2021,10,"Toledo","Eastern Michigan",2021
 401309636,2021,10,"Troy","South Alabama",2021
 401282250,2021,10,"UAB","Louisiana Tech",2021
 401301036,2021,10,"UCF","Tulane",2021
 401286303,2021,10,"UMass","Rhode Island",2021
 401282253,2021,10,"UTEP","UT San Antonio",2021
+401282253,2021,10,"UTEP","UTSA",2021
 401309890,2021,10,"Washington","Oregon",2021
 401287937,2021,10,"West Virginia","Oklahoma State",2021
 401282251,2021,10,"Western Kentucky","Middle Tennessee",2021
 401309581,2021,10,"Western Michigan","Central Michigan",2021
 401310736,2021,10,"Wyoming","Colorado State",2021
+401309628,2021,9,"App State","UL Monroe",2021
 401309628,2021,9,"Appalachian State","Louisiana Monroe",2021
 401309885,2021,9,"Arizona State","Washington State",2021
 401282116,2021,9,"Auburn","Ole Miss",2021
@@ -4301,15 +4333,18 @@
 401301033,2021,9,"East Carolina","South Florida",2021
 401282117,2021,9,"Florida","Georgia",2021
 401282243,2021,9,"Florida Atlantic","UTEP",2021
+401309630,2021,9,"Georgia Southern","Georgia State",2021
 401282671,2021,9,"Georgia Tech","Virginia Tech",2021
 401301034,2021,9,"Houston","SMU",2021
 401282719,2021,9,"Illinois","Rutgers",2021
 401287930,2021,9,"Kansas State","TCU",2021
+401286297,2021,9,"Liberty","Massachusetts",2021
 401286297,2021,9,"Liberty","UMass",2021
 401309631,2021,9,"Louisiana","Texas State",2021
 401282242,2021,9,"Marshall","Florida International",2021
 401282726,2021,9,"Maryland","Indiana",2021
 401282777,2021,9,"Michigan State","Michigan",2021
+401282245,2021,9,"Middle Tennessee","Southern Miss",2021
 401282245,2021,9,"Middle Tennessee","Southern Mississippi",2021
 401282118,2021,9,"Mississippi State","Kentucky",2021
 401282672,2021,9,"NC State","Louisville",2021
@@ -4343,6 +4378,7 @@
 401310724,2021,8,"Air Force","San Diego State",2021
 401309575,2021,8,"Akron","Buffalo",2021
 401282111,2021,8,"Alabama","Tennessee",2021
+401309623,2021,8,"App State","Coastal Carolina",2021
 401309623,2021,8,"Appalachian State","Coastal Carolina",2021
 401309877,2021,8,"Arizona","Washington",2021
 401282112,2021,8,"Arkansas","Arkansas-Pine Bluff",2021
@@ -4354,6 +4390,8 @@
 401309577,2021,8,"Central Michigan","Northern Illinois",2021
 401282235,2021,8,"Charlotte","Florida Atlantic",2021
 401282239,2021,8,"Connecticut","Middle Tennessee",2021
+401282236,2021,8,"Florida International","Western Kentucky",2021
+401282663,2021,8,"Florida State","Massachusetts",2021
 401282663,2021,8,"Florida State","UMass",2021
 401310727,2021,8,"Fresno State","Nevada",2021
 401309625,2021,8,"Georgia State","Texas State",2021
@@ -4364,6 +4402,7 @@
 401287926,2021,8,"Kansas","Oklahoma",2021
 401309626,2021,8,"Louisiana Monroe","South Alabama",2021
 401282237,2021,8,"Louisiana Tech","UT San Antonio",2021
+401282237,2021,8,"Louisiana Tech","UTSA",2021
 401282664,2021,8,"Louisville","Boston College",2021
 401282665,2021,8,"Miami","NC State",2021
 401282779,2021,8,"Michigan","Northwestern",2021
@@ -4386,6 +4425,8 @@
 401282238,2021,8,"UAB","Rice",2021
 401301026,2021,8,"UCF","Memphis",2021
 401309879,2021,8,"UCLA","Oregon",2021
+401282239,2021,8,"UConn","Middle Tennessee",2021
+401309626,2021,8,"UL Monroe","South Alabama",2021
 401310729,2021,8,"UNLV","San José State",2021
 401310725,2021,8,"Utah State","Colorado State",2021
 401282115,2021,8,"Vanderbilt","Mississippi State",2021
@@ -4409,6 +4450,7 @@
 401287921,2021,7,"Kansas","Texas Tech",2021
 401287922,2021,7,"Kansas State","Iowa State",2021
 401282106,2021,7,"LSU","Florida",2021
+401309620,2021,7,"Louisiana","App State",2021
 401309620,2021,7,"Louisiana","Appalachian State",2021
 401286296,2021,7,"Louisiana Monroe","Liberty",2021
 401301022,2021,7,"Memphis","Navy",2021
@@ -4429,14 +4471,18 @@
 401309621,2021,7,"South Alabama","Georgia Southern",2021
 401282109,2021,7,"South Carolina","Vanderbilt",2021
 401301024,2021,7,"South Florida","Tulsa",2021
+401282234,2021,7,"Southern Miss","UAB",2021
 401282234,2021,7,"Southern Mississippi","UAB",2021
 401282657,2021,7,"Syracuse","Clemson",2021
 401282110,2021,7,"Tennessee","Ole Miss",2021
 401287924,2021,7,"Texas","Oklahoma State",2021
 401309622,2021,7,"Texas State","Troy",2021
+401286192,2021,7,"UConn","Yale",2021
+401286296,2021,7,"UL Monroe","Liberty",2021
 401310720,2021,7,"UNLV","Utah State",2021
 401282233,2021,7,"UT San Antonio","Rice",2021
 401282230,2021,7,"UTEP","Louisiana Tech",2021
+401282233,2021,7,"UTSA","Rice",2021
 401309876,2021,7,"Utah","Arizona State",2021
 401282660,2021,7,"Virginia","Duke",2021
 401282661,2021,7,"Virginia Tech","Pittsburgh",2021
@@ -4452,6 +4498,7 @@
 401282097,2021,6,"Auburn","Georgia",2021
 401309913,2021,6,"BYU","Boise State",2021
 401287917,2021,6,"Baylor","West Virginia",2021
+401309566,2021,6,"Bowling Green","Akron",2021
 401301018,2021,6,"Cincinnati","Temple",2021
 401310715,2021,6,"Colorado State","San José State",2021
 401282652,2021,6,"Duke","Georgia Tech",2021
@@ -4466,6 +4513,8 @@
 401309618,2021,6,"Louisiana Monroe","Georgia State",2021
 401282653,2021,6,"Louisville","Virginia",2021
 401282226,2021,6,"Marshall","Old Dominion",2021
+401286191,2021,6,"Massachusetts","UConn",2021
+401282101,2021,6,"Missouri","North Texas",2021
 401301021,2021,6,"Navy","SMU",2021
 401282778,2021,6,"Nebraska","Michigan",2021
 401310717,2021,6,"Nevada","New Mexico State",2021
@@ -4475,11 +4524,13 @@
 401282100,2021,6,"Ole Miss","Arkansas",2021
 401282788,2021,6,"Rutgers","Michigan State",2021
 401310716,2021,6,"San Diego State","New Mexico",2021
+401282227,2021,6,"Southern Miss","UTEP",2021
 401282227,2021,6,"Southern Mississippi","UTEP",2021
 401282655,2021,6,"Syracuse","Wake Forest",2021
 401282102,2021,6,"Tennessee","South Carolina",2021
 401287918,2021,6,"Texas","Oklahoma",2021
 401282103,2021,6,"Texas A&M","Alabama",2021
+401309619,2021,6,"Texas State","South Alabama",2021
 401287919,2021,6,"Texas Tech","TCU",2021
 401309564,2021,6,"Toledo","Northern Illinois",2021
 401309617,2021,6,"Troy","Georgia Southern",2021
@@ -4487,11 +4538,13 @@
 401301020,2021,6,"Tulsa","Memphis",2021
 401282225,2021,6,"UAB","Florida Atlantic",2021
 401301019,2021,6,"UCF","East Carolina",2021
+401309618,2021,6,"UL Monroe","Georgia State",2021
 401286191,2021,6,"UMass","Connecticut",2021
 401309871,2021,6,"USC","Utah",2021
 401282656,2021,6,"Virginia Tech","Notre Dame",2021
 401309869,2021,6,"Washington State","Oregon State",2021
 401282228,2021,6,"Western Kentucky","UT San Antonio",2021
+401282228,2021,6,"Western Kentucky","UTSA",2021
 401309563,2021,6,"Western Michigan","Ball State",2021
 401309560,2021,5,"Akron","Ohio",2021
 401282089,2021,5,"Alabama","Ole Miss",2021
@@ -4501,12 +4554,14 @@
 401309863,2021,5,"California","Washington State",2021
 401282647,2021,5,"Clemson","Boston College",2021
 401309614,2021,5,"Coastal Carolina","Louisiana Monroe",2021
+401309614,2021,5,"Coastal Carolina","UL Monroe",2021
 401309867,2021,5,"Colorado","USC",2021
 401301014,2021,5,"East Carolina","Tulane",2021
 401282215,2021,5,"Florida Atlantic","Florida International",2021
 401282648,2021,5,"Florida State","Syracuse",2021
 401282090,2021,5,"Georgia","Arkansas",2021
 401309613,2021,5,"Georgia Southern","Arkansas State",2021
+401309612,2021,5,"Georgia State","App State",2021
 401309612,2021,5,"Georgia State","Appalachian State",2021
 401282649,2021,5,"Georgia Tech","Pittsburgh",2021
 401310712,2021,5,"Hawai'i","Fresno State",2021
@@ -4517,7 +4572,9 @@
 401282091,2021,5,"Kentucky","Florida",2021
 401282092,2021,5,"LSU","Auburn",2021
 401282759,2021,5,"Maryland","Iowa",2021
+401286302,2021,5,"Massachusetts","Toledo",2021
 401282646,2021,5,"Miami","Virginia",2021
+401308835,2021,5,"Miami (OH)","Central Michigan",2021
 401282223,2021,5,"Michigan State","Western Kentucky",2021
 401282216,2021,5,"Middle Tennessee","Marshall",2021
 401282093,2021,5,"Missouri","Tennessee",2021
@@ -4532,10 +4589,12 @@
 401309865,2021,5,"Oregon State","Washington",2021
 401282729,2021,5,"Penn State","Indiana",2021
 401282793,2021,5,"Purdue","Minnesota",2021
+401282218,2021,5,"Rice","Southern Miss",2021
 401282218,2021,5,"Rice","Southern Mississippi",2021
 401282813,2021,5,"Rutgers","Ohio State",2021
 401301016,2021,5,"SMU","South Florida",2021
 401310713,2021,5,"San José State","New Mexico State",2021
+401309615,2021,5,"South Alabama","Louisiana",2021
 401282094,2021,5,"South Carolina","Troy",2021
 401309864,2021,5,"Stanford","Oregon",2021
 401287915,2021,5,"TCU","Texas",2021
@@ -4547,13 +4606,17 @@
 401286302,2021,5,"UMass","Toledo",2021
 401282222,2021,5,"UT San Antonio","UNLV",2021
 401282217,2021,5,"UTEP","Old Dominion",2021
+401282222,2021,5,"UTSA","UNLV",2021
 401309912,2021,5,"Utah State","BYU",2021
 401282096,2021,5,"Vanderbilt","Connecticut",2021
+401282096,2021,5,"Vanderbilt","UConn",2021
 401282651,2021,5,"Wake Forest","Louisville",2021
 401287916,2021,5,"West Virginia","Texas Tech",2021
 401282776,2021,5,"Wisconsin","Michigan",2021
 401282207,2021,4,"Air Force","Florida Atlantic",2021
+401282081,2021,4,"Alabama","Southern Miss",2021
 401282081,2021,4,"Alabama","Southern Mississippi",2021
+401282208,2021,4,"App State","Marshall",2021
 401282208,2021,4,"Appalachian State","Marshall",2021
 401309862,2021,4,"Arizona State","Colorado",2021
 401282082,2021,4,"Arkansas","Texas A&M",2021
@@ -4565,6 +4628,7 @@
 401282086,2021,4,"Boston College","Missouri",2021
 401282206,2021,4,"Central Michigan","Florida International",2021
 401282204,2021,4,"Charlotte","Middle Tennessee",2021
+401286301,2021,4,"Coastal Carolina","Massachusetts",2021
 401286301,2021,4,"Coastal Carolina","UMass",2021
 401286190,2021,4,"Connecticut","Wyoming",2021
 401282639,2021,4,"Duke","Kansas",2021
@@ -4581,6 +4645,8 @@
 401282205,2021,4,"Louisiana Tech","North Texas",2021
 401282765,2021,4,"Maryland","Kent State",2021
 401282213,2021,4,"Memphis","UT San Antonio",2021
+401282213,2021,4,"Memphis","UTSA",2021
+401282642,2021,4,"Miami","Central Connecticut",2021
 401282775,2021,4,"Michigan","Rutgers",2021
 401282784,2021,4,"Michigan State","Nebraska",2021
 401282792,2021,4,"Minnesota","Bowling Green",2021
@@ -4606,6 +4672,9 @@
 401301010,2021,4,"Temple","Wagner",2021
 401287911,2021,4,"Texas","Texas Tech",2021
 401282211,2021,4,"Tulane","UAB",2021
+401301011,2021,4,"Tulsa","Arkansas State",2021
+401286190,2021,4,"UConn","Wyoming",2021
+401309611,2021,4,"UL Monroe","Troy",2021
 401309860,2021,4,"USC","Oregon State",2021
 401282212,2021,4,"UTEP","New Mexico",2021
 401309861,2021,4,"Utah","Washington State",2021
@@ -4619,10 +4688,12 @@
 401282707,2021,4,"Wisconsin","Notre Dame",2021
 401310704,2021,3,"Air Force","Utah State",2021
 401309550,2021,3,"Akron","Bryant",2021
+401309604,2021,3,"App State","Elon",2021
 401309604,2021,3,"Appalachian State","Elon",2021
 401309853,2021,3,"Arizona","Northern Arizona",2021
 401282069,2021,3,"Arkansas","Georgia Southern",2021
 401286189,2021,3,"Army","Connecticut",2021
+401286189,2021,3,"Army","UConn",2021
 401309854,2021,3,"BYU","Arizona State",2021
 401287903,2021,3,"Boise State","Oklahoma State",2021
 401309551,2021,3,"Bowling Green","Murray State",2021
@@ -4649,8 +4720,10 @@
 401282199,2021,3,"Louisiana Tech","SMU",2021
 401282626,2021,3,"Louisville","UCF",2021
 401282200,2021,3,"Marshall","East Carolina",2021
+401286300,2021,3,"Massachusetts","Eastern Michigan",2021
 401282076,2021,3,"Memphis","Mississippi State",2021
 401282629,2021,3,"Miami","Michigan State",2021
+401308843,2021,3,"Miami (OH)","Long Island University",2021
 401282774,2021,3,"Michigan","Northern Illinois",2021
 401282077,2021,3,"Missouri","Southeast Missouri State",2021
 401282630,2021,3,"NC State","Furman",2021
@@ -4669,17 +4742,23 @@
 401309856,2021,3,"San Diego State","Utah",2021
 401309608,2021,3,"South Alabama","Alcorn State",2021
 401301006,2021,3,"South Florida","Florida A&M",2021
+401282203,2021,3,"Southern Miss","Troy",2021
 401282203,2021,3,"Southern Mississippi","Troy",2021
 401282633,2021,3,"Syracuse","Albany",2021
+401282633,2021,3,"Syracuse","UAlbany",2021
 401282634,2021,3,"Temple","Boston College",2021
 401282078,2021,3,"Tennessee","Tennessee Tech",2021
+401282202,2021,3,"Texas","Rice",2021
 401282079,2021,3,"Texas A&M","New Mexico",2021
 401309609,2021,3,"Texas State","Incarnate Word",2021
 401282197,2021,3,"Texas Tech","Florida International",2021
 401309553,2021,3,"Toledo","Colorado State",2021
 401309855,2021,3,"UCLA","Fresno State",2021
+401309607,2021,3,"UL Monroe","Jackson State",2021
 401286300,2021,3,"UMass","Eastern Michigan",2021
+401287906,2021,3,"UNLV","Iowa State",2021
 401282194,2021,3,"UT San Antonio","Middle Tennessee",2021
+401282194,2021,3,"UTSA","Middle Tennessee",2021
 401282080,2021,3,"Vanderbilt","Stanford",2021
 401282635,2021,3,"Wake Forest","Florida State",2021
 401309605,2021,3,"Washington","Arkansas State",2021
@@ -4721,9 +4800,13 @@
 401282061,2021,2,"Kentucky","Missouri",2021
 401282062,2021,2,"LSU","McNeese",2021
 401309603,2021,2,"Louisiana","Nicholls",2021
+401282184,2021,2,"Louisiana Tech","SE Louisiana",2021
 401282184,2021,2,"Louisiana Tech","Southeastern Louisiana",2021
 401282619,2021,2,"Louisville","Eastern Kentucky",2021
+401282185,2021,2,"Marshall","North Carolina Central",2021
 401286207,2021,2,"Maryland","Howard",2021
+401282623,2021,2,"Massachusetts","Boston College",2021
+401282620,2021,2,"Miami","App State",2021
 401282620,2021,2,"Miami","Appalachian State",2021
 401282773,2021,2,"Michigan","Washington",2021
 401282783,2021,2,"Michigan State","Youngstown State",2021
@@ -4748,25 +4831,33 @@
 401282189,2021,2,"Rice","Houston",2021
 401282187,2021,2,"SMU","North Texas",2021
 401282059,2021,2,"South Florida","Florida",2021
+401282190,2021,2,"Southern Miss","Grambling",2021
 401282190,2021,2,"Southern Mississippi","Grambling",2021
 401282622,2021,2,"Syracuse","Rutgers",2021
 401287900,2021,2,"TCU","California",2021
 401282066,2021,2,"Tennessee","Pittsburgh",2021
+401287901,2021,2,"Texas Tech","Stephen F. Austin",2021
 401286295,2021,2,"Troy","Liberty",2021
 401301000,2021,2,"Tulane","Morgan State",2021
 401301001,2021,2,"UCF","Bethune-Cookman",2021
+401282820,2021,2,"UConn","Purdue",2021
 401282623,2021,2,"UMass","Boston College",2021
 401309843,2021,2,"USC","Stanford",2021
 401282192,2021,2,"UT San Antonio","Lamar",2021
+401282192,2021,2,"UTSA","Lamar",2021
 401310701,2021,2,"Utah State","North Dakota",2021
 401282624,2021,2,"Virginia","Illinois",2021
+401282186,2021,2,"Virginia Tech","Middle Tennessee",2021
 401282625,2021,2,"Wake Forest","Norfolk State",2021
 401309845,2021,2,"Washington State","Portland State",2021
 401287902,2021,2,"West Virginia","Long Island University",2021
 401309544,2021,2,"Western Michigan","Illinois State",2021
 401282825,2021,2,"Wisconsin","Eastern Michigan",2021
+401310861,2021,1,"Air Force","Lafayette",2021
 401331235,2021,1,"Alabama","Cincinnati",2021
 401331242,2021,1,"Alabama","Georgia",2021
+401300993,2021,1,"App State","East Carolina",2021
+401331166,2021,1,"App State","Western Kentucky",2021
 401300993,2021,1,"Appalachian State","East Carolina",2021
 401331166,2021,1,"Appalachian State","Western Kentucky",2021
 401309841,2021,1,"Arizona","BYU",2021
@@ -4782,24 +4873,33 @@
 401331218,2021,1,"Ball State","Georgia State",2021
 401309540,2021,1,"Ball State","Western Illinois",2021
 401282609,2021,1,"Boston College","Colgate",2021
+401309542,2021,1,"Buffalo","Wagner",2021
 401309837,2021,1,"California","Nevada",2021
 401331654,2021,1,"Central Michigan","Washington State",2021
 401282052,2021,1,"Charlotte","Duke",2021
 401300996,2021,1,"Cincinnati","Miami (OH)",2021
 401281946,2021,1,"Clemson","Georgia",2021
 401331165,2021,1,"Coastal Carolina","Northern Illinois",2021
+401328545,2021,1,"Coastal Carolina","The Citadel",2021
 401309836,2021,1,"Colorado","Northern Colorado",2021
+401310695,2021,1,"Colorado State","South Dakota State",2021
 401286188,2021,1,"Connecticut","Holy Cross",2021
+401309541,2021,1,"Eastern Michigan","St. Francis (PA)",2021
 401281945,2021,1,"Florida","Florida Atlantic",2021
 401331216,2021,1,"Florida","UCF",2021
 401282051,2021,1,"Florida International","Long Island University",2021
 401282614,2021,1,"Florida State","Notre Dame",2021
 401286187,2021,1,"Fresno State","Connecticut",2021
+401286187,2021,1,"Fresno State","UConn",2021
 401331167,2021,1,"Fresno State","UTEP",2021
+401309600,2021,1,"Georgia Southern","Gardner-Webb",2021
 401309601,2021,1,"Georgia State","Army",2021
+401282610,2021,1,"Georgia Tech","Northern Illinois",2021
+401310698,2021,1,"Hawai'i","Portland State",2021
 401287886,2021,1,"Houston","Texas Tech",2021
 401282714,2021,1,"Illinois","Nebraska",2021
 401282179,2021,1,"Illinois","UT San Antonio",2021
+401282179,2021,1,"Illinois","UTSA",2021
 401282723,2021,1,"Iowa","Indiana",2021
 401331227,2021,1,"Iowa State","Clemson",2021
 401287887,2021,1,"Iowa State","Northern Iowa",2021
@@ -4809,6 +4909,7 @@
 401287889,2021,1,"Kansas State","Stanford",2021
 401331237,2021,1,"Kentucky","Iowa",2021
 401281947,2021,1,"Kentucky","Louisiana Monroe",2021
+401281947,2021,1,"Kentucky","UL Monroe",2021
 401286294,2021,1,"Liberty","Campbell",2021
 401331169,2021,1,"Liberty","Eastern Michigan",2021
 401331222,2021,1,"Louisville","Air Force",2021
@@ -4820,6 +4921,7 @@
 401331234,2021,1,"Michigan","Georgia",2021
 401282772,2021,1,"Michigan","Western Michigan",2021
 401331231,2021,1,"Michigan State","Pittsburgh",2021
+401282173,2021,1,"Middle Tennessee","Monmouth",2021
 401282789,2021,1,"Minnesota","Ohio State",2021
 401331224,2021,1,"Minnesota","West Virginia",2021
 401281949,2021,1,"Mississippi State","Louisiana Tech",2021
@@ -4828,10 +4930,12 @@
 401282174,2021,1,"Navy","Marshall",2021
 401327913,2021,1,"Nebraska","Fordham",2021
 401331219,2021,1,"Nevada","Western Michigan",2021
+401310696,2021,1,"New Mexico","Houston Christian",2021
 401282049,2021,1,"New Mexico State","UTEP",2021
 401282175,2021,1,"North Texas","Northwestern State",2021
 401282782,2021,1,"Northwestern","Michigan State",2021
 401331238,2021,1,"Notre Dame","Oklahoma State",2021
+401282611,2021,1,"Ohio","Syracuse",2021
 401331239,2021,1,"Ohio State","Utah",2021
 401331228,2021,1,"Oklahoma","Oregon",2021
 401287894,2021,1,"Oklahoma","Tulane",2021
@@ -4840,6 +4944,7 @@
 401282055,2021,1,"Ole Miss","Louisville",2021
 401309838,2021,1,"Oregon","Fresno State",2021
 401331170,2021,1,"Oregon State","Utah State",2021
+401282612,2021,1,"Pittsburgh","Massachusetts",2021
 401282612,2021,1,"Pittsburgh","UMass",2021
 401282819,2021,1,"Purdue","Oregon State",2021
 401331230,2021,1,"Purdue","Tennessee",2021
@@ -4848,9 +4953,13 @@
 401300998,2021,1,"SMU","Abilene Christian",2021
 401310699,2021,1,"San Diego State","New Mexico State",2021
 401331214,2021,1,"San Diego State","UT San Antonio",2021
+401331214,2021,1,"San Diego State","UTSA",2021
+401310693,2021,1,"San José State","Southern Utah",2021
+401282177,2021,1,"South Alabama","Southern Miss",2021
 401282177,2021,1,"South Alabama","Southern Mississippi",2021
 401281951,2021,1,"South Carolina","Eastern Illinois",2021
 401331229,2021,1,"South Carolina","North Carolina",2021
+401287891,2021,1,"TCU","Duquesne",2021
 401281952,2021,1,"Tennessee","Bowling Green",2021
 401287892,2021,1,"Texas","Louisiana",2021
 401282053,2021,1,"Texas A&M","Kent State",2021
@@ -4860,14 +4969,20 @@
 401309543,2021,1,"Toledo","Norfolk State",2021
 401309602,2021,1,"Troy","Southern",2021
 401331172,2021,1,"Tulsa","Old Dominion",2021
+401300994,2021,1,"Tulsa","UC Davis",2021
 401300995,2021,1,"UCF","Boise State",2021
 401309833,2021,1,"UCLA","Hawai'i",2021
 401281948,2021,1,"UCLA","LSU",2021
+401286188,2021,1,"UConn","Holy Cross",2021
+401310694,2021,1,"UNLV","Eastern Washington",2021
+401309842,2021,1,"USC","San José State",2021
 401282178,2021,1,"UTEP","Bethune-Cookman",2021
 401309834,2021,1,"Utah","Weber State",2021
+401282054,2021,1,"Vanderbilt","East Tennessee State",2021
 401282613,2021,1,"Virginia","William & Mary",2021
 401331226,2021,1,"Virginia Tech","Maryland",2021
 401309937,2021,1,"Virginia Tech","North Carolina",2021
+401282608,2021,1,"Wake Forest","Old Dominion",2021
 401309839,2021,1,"Washington","Montana",2021
 401309840,2021,1,"Washington State","Utah State",2021
 401282180,2021,1,"Western Kentucky","UT Martin",2021

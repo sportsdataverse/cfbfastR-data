@@ -1,16 +1,5 @@
-2022
-[1] "Working on 2022"
+2021
+[1] "Working on 2021"
  elapsed 
-51.57812 
-[1] "Working on 1/1459: 401403853"
-[main bd86241] Updated 2024-10-09 10:33:59.962215 (ET) using cfbfastR version 1.9.5
- 10 files changed, 1053 insertions(+), 99607 deletions(-)
- rewrite daily_cfb.out (98%)
- rewrite data/games_in_data_repo.rds (97%)
- rewrite player_stats/csv/player_stats_2022.csv (99%)
- rewrite player_stats/parquet/player_stats_2022.parquet (99%)
- rewrite player_stats/rds/player_stats_2022.rds (99%)
- rewrite schedules/csv/cfb_schedules_2022.csv (96%)
- rewrite schedules/parquet/cfb_schedules_2022.parquet (84%)
- rewrite schedules/rds/cfb_schedules_2022.rds (98%)
-Already up to date.
+31.19107 
+[1] "Working on 1/887: 401281942"
