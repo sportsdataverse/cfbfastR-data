@@ -1,4 +1,44 @@
 "game_id","year","week","home","away","season"
+401645346,2024,8,"Army","East Carolina",2024
+401636898,2024,8,"BYU","Oklahoma State",2024
+401638673,2024,8,"Butler","Dayton",2024
+401632464,2024,8,"Chattanooga","Wofford",2024
+401636899,2024,8,"Cincinnati","Arizona State",2024
+401635588,2024,8,"Clemson","Virginia",2024
+401643811,2024,8,"Coastal Carolina","Louisiana",2024
+401654474,2024,8,"Dartmouth","Central Connecticut",2024
+401638676,2024,8,"Davidson","Stetson",2024
+401634769,2024,8,"Duke","Florida State",2024
+401644600,2024,8,"Harvard","Holy Cross",2024
+401628519,2024,8,"Indiana","Nebraska",2024
+401654627,2024,8,"Lafayette","Sacred Heart",2024
+401635589,2024,8,"Louisville","Miami",2024
+401628655,2024,8,"Maine","Villanova",2024
+401643810,2024,8,"Marshall","Georgia State",2024
+401654612,2024,8,"Merrimack","Stonehill",2024
+401641019,2024,8,"Middle Tennessee","Kennesaw State",2024
+401628395,2024,8,"Missouri","Auburn",2024
+401628660,2024,8,"Monmouth","Bryant",2024
+401643735,2024,8,"Nevada","Fresno State",2024
+401628659,2024,8,"New Hampshire","Rhode Island",2024
+401641010,2024,8,"New Mexico State","Louisiana Tech",2024
+401634034,2024,8,"Nicholls","Northwestern State",2024
+401628656,2024,8,"North Carolina A&T","Hampton",2024
+401628522,2024,8,"Northwestern","Wisconsin",2024
+401654491,2024,8,"Pennsylvania","Columbia",2024
+401638674,2024,8,"Presbyterian","Drake",2024
+401654457,2024,8,"Princeton","Brown",2024
+401628523,2024,8,"Purdue","Oregon",2024
+401654597,2024,8,"Robert Morris","Long Island University",2024
+401628524,2024,8,"Rutgers","UCLA",2024
+401641038,2024,8,"Sam Houston","Western Kentucky",2024
+401643809,2024,8,"South Alabama","Troy",2024
+401628657,2024,8,"Towson","Stony Brook",2024
+401629034,2024,8,"UConn","Wake Forest",2024
+401640983,2024,8,"UTEP","Florida International",2024
+401638346,2024,8,"VMI","The Citadel",2024
+401634768,2024,8,"Virginia Tech","Boston College",2024
+401654647,2024,8,"Wagner","St. Francis (PA)",2024
 401628385,2024,7,"Alabama","South Carolina",2024
 401634254,2024,7,"Alabama A&M","Bethune-Cookman",2024
 401636348,2024,7,"Alabama State","Mississippi Valley State",2024
@@ -21,6 +61,7 @@
 401644685,2024,7,"Eastern Michigan","Miami (OH)",2024
 401628651,2024,7,"Elon","New Hampshire",2024
 401645343,2024,7,"Florida Atlantic","North Texas",2024
+401643730,2024,7,"Fresno State","Washington State",2024
 401632463,2024,7,"Furman","Chattanooga",2024
 401628386,2024,7,"Georgia","Mississippi State",2024
 401643804,2024,7,"Georgia Southern","Marshall",2024
@@ -31,6 +72,7 @@
 401675116,2024,7,"Houston Christian","SE Louisiana",2024
 401673031,2024,7,"Howard","Sacred Heart",2024
 401634058,2024,7,"Idaho State","Portland State",2024
+401628511,2024,7,"Illinois","Purdue",2024
 401634163,2024,7,"Illinois State","Missouri State",2024
 401634019,2024,7,"Incarnate Word","Nicholls",2024
 401634174,2024,7,"Indiana State","Murray State",2024
@@ -44,6 +86,7 @@
 401675118,2024,7,"Lamar","Stephen F. Austin",2024
 401640982,2024,7,"Liberty","Florida International",2024
 401633988,2024,7,"Lindenwood","Charleston Southern",2024
+401654596,2024,7,"Long Island University","Stonehill",2024
 401643806,2024,7,"Louisiana","App State",2024
 401641009,2024,7,"Louisiana Tech","Middle Tennessee",2024
 401638671,2024,7,"Marist","St. Thomas (MN)",2024
@@ -71,6 +114,7 @@
 401628517,2024,7,"Rutgers","Wisconsin",2024
 401634057,2024,7,"Sacramento State","Eastern Washington",2024
 401654564,2024,7,"South Dakota","Northern Iowa",2024
+401634217,2024,7,"South Dakota State","Youngstown State",2024
 401645341,2024,7,"South Florida","Memphis",2024
 401633990,2024,7,"Southeast Missouri State","Tennessee Tech",2024
 401634208,2024,7,"Southern Illinois","North Dakota State",2024
@@ -81,6 +125,7 @@
 401633989,2024,7,"Tennessee State","Eastern Illinois",2024
 401643808,2024,7,"Texas State","Arkansas State",2024
 401634056,2024,7,"UC Davis","Cal Poly",2024
+401636895,2024,7,"UCF","Cincinnati",2024
 401628514,2024,7,"UCLA","Minnesota",2024
 401643807,2024,7,"UL Monroe","Southern Miss",2024
 401628516,2024,7,"USC","Penn State",2024
