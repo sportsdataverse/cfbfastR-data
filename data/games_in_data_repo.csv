@@ -1,7 +1,13 @@
 "game_id","year","week","home","away","season"
+401632137,2024,8,"Abilene Christian","Eastern Kentucky",2024
+401636897,2024,8,"Arizona","Colorado",2024
 401645346,2024,8,"Army","East Carolina",2024
 401636898,2024,8,"BYU","Oklahoma State",2024
+401644748,2024,8,"Bowling Green","Kent State",2024
+401644749,2024,8,"Buffalo","Western Michigan",2024
 401638673,2024,8,"Butler","Dayton",2024
+401635587,2024,8,"California","NC State",2024
+401633992,2024,8,"Charleston Southern","Southeast Missouri State",2024
 401632464,2024,8,"Chattanooga","Wofford",2024
 401636899,2024,8,"Cincinnati","Arizona State",2024
 401635588,2024,8,"Clemson","Virginia",2024
@@ -9,36 +15,77 @@
 401654474,2024,8,"Dartmouth","Central Connecticut",2024
 401638676,2024,8,"Davidson","Stetson",2024
 401634769,2024,8,"Duke","Florida State",2024
+401644750,2024,8,"Eastern Michigan","Central Michigan",2024
+401638345,2024,8,"Furman","Western Carolina",2024
+401633993,2024,8,"Gardner-Webb","Lindenwood",2024
+401643812,2024,8,"Georgia Southern","James Madison",2024
+401628982,2024,8,"Georgia Tech","Notre Dame",2024
+401636358,2024,8,"Grambling","Arkansas-Pine Bluff",2024
 401644600,2024,8,"Harvard","Holy Cross",2024
+401655635,2024,8,"Howard","Tennessee State",2024
+401634102,2024,8,"Idaho","Cal Poly",2024
+401628518,2024,8,"Illinois","Michigan",2024
+401634022,2024,8,"Incarnate Word","McNeese",2024
 401628519,2024,8,"Indiana","Nebraska",2024
+401636375,2024,8,"Jackson State","Florida A&M",2024
+401636901,2024,8,"Kansas","Houston",2024
 401654627,2024,8,"Lafayette","Sacred Heart",2024
 401635589,2024,8,"Louisville","Miami",2024
 401628655,2024,8,"Maine","Villanova",2024
 401643810,2024,8,"Marshall","Georgia State",2024
+401628521,2024,8,"Maryland","USC",2024
 401654612,2024,8,"Merrimack","Stonehill",2024
+401644686,2024,8,"Miami (OH)","Ohio",2024
 401641019,2024,8,"Middle Tennessee","Kennesaw State",2024
+401628394,2024,8,"Mississippi State","Texas A&M",2024
+401636366,2024,8,"Mississippi Valley State","Bethune-Cookman",2024
 401628395,2024,8,"Missouri","Auburn",2024
+401634175,2024,8,"Missouri State","Indiana State",2024
 401628660,2024,8,"Monmouth","Bryant",2024
+401634164,2024,8,"Murray State","Illinois State",2024
 401643735,2024,8,"Nevada","Fresno State",2024
 401628659,2024,8,"New Hampshire","Rhode Island",2024
 401641010,2024,8,"New Mexico State","Louisiana Tech",2024
 401634034,2024,8,"Nicholls","Northwestern State",2024
 401628656,2024,8,"North Carolina A&T","Hampton",2024
+401634202,2024,8,"North Dakota","Northern Iowa",2024
+401634104,2024,8,"Northern Arizona","Idaho State",2024
+401644751,2024,8,"Northern Illinois","Toledo",2024
 401628522,2024,8,"Northwestern","Wisconsin",2024
 401654491,2024,8,"Pennsylvania","Columbia",2024
+401634105,2024,8,"Portland State","Montana State",2024
 401638674,2024,8,"Presbyterian","Drake",2024
 401654457,2024,8,"Princeton","Brown",2024
 401628523,2024,8,"Purdue","Oregon",2024
+401628658,2024,8,"Richmond","Delaware",2024
 401654597,2024,8,"Robert Morris","Long Island University",2024
 401628524,2024,8,"Rutgers","UCLA",2024
+401675119,2024,8,"SE Louisiana","Stephen F. Austin",2024
 401641038,2024,8,"Sam Houston","Western Kentucky",2024
+401634148,2024,8,"Samford","Mercer",2024
+401638675,2024,8,"San Diego","Marist",2024
+401643738,2024,8,"San José State","Wyoming",2024
 401643809,2024,8,"South Alabama","Troy",2024
+401645345,2024,8,"South Florida","UAB",2024
+401645351,2024,8,"Temple","Tulsa",2024
+401628397,2024,8,"Tennessee","Alabama",2024
+401634033,2024,8,"Texas A&M-Commerce","Lamar",2024
+401636902,2024,8,"Texas Tech","Baylor",2024
 401628657,2024,8,"Towson","Stony Brook",2024
+401645350,2024,8,"Tulane","Rice",2024
+401628661,2024,8,"UAlbany","Elon",2024
 401629034,2024,8,"UConn","Wake Forest",2024
 401640983,2024,8,"UTEP","Florida International",2024
+401645348,2024,8,"UTSA","Florida Atlantic",2024
+401632134,2024,8,"Utah Tech","Austin Peay",2024
 401638346,2024,8,"VMI","The Citadel",2024
+401638677,2024,8,"Valparaiso","St. Thomas (MN)",2024
 401634768,2024,8,"Virginia Tech","Boston College",2024
 401654647,2024,8,"Wagner","St. Francis (PA)",2024
+401643736,2024,8,"Washington State","Hawai'i",2024
+401632118,2024,8,"West Georgia","Shorter",2024
+401633994,2024,8,"Western Illinois","Tennessee Tech",2024
+401628654,2024,8,"William & Mary","Campbell",2024
 401628385,2024,7,"Alabama","South Carolina",2024
 401634254,2024,7,"Alabama A&M","Bethune-Cookman",2024
 401636348,2024,7,"Alabama State","Mississippi Valley State",2024
