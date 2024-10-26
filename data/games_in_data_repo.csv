@@ -1,4 +1,38 @@
 "game_id","year","week","home","away","season"
+401643816,2024,9,"App State","Georgia State",2024
+401634771,2024,9,"Boston College","Louisville",2024
+401654458,2024,9,"Brown","Cornell",2024
+401654492,2024,9,"Columbia","Dartmouth",2024
+401638678,2024,9,"Davidson","Butler",2024
+401638679,2024,9,"Dayton","Morehead State",2024
+401640984,2024,9,"Florida International","Sam Houston",2024
+401641003,2024,9,"Jacksonville State","Middle Tennessee",2024
+401640993,2024,9,"Kennesaw State","Liberty",2024
+401654628,2024,9,"Lafayette","Holy Cross",2024
+401654619,2024,9,"Lehigh","Fordham",2024
+401654577,2024,9,"Long Island University","Central Connecticut",2024
+401641011,2024,9,"Louisiana Tech","UTEP",2024
+401638682,2024,9,"Marist","Valparaiso",2024
+401645353,2024,9,"Memphis","Charlotte",2024
+401654613,2024,9,"Merrimack","Colgate",2024
+401628403,2024,9,"Mississippi State","Arkansas",2024
+401628667,2024,9,"Monmouth","Towson",2024
+401628983,2024,9,"Navy","Notre Dame",2024
+401645354,2024,9,"North Texas","Tulane",2024
+401628530,2024,9,"Ohio State","Nebraska",2024
+401643815,2024,9,"Old Dominion","Georgia Southern",2024
+401628402,2024,9,"Ole Miss","Oklahoma",2024
+401673036,2024,9,"Pennsylvania","Yale",2024
+401634770,2024,9,"Pittsburgh","Syracuse",2024
+401628666,2024,9,"Rhode Island","Maine",2024
+401656951,2024,9,"Sacred Heart","Mercyhurst",2024
+401638681,2024,9,"St. Thomas (MN)","San Diego",2024
+401638680,2024,9,"Stetson","Presbyterian",2024
+401654591,2024,9,"Stonehill","Duquesne",2024
+401643740,2024,9,"UNLV","Boise State",2024
+401628532,2024,9,"USC","Rutgers",2024
+401635598,2024,9,"Virginia","North Carolina",2024
+401634138,2024,9,"Wofford","East Tennessee State",2024
 401632137,2024,8,"Abilene Christian","Eastern Kentucky",2024
 401643734,2024,8,"Air Force","Colorado State",2024
 401636897,2024,8,"Arizona","Colorado",2024
@@ -6,6 +40,7 @@
 401645346,2024,8,"Army","East Carolina",2024
 401636898,2024,8,"BYU","Oklahoma State",2024
 401644748,2024,8,"Bowling Green","Kent State",2024
+401654507,2024,8,"Bucknell","Cornell",2024
 401644749,2024,8,"Buffalo","Western Michigan",2024
 401638673,2024,8,"Butler","Dayton",2024
 401635587,2024,8,"California","NC State",2024
@@ -14,6 +49,7 @@
 401636899,2024,8,"Cincinnati","Arizona State",2024
 401635588,2024,8,"Clemson","Virginia",2024
 401643811,2024,8,"Coastal Carolina","Louisiana",2024
+401654643,2024,8,"Colgate","Georgetown",2024
 401654474,2024,8,"Dartmouth","Central Connecticut",2024
 401638676,2024,8,"Davidson","Stetson",2024
 401634769,2024,8,"Duke","Florida State",2024
@@ -50,6 +86,7 @@
 401634175,2024,8,"Missouri State","Indiana State",2024
 401628660,2024,8,"Monmouth","Bryant",2024
 401634164,2024,8,"Murray State","Illinois State",2024
+401645347,2024,8,"Navy","Charlotte",2024
 401643735,2024,8,"Nevada","Fresno State",2024
 401628659,2024,8,"New Hampshire","Rhode Island",2024
 401641010,2024,8,"New Mexico State","Louisiana Tech",2024
@@ -60,6 +97,8 @@
 401634104,2024,8,"Northern Arizona","Idaho State",2024
 401644751,2024,8,"Northern Illinois","Toledo",2024
 401628522,2024,8,"Northwestern","Wisconsin",2024
+401628396,2024,8,"Oklahoma","South Carolina",2024
+401643813,2024,8,"Old Dominion","Texas State",2024
 401643739,2024,8,"Oregon State","UNLV",2024
 401654491,2024,8,"Pennsylvania","Columbia",2024
 401634105,2024,8,"Portland State","Montana State",2024
@@ -92,6 +131,7 @@
 401640983,2024,8,"UTEP","Florida International",2024
 401645348,2024,8,"UTSA","Florida Atlantic",2024
 401636903,2024,8,"Utah","TCU",2024
+401643737,2024,8,"Utah State","New Mexico",2024
 401632134,2024,8,"Utah Tech","Austin Peay",2024
 401638346,2024,8,"VMI","The Citadel",2024
 401638677,2024,8,"Valparaiso","St. Thomas (MN)",2024
@@ -103,6 +143,7 @@
 401636904,2024,8,"West Virginia","Kansas State",2024
 401633994,2024,8,"Western Illinois","Tennessee Tech",2024
 401628654,2024,8,"William & Mary","Campbell",2024
+401654618,2024,8,"Yale","Lehigh",2024
 401634248,2024,8,"Youngstown State","South Dakota",2024
 401628385,2024,7,"Alabama","South Carolina",2024
 401634254,2024,7,"Alabama A&M","Bethune-Cookman",2024
