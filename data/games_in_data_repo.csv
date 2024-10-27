@@ -3,6 +3,8 @@
 401628400,2024,9,"Alabama","Missouri",2024
 401634255,2024,9,"Alabama A&M","Alabama State",2024
 401643816,2024,9,"App State","Georgia State",2024
+401636905,2024,9,"Arizona","West Virginia",2024
+401643818,2024,9,"Arkansas State","Troy",2024
 401636359,2024,9,"Arkansas-Pine Bluff","Mississippi Valley State",2024
 401632122,2024,9,"Austin Peay","Tarleton State",2024
 401644753,2024,9,"Ball State","Northern Illinois",2024
@@ -14,18 +16,26 @@
 401628664,2024,9,"Campbell","North Carolina A&T",2024
 401632123,2024,9,"Central Arkansas","North Alabama",2024
 401632465,2024,9,"Chattanooga","VMI",2024
+401636907,2024,9,"Colorado","Cincinnati",2024
 401643741,2024,9,"Colorado State","New Mexico",2024
 401654492,2024,9,"Columbia","Dartmouth",2024
 401638678,2024,9,"Davidson","Butler",2024
 401638679,2024,9,"Dayton","Morehead State",2024
 401628662,2024,9,"Delaware","UAlbany",2024
+401635595,2024,9,"Duke","SMU",2024
 401632120,2024,9,"Eastern Kentucky","Utah Tech",2024
+401636376,2024,9,"Florida A&M","Southern",2024
 401640984,2024,9,"Florida International","Sam Houston",2024
+401643742,2024,9,"Fresno State","San José State",2024
 401654644,2024,9,"Georgetown","Bucknell",2024
 401628665,2024,9,"Hampton","Elon",2024
 401644601,2024,9,"Harvard","Princeton",2024
+401643743,2024,9,"Hawai'i","Nevada",2024
+401636908,2024,9,"Houston","Utah",2024
 401641003,2024,9,"Jacksonville State","Middle Tennessee",2024
+401636909,2024,9,"Kansas State","Kansas",2024
 401640993,2024,9,"Kennesaw State","Liberty",2024
+401628401,2024,9,"Kentucky","Auburn",2024
 401654628,2024,9,"Lafayette","Holy Cross",2024
 401654619,2024,9,"Lehigh","Fordham",2024
 401633998,2024,9,"Lindenwood","Western Illinois",2024
@@ -36,7 +46,9 @@
 401645353,2024,9,"Memphis","Charlotte",2024
 401634149,2024,9,"Mercer","Western Carolina",2024
 401654613,2024,9,"Merrimack","Colgate",2024
+401635596,2024,9,"Miami","Florida State",2024
 401644687,2024,9,"Miami (OH)","Central Michigan",2024
+401628529,2024,9,"Michigan","Michigan State",2024
 401628403,2024,9,"Mississippi State","Arkansas",2024
 401628667,2024,9,"Monmouth","Towson",2024
 401628983,2024,9,"Navy","Notre Dame",2024
@@ -57,15 +69,20 @@
 401628666,2024,9,"Rhode Island","Maine",2024
 401654608,2024,9,"Robert Morris","St. Francis (PA)",2024
 401656951,2024,9,"Sacred Heart","Mercyhurst",2024
+401643744,2024,9,"San Diego State","Washington State",2024
+401634218,2024,9,"South Dakota State","South Dakota",2024
 401633997,2024,9,"Southeast Missouri State","Gardner-Webb",2024
 401632116,2024,9,"Southern Utah","West Georgia",2024
 401638681,2024,9,"St. Thomas (MN)","San Diego",2024
 401635599,2024,9,"Stanford","Wake Forest",2024
+401675120,2024,9,"Stephen F. Austin","Houston Christian",2024
 401638680,2024,9,"Stetson","Presbyterian",2024
 401654591,2024,9,"Stonehill","Duquesne",2024
 401628669,2024,9,"Stony Brook","William & Mary",2024
 401636910,2024,9,"TCU","Texas Tech",2024
 401633995,2024,9,"Tennessee Tech","Charleston Southern",2024
+401628404,2024,9,"Texas A&M","LSU",2024
+401636385,2024,9,"Texas Southern","Grambling",2024
 401638347,2024,9,"The Citadel","Samford",2024
 401644754,2024,9,"Toledo","Bowling Green",2024
 401645355,2024,9,"Tulsa","UTSA",2024
@@ -78,7 +95,10 @@
 401628668,2024,9,"Villanova","New Hampshire",2024
 401635598,2024,9,"Virginia","North Carolina",2024
 401644756,2024,9,"Western Michigan","Kent State",2024
+401628531,2024,9,"Wisconsin","Penn State",2024
 401634138,2024,9,"Wofford","East Tennessee State",2024
+401643745,2024,9,"Wyoming","Utah State",2024
+401634203,2024,9,"Youngstown State","North Dakota",2024
 401632137,2024,8,"Abilene Christian","Eastern Kentucky",2024
 401643734,2024,8,"Air Force","Colorado State",2024
 401636897,2024,8,"Arizona","Colorado",2024
