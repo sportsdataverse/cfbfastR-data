@@ -1,13 +1,5 @@
 2024
 [1] "Working on 2024"
-elapsed 
-36.5754 
-[1] "Working on 1/1099: 401628319"
-[main 7bdb153] Updated 2024-11-02 20:52:19.973819 (ET) using cfbfastR version 1.9.5
- 9 files changed, 425 insertions(+), 392 deletions(-)
- rewrite daily_cfb.out (94%)
- rewrite data/games_in_data_repo.rds (98%)
- rewrite player_stats/rds/player_stats_2024.rds (100%)
- rewrite schedules/parquet/cfb_schedules_2024.parquet (82%)
- rewrite schedules/rds/cfb_schedules_2024.rds (99%)
-Already up to date.
+ elapsed 
+37.35145 
+[1] "Working on 1/1115: 401628319"
