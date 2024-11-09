@@ -1,4 +1,56 @@
 "game_id","year","week","home","away","season"
+401644688,2024,11,"Ball State","Miami (OH)",2024
+401635606,2024,11,"Boston College","Syracuse",2024
+401654652,2024,11,"Bucknell","Fordham",2024
+401644760,2024,11,"Central Michigan","Bowling Green",2024
+401636918,2024,11,"Cincinnati","West Virginia",2024
+401643825,2024,11,"Coastal Carolina","App State",2024
+401654630,2024,11,"Colgate","Lafayette",2024
+401654508,2024,11,"Cornell","Pennsylvania",2024
+401638691,2024,11,"Davidson","Morehead State",2024
+401638692,2024,11,"Dayton","San Diego",2024
+401628680,2024,11,"Delaware","Rhode Island",2024
+401654502,2024,11,"Delaware State","Morgan State",2024
+401654593,2024,11,"Duquesne","Robert Morris",2024
+401645361,2024,11,"East Carolina","Florida Atlantic",2024
+401634140,2024,11,"East Tennessee State","Western Carolina",2024
+401634156,2024,11,"Furman","Wofford",2024
+401634004,2024,11,"Gardner-Webb","Eastern Illinois",2024
+401635609,2024,11,"Georgia Tech","Miami",2024
+401654494,2024,11,"Harvard","Columbia",2024
+401654621,2024,11,"Holy Cross","Lehigh",2024
+401644761,2024,11,"Kent State","Ohio",2024
+401628678,2024,11,"Maine","Bryant",2024
+401645362,2024,11,"Memphis","Rice",2024
+401679157,2024,11,"Mercyhurst","Lincoln (CA)",2024
+401640995,2024,11,"Middle Tennessee","Liberty",2024
+401628683,2024,11,"New Hampshire","Monmouth",2024
+401634204,2024,11,"North Dakota","South Dakota State",2024
+401634166,2024,11,"Northern Iowa","Illinois State",2024
+401628545,2024,11,"Ohio State","Purdue",2024
+401654467,2024,11,"Princeton","Dartmouth",2024
+401628544,2024,11,"Rutgers","Minnesota",2024
+401634023,2024,11,"SE Louisiana","Northwestern State",2024
+401654598,2024,11,"Sacred Heart","Long Island University",2024
+401643754,2024,11,"San Diego State","New Mexico",2024
+401634178,2024,11,"South Dakota","Indiana State",2024
+401645363,2024,11,"South Florida","Navy",2024
+401634244,2024,11,"Southern Illinois","Youngstown State",2024
+401638690,2024,11,"Stetson","Marist",2024
+401654579,2024,11,"Stonehill","Central Connecticut",2024
+401628677,2024,11,"Stony Brook","UAlbany",2024
+401628417,2024,11,"Texas","Florida",2024
+401632467,2024,11,"The Citadel","Chattanooga",2024
+401628682,2024,11,"Towson","Hampton",2024
+401628542,2024,11,"UCLA","Iowa",2024
+401643828,2024,11,"UL Monroe","Texas State",2024
+401634150,2024,11,"VMI","Mercer",2024
+401638688,2024,11,"Valparaiso","Butler",2024
+401628684,2024,11,"Villanova","North Carolina A&T",2024
+401634773,2024,11,"Wake Forest","California",2024
+401644762,2024,11,"Western Michigan","Northern Illinois",2024
+401628681,2024,11,"William & Mary","Elon",2024
+401654460,2024,11,"Yale","Brown",2024
 401632128,2024,10,"Abilene Christian","Southern Utah",2024
 401644757,2024,10,"Akron","Buffalo",2024
 401634256,2024,10,"Alabama A&M","Southern",2024
@@ -11,6 +63,7 @@
 401636368,2024,10,"Bethune-Cookman","Grambling",2024
 401643747,2024,10,"Boise State","San Diego State",2024
 401654459,2024,10,"Brown","Pennsylvania",2024
+401628673,2024,10,"Bryant","Stony Brook",2024
 401654629,2024,10,"Bucknell","Lafayette",2024
 401638686,2024,10,"Butler","Stetson",2024
 401634110,2024,10,"Cal Poly","Montana",2024
@@ -31,6 +84,7 @@
 401635602,2024,10,"Florida State","North Carolina",2024
 401656602,2024,10,"Fordham","Colgate",2024
 401643749,2024,10,"Fresno State","Hawai'i",2024
+401654620,2024,10,"Georgetown","Lehigh",2024
 401628408,2024,10,"Georgia","Florida",2024
 401628671,2024,10,"Hampton","Villanova",2024
 401636913,2024,10,"Houston","Kansas State",2024
@@ -61,6 +115,7 @@
 401675121,2024,10,"Nicholls","Stephen F. Austin",2024
 401632126,2024,10,"North Alabama","Austin Peay",2024
 401628670,2024,10,"North Carolina A&T","William & Mary",2024
+401634210,2024,10,"North Dakota State","Northern Iowa",2024
 401634112,2024,10,"Northern Arizona","Weber State",2024
 401628410,2024,10,"Oklahoma","Maine",2024
 401636915,2024,10,"Oklahoma State","Arizona State",2024
@@ -89,6 +144,7 @@
 401634001,2024,10,"Tennessee Tech","Lindenwood",2024
 401643820,2024,10,"Texas State","Louisiana",2024
 401643824,2024,10,"Troy","Coastal Carolina",2024
+401645358,2024,10,"UAB","Tulsa",2024
 401628675,2024,10,"UAlbany","New Hampshire",2024
 401634113,2024,10,"UC Davis","Northern Colorado",2024
 401636916,2024,10,"UCF","Arizona",2024
@@ -99,6 +155,7 @@
 401628540,2024,10,"Washington","USC",2024
 401693680,2024,10,"West Georgia","Lincoln (CA)",2024
 401632466,2024,10,"Western Carolina","Chattanooga",2024
+401641020,2024,10,"Western Kentucky","Kennesaw State",2024
 401644752,2024,9,"Akron","Eastern Michigan",2024
 401628400,2024,9,"Alabama","Missouri",2024
 401634255,2024,9,"Alabama A&M","Alabama State",2024
