@@ -6,6 +6,7 @@
 401628427,2024,13,"Arkansas","Louisiana Tech",2024
 401643839,2024,13,"Arkansas State","UL Monroe",2024
 401636362,2024,13,"Arkansas-Pine Bluff","Texas Southern",2024
+401628428,2024,13,"Auburn","Texas A&M",2024
 401632142,2024,13,"Austin Peay","Chattanooga",2024
 401644774,2024,13,"Ball State","Bowling Green",2024
 401636371,2024,13,"Bethune-Cookman","Florida A&M",2024
@@ -19,6 +20,7 @@
 401654496,2024,13,"Columbia","Cornell",2024
 401654462,2024,13,"Dartmouth","Brown",2024
 401654504,2024,13,"Delaware State","North Carolina Central",2024
+401635615,2024,13,"Duke","Virginia Tech",2024
 401634041,2024,13,"East Texas A&M","Incarnate Word",2024
 401632132,2024,13,"Eastern Kentucky","North Alabama",2024
 401644772,2024,13,"Eastern Michigan","Buffalo",2024
@@ -26,21 +28,26 @@
 401645371,2024,13,"Florida Atlantic","Charlotte",2024
 401635616,2024,13,"Florida State","Charleston Southern",2024
 401654615,2024,13,"Fordham","Merrimack",2024
+401643765,2024,13,"Fresno State","Colorado State",2024
 401654640,2024,13,"Georgetown","Holy Cross",2024
 401628430,2024,13,"Georgia","Massachusetts",2024
 401634772,2024,13,"Georgia Tech","NC State",2024
+401636931,2024,13,"Houston","Baylor",2024
 401634129,2024,13,"Idaho State","Idaho",2024
 401634168,2024,13,"Illinois State","North Dakota",2024
 401641005,2024,13,"Jacksonville State","Sam Houston",2024
 401636932,2024,13,"Kansas","Colorado",2024
+401636933,2024,13,"Kansas State","Cincinnati",2024
 401640987,2024,13,"Kennesaw State","Florida International",2024
 401644769,2024,13,"Kent State","Akron",2024
+401628431,2024,13,"LSU","Vanderbilt",2024
 401654623,2024,13,"Lehigh","Lafayette",2024
 401640996,2024,13,"Liberty","Western Kentucky",2024
 401643840,2024,13,"Louisiana","Troy",2024
 401635617,2024,13,"Louisville","Pittsburgh",2024
 401628693,2024,13,"Maine","New Hampshire",2024
 401628556,2024,13,"Maryland","Iowa",2024
+401634042,2024,13,"McNeese","Lamar",2024
 401634151,2024,13,"Mercer","Furman",2024
 401654635,2024,13,"Mercyhurst","St. Francis (PA)",2024
 401635618,2024,13,"Miami","Wake Forest",2024
@@ -55,13 +62,18 @@
 401634130,2024,13,"Montana State","Montana",2024
 401638702,2024,13,"Morehead State","San Diego",2024
 401628560,2024,13,"Nebraska","Wisconsin",2024
+401643763,2024,13,"Nevada","Air Force",2024
 401634039,2024,13,"Nicholls","SE Louisiana",2024
 401628696,2024,13,"North Carolina A&T","Elon",2024
 401645372,2024,13,"North Texas","East Carolina",2024
 401634128,2024,13,"Northern Arizona","Eastern Washington",2024
 401634179,2024,13,"Northern Iowa","Indiana State",2024
+401640959,2024,13,"Notre Dame","Army",2024
 401628555,2024,13,"Ohio State","Indiana",2024
+401628433,2024,13,"Oklahoma","Alabama",2024
 401636934,2024,13,"Oklahoma State","Texas Tech",2024
+401643838,2024,13,"Old Dominion","Marshall",2024
+401628572,2024,13,"Oregon State","Washington State",2024
 401634131,2024,13,"Portland State","Northern Colorado",2024
 401638698,2024,13,"Presbyterian","Butler",2024
 401654469,2024,13,"Princeton","Pennsylvania",2024
@@ -88,11 +100,14 @@
 401634014,2024,13,"Tennessee State","Southeast Missouri State",2024
 401634011,2024,13,"Tennessee Tech","Eastern Illinois",2024
 401628436,2024,13,"Texas","Kentucky",2024
+401643842,2024,13,"Texas State","Georgia State",2024
 401644773,2024,13,"Toledo","Ohio",2024
 401645373,2024,13,"UAB","Rice",2024
 401628698,2024,13,"UAlbany","Hampton",2024
+401628561,2024,13,"UCLA","USC",2024
 401634013,2024,13,"UT Martin","Lindenwood",2024
 401645374,2024,13,"UTSA","Temple",2024
+401636936,2024,13,"Utah","Iowa State",2024
 401643766,2024,13,"Utah State","San Diego State",2024
 401634142,2024,13,"VMI","East Tennessee State",2024
 401638699,2024,13,"Valparaiso","Davidson",2024
@@ -101,6 +116,7 @@
 401634127,2024,13,"Weber State","Cal Poly",2024
 401636937,2024,13,"West Virginia","UCF",2024
 401634012,2024,13,"Western Illinois","Gardner-Webb",2024
+401643764,2024,13,"Wyoming","Boise State",2024
 401643757,2024,12,"Air Force","Oregon State",2024
 401628425,2024,12,"Alabama","Mercer",2024
 401634258,2024,12,"Alabama A&M","Grambling",2024
