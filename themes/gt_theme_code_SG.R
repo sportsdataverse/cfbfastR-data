@@ -12,7 +12,7 @@ gt_theme_538 <- function(data,...) {
         sides = "bottom", weight = px(2)
       ),
       locations = gt::cells_body(
-        columns = TRUE,
+        columns = everything(),
         # This is a relatively sneaky way of changing the bottom border
         # Regardless of data size
         rows = nrow(data$`_data`)
@@ -69,7 +69,7 @@ gt_theme_pff <- function(data, ...) {
     # Add team logos w/ web_image
     text_transform(
       locations = cells_body(
-        vars(logo)
+        c("logo")
       ),
       fn = function(x) {
         web_image(
@@ -81,7 +81,7 @@ gt_theme_pff <- function(data, ...) {
     # add spanner for PFF Grade
     tab_spanner(
       label = "PFF GRADE",
-      columns = vars(def, rdef, prush, cov)
+      columns = c("def", "rdef", "prush", "cov")
     ) %>%
     # add spanner for SNAPS
     tab_spanner(
@@ -142,7 +142,7 @@ gt_theme_pff <- function(data, ...) {
     # Add pound sign in front of numbers
     text_transform(
       locations = cells_body(
-        columns = vars(number)
+        columns = c("number")
       ),
       fn = function(x) {
         paste0("#", x)
@@ -176,7 +176,7 @@ gt_theme_pff <- function(data, ...) {
         sides = "bottom", color = "#585d63", weight = px(2)
       ),
       locations = cells_body(
-        columns = TRUE,
+        columns = everything(),
         rows = nrow(data$`_data`)
       )
     ) %>%
