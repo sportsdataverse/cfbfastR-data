@@ -1,3 +1,12 @@
+#--- cfbfastR Data -----
+piggyback::pb_release_create(
+  repo = "sportsdataverse/sportsdataverse-data",
+  tag = "cfbfastR_cfb_pbp",
+  name = "cfbfastR_cfb_pbp",
+  body = "NCAA College Football PBP Data with EPA/WPA (from cfbfastR)",
+  .token = Sys.getenv("GITHUB_PAT")
+)
+
 
 #--- ESPN CFB Data -----
 piggyback::pb_release_create(

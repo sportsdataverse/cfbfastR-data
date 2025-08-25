@@ -11,8 +11,10 @@ games <- purrr::map(
     games <- cfbfastR::cfbd_team_roster(year=x)
     games$season <- x
     games$recruit_ids <- lapply(games$recruit_ids, function(y){
-      if(length(y) == 0) as.integer(0) else y
+      if(length(y) == 0) as.integer(0) else as.integer(y)
     })
+    games <- games %>% 
+      cfbfastR:::make_cfbfastR_data("CFB Rosters {x} from CollegeFootballData.com", Sys.time())
     readr::write_csv(games, glue::glue("rosters/csv/cfb_rosters_{x}.csv"))
     saveRDS(games, glue::glue("rosters/rds/cfb_rosters_{x}.rds"))
     arrow::write_parquet(games,glue::glue("rosters/parquet/cfb_rosters_{x}.parquet"))
