@@ -8618,6 +8618,7 @@
 401013354,2018,1,"Wisconsin","Western Kentucky",2018
 401012683,2018,1,"Wyoming","Washington State",2018
 400934572,2017,15,"Navy","Army",2017
+400944884,2017,14,"App State","Louisiana",2017
 400944884,2017,14,"Appalachian State","Louisiana",2017
 400944885,2017,14,"Arkansas State","Troy",2017
 400955153,2017,14,"Auburn","Georgia",2017
@@ -8625,8 +8626,10 @@
 400955155,2017,14,"Clemson","Miami",2017
 400944886,2017,14,"Coastal Carolina","Georgia Southern",2017
 400955152,2017,14,"Florida Atlantic","North Texas",2017
+400985387,2017,14,"Florida International","Massachusetts",2017
 400985387,2017,14,"Florida International","UMass",2017
 401000149,2017,14,"Florida State","Louisiana Monroe",2017
+401000149,2017,14,"Florida State","UL Monroe",2017
 400944887,2017,14,"Georgia State","Idaho",2017
 400944888,2017,14,"New Mexico State","South Alabama",2017
 400955157,2017,14,"Oklahoma","TCU",2017
@@ -8644,10 +8647,12 @@
 400945028,2017,13,"Central Michigan","Northern Illinois",2017
 400938667,2017,13,"Charlotte","Florida Atlantic",2017
 400941851,2017,13,"Cincinnati","Connecticut",2017
+400941851,2017,13,"Cincinnati","UConn",2017
 400945025,2017,13,"Eastern Michigan","Bowling Green",2017
 400933933,2017,13,"Florida","Florida State",2017
 400938668,2017,13,"Florida International","Western Kentucky",2017
 400945307,2017,13,"Fresno State","Boise State",2017
+400944879,2017,13,"Georgia State","App State",2017
 400944879,2017,13,"Georgia State","Appalachian State",2017
 400933934,2017,13,"Georgia Tech","Georgia",2017
 400945310,2017,13,"Hawai'i","BYU",2017
@@ -8659,6 +8664,8 @@
 400944881,2017,13,"Louisiana","Georgia Southern",2017
 400944880,2017,13,"Louisiana Monroe","Arkansas State",2017
 400938669,2017,13,"Louisiana Tech","UT San Antonio",2017
+400938669,2017,13,"Louisiana Tech","UTSA",2017
+400938670,2017,13,"Marshall","Southern Miss",2017
 400938670,2017,13,"Marshall","Southern Mississippi",2017
 400935419,2017,13,"Maryland","Penn State",2017
 400941852,2017,13,"Memphis","East Carolina",2017
@@ -8692,6 +8699,7 @@
 400938673,2017,13,"UAB","UTEP",2017
 400941849,2017,13,"UCF","South Florida",2017
 400935326,2017,13,"UCLA","California",2017
+400944880,2017,13,"UL Monroe","Arkansas State",2017
 400935329,2017,13,"Utah","Colorado",2017
 400937530,2017,13,"Virginia","Virginia Tech",2017
 400937532,2017,13,"Wake Forest","Duke",2017
@@ -8701,6 +8709,8 @@
 400933922,2017,12,"Arkansas","Mississippi State",2017
 400944875,2017,12,"Arkansas State","Texas State",2017
 400933923,2017,12,"Auburn","Louisiana Monroe",2017
+400933923,2017,12,"Auburn","UL Monroe",2017
+400938895,2017,12,"BYU","Massachusetts",2017
 400938895,2017,12,"BYU","UMass",2017
 400945024,2017,12,"Ball State","Buffalo",2017
 400934551,2017,12,"Baylor","Iowa State",2017
@@ -8743,15 +8753,18 @@
 400945305,2017,12,"San Diego State","Nevada",2017
 400933927,2017,12,"South Carolina","Wofford",2017
 400941848,2017,12,"South Florida","Tulsa",2017
+400938661,2017,12,"Southern Miss","Charlotte",2017
 400938661,2017,12,"Southern Mississippi","Charlotte",2017
 400935325,2017,12,"Stanford","California",2017
 400941844,2017,12,"Temple","UCF",2017
 400933928,2017,12,"Tennessee","LSU",2017
 400934555,2017,12,"Texas Tech","TCU",2017
 400941846,2017,12,"Tulane","Houston",2017
+400937520,2017,12,"UConn","Boston College",2017
 400935323,2017,12,"USC","UCLA",2017
 400938664,2017,12,"UT San Antonio","Marshall",2017
 400938663,2017,12,"UTEP","Louisiana Tech",2017
+400938664,2017,12,"UTSA","Marshall",2017
 400945303,2017,12,"Utah State","Hawai'i",2017
 400933929,2017,12,"Vanderbilt","Missouri",2017
 400937528,2017,12,"Virginia Tech","Pittsburgh",2017
@@ -8762,6 +8775,7 @@
 400935416,2017,12,"Wisconsin","Michigan",2017
 400945304,2017,12,"Wyoming","Fresno State",2017
 400945295,2017,11,"Air Force","Wyoming",2017
+400944871,2017,11,"App State","Georgia Southern",2017
 400944871,2017,11,"Appalachian State","Georgia Southern",2017
 400935317,2017,11,"Arizona","Oregon State",2017
 400934565,2017,11,"Army","Duke",2017
@@ -8788,6 +8802,7 @@
 400937518,2017,11,"Louisville","Virginia",2017
 400938657,2017,11,"Marshall","Western Kentucky",2017
 400935404,2017,11,"Maryland","Michigan",2017
+400938894,2017,11,"Massachusetts","Maine",2017
 400934581,2017,11,"Miami","Notre Dame",2017
 400945013,2017,11,"Miami (OH)","Akron",2017
 400935405,2017,11,"Minnesota","Nebraska",2017
@@ -8804,6 +8819,7 @@
 400933915,2017,11,"Ole Miss","Louisiana",2017
 400935408,2017,11,"Penn State","Rutgers",2017
 400937514,2017,11,"Pittsburgh","North Carolina",2017
+400938659,2017,11,"Rice","Southern Miss",2017
 400938659,2017,11,"Rice","Southern Mississippi",2017
 400944872,2017,11,"South Alabama","Arkansas State",2017
 400933918,2017,11,"South Carolina","Florida",2017
@@ -8812,10 +8828,12 @@
 400934546,2017,11,"Texas","Kansas",2017
 400933919,2017,11,"Texas A&M","New Mexico",2017
 400941842,2017,11,"UCF","Connecticut",2017
+400941842,2017,11,"UCF","UConn",2017
 400935318,2017,11,"UCLA","Arizona State",2017
 400938894,2017,11,"UMass","Maine",2017
 400945299,2017,11,"UNLV","BYU",2017
 400938660,2017,11,"UT San Antonio","UAB",2017
+400938660,2017,11,"UTSA","UAB",2017
 400935320,2017,11,"Utah","Washington State",2017
 400933920,2017,11,"Vanderbilt","Kentucky",2017
 400945016,2017,11,"Western Michigan","Kent State",2017
@@ -8830,6 +8848,7 @@
 400945011,2017,10,"Eastern Michigan","Ball State",2017
 400938675,2017,10,"Florida Atlantic","Marshall",2017
 400938650,2017,10,"Florida International","UT San Antonio",2017
+400938650,2017,10,"Florida International","UTSA",2017
 400937511,2017,10,"Florida State","Syracuse",2017
 400945292,2017,10,"Fresno State","BYU",2017
 400933906,2017,10,"Georgia","South Carolina",2017
@@ -8846,6 +8865,7 @@
 400935398,2017,10,"Michigan","Minnesota",2017
 400935399,2017,10,"Michigan State","Penn State",2017
 400938652,2017,10,"Middle Tennessee","UTEP",2017
+400933908,2017,10,"Mississippi State","Massachusetts",2017
 400933908,2017,10,"Mississippi State","UMass",2017
 400933909,2017,10,"Missouri","Florida",2017
 400937510,2017,10,"NC State","Clemson",2017
@@ -8862,6 +8882,7 @@
 400944869,2017,10,"South Alabama","Louisiana",2017
 400934545,2017,10,"TCU","Texas",2017
 400941834,2017,10,"Temple","Navy",2017
+400933910,2017,10,"Tennessee","Southern Miss",2017
 400933910,2017,10,"Tennessee","Southern Mississippi",2017
 400933911,2017,10,"Texas A&M","Auburn",2017
 400944870,2017,10,"Texas State","New Mexico State",2017
@@ -8871,6 +8892,8 @@
 400941837,2017,10,"Tulane","Cincinnati",2017
 400941835,2017,10,"Tulsa","Memphis",2017
 400938653,2017,10,"UAB","Rice",2017
+400985386,2017,10,"UConn","South Florida",2017
+400944867,2017,10,"UL Monroe","App State",2017
 400945293,2017,10,"UNLV","Hawai'i",2017
 400935311,2017,10,"USC","Arizona",2017
 400935310,2017,10,"Utah","UCLA",2017
@@ -8898,6 +8921,7 @@
 400944861,2017,9,"Georgia State","South Alabama",2017
 400945287,2017,9,"Hawai'i","San Diego State",2017
 400944865,2017,9,"Idaho","Louisiana Monroe",2017
+400944865,2017,9,"Idaho","UL Monroe",2017
 400935390,2017,9,"Illinois","Wisconsin",2017
 400935391,2017,9,"Iowa","Minnesota",2017
 400934540,2017,9,"Iowa State","TCU",2017
@@ -8905,6 +8929,7 @@
 400933899,2017,9,"Kentucky","Tennessee",2017
 400938643,2017,9,"Marshall","Florida International",2017
 400935392,2017,9,"Maryland","Indiana",2017
+400938893,2017,9,"Massachusetts","App State",2017
 400941830,2017,9,"Memphis","Tulane",2017
 400935393,2017,9,"Michigan","Rutgers",2017
 400944862,2017,9,"New Mexico State","Arkansas State",2017
@@ -8924,12 +8949,15 @@
 400941831,2017,9,"SMU","Tulsa",2017
 400933902,2017,9,"South Carolina","Vanderbilt",2017
 400941839,2017,9,"South Florida","Houston",2017
+400938647,2017,9,"Southern Miss","UAB",2017
 400938647,2017,9,"Southern Mississippi","UAB",2017
 400933903,2017,9,"Texas A&M","Mississippi State",2017
 400944864,2017,9,"Troy","Georgia Southern",2017
 400986609,2017,9,"UCF","Austin Peay",2017
+400933901,2017,9,"UConn","Missouri",2017
 400938893,2017,9,"UMass","Appalachian State",2017
 400938648,2017,9,"UTEP","UT San Antonio",2017
+400938648,2017,9,"UTEP","UTSA",2017
 400945284,2017,9,"Utah State","Boise State",2017
 400937506,2017,9,"Virginia Tech","Duke",2017
 400937507,2017,9,"Wake Forest","Louisville",2017
@@ -8938,6 +8966,7 @@
 400938644,2017,9,"Western Kentucky","Florida Atlantic",2017
 400945285,2017,9,"Wyoming","New Mexico",2017
 400933893,2017,8,"Alabama","Tennessee",2017
+400944858,2017,8,"App State","Coastal Carolina",2017
 400944858,2017,8,"Appalachian State","Coastal Carolina",2017
 400933894,2017,8,"Arkansas","Auburn",2017
 400944857,2017,8,"Arkansas State","Louisiana",2017
@@ -8958,7 +8987,9 @@
 400937501,2017,8,"Georgia Tech","Wake Forest",2017
 400941824,2017,8,"Houston","Memphis",2017
 400934534,2017,8,"Kansas State","Oklahoma",2017
+400938640,2017,8,"Louisiana Tech","Southern Miss",2017
 400938640,2017,8,"Louisiana Tech","Southern Mississippi",2017
+400938892,2017,8,"Massachusetts","Georgia Southern",2017
 400937502,2017,8,"Miami","Syracuse",2017
 400945000,2017,8,"Miami (OH)","Buffalo",2017
 400935383,2017,8,"Michigan State","Indiana",2017
@@ -8978,15 +9009,18 @@
 400935387,2017,8,"Rutgers","Purdue",2017
 400945282,2017,8,"San Diego State","Fresno State",2017
 400944859,2017,8,"South Alabama","Louisiana Monroe",2017
+400944859,2017,8,"South Alabama","UL Monroe",2017
 400934532,2017,8,"TCU","Kansas",2017
 400934535,2017,8,"Texas","Oklahoma State",2017
 400934531,2017,8,"Texas Tech","Iowa State",2017
 400944999,2017,8,"Toledo","Akron",2017
 400941829,2017,8,"Tulane","South Florida",2017
 400935302,2017,8,"UCLA","Oregon",2017
+400941827,2017,8,"UConn","Tulsa",2017
 400938892,2017,8,"UMass","Georgia Southern",2017
 400945281,2017,8,"UNLV","Utah State",2017
 400938642,2017,8,"UT San Antonio","Rice",2017
+400938642,2017,8,"UTSA","Rice",2017
 400935301,2017,8,"Utah","Arizona State",2017
 400937498,2017,8,"Virginia","Boston College",2017
 400937503,2017,8,"Virginia Tech","North Carolina",2017
@@ -9010,6 +9044,7 @@
 400933888,2017,7,"Georgia","Missouri",2017
 400944855,2017,7,"Georgia Southern","New Mexico State",2017
 400945277,2017,7,"Hawai'i","San José State",2017
+400944853,2017,7,"Idaho","App State",2017
 400944853,2017,7,"Idaho","Appalachian State",2017
 400935378,2017,7,"Illinois","Rutgers",2017
 400935379,2017,7,"Indiana","Michigan",2017
@@ -9029,22 +9064,26 @@
 400935381,2017,7,"Nebraska","Ohio State",2017
 400937496,2017,7,"North Carolina","Virginia",2017
 400938636,2017,7,"North Texas","UT San Antonio",2017
+400938636,2017,7,"North Texas","UTSA",2017
 400934526,2017,7,"Oklahoma State","Baylor",2017
 400933890,2017,7,"Ole Miss","Vanderbilt",2017
 400935298,2017,7,"Oregon State","Colorado",2017
 400937497,2017,7,"Pittsburgh","NC State",2017
 400945273,2017,7,"San Diego State","Boise State",2017
 400941832,2017,7,"South Florida","Cincinnati",2017
+400938637,2017,7,"Southern Miss","UTEP",2017
 400938637,2017,7,"Southern Mississippi","UTEP",2017
 400935299,2017,7,"Stanford","Oregon",2017
 400937493,2017,7,"Syracuse","Clemson",2017
 400941821,2017,7,"Temple","Connecticut",2017
+400941821,2017,7,"Temple","UConn",2017
 400933892,2017,7,"Tennessee","South Carolina",2017
 400934528,2017,7,"Texas","Oklahoma",2017
 400944851,2017,7,"Troy","South Alabama",2017
 400941822,2017,7,"Tulsa","Houston",2017
 400938635,2017,7,"UAB","Middle Tennessee",2017
 400941820,2017,7,"UCF","East Carolina",2017
+400944856,2017,7,"UL Monroe","Georgia State",2017
 400935297,2017,7,"USC","Utah",2017
 400945276,2017,7,"Utah State","Wyoming",2017
 400934529,2017,7,"West Virginia","Texas Tech",2017
@@ -9052,6 +9091,7 @@
 400944994,2017,7,"Western Michigan","Akron",2017
 400935382,2017,7,"Wisconsin","Purdue",2017
 400944988,2017,6,"Akron","Ball State",2017
+400944850,2017,6,"App State","New Mexico State",2017
 400944850,2017,6,"Appalachian State","New Mexico State",2017
 400933880,2017,6,"Auburn","Ole Miss",2017
 400945267,2017,6,"BYU","Boise State",2017
@@ -9097,13 +9137,16 @@
 400934524,2017,6,"Texas","Kansas State",2017
 400933884,2017,6,"Texas A&M","Alabama",2017
 400944849,2017,6,"Texas State","Louisiana Monroe",2017
+400944849,2017,6,"Texas State","UL Monroe",2017
 400944991,2017,6,"Toledo","Eastern Michigan",2017
 400941819,2017,6,"Tulane","Tulsa",2017
 400938630,2017,6,"UAB","Louisiana Tech",2017
+400941814,2017,6,"UConn","Memphis",2017
 400945271,2017,6,"UNLV","San Diego State",2017
 400935290,2017,6,"USC","Oregon State",2017
 400938676,2017,6,"UT San Antonio","Southern Mississippi",2017
 400938631,2017,6,"UTEP","Western Kentucky",2017
+400938676,2017,6,"UTSA","Southern Miss",2017
 400935291,2017,6,"Utah","Stanford",2017
 400945268,2017,6,"Utah State","Colorado State",2017
 400933885,2017,6,"Vanderbilt","Georgia",2017
@@ -9133,6 +9176,7 @@
 400944844,2017,5,"Louisiana Monroe","Coastal Carolina",2017
 400938624,2017,5,"Louisiana Tech","South Alabama",2017
 400937484,2017,5,"Louisville","Murray State",2017
+400938890,2017,5,"Massachusetts","Ohio",2017
 400935366,2017,5,"Michigan State","Iowa",2017
 400935367,2017,5,"Minnesota","Maryland",2017
 400937485,2017,5,"NC State","Syracuse",2017
@@ -9144,7 +9188,9 @@
 400937486,2017,5,"Pittsburgh","Rice",2017
 400935369,2017,5,"Rutgers","Ohio State",2017
 400941809,2017,5,"SMU","Connecticut",2017
+400941809,2017,5,"SMU","UConn",2017
 400944987,2017,5,"San Diego State","Northern Illinois",2017
+400938626,2017,5,"Southern Miss","North Texas",2017
 400938626,2017,5,"Southern Mississippi","North Texas",2017
 400935285,2017,5,"Stanford","Arizona State",2017
 400941811,2017,5,"Temple","Houston",2017
@@ -9154,6 +9200,7 @@
 400941813,2017,5,"Tulsa","Navy",2017
 400985406,2017,5,"UCF","Memphis",2017
 400935286,2017,5,"UCLA","Colorado",2017
+400944844,2017,5,"UL Monroe","Coastal Carolina",2017
 400938890,2017,5,"UMass","Ohio",2017
 400945266,2017,5,"UNLV","San José State",2017
 400945262,2017,5,"Utah State","BYU",2017
@@ -9164,6 +9211,7 @@
 400935370,2017,5,"Wisconsin","Northwestern",2017
 400944845,2017,5,"Wyoming","Texas State",2017
 400945259,2017,4,"Air Force","San Diego State",2017
+400937478,2017,4,"App State","Wake Forest",2017
 400937478,2017,4,"Appalachian State","Wake Forest",2017
 400935277,2017,4,"Arizona","Utah",2017
 400935278,2017,4,"Arizona State","Oregon",2017
@@ -9189,6 +9237,7 @@
 400933866,2017,4,"Kentucky","Florida",2017
 400933867,2017,4,"LSU","Syracuse",2017
 400944842,2017,4,"Louisiana","Louisiana Monroe",2017
+400944842,2017,4,"Louisiana","UL Monroe",2017
 400937474,2017,4,"Louisville","Kent State",2017
 400935361,2017,4,"Maryland","UCF",2017
 400941805,2017,4,"Memphis","Southern Illinois",2017
@@ -9211,11 +9260,14 @@
 400933869,2017,4,"South Carolina","Louisiana Tech",2017
 400941803,2017,4,"South Florida","Temple",2017
 400935280,2017,4,"Stanford","UCLA",2017
+400933870,2017,4,"Tennessee","Massachusetts",2017
 400933870,2017,4,"Tennessee","UMass",2017
 400938620,2017,4,"Texas State","UT San Antonio",2017
+400938620,2017,4,"Texas State","UTSA",2017
 400944818,2017,4,"Troy","Akron",2017
 400934561,2017,4,"Tulane","Army",2017
 400941807,2017,4,"Tulsa","New Mexico",2017
+400941838,2017,4,"UConn","East Carolina",2017
 400933871,2017,4,"Vanderbilt","Alabama",2017
 400937477,2017,4,"Virginia Tech","Old Dominion",2017
 400935283,2017,4,"Washington State","Nevada",2017
@@ -9268,18 +9320,23 @@
 400941799,2017,3,"South Florida","Illinois",2017
 400937466,2017,3,"Syracuse","Central Michigan",2017
 400934510,2017,3,"TCU","SMU",2017
+400941800,2017,3,"Temple","Massachusetts",2017
 400941800,2017,3,"Temple","UMass",2017
 400933862,2017,3,"Texas A&M","Louisiana",2017
+400944836,2017,3,"Texas State","App State",2017
 400944836,2017,3,"Texas State","Appalachian State",2017
 400934512,2017,3,"Texas Tech","Arizona State",2017
 400941802,2017,3,"Toledo","Tulsa",2017
 400938612,2017,3,"UAB","Coastal Carolina",2017
+400938611,2017,3,"UL Monroe","Southern Miss",2017
 400934511,2017,3,"USC","Texas",2017
 400938613,2017,3,"UT San Antonio","Southern",2017
 400935269,2017,3,"UTEP","Arizona",2017
+400938613,2017,3,"UTSA","Southern",2017
 400935272,2017,3,"Utah","San José State",2017
 400933863,2017,3,"Vanderbilt","Kansas State",2017
 400937467,2017,3,"Virginia","Connecticut",2017
+400937467,2017,3,"Virginia","UConn",2017
 400937469,2017,3,"Wake Forest","Utah State",2017
 400935275,2017,3,"Washington","Fresno State",2017
 400935274,2017,3,"Washington State","Oregon State",2017
@@ -9289,6 +9346,7 @@
 400935273,2017,3,"Wyoming","Oregon",2017
 400944893,2017,2,"Akron","Arkansas-Pine Bluff",2017
 400933841,2017,2,"Alabama","Fresno State",2017
+400944831,2017,2,"App State","Savannah St",2017
 400944831,2017,2,"Appalachian State","Savannah State",2017
 400935258,2017,2,"Arizona","Houston",2017
 400935259,2017,2,"Arizona State","San Diego State",2017
@@ -9297,6 +9355,7 @@
 400935263,2017,2,"BYU","Utah",2017
 400938605,2017,2,"Ball State","UAB",2017
 400934498,2017,2,"Baylor","UT San Antonio",2017
+400934498,2017,2,"Baylor","UTSA",2017
 400937453,2017,2,"Boston College","Wake Forest",2017
 400944897,2017,2,"Bowling Green","South Dakota",2017
 400935268,2017,2,"California","Weber State",2017
@@ -9317,6 +9376,7 @@
 400933847,2017,2,"LSU","Chattanooga",2017
 400933849,2017,2,"Louisiana Tech","Mississippi State",2017
 400935242,2017,2,"Maryland","Towson",2017
+400938602,2017,2,"Massachusetts","Old Dominion",2017
 400944894,2017,2,"Miami (OH)","Austin Peay",2017
 400935243,2017,2,"Michigan","Cincinnati",2017
 400935244,2017,2,"Michigan State","Western Michigan",2017
@@ -9335,6 +9395,7 @@
 400935246,2017,2,"Rutgers","Eastern Michigan",2017
 400938601,2017,2,"SMU","North Texas",2017
 400934503,2017,2,"South Alabama","Oklahoma State",2017
+400938604,2017,2,"Southern Miss","Southern",2017
 400938604,2017,2,"Southern Mississippi","Southern",2017
 400937459,2017,2,"Syracuse","Middle Tennessee",2017
 400941797,2017,2,"Temple","Villanova",2017
@@ -9375,6 +9436,7 @@
 400941787,2017,1,"Cincinnati","Austin Peay",2017
 400953413,2017,1,"Clemson","Alabama",2017
 400937447,2017,1,"Clemson","Kent State",2017
+400938888,2017,1,"Coastal Carolina","Massachusetts",2017
 400938888,2017,1,"Coastal Carolina","UMass",2017
 400935249,2017,1,"Colorado","Colorado State",2017
 400953324,2017,1,"Colorado State","Marshall",2017
@@ -9387,9 +9449,11 @@
 400953386,2017,1,"Florida Atlantic","Akron",2017
 400938592,2017,1,"Florida Atlantic","Navy",2017
 400953387,2017,1,"Florida International","Temple",2017
+400953397,2017,1,"Florida State","Southern Miss",2017
 400953397,2017,1,"Florida State","Southern Mississippi",2017
 400945248,2017,1,"Fresno State","Incarnate Word",2017
 400953415,2017,1,"Georgia","Alabama",2017
+400933831,2017,1,"Georgia","App State",2017
 400933831,2017,1,"Georgia","Appalachian State",2017
 400944826,2017,1,"Georgia State","Tennessee State",2017
 400953409,2017,1,"Georgia State","Western Kentucky",2017
@@ -9407,8 +9471,10 @@
 400953414,2017,1,"LSU","Notre Dame",2017
 400938593,2017,1,"Louisiana Tech","Northwestern State",2017
 400938594,2017,1,"Marshall","Miami (OH)",2017
+400938887,2017,1,"Massachusetts","Hawai'i",2017
 400953406,2017,1,"Memphis","Iowa State",2017
 400941789,2017,1,"Memphis","Louisiana Monroe",2017
+400941789,2017,1,"Memphis","UL Monroe",2017
 400937449,2017,1,"Miami","Bethune-Cookman",2017
 400953408,2017,1,"Miami","Wisconsin",2017
 400935234,2017,1,"Michigan State","Bowling Green",2017
@@ -9438,6 +9504,7 @@
 400934493,2017,1,"Oklahoma State","Tulsa",2017
 400953416,2017,1,"Oklahoma State","Virginia Tech",2017
 400938596,2017,1,"Old Dominion","Albany",2017
+400938596,2017,1,"Old Dominion","UAlbany",2017
 400933834,2017,1,"Ole Miss","South Alabama",2017
 400953323,2017,1,"Oregon","Boise State",2017
 400935253,2017,1,"Oregon","Southern Utah",2017
@@ -9458,6 +9525,7 @@
 400933837,2017,1,"South Carolina","NC State",2017
 400941791,2017,1,"South Florida","Stony Brook",2017
 400953390,2017,1,"South Florida","Texas Tech",2017
+400933832,2017,1,"Southern Miss","Kentucky",2017
 400933832,2017,1,"Southern Mississippi","Kentucky",2017
 400937451,2017,1,"Syracuse","Central Connecticut",2017
 400934494,2017,1,"TCU","Jackson State",2017
@@ -9465,7 +9533,9 @@
 400934495,2017,1,"Texas","Maryland",2017
 400953402,2017,1,"Texas A&M","Wake Forest",2017
 400944829,2017,1,"Texas State","Houston Baptist",2017
+400944829,2017,1,"Texas State","Houston Christian",2017
 400934496,2017,1,"Texas Tech","Eastern Washington",2017
+400953392,2017,1,"Toledo","App State",2017
 400953392,2017,1,"Toledo","Appalachian State",2017
 400944889,2017,1,"Toledo","Elon",2017
 400941793,2017,1,"Tulane","Grambling",2017
@@ -9473,6 +9543,7 @@
 400938591,2017,1,"UCF","Florida International",2017
 400953396,2017,1,"UCLA","Kansas State",2017
 400933838,2017,1,"UCLA","Texas A&M",2017
+400941788,2017,1,"UConn","Holy Cross",2017
 400938887,2017,1,"UMass","Hawai'i",2017
 400945252,2017,1,"UNLV","Howard",2017
 400935252,2017,1,"USC","Western Michigan",2017
@@ -9480,6 +9551,7 @@
 400966332,2017,1,"Utah State","New Mexico State",2017
 400937452,2017,1,"Virginia","William & Mary",2017
 400934497,2017,1,"Virginia Tech","West Virginia",2017
+400937445,2017,1,"Wake Forest","Presbyterian",2017
 400937445,2017,1,"Wake Forest","Presbyterian College",2017
 400935255,2017,1,"Washington State","Montana State",2017
 400953395,2017,1,"West Virginia","Utah",2017
