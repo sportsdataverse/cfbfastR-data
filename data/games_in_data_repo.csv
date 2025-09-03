@@ -6696,6 +6696,7 @@
 401239884,2020,1,"UTEP","Stephen F. Austin",2020
 401256144,2020,1,"UTSA","Louisiana",2020
 401256152,2020,1,"Wisconsin","Wake Forest",2020
+401132984,2019,15,"App State","Louisiana",2019
 401132984,2019,15,"Appalachian State","Louisiana",2019
 401132979,2019,15,"Boise State","Hawai'i",2019
 401132982,2019,15,"Central Michigan","Miami (OH)",2019
@@ -6721,6 +6722,7 @@
 401117915,2019,14,"East Carolina","Tulsa",2019
 401119313,2019,14,"Eastern Michigan","Kent State",2019
 401110866,2019,14,"Florida","Florida State",2019
+401114322,2019,14,"Florida Atlantic","Southern Miss",2019
 401114322,2019,14,"Florida Atlantic","Southern Mississippi",2019
 401121981,2019,14,"Georgia Southern","Georgia State",2019
 401110867,2019,14,"Georgia Tech","Georgia",2019
@@ -6733,7 +6735,9 @@
 401110869,2019,14,"LSU","Texas A&M",2019
 401114346,2019,14,"Liberty","New Mexico State",2019
 401121982,2019,14,"Louisiana","Louisiana Monroe",2019
+401121982,2019,14,"Louisiana","UL Monroe",2019
 401114323,2019,14,"Louisiana Tech","UT San Antonio",2019
+401114323,2019,14,"Louisiana Tech","UTSA",2019
 401114321,2019,14,"Marshall","Florida International",2019
 401117913,2019,14,"Memphis","Cincinnati",2019
 401112228,2019,14,"Michigan","Ohio State",2019
@@ -6761,8 +6765,10 @@
 401112525,2019,14,"Syracuse","Wake Forest",2019
 401112134,2019,14,"TCU","West Virginia",2019
 401117914,2019,14,"Temple","Connecticut",2019
+401117914,2019,14,"Temple","UConn",2019
 401110871,2019,14,"Tennessee","Vanderbilt",2019
 401112138,2019,14,"Texas","Texas Tech",2019
+401121978,2019,14,"Troy","App State",2019
 401121978,2019,14,"Troy","Appalachian State",2019
 401117912,2019,14,"UCF","South Florida",2019
 401114183,2019,14,"UCLA","California",2019
@@ -6772,6 +6778,7 @@
 401114232,2019,14,"Washington","Washington State",2019
 401114324,2019,14,"Western Kentucky","Middle Tennessee",2019
 401110855,2019,13,"Alabama","Western Carolina",2019
+401121973,2019,13,"App State","Texas State",2019
 401121973,2019,13,"Appalachian State","Texas State",2019
 401114173,2019,13,"Arizona","Utah",2019
 401114162,2019,13,"Arizona State","Oregon",2019
@@ -6800,6 +6807,7 @@
 401121975,2019,13,"Louisiana Monroe","Coastal Carolina",2019
 401112516,2019,13,"Louisville","Syracuse",2019
 401112210,2019,13,"Maryland","Nebraska",2019
+401114358,2019,13,"Massachusetts","BYU",2019
 401119307,2019,13,"Miami (OH)","Akron",2019
 401114316,2019,13,"Middle Tennessee","Old Dominion",2019
 401110860,2019,13,"Mississippi State","Abilene Christian",2019
@@ -6816,16 +6824,20 @@
 401114317,2019,13,"Rice","North Texas",2019
 401112220,2019,13,"Rutgers","Michigan State",2019
 401117909,2019,13,"South Florida","Memphis",2019
+401114318,2019,13,"Southern Miss","Western Kentucky",2019
 401114318,2019,13,"Southern Mississippi","Western Kentucky",2019
 401114182,2019,13,"Stanford","California",2019
 401112113,2019,13,"Texas Tech","Kansas State",2019
 401117906,2019,13,"Tulane","UCF",2019
 401117910,2019,13,"Tulsa","Houston",2019
 401114315,2019,13,"UAB","Louisiana Tech",2019
+401117908,2019,13,"UConn","East Carolina",2019
+401121975,2019,13,"UL Monroe","Coastal Carolina",2019
 401114358,2019,13,"UMass","BYU",2019
 401117553,2019,13,"UNLV","San José State",2019
 401114217,2019,13,"USC","UCLA",2019
 401114314,2019,13,"UT San Antonio","Florida Atlantic",2019
+401114314,2019,13,"UTSA","Florida Atlantic",2019
 401117549,2019,13,"Utah State","Boise State",2019
 401110862,2019,13,"Vanderbilt","East Tennessee State",2019
 401112520,2019,13,"Virginia","Liberty",2019
@@ -6849,6 +6861,8 @@
 401112509,2019,12,"Duke","Syracuse",2019
 401112510,2019,12,"Florida State","Alabama State",2019
 401121970,2019,12,"Georgia Southern","Louisiana Monroe",2019
+401121970,2019,12,"Georgia Southern","UL Monroe",2019
+401121968,2019,12,"Georgia State","App State",2019
 401121968,2019,12,"Georgia State","Appalachian State",2019
 401112511,2019,12,"Georgia Tech","Virginia Tech",2019
 401117904,2019,12,"Houston","Memphis",2019
@@ -6865,6 +6879,7 @@
 401112512,2019,12,"NC State","Louisville",2019
 401112244,2019,12,"Nebraska","Wisconsin",2019
 401114345,2019,12,"New Mexico State","Incarnate Word",2019
+401112250,2019,12,"Northwestern","Massachusetts",2019
 401112250,2019,12,"Northwestern","UMass",2019
 401114338,2019,12,"Notre Dame","Navy",2019
 401119300,2019,12,"Ohio","Western Michigan",2019
@@ -6886,6 +6901,7 @@
 401114312,2019,12,"UAB","UTEP",2019
 401117548,2019,12,"UNLV","Hawai'i",2019
 401114311,2019,12,"UT San Antonio","Southern Mississippi",2019
+401114311,2019,12,"UTSA","Southern Miss",2019
 401114216,2019,12,"Utah","UCLA",2019
 401117546,2019,12,"Utah State","Wyoming",2019
 401110854,2019,12,"Vanderbilt","Kentucky",2019
@@ -6893,12 +6909,14 @@
 401110842,2019,11,"Alabama","LSU",2019
 401114160,2019,11,"Arizona State","USC",2019
 401110843,2019,11,"Arkansas","Western Kentucky",2019
+401114332,2019,11,"Army","Massachusetts",2019
 401114332,2019,11,"Army","UMass",2019
 401114353,2019,11,"BYU","Liberty",2019
 401117541,2019,11,"Boise State","Wyoming",2019
 401112502,2019,11,"Boston College","Florida State",2019
 401114180,2019,11,"California","Washington State",2019
 401117901,2019,11,"Cincinnati","Connecticut",2019
+401117901,2019,11,"Cincinnati","UConn",2019
 401121964,2019,11,"Coastal Carolina","Louisiana",2019
 401114190,2019,11,"Colorado","Stanford",2019
 401111654,2019,11,"Duke","Notre Dame",2019
@@ -6919,12 +6937,15 @@
 401112209,2019,11,"Ohio State","Maryland",2019
 401112092,2019,11,"Oklahoma","Iowa State",2019
 401114307,2019,11,"Old Dominion","UT San Antonio",2019
+401114307,2019,11,"Old Dominion","UTSA",2019
 401110847,2019,11,"Ole Miss","New Mexico State",2019
 401114205,2019,11,"Oregon State","Washington",2019
 401117902,2019,11,"SMU","East Carolina",2019
 401117542,2019,11,"San Diego State","Nevada",2019
+401110848,2019,11,"South Carolina","App State",2019
 401110848,2019,11,"South Carolina","Appalachian State",2019
 401117899,2019,11,"South Florida","Temple",2019
+401114308,2019,11,"Southern Miss","UAB",2019
 401114308,2019,11,"Southern Mississippi","UAB",2019
 401112081,2019,11,"TCU","Baylor",2019
 401112111,2019,11,"Texas","Kansas State",2019
@@ -6932,6 +6953,7 @@
 401119297,2019,11,"Toledo","Kent State",2019
 401121965,2019,11,"Troy","Georgia Southern",2019
 401117900,2019,11,"Tulsa","UCF",2019
+401121966,2019,11,"UL Monroe","Georgia State",2019
 401114304,2019,11,"UTEP","Charlotte",2019
 401112504,2019,11,"Virginia","Georgia Tech",2019
 401112506,2019,11,"Virginia Tech","Wake Forest",2019
@@ -6939,6 +6961,7 @@
 401119296,2019,11,"Western Michigan","Ball State",2019
 401112198,2019,11,"Wisconsin","Iowa",2019
 401114331,2019,10,"Air Force","Army",2019
+401121960,2019,10,"App State","Georgia Southern",2019
 401121960,2019,10,"Appalachian State","Georgia Southern",2019
 401114171,2019,10,"Arizona","Oregon State",2019
 401110836,2019,10,"Arkansas","Mississippi State",2019
@@ -6964,6 +6987,7 @@
 401121963,2019,10,"Louisiana","Texas State",2019
 401121961,2019,10,"Louisiana Monroe","Arkansas State",2019
 401112208,2019,10,"Maryland","Michigan",2019
+401114352,2019,10,"Massachusetts","Liberty",2019
 401117897,2019,10,"Memphis","SMU",2019
 401117536,2019,10,"Nevada","New Mexico",2019
 401112499,2019,10,"North Carolina","Virginia",2019
@@ -6977,9 +7001,12 @@
 401112495,2019,10,"Syracuse","Boston College",2019
 401110840,2019,10,"Tennessee","UAB",2019
 401110841,2019,10,"Texas A&M","UT San Antonio",2019
+401110841,2019,10,"Texas A&M","UTSA",2019
 401117898,2019,10,"Tulane","Tulsa",2019
 401117895,2019,10,"UCF","Houston",2019
 401114189,2019,10,"UCLA","Colorado",2019
+401117894,2019,10,"UConn","Navy",2019
+401121961,2019,10,"UL Monroe","Arkansas State",2019
 401114352,2019,10,"UMass","Liberty",2019
 401114198,2019,10,"USC","Oregon",2019
 401117216,2019,10,"Utah State","BYU",2019
@@ -7009,6 +7036,7 @@
 401110833,2019,9,"LSU","Auburn",2019
 401112493,2019,9,"Louisville","Virginia",2019
 401114297,2019,9,"Marshall","Western Kentucky",2019
+401114357,2019,9,"Massachusetts","UConn",2019
 401112227,2019,9,"Michigan","Notre Dame",2019
 401112218,2019,9,"Michigan State","Penn State",2019
 401114294,2019,9,"Middle Tennessee","Florida International",2019
@@ -7024,8 +7052,10 @@
 401114197,2019,9,"Oregon","Washington State",2019
 401112494,2019,9,"Pittsburgh","Miami",2019
 401112152,2019,9,"Purdue","Illinois",2019
+401114298,2019,9,"Rice","Southern Miss",2019
 401114298,2019,9,"Rice","Southern Mississippi",2019
 401112266,2019,9,"Rutgers","Liberty",2019
+401121957,2019,9,"South Alabama","App State",2019
 401121957,2019,9,"South Alabama","Appalachian State",2019
 401114170,2019,9,"Stanford","Arizona",2019
 401112132,2019,9,"TCU","Texas",2019
@@ -7043,6 +7073,7 @@
 401117533,2019,9,"Wyoming","Nevada",2019
 401119281,2019,8,"Akron","Buffalo",2019
 401110824,2019,8,"Alabama","Tennessee",2019
+401121955,2019,8,"App State","UL Monroe",2019
 401121955,2019,8,"Appalachian State","Louisiana Monroe",2019
 401110825,2019,8,"Arkansas","Auburn",2019
 401121954,2019,8,"Arkansas State","Louisiana",2019
@@ -7065,6 +7096,7 @@
 401112196,2019,8,"Iowa","Purdue",2019
 401112109,2019,8,"Kansas State","TCU",2019
 401114351,2019,8,"Liberty","Maine",2019
+401114289,2019,8,"Louisiana Tech","Southern Miss",2019
 401114289,2019,8,"Louisiana Tech","Southern Mississippi",2019
 401112485,2019,8,"Louisville","Clemson",2019
 401112163,2019,8,"Maryland","Indiana",2019
@@ -7091,8 +7123,10 @@
 401121953,2019,8,"Troy","South Alabama",2019
 401114291,2019,8,"UAB","Old Dominion",2019
 401117884,2019,8,"UCF","East Carolina",2019
+401117886,2019,8,"UConn","Houston",2019
 401114169,2019,8,"USC","Arizona",2019
 401114292,2019,8,"UT San Antonio","Rice",2019
+401114292,2019,8,"UTSA","Rice",2019
 401114158,2019,8,"Utah","Arizona State",2019
 401117527,2019,8,"Utah State","Nevada",2019
 401110830,2019,8,"Vanderbilt","Missouri",2019
@@ -7124,7 +7158,9 @@
 401112195,2019,7,"Iowa","Penn State",2019
 401110818,2019,7,"Kentucky","Arkansas",2019
 401110819,2019,7,"LSU","Florida",2019
+401121950,2019,7,"Louisiana","App State",2019
 401121950,2019,7,"Louisiana","Appalachian State",2019
+401114281,2019,7,"Louisiana Tech","Massachusetts",2019
 401114281,2019,7,"Louisiana Tech","UMass",2019
 401114283,2019,7,"Marshall","Old Dominion",2019
 401112478,2019,7,"Miami","Virginia",2019
@@ -7140,15 +7176,19 @@
 401112206,2019,7,"Purdue","Maryland",2019
 401117523,2019,7,"San Diego State","Wyoming",2019
 401117214,2019,7,"South Florida","BYU",2019
+401114282,2019,7,"Southern Miss","North Texas",2019
 401114282,2019,7,"Southern Mississippi","North Texas",2019
 401117881,2019,7,"Temple","Memphis",2019
 401110821,2019,7,"Tennessee","Mississippi State",2019
 401112118,2019,7,"Texas","Oklahoma",2019
 401110822,2019,7,"Texas A&M","Alabama",2019
 401121951,2019,7,"Texas State","Louisiana Monroe",2019
+401121951,2019,7,"Texas State","UL Monroe",2019
 401117880,2019,7,"Tulane","Connecticut",2019
+401117880,2019,7,"Tulane","UConn",2019
 401117882,2019,7,"Tulsa","Navy",2019
 401114284,2019,7,"UT San Antonio","UAB",2019
+401114284,2019,7,"UTSA","UAB",2019
 401110823,2019,7,"Vanderbilt","UNLV",2019
 401112482,2019,7,"Virginia Tech","Rhode Island",2019
 401112481,2019,7,"Wake Forest","Louisville",2019
@@ -7166,6 +7206,7 @@
 401112474,2019,6,"Duke","Pittsburgh",2019
 401117874,2019,6,"East Carolina","Temple",2019
 401110812,2019,6,"Florida","Auburn",2019
+401114274,2019,6,"Florida International","Massachusetts",2019
 401114274,2019,6,"Florida International","UMass",2019
 401121949,2019,6,"Georgia State","Arkansas State",2019
 401112475,2019,6,"Georgia Tech","North Carolina",2019
@@ -7200,12 +7241,16 @@
 401119275,2019,6,"Toledo","Western Michigan",2019
 401114277,2019,6,"UAB","Rice",2019
 401114203,2019,6,"UCLA","Oregon State",2019
+401117876,2019,6,"UConn","South Florida",2019
+401117877,2019,6,"UL Monroe","Memphis",2019
 401117517,2019,6,"UNLV","Boise State",2019
 401114278,2019,6,"UTEP","UT San Antonio",2019
+401114278,2019,6,"UTEP","UTSA",2019
 401112137,2019,6,"West Virginia","Texas",2019
 401112269,2019,6,"Wisconsin","Kent State",2019
 401117512,2019,5,"Air Force","San José State",2019
 401110806,2019,5,"Alabama","Ole Miss",2019
+401121943,2019,5,"App State","Coastal Carolina",2019
 401121943,2019,5,"Appalachian State","Coastal Carolina",2019
 401114166,2019,5,"Arizona","UCLA",2019
 401110807,2019,5,"Arkansas","Texas A&M",2019
@@ -7222,6 +7267,7 @@
 401121946,2019,5,"Louisiana Monroe","South Alabama",2019
 401114269,2019,5,"Marshall","Cincinnati",2019
 401112204,2019,5,"Maryland","Penn State",2019
+401114356,2019,5,"Massachusetts","Akron",2019
 401117871,2019,5,"Memphis","Navy",2019
 401119270,2019,5,"Miami (OH)","Buffalo",2019
 401112225,2019,5,"Michigan","Rutgers",2019
@@ -7241,6 +7287,7 @@
 401114268,2019,5,"Rice","Louisiana Tech",2019
 401110810,2019,5,"South Carolina","Kentucky",2019
 401117873,2019,5,"South Florida","SMU",2019
+401114272,2019,5,"Southern Miss","UTEP",2019
 401114272,2019,5,"Southern Mississippi","UTEP",2019
 401112471,2019,5,"Syracuse","Holy Cross",2019
 401112100,2019,5,"TCU","Kansas",2019
@@ -7249,6 +7296,8 @@
 401117213,2019,5,"Toledo","BYU",2019
 401121944,2019,5,"Troy","Arkansas State",2019
 401117872,2019,5,"UCF","Connecticut",2019
+401117872,2019,5,"UCF","UConn",2019
+401121946,2019,5,"UL Monroe","South Alabama",2019
 401114356,2019,5,"UMass","Akron",2019
 401114226,2019,5,"Utah","Washington State",2019
 401117513,2019,5,"Utah State","Colorado State",2019
@@ -7260,6 +7309,7 @@
 401112247,2019,5,"Wisconsin","Northwestern",2019
 401117514,2019,5,"Wyoming","UNLV",2019
 401119269,2019,4,"Akron","Troy",2019
+401110797,2019,4,"Alabama","Southern Miss",2019
 401110797,2019,4,"Alabama","Southern Mississippi",2019
 401114155,2019,4,"Arizona State","Colorado",2019
 401110798,2019,4,"Arkansas","San José State",2019
@@ -7280,18 +7330,23 @@
 401117511,2019,4,"Hawai'i","Central Arkansas",2019
 401112148,2019,4,"Illinois","Nebraska",2019
 401112160,2019,4,"Indiana","Connecticut",2019
+401112160,2019,4,"Indiana","UConn",2019
 401112087,2019,4,"Iowa State","Louisiana Monroe",2019
+401112087,2019,4,"Iowa State","UL Monroe",2019
 401112099,2019,4,"Kansas","West Virginia",2019
 401119266,2019,4,"Kent State","Bowling Green",2019
 401114349,2019,4,"Liberty","Hampton",2019
 401114262,2019,4,"Louisiana Tech","Florida International",2019
+401114355,2019,4,"Massachusetts","Coastal Carolina",2019
 401112458,2019,4,"Miami","Central Michigan",2019
 401110802,2019,4,"Mississippi State","Kentucky",2019
 401110803,2019,4,"Missouri","South Carolina",2019
 401112460,2019,4,"NC State","Ball State",2019
 401114340,2019,4,"New Mexico","New Mexico State",2019
+401112459,2019,4,"North Carolina","App State",2019
 401112459,2019,4,"North Carolina","Appalachian State",2019
 401114264,2019,4,"North Texas","UT San Antonio",2019
+401114264,2019,4,"North Texas","UTSA",2019
 401112215,2019,4,"Northwestern","Michigan State",2019
 401119268,2019,4,"Ohio","Louisiana",2019
 401112253,2019,4,"Ohio State","Miami (OH)",2019
@@ -7326,6 +7381,7 @@
 401114258,2019,3,"Bowling Green","Louisiana Tech",2019
 401114176,2019,3,"California","North Texas",2019
 401119263,2019,3,"Central Michigan","Akron",2019
+401114255,2019,3,"Charlotte","Massachusetts",2019
 401114255,2019,3,"Charlotte","UMass",2019
 401117863,2019,3,"Cincinnati","Miami (OH)",2019
 401121939,2019,3,"Coastal Carolina","Norfolk State",2019
@@ -7354,6 +7410,7 @@
 401114339,2019,3,"New Mexico State","San Diego State",2019
 401112246,2019,3,"Northwestern","UNLV",2019
 401114336,2019,3,"Notre Dame","New Mexico",2019
+401110791,2019,3,"Ole Miss","SE Louisiana",2019
 401110791,2019,3,"Ole Miss","Southeastern Louisiana",2019
 401114194,2019,3,"Oregon","Montana",2019
 401114201,2019,3,"Oregon State","Cal Poly",2019
@@ -7369,12 +7426,14 @@
 401110795,2019,3,"Tennessee","Chattanooga",2019
 401110796,2019,3,"Texas A&M","Lamar",2019
 401119265,2019,3,"Toledo","Murray State",2019
+401114260,2019,3,"Troy","Southern Miss",2019
 401114260,2019,3,"Troy","Southern Mississippi",2019
 401117868,2019,3,"Tulane","Missouri State",2019
 401112124,2019,3,"Tulsa","Oklahoma State",2019
 401114208,2019,3,"UCF","Stanford",2019
 401112116,2019,3,"UCLA","Oklahoma",2019
 401114261,2019,3,"UT San Antonio","Army",2019
+401114261,2019,3,"UTSA","Army",2019
 401114225,2019,3,"Utah","Idaho State",2019
 401112451,2019,3,"Virginia","Florida State",2019
 401112455,2019,3,"Virginia Tech","Furman",2019
@@ -7386,12 +7445,14 @@
 401117504,2019,3,"Wyoming","Idaho",2019
 401114254,2019,2,"Akron","UAB",2019
 401110773,2019,2,"Alabama","New Mexico State",2019
+401114247,2019,2,"App State","Charlotte",2019
 401114247,2019,2,"Appalachian State","Charlotte",2019
 401114165,2019,2,"Arizona","Northern Arizona",2019
 401114154,2019,2,"Arizona State","Sacramento State",2019
 401110774,2019,2,"Auburn","Tulane",2019
 401119260,2019,2,"Ball State","Fordham",2019
 401112074,2019,2,"Baylor","UT San Antonio",2019
+401112074,2019,2,"Baylor","UTSA",2019
 401114251,2019,2,"Boise State","Marshall",2019
 401112438,2019,2,"Boston College","Richmond",2019
 401110784,2019,2,"Clemson","Texas A&M",2019
@@ -7404,6 +7465,7 @@
 401114249,2019,2,"Florida Atlantic","UCF",2019
 401114248,2019,2,"Florida International","Western Kentucky",2019
 401112440,2019,2,"Florida State","Louisiana Monroe",2019
+401112440,2019,2,"Florida State","UL Monroe",2019
 401112230,2019,2,"Fresno State","Minnesota",2019
 401110776,2019,2,"Georgia","Murray State",2019
 401121936,2019,2,"Georgia Southern","Maine",2019
@@ -7411,6 +7473,7 @@
 401112441,2019,2,"Georgia Tech","South Florida",2019
 401114200,2019,2,"Hawai'i","Oregon State",2019
 401117861,2019,2,"Houston","Prairie View",2019
+401117861,2019,2,"Houston","Prairie View A&M",2019
 401112158,2019,2,"Indiana","Eastern Illinois",2019
 401112192,2019,2,"Iowa","Rutgers",2019
 401112097,2019,2,"Kansas","Coastal Carolina",2019
@@ -7421,11 +7484,13 @@
 401114250,2019,2,"Louisiana Tech","Grambling",2019
 401112442,2019,2,"Louisville","Eastern Kentucky",2019
 401112202,2019,2,"Maryland","Syracuse",2019
+401114354,2019,2,"Massachusetts","Southern Illinois",2019
 401117862,2019,2,"Memphis","Southern",2019
 401119262,2019,2,"Miami (OH)","Tennessee Tech",2019
 401112223,2019,2,"Michigan","Army",2019
 401112213,2019,2,"Michigan State","Western Michigan",2019
 401114252,2019,2,"Middle Tennessee","Tennessee State",2019
+401110780,2019,2,"Mississippi State","Southern Miss",2019
 401110780,2019,2,"Mississippi State","Southern Mississippi",2019
 401110781,2019,2,"Missouri","West Virginia",2019
 401112444,2019,2,"NC State","Western Carolina",2019
@@ -7448,6 +7513,7 @@
 401117500,2019,2,"Texas State","Wyoming",2019
 401112140,2019,2,"Texas Tech","UTEP",2019
 401114214,2019,2,"UCLA","San Diego State",2019
+401112146,2019,2,"UConn","Illinois",2019
 401114354,2019,2,"UMass","Southern Illinois",2019
 401117502,2019,2,"UNLV","Arkansas State",2019
 401114207,2019,2,"USC","Stanford",2019
@@ -7461,6 +7527,7 @@
 401117494,2019,1,"Air Force","Colgate",2019
 401110720,2019,1,"Alabama","Duke",2019
 401135286,2019,1,"Alabama","Michigan",2019
+401121934,2019,1,"App State","East Tennessee State",2019
 401121934,2019,1,"Appalachian State","East Tennessee State",2019
 401136255,2019,1,"Arizona State","Florida State",2019
 401114153,2019,1,"Arizona State","Kent State",2019
@@ -7480,6 +7547,7 @@
 401119255,2019,1,"Buffalo","Robert Morris",2019
 401114174,2019,1,"California","UC Davis",2019
 401119253,2019,1,"Central Michigan","Albany",2019
+401119253,2019,1,"Central Michigan","UAlbany",2019
 401135260,2019,1,"Charlotte","Buffalo",2019
 401135910,2019,1,"Charlotte","Gardner-Webb",2019
 401135290,2019,1,"Cincinnati","Boston College",2019
@@ -7529,6 +7597,7 @@
 401112238,2019,1,"Nebraska","South Alabama",2019
 401135292,2019,1,"Nevada","Ohio",2019
 401112262,2019,1,"Nevada","Purdue",2019
+401117495,2019,1,"New Mexico","Sam Houston",2019
 401117495,2019,1,"New Mexico","Sam Houston State",2019
 401110729,2019,1,"North Carolina","South Carolina",2019
 401114241,2019,1,"North Texas","Abilene Christian",2019
@@ -7542,11 +7611,13 @@
 401112257,2019,1,"Penn State","Idaho",2019
 401135277,2019,1,"Penn State","Memphis",2019
 401112433,2019,1,"Pittsburgh","Virginia",2019
+401112264,2019,1,"Rutgers","Massachusetts",2019
 401112264,2019,1,"Rutgers","UMass",2019
 401135263,2019,1,"San Diego State","Central Michigan",2019
 401117496,2019,1,"San Diego State","Weber State",2019
 401117493,2019,1,"San José State","Northern Colorado",2019
 401117856,2019,1,"South Florida","Wisconsin",2019
+401114243,2019,1,"Southern Miss","Alcorn State",2019
 401114243,2019,1,"Southern Mississippi","Alcorn State",2019
 401112245,2019,1,"Stanford","Northwestern",2019
 401112129,2019,1,"TCU","Arkansas-Pine Bluff",2019
@@ -7561,14 +7632,20 @@
 401112139,2019,1,"Texas Tech","Montana State",2019
 401121935,2019,1,"Troy","Campbell",2019
 401114236,2019,1,"Tulane","Florida International",2019
+401135293,2019,1,"Tulane","Southern Miss",2019
 401135293,2019,1,"Tulane","Southern Mississippi",2019
 401114237,2019,1,"UAB","Alabama State",2019
+401135267,2019,1,"UAB","App State",2019
 401135267,2019,1,"UAB","Appalachian State",2019
 401117853,2019,1,"UCF","Florida A&M",2019
+401117855,2019,1,"UConn","Wagner",2019
+401128468,2019,1,"UL Monroe","Grambling",2019
 401117497,2019,1,"UNLV","Southern Utah",2019
 401114218,2019,1,"USC","Fresno State",2019
 401114245,2019,1,"UT San Antonio","Incarnate Word",2019
 401114244,2019,1,"UTEP","Houston Baptist",2019
+401114244,2019,1,"UTEP","Houston Christian",2019
+401114245,2019,1,"UTSA","Incarnate Word",2019
 401110732,2019,1,"Vanderbilt","Georgia",2019
 401135282,2019,1,"Virginia","Florida",2019
 401135273,2019,1,"Wake Forest","Michigan State",2019
