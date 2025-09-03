@@ -7661,6 +7661,7 @@
 401135288,2019,1,"Wisconsin","Oregon",2019
 401110728,2019,1,"Wyoming","Missouri",2019
 401013376,2018,15,"Army","Navy",2018
+401056701,2018,14,"App State","Louisiana",2018
 401056701,2018,14,"Appalachian State","Louisiana",2018
 401056700,2018,14,"Boise State","Fresno State",2018
 401056696,2018,14,"Buffalo","Northern Illinois",2018
@@ -7679,6 +7680,7 @@
 401056704,2018,14,"Washington","Utah",2018
 401022565,2018,13,"Air Force","Colorado State",2018
 401012350,2018,13,"Alabama","Auburn",2018
+401021697,2018,13,"App State","Troy",2018
 401021697,2018,13,"Appalachian State","Troy",2018
 401012799,2018,13,"Arizona","Arizona State",2018
 401022566,2018,13,"Boise State","Utah State",2018
@@ -7729,10 +7731,14 @@
 401019539,2018,13,"Tulane","Navy",2018
 401019540,2018,13,"Tulsa","SMU",2018
 401012801,2018,13,"UCLA","Stanford",2018
+401019538,2018,13,"UConn","Temple",2018
+401021701,2018,13,"UL Monroe","Louisiana",2018
 401022569,2018,13,"UNLV","Nevada",2018
 401012800,2018,13,"USC","Notre Dame",2018
 401015054,2018,13,"UT San Antonio","North Texas",2018
+401015056,2018,13,"UTEP","Southern Miss",2018
 401015056,2018,13,"UTEP","Southern Mississippi",2018
+401015054,2018,13,"UTSA","North Texas",2018
 401012802,2018,13,"Utah","BYU",2018
 401012357,2018,13,"Vanderbilt","Tennessee",2018
 401013183,2018,13,"Virginia Tech","Virginia",2018
@@ -7742,8 +7748,10 @@
 401013335,2018,13,"Wisconsin","Minnesota",2018
 401020784,2018,12,"Akron","Bowling Green",2018
 401012338,2018,12,"Alabama","The Citadel",2018
+401021692,2018,12,"App State","Georgia State",2018
 401021692,2018,12,"Appalachian State","Georgia State",2018
 401021693,2018,12,"Arkansas State","Louisiana Monroe",2018
+401021693,2018,12,"Arkansas State","UL Monroe",2018
 401013375,2018,12,"Army","Colgate",2018
 401012339,2018,12,"Auburn","Liberty",2018
 401013446,2018,12,"BYU","New Mexico State",2018
@@ -7755,9 +7763,11 @@
 401012792,2018,12,"Colorado","Utah",2018
 401022561,2018,12,"Colorado State","Utah State",2018
 401019532,2018,12,"East Carolina","Connecticut",2018
+401019532,2018,12,"East Carolina","UConn",2018
 401012340,2018,12,"Florida","Idaho",2018
 401013175,2018,12,"Florida State","Boston College",2018
 401022563,2018,12,"Fresno State","San Diego State",2018
+401012341,2018,12,"Georgia","Massachusetts",2018
 401012341,2018,12,"Georgia","UMass",2018
 401013177,2018,12,"Georgia Tech","Virginia",2018
 401022564,2018,12,"Hawai'i","UNLV",2018
@@ -7770,6 +7780,7 @@
 401021695,2018,12,"Louisiana","South Alabama",2018
 401013178,2018,12,"Louisville","NC State",2018
 401015047,2018,12,"Marshall","UT San Antonio",2018
+401015047,2018,12,"Marshall","UTSA",2018
 401012878,2018,12,"Maryland","Ohio State",2018
 401012860,2018,12,"Michigan","Indiana",2018
 401013334,2018,12,"Minnesota","Northwestern",2018
@@ -7791,6 +7802,7 @@
 401019530,2018,12,"SMU","Memphis",2018
 401022562,2018,12,"San José State","Nevada",2018
 401012345,2018,12,"South Carolina","Chattanooga",2018
+401015046,2018,12,"Southern Miss","Louisiana Tech",2018
 401015046,2018,12,"Southern Mississippi","Louisiana Tech",2018
 401019533,2018,12,"Temple","South Florida",2018
 401012346,2018,12,"Tennessee","Missouri",2018
@@ -7834,6 +7846,7 @@
 401021690,2018,11,"Louisiana","Georgia State",2018
 401015040,2018,11,"Louisiana Tech","Rice",2018
 401015037,2018,11,"Marshall","Charlotte",2018
+401013366,2018,11,"Massachusetts","BYU",2018
 401019528,2018,11,"Memphis","Tulsa",2018
 401020776,2018,11,"Miami (OH)","Ohio",2018
 401012886,2018,11,"Michigan State","Ohio State",2018
@@ -7851,19 +7864,24 @@
 401012848,2018,11,"Rutgers","Michigan",2018
 401022558,2018,11,"San Diego State","UNLV",2018
 401021691,2018,11,"South Alabama","Louisiana Monroe",2018
+401021691,2018,11,"South Alabama","UL Monroe",2018
 401012790,2018,11,"Stanford","Oregon State",2018
 401013168,2018,11,"Syracuse","Louisville",2018
 401012336,2018,11,"Tennessee","Kentucky",2018
 401012337,2018,11,"Texas A&M","Ole Miss",2018
+401021702,2018,11,"Texas State","App State",2018
 401021702,2018,11,"Texas State","Appalachian State",2018
 401013321,2018,11,"Texas Tech","Texas",2018
 401019526,2018,11,"Tulane","East Carolina",2018
+401015043,2018,11,"UAB","Southern Miss",2018
 401015043,2018,11,"UAB","Southern Mississippi",2018
 401019523,2018,11,"UCF","Navy",2018
+401019525,2018,11,"UConn","SMU",2018
 401013366,2018,11,"UMass","BYU",2018
 401012787,2018,11,"USC","California",2018
 401015038,2018,11,"UT San Antonio","Florida International",2018
 401015041,2018,11,"UTEP","Middle Tennessee",2018
+401015038,2018,11,"UTSA","Florida International",2018
 401012789,2018,11,"Utah","Oregon",2018
 401022557,2018,11,"Utah State","San José State",2018
 401013174,2018,11,"Virginia","Liberty",2018
@@ -7880,6 +7898,7 @@
 401020770,2018,10,"Buffalo","Miami (OH)",2018
 401019518,2018,10,"Cincinnati","Navy",2018
 401013162,2018,10,"Clemson","Louisville",2018
+401021683,2018,10,"Coastal Carolina","App State",2018
 401021683,2018,10,"Coastal Carolina","Appalachian State",2018
 401019520,2018,10,"East Carolina","Memphis",2018
 401020774,2018,10,"Eastern Michigan","Central Michigan",2018
@@ -7893,6 +7912,7 @@
 401012327,2018,10,"LSU","Alabama",2018
 401021685,2018,10,"Louisiana Monroe","Georgia Southern",2018
 401012877,2018,10,"Maryland","Michigan State",2018
+401013365,2018,10,"Massachusetts","Liberty",2018
 401013163,2018,10,"Miami","Duke",2018
 401012894,2018,10,"Michigan","Penn State",2018
 401015034,2018,10,"Middle Tennessee","Western Kentucky",2018
@@ -7909,6 +7929,7 @@
 401012869,2018,10,"Purdue","Iowa",2018
 401015035,2018,10,"Rice","UTEP",2018
 401019522,2018,10,"SMU","Houston",2018
+401015033,2018,10,"Southern Miss","Marshall",2018
 401015033,2018,10,"Southern Mississippi","Marshall",2018
 401013063,2018,10,"TCU","Kansas State",2018
 401012330,2018,10,"Tennessee","Charlotte",2018
@@ -7917,8 +7938,11 @@
 401020771,2018,10,"Toledo","Ball State",2018
 401021687,2018,10,"Troy","Louisiana",2018
 401019519,2018,10,"Tulsa","Connecticut",2018
+401019519,2018,10,"Tulsa","UConn",2018
 401015036,2018,10,"UAB","UT San Antonio",2018
+401015036,2018,10,"UAB","UTSA",2018
 401019517,2018,10,"UCF","Temple",2018
+401021685,2018,10,"UL Monroe","Georgia Southern",2018
 401013365,2018,10,"UMass","Liberty",2018
 401022553,2018,10,"UNLV","Fresno State",2018
 401013160,2018,10,"Virginia","Pittsburgh",2018
@@ -7936,6 +7960,7 @@
 401016409,2018,9,"BYU","Northern Illinois",2018
 401013154,2018,9,"Boston College","Miami",2018
 401012778,2018,9,"California","Washington",2018
+401015026,2018,9,"Charlotte","Southern Miss",2018
 401015026,2018,9,"Charlotte","Southern Mississippi",2018
 401012777,2018,9,"Colorado","Oregon State",2018
 401022546,2018,9,"Colorado State","Wyoming",2018
@@ -7945,6 +7970,7 @@
 401013155,2018,9,"Florida State","Clemson",2018
 401022547,2018,9,"Fresno State","Hawai'i",2018
 401012320,2018,9,"Georgia","Florida",2018
+401021680,2018,9,"Georgia Southern","App State",2018
 401021680,2018,9,"Georgia Southern","Appalachian State",2018
 401021682,2018,9,"Georgia State","Coastal Carolina",2018
 401019515,2018,9,"Houston","South Florida",2018
@@ -7977,6 +8003,7 @@
 401013444,2018,9,"Texas State","New Mexico State",2018
 401019516,2018,9,"Tulsa","Tulane",2018
 401012774,2018,9,"UCLA","Utah",2018
+401013364,2018,9,"UConn","Massachusetts",2018
 401012776,2018,9,"USC","Arizona State",2018
 401015031,2018,9,"UTEP","UAB",2018
 401022545,2018,9,"Utah State","New Mexico",2018
@@ -7985,6 +8012,7 @@
 401013033,2018,9,"West Virginia","Baylor",2018
 401015027,2018,9,"Western Kentucky","Florida International",2018
 401020767,2018,9,"Western Michigan","Toledo",2018
+401021677,2018,8,"App State","Louisiana",2018
 401021677,2018,8,"Appalachian State","Louisiana",2018
 401012768,2018,8,"Arizona State","Stanford",2018
 401012313,2018,8,"Arkansas","Tulsa",2018
@@ -8008,6 +8036,7 @@
 401021678,2018,8,"Louisiana Monroe","Texas State",2018
 401015022,2018,8,"Louisiana Tech","UTEP",2018
 401015021,2018,8,"Marshall","Florida Atlantic",2018
+401013363,2018,8,"Massachusetts","Coastal Carolina",2018
 401012884,2018,8,"Michigan State","Michigan",2018
 401015019,2018,8,"Middle Tennessee","Charlotte",2018
 401012317,2018,8,"Missouri","Memphis",2018
@@ -8022,6 +8051,8 @@
 401012846,2018,8,"Rutgers","Northwestern",2018
 401022543,2018,8,"San Diego State","San José State",2018
 401019511,2018,8,"South Florida","Connecticut",2018
+401019511,2018,8,"South Florida","UConn",2018
+401015025,2018,8,"Southern Miss","UTSA",2018
 401015025,2018,8,"Southern Mississippi","UT San Antonio",2018
 401013152,2018,8,"Syracuse","North Carolina",2018
 401013068,2018,8,"TCU","Oklahoma",2018
@@ -8032,6 +8063,7 @@
 401019513,2018,8,"Tulane","SMU",2018
 401015023,2018,8,"UAB","North Texas",2018
 401012769,2018,8,"UCLA","Arizona",2018
+401021678,2018,8,"UL Monroe","Texas State",2018
 401013363,2018,8,"UMass","Coastal Carolina",2018
 401022539,2018,8,"UNLV","Air Force",2018
 401012770,2018,8,"Utah","USC",2018
@@ -8042,6 +8074,7 @@
 401022540,2018,8,"Wyoming","Utah State",2018
 401012307,2018,7,"Alabama","Missouri",2018
 401012308,2018,7,"Arkansas","Ole Miss",2018
+401021672,2018,7,"Arkansas State","App State",2018
 401021672,2018,7,"Arkansas State","Appalachian State",2018
 401012309,2018,7,"Auburn","Tennessee",2018
 401016408,2018,7,"BYU","Hawai'i",2018
@@ -8052,6 +8085,7 @@
 401020757,2018,7,"Central Michigan","Ball State",2018
 401015013,2018,7,"Charlotte","Western Kentucky",2018
 401021674,2018,7,"Coastal Carolina","Louisiana Monroe",2018
+401021674,2018,7,"Coastal Carolina","UL Monroe",2018
 401022535,2018,7,"Colorado State","New Mexico",2018
 401019507,2018,7,"East Carolina","Houston",2018
 401020759,2018,7,"Eastern Michigan","Toledo",2018
@@ -8072,6 +8106,7 @@
 401019508,2018,7,"Navy","Temple",2018
 401022534,2018,7,"Nevada","Boise State",2018
 401013147,2018,7,"North Carolina","Virginia Tech",2018
+401015017,2018,7,"North Texas","Southern Miss",2018
 401015017,2018,7,"North Texas","Southern Mississippi",2018
 401020758,2018,7,"Northern Illinois","Ohio",2018
 401013340,2018,7,"Northwestern","Nebraska",2018
@@ -8090,6 +8125,7 @@
 401019505,2018,7,"Tulsa","South Florida",2018
 401012765,2018,7,"USC","Colorado",2018
 401015015,2018,7,"UT San Antonio","Louisiana Tech",2018
+401015015,2018,7,"UTSA","Louisiana Tech",2018
 401012764,2018,7,"Utah","Arizona",2018
 401022536,2018,7,"Utah State","UNLV",2018
 401012312,2018,7,"Vanderbilt","Florida",2018
@@ -8115,7 +8151,9 @@
 401015009,2018,6,"Louisiana Tech","UAB",2018
 401013138,2018,6,"Louisville","Georgia Tech",2018
 401015010,2018,6,"Marshall","Middle Tennessee",2018
+401013362,2018,6,"Massachusetts","South Florida",2018
 401019502,2018,6,"Memphis","Connecticut",2018
+401019502,2018,6,"Memphis","UConn",2018
 401013141,2018,6,"Miami","Florida State",2018
 401012876,2018,6,"Michigan","Maryland",2018
 401012882,2018,6,"Michigan State","Northwestern",2018
@@ -8128,9 +8166,11 @@
 401013067,2018,6,"Oklahoma","Texas",2018
 401013042,2018,6,"Oklahoma State","Iowa State",2018
 401012303,2018,6,"Ole Miss","Louisiana Monroe",2018
+401012303,2018,6,"Ole Miss","UL Monroe",2018
 401012762,2018,6,"Oregon State","Washington State",2018
 401013142,2018,6,"Pittsburgh","Syracuse",2018
 401015012,2018,6,"Rice","UT San Antonio",2018
+401015012,2018,6,"Rice","UTSA",2018
 401012808,2018,6,"Rutgers","Illinois",2018
 401022529,2018,6,"San José State","Colorado State",2018
 401012305,2018,6,"South Carolina","Missouri",2018
@@ -8152,9 +8192,11 @@
 401013339,2018,6,"Wisconsin","Nebraska",2018
 401022525,2018,5,"Air Force","Nevada",2018
 401012292,2018,5,"Alabama","Louisiana",2018
+401021665,2018,5,"App State","South Alabama",2018
 401021665,2018,5,"Appalachian State","South Alabama",2018
 401012753,2018,5,"Arizona","USC",2018
 401012754,2018,5,"Arizona State","Oregon State",2018
+401012294,2018,5,"Auburn","Southern Miss",2018
 401012294,2018,5,"Auburn","Southern Mississippi",2018
 401020687,2018,5,"Ball State","Kent State",2018
 401013130,2018,5,"Boston College","Temple",2018
@@ -8171,6 +8213,7 @@
 401012295,2018,5,"Georgia","Tennessee",2018
 401021666,2018,5,"Georgia Southern","Arkansas State",2018
 401021668,2018,5,"Georgia State","Louisiana Monroe",2018
+401021668,2018,5,"Georgia State","UL Monroe",2018
 401013134,2018,5,"Georgia Tech","Bowling Green",2018
 401013050,2018,5,"Kansas","Oklahoma State",2018
 401013060,2018,5,"Kansas State","Texas",2018
@@ -8188,11 +8231,13 @@
 401015004,2018,5,"North Texas","Louisiana Tech",2018
 401012892,2018,5,"Northwestern","Michigan",2018
 401012758,2018,5,"Notre Dame","Stanford",2018
+401013361,2018,5,"Ohio","Massachusetts",2018
 401013361,2018,5,"Ohio","UMass",2018
 401013030,2018,5,"Oklahoma","Baylor",2018
 401013347,2018,5,"Penn State","Ohio State",2018
 401012824,2018,5,"Rutgers","Indiana",2018
 401019498,2018,5,"SMU","Houston Baptist",2018
+401019498,2018,5,"SMU","Houston Christian",2018
 401022527,2018,5,"San José State","Hawai'i",2018
 401013041,2018,5,"TCU","Iowa State",2018
 401012293,2018,5,"Texas A&M","Arkansas",2018
@@ -8201,7 +8246,9 @@
 401019496,2018,5,"Tulane","Memphis",2018
 401015001,2018,5,"UAB","Charlotte",2018
 401013136,2018,5,"UCF","Pittsburgh",2018
+401019497,2018,5,"UConn","Cincinnati",2018
 401015007,2018,5,"UT San Antonio","UTEP",2018
+401015007,2018,5,"UTSA","UTEP",2018
 401012299,2018,5,"Vanderbilt","Tennessee State",2018
 401013137,2018,5,"Wake Forest","Rice",2018
 401012755,2018,5,"Washington","BYU",2018
@@ -8209,6 +8256,7 @@
 401015005,2018,5,"Western Kentucky","Marshall",2018
 401022526,2018,5,"Wyoming","Boise State",2018
 401012284,2018,4,"Alabama","Texas A&M",2018
+401021661,2018,4,"App State","Gardner-Webb",2018
 401021661,2018,4,"Appalachian State","Gardner-Webb",2018
 401021662,2018,4,"Arkansas State","UNLV",2018
 401012285,2018,4,"Auburn","Arkansas",2018
@@ -8236,6 +8284,7 @@
 401021664,2018,4,"Louisiana Monroe","Troy",2018
 401013126,2018,4,"Marshall","NC State",2018
 401012875,2018,4,"Maryland","Minnesota",2018
+401013360,2018,4,"Massachusetts","Charlotte",2018
 401019494,2018,4,"Memphis","South Alabama",2018
 401013124,2018,4,"Miami","Florida International",2018
 401012891,2018,4,"Michigan","Nebraska",2018
@@ -8253,17 +8302,21 @@
 401019495,2018,4,"SMU","Navy",2018
 401020683,2018,4,"San Diego State","Eastern Michigan",2018
 401019492,2018,4,"South Florida","East Carolina",2018
+401014998,2018,4,"Southern Miss","Rice",2018
 401014998,2018,4,"Southern Mississippi","Rice",2018
 401013127,2018,4,"Syracuse","Connecticut",2018
+401013127,2018,4,"Syracuse","UConn",2018
 401019489,2018,4,"Temple","Tulsa",2018
 401012290,2018,4,"Tennessee","Florida",2018
 401013075,2018,4,"Texas","TCU",2018
 401020685,2018,4,"Toledo","Nevada",2018
 401019490,2018,4,"UCF","Florida Atlantic",2018
+401021664,2018,4,"UL Monroe","Troy",2018
 401013360,2018,4,"UMass","Charlotte",2018
 401012748,2018,4,"USC","Washington State",2018
 401014999,2018,4,"UT San Antonio","Texas State",2018
 401013440,2018,4,"UTEP","New Mexico State",2018
+401014999,2018,4,"UTSA","Texas State",2018
 401022522,2018,4,"Utah State","Air Force",2018
 401012291,2018,4,"Vanderbilt","South Carolina",2018
 401013123,2018,4,"Virginia","Louisville",2018
@@ -8286,6 +8339,7 @@
 401019486,2018,3,"Connecticut","Rhode Island",2018
 401012274,2018,3,"Florida","Colorado State",2018
 401014994,2018,3,"Florida Atlantic","Bethune-Cookman",2018
+401013359,2018,3,"Florida International","Massachusetts",2018
 401013359,2018,3,"Florida International","UMass",2018
 401012275,2018,3,"Georgia","Middle Tennessee",2018
 401012806,2018,3,"Illinois","South Florida",2018
@@ -8294,6 +8348,7 @@
 401013039,2018,3,"Iowa State","Oklahoma",2018
 401012822,2018,3,"Kansas","Rutgers",2018
 401013058,2018,3,"Kansas State","UT San Antonio",2018
+401013058,2018,3,"Kansas State","UTSA",2018
 401012276,2018,3,"Kentucky","Murray State",2018
 401013113,2018,3,"Louisville","Western Kentucky",2018
 401012874,2018,3,"Maryland","Temple",2018
@@ -8322,12 +8377,15 @@
 401012281,2018,3,"Tennessee","UTEP",2018
 401012739,2018,3,"Texas","USC",2018
 401012282,2018,3,"Texas A&M","Louisiana Monroe",2018
+401012282,2018,3,"Texas A&M","UL Monroe",2018
 401013323,2018,3,"Texas Tech","Houston",2018
 401013114,2018,3,"Toledo","Miami",2018
 401019488,2018,3,"Tulsa","Arkansas State",2018
 401014996,2018,3,"UAB","Tulane",2018
 401012740,2018,3,"UCLA","Fresno State",2018
+401019486,2018,3,"UConn","Rhode Island",2018
 401022521,2018,3,"UNLV","Prairie View",2018
+401022521,2018,3,"UNLV","Prairie View A&M",2018
 401012742,2018,3,"Utah","Washington",2018
 401022519,2018,3,"Utah State","Tennessee Tech",2018
 401013117,2018,3,"Virginia","Ohio",2018
@@ -8343,9 +8401,11 @@
 401012262,2018,2,"Auburn","Alabama State",2018
 401012735,2018,2,"BYU","California",2018
 401019483,2018,2,"Boise State","Connecticut",2018
+401019483,2018,2,"Boise State","UConn",2018
 401013097,2018,2,"Boston College","Holy Cross",2018
 401012873,2018,2,"Bowling Green","Maryland",2018
 401013049,2018,2,"Central Michigan","Kansas",2018
+401014981,2018,2,"Charlotte","App State",2018
 401014981,2018,2,"Charlotte","Appalachian State",2018
 401014990,2018,2,"Coastal Carolina","UAB",2018
 401012261,2018,2,"Colorado State","Arkansas",2018
@@ -8353,6 +8413,7 @@
 401012263,2018,2,"Florida","Kentucky",2018
 401014983,2018,2,"Florida Atlantic","Air Force",2018
 401013099,2018,2,"Florida State","Samford",2018
+401013358,2018,2,"Georgia Southern","Massachusetts",2018
 401013358,2018,2,"Georgia Southern","UMass",2018
 401014988,2018,2,"Hawai'i","Rice",2018
 401012726,2018,2,"Houston","Arizona",2018
@@ -8361,10 +8422,12 @@
 401012863,2018,2,"Iowa","Iowa State",2018
 401012266,2018,2,"Kansas State","Mississippi State",2018
 401020677,2018,2,"Kent State","Howard",2018
+401012264,2018,2,"LSU","SE Louisiana",2018
 401012264,2018,2,"LSU","Southeastern Louisiana",2018
 401014984,2018,2,"Louisiana Tech","Southern",2018
 401013101,2018,2,"Louisville","Indiana State",2018
 401014985,2018,2,"Marshall","Eastern Kentucky",2018
+401013102,2018,2,"Miami","Savannah St",2018
 401013102,2018,2,"Miami","Savannah State",2018
 401019482,2018,2,"Miami (OH)","Cincinnati",2018
 401012889,2018,2,"Michigan","Western Michigan",2018
@@ -8391,6 +8454,7 @@
 401022518,2018,2,"San Diego State","Sacramento State",2018
 401012268,2018,2,"South Carolina","Georgia",2018
 401013100,2018,2,"South Florida","Georgia Tech",2018
+401014989,2018,2,"Southern Miss","UL Monroe",2018
 401014989,2018,2,"Southern Mississippi","Louisiana Monroe",2018
 401012736,2018,2,"Stanford","USC",2018
 401013106,2018,2,"Syracuse","Wagner",2018
@@ -8405,6 +8469,7 @@
 401019481,2018,2,"UCF","South Carolina State",2018
 401014991,2018,2,"UNLV","UTEP",2018
 401013027,2018,2,"UT San Antonio","Baylor",2018
+401013027,2018,2,"UTSA","Baylor",2018
 401013438,2018,2,"Utah State","New Mexico State",2018
 401012271,2018,2,"Vanderbilt","Nevada",2018
 401013107,2018,2,"Virginia Tech","William & Mary",2018
@@ -8418,9 +8483,11 @@
 401032087,2018,1,"Alabama","Clemson",2018
 401012246,2018,1,"Alabama","Louisville",2018
 401032078,2018,1,"Alabama","Oklahoma",2018
+401032057,2018,1,"App State","Middle Tennessee",2018
 401032057,2018,1,"Appalachian State","Middle Tennessee",2018
 401012676,2018,1,"Arizona","BYU",2018
 401012677,2018,1,"Arizona State","UT San Antonio",2018
+401012677,2018,1,"Arizona State","UTSA",2018
 401012247,2018,1,"Arkansas","Eastern Illinois",2018
 401021652,2018,1,"Arkansas State","Southeast Missouri State",2018
 401032064,2018,1,"Army","Houston",2018
@@ -8429,6 +8496,7 @@
 401032062,2018,1,"BYU","Western Michigan",2018
 401020671,2018,1,"Ball State","Central Connecticut",2018
 401013026,2018,1,"Baylor","Abilene Christian",2018
+401013087,2018,1,"Boston College","Massachusetts",2018
 401013087,2018,1,"Boston College","UMass",2018
 401020674,2018,1,"Buffalo","Delaware State",2018
 401012684,2018,1,"California","North Carolina",2018
@@ -8468,6 +8536,7 @@
 401021655,2018,1,"Louisiana Monroe","Southeastern Louisiana",2018
 401032066,2018,1,"Louisiana Tech","Hawai'i",2018
 401012872,2018,1,"Maryland","Texas",2018
+401013357,2018,1,"Massachusetts","Duquesne",2018
 401019474,2018,1,"Memphis","Mercer",2018
 401014975,2018,1,"Miami (OH)","Marshall",2018
 401032076,2018,1,"Michigan","Florida",2018
@@ -8493,19 +8562,23 @@
 401013489,2018,1,"Oklahoma State","Missouri State",2018
 401012681,2018,1,"Oregon","Bowling Green",2018
 401035254,2018,1,"Oregon","Michigan State",2018
+401013349,2018,1,"Penn State","App State",2018
 401013349,2018,1,"Penn State","Appalachian State",2018
 401032088,2018,1,"Penn State","Kentucky",2018
 401013092,2018,1,"Pittsburgh","Albany",2018
 401035251,2018,1,"Pittsburgh","Stanford",2018
+401013092,2018,1,"Pittsburgh","UAlbany",2018
 401013342,2018,1,"Purdue","Northwestern",2018
 401014977,2018,1,"Rice","Houston",2018
 401014972,2018,1,"Rice","Prairie View",2018
+401014972,2018,1,"Rice","Prairie View A&M",2018
 401012820,2018,1,"Rutgers","Texas State",2018
 401022511,2018,1,"San José State","UC Davis",2018
 401014974,2018,1,"South Alabama","Louisiana Tech",2018
 401012256,2018,1,"South Carolina","Coastal Carolina",2018
 401019472,2018,1,"South Florida","Elon",2018
 401032060,2018,1,"South Florida","Marshall",2018
+401014978,2018,1,"Southern Miss","Jackson State",2018
 401014978,2018,1,"Southern Mississippi","Jackson State",2018
 401022512,2018,1,"Stanford","San Diego State",2018
 401032074,2018,1,"Syracuse","West Virginia",2018
@@ -8522,9 +8595,12 @@
 401032065,2018,1,"Troy","Buffalo",2018
 401013086,2018,1,"Tulane","Wake Forest",2018
 401019476,2018,1,"Tulsa","Central Arkansas",2018
+401014979,2018,1,"UAB","Savannah St",2018
 401014979,2018,1,"UAB","Savannah State",2018
 401032084,2018,1,"UCF","LSU",2018
 401012679,2018,1,"UCLA","Cincinnati",2018
+401019470,2018,1,"UConn","UCF",2018
+401021655,2018,1,"UL Monroe","SE Louisiana",2018
 401013357,2018,1,"UMass","Duquesne",2018
 401012678,2018,1,"USC","UNLV",2018
 401014980,2018,1,"UTEP","Northern Arizona",2018
