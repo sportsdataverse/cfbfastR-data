@@ -11455,8 +11455,10 @@
 400609076,2014,15,"Oregon","Arizona",2014
 400547902,2014,15,"TCU","Iowa State",2014
 400547727,2014,15,"Tulane","Temple",2014
+400547726,2014,15,"UConn","SMU",2014
 400548249,2014,14,"Air Force","Colorado State",2014
 400548323,2014,14,"Alabama","Auburn",2014
+400548454,2014,14,"App State","Idaho",2014
 400548454,2014,14,"Appalachian State","Idaho",2014
 400548316,2014,14,"Arizona","Arizona State",2014
 400548455,2014,14,"Arkansas State","New Mexico State",2014
@@ -11473,6 +11475,7 @@
 400548251,2014,14,"Fresno State","Hawai'i",2014
 400547779,2014,14,"Georgia","Georgia Tech",2014
 400548457,2014,14,"Georgia Southern","Louisiana Monroe",2014
+400548457,2014,14,"Georgia Southern","UL Monroe",2014
 400548456,2014,14,"Georgia State","Texas State",2014
 400547927,2014,14,"Indiana","Purdue",2014
 400547935,2014,14,"Iowa","Nebraska",2014
@@ -11483,7 +11486,9 @@
 400547785,2014,14,"Louisville","Kentucky",2014
 400548084,2014,14,"Marshall","Western Kentucky",2014
 400547942,2014,14,"Maryland","Rutgers",2014
+400548166,2014,14,"Massachusetts","Buffalo",2014
 400547723,2014,14,"Memphis","Connecticut",2014
+400547723,2014,14,"Memphis","UConn",2014
 400547794,2014,14,"Miami","Pittsburgh",2014
 400548164,2014,14,"Miami (OH)","Ohio",2014
 400548325,2014,14,"Missouri","Arkansas",2014
@@ -11498,6 +11503,7 @@
 400548254,2014,14,"San Diego State","San José State",2014
 400548453,2014,14,"South Alabama","Navy",2014
 400547719,2014,14,"South Florida","UCF",2014
+400548089,2014,14,"Southern Miss","UAB",2014
 400548089,2014,14,"Southern Mississippi","UAB",2014
 400547722,2014,14,"Temple","Cincinnati",2014
 400547897,2014,14,"Texas","TCU",2014
@@ -11511,17 +11517,20 @@
 400548318,2014,14,"USC","Notre Dame",2014
 400548088,2014,14,"UT San Antonio","North Texas",2014
 400548087,2014,14,"UTEP","Middle Tennessee",2014
+400548088,2014,14,"UTSA","North Texas",2014
 400548326,2014,14,"Vanderbilt","Tennessee",2014
 400547824,2014,14,"Virginia Tech","Virginia",2014
 400548321,2014,14,"Washington State","Washington",2014
 400548167,2014,14,"Western Michigan","Northern Illinois",2014
 400547967,2014,14,"Wisconsin","Minnesota",2014
+400548158,2014,13,"Akron","Massachusetts",2014
 400548158,2014,13,"Akron","UMass",2014
 400548328,2014,13,"Alabama","Western Carolina",2014
 400548311,2014,13,"Arizona State","Washington State",2014
 400548332,2014,13,"Arkansas","Ole Miss",2014
 400548460,2014,13,"Army","Fordham",2014
 400548329,2014,13,"Auburn","Samford",2014
+400548463,2014,13,"BYU","Savannah St",2014
 400548463,2014,13,"BYU","Savannah State",2014
 400548161,2014,13,"Ball State","Eastern Michigan",2014
 400547896,2014,13,"Baylor","Oklahoma State",2014
@@ -11539,6 +11548,7 @@
 400547914,2014,13,"Illinois","Penn State",2014
 400547934,2014,13,"Iowa","Wisconsin",2014
 400547895,2014,13,"Iowa State","Texas Tech",2014
+400548450,2014,13,"Louisiana","App State",2014
 400548450,2014,13,"Louisiana","Appalachian State",2014
 400547718,2014,13,"Memphis","South Florida",2014
 400547941,2014,13,"Michigan","Maryland",2014
@@ -11547,6 +11557,7 @@
 400547966,2014,13,"Nebraska","Minnesota",2014
 400548246,2014,13,"Nevada","Fresno State",2014
 400548452,2014,13,"New Mexico State","Louisiana Monroe",2014
+400548452,2014,13,"New Mexico State","UL Monroe",2014
 400548079,2014,13,"North Texas","Florida International",2014
 400547784,2014,13,"Notre Dame","Louisville",2014
 400548157,2014,13,"Ohio","Northern Illinois",2014
@@ -11571,11 +11582,13 @@
 400548314,2014,13,"Washington","Oregon State",2014
 400547893,2014,13,"West Virginia","Kansas State",2014
 400548083,2014,13,"Western Kentucky","UT San Antonio",2014
+400548083,2014,13,"Western Kentucky","UTSA",2014
 400548244,2014,13,"Wyoming","Boise State",2014
 400548238,2014,12,"Air Force","Nevada",2014
 400548338,2014,12,"Alabama","Mississippi State",2014
 400548307,2014,12,"Arizona","Washington",2014
 400548336,2014,12,"Arkansas","LSU",2014
+400548445,2014,12,"Arkansas State","App State",2014
 400548445,2014,12,"Arkansas State","Appalachian State",2014
 400548242,2014,12,"BYU","UNLV",2014
 400548239,2014,12,"Boise State","San Diego State",2014
@@ -11594,6 +11607,7 @@
 400548448,2014,12,"Louisiana Monroe","Louisiana",2014
 400548074,2014,12,"Marshall","Rice",2014
 400547940,2014,12,"Maryland","Michigan State",2014
+400548153,2014,12,"Massachusetts","Ball State",2014
 400547770,2014,12,"Miami","Florida State",2014
 400547965,2014,12,"Minnesota","Ohio State",2014
 400547807,2014,12,"NC State","Wake Forest",2014
@@ -11614,20 +11628,24 @@
 400547890,2014,12,"Texas Tech","Oklahoma",2014
 400547711,2014,12,"Tulane","Memphis",2014
 400547709,2014,12,"UCF","Tulsa",2014
+400548448,2014,12,"UL Monroe","Louisiana",2014
 400548153,2014,12,"UMass","Ball State",2014
 400548306,2014,12,"USC","California",2014
 400548076,2014,12,"UT San Antonio","Southern Mississippi",2014
 400548075,2014,12,"UTEP","North Texas",2014
+400548076,2014,12,"UTSA","Southern Miss",2014
 400548241,2014,12,"Utah State","New Mexico",2014
 400548077,2014,12,"Western Kentucky","Army",2014
 400548155,2014,12,"Western Michigan","Eastern Michigan",2014
 400547974,2014,12,"Wisconsin","Nebraska",2014
 400548147,2014,11,"Akron","Bowling Green",2014
+400548440,2014,11,"App State","UL Monroe",2014
 400548440,2014,11,"Appalachian State","Louisiana Monroe",2014
 400548301,2014,11,"Arizona","Colorado",2014
 400548302,2014,11,"Arizona State","Notre Dame",2014
 400548441,2014,11,"Arkansas State","South Alabama",2014
 400547705,2014,11,"Army","Connecticut",2014
+400547705,2014,11,"Army","UConn",2014
 400548346,2014,11,"Auburn","Texas A&M",2014
 400548150,2014,11,"Ball State","Northern Illinois",2014
 400547737,2014,11,"Boston College","Louisville",2014
@@ -11650,11 +11668,14 @@
 400548149,2014,11,"Ohio","Buffalo",2014
 400547888,2014,11,"Oklahoma","Baylor",2014
 400548067,2014,11,"Old Dominion","Florida International",2014
+400548344,2014,11,"Ole Miss","Presbyterian",2014
 400548344,2014,11,"Ole Miss","Presbyterian College",2014
 400548305,2014,11,"Oregon State","Washington State",2014
 400547992,2014,11,"Purdue","Wisconsin",2014
 400548071,2014,11,"Rice","UT San Antonio",2014
+400548071,2014,11,"Rice","UTSA",2014
 400548236,2014,11,"San Diego State","Idaho",2014
+400548070,2014,11,"Southern Miss","Marshall",2014
 400548070,2014,11,"Southern Mississippi","Marshall",2014
 400547758,2014,11,"Syracuse","Duke",2014
 400547886,2014,11,"TCU","Kansas State",2014
@@ -11671,6 +11692,7 @@
 400548303,2014,11,"Washington","UCLA",2014
 400548072,2014,11,"Western Kentucky","UTEP",2014
 400548237,2014,11,"Wyoming","Utah State",2014
+400548435,2014,10,"App State","Georgia State",2014
 400548435,2014,10,"Appalachian State","Georgia State",2014
 400548296,2014,10,"Arizona State","Utah",2014
 400548226,2014,10,"Army","Air Force",2014
@@ -11714,10 +11736,13 @@
 400547806,2014,10,"Syracuse","NC State",2014
 400547703,2014,10,"Temple","East Carolina",2014
 400548353,2014,10,"Texas A&M","Louisiana Monroe",2014
+400548353,2014,10,"Texas A&M","UL Monroe",2014
 400547881,2014,10,"Texas Tech","Texas",2014
 400547700,2014,10,"Tulane","Cincinnati",2014
 400548295,2014,10,"UCLA","Arizona",2014
+400547702,2014,10,"UConn","UCF",2014
 400548231,2014,10,"UNLV","New Mexico",2014
+400548066,2014,10,"UTEP","Southern Miss",2014
 400548066,2014,10,"UTEP","Southern Mississippi",2014
 400548065,2014,10,"Vanderbilt","Old Dominion",2014
 400547736,2014,10,"Virginia Tech","Boston College",2014
@@ -11734,6 +11759,7 @@
 400548294,2014,9,"Colorado","UCLA",2014
 400548222,2014,9,"Colorado State","Wyoming",2014
 400547696,2014,9,"East Carolina","Connecticut",2014
+400547696,2014,9,"East Carolina","UConn",2014
 400548142,2014,9,"Eastern Michigan","Northern Illinois",2014
 400548432,2014,9,"Georgia State","Georgia Southern",2014
 400547911,2014,9,"Illinois","Minnesota",2014
@@ -11754,13 +11780,17 @@
 400548057,2014,9,"Rice","North Texas",2014
 400547699,2014,9,"SMU","Memphis",2014
 400550419,2014,9,"South Alabama","Troy",2014
+400548056,2014,9,"Southern Miss","Louisiana Tech",2014
 400548056,2014,9,"Southern Mississippi","Louisiana Tech",2014
 400548293,2014,9,"Stanford","Oregon State",2014
 400547880,2014,9,"TCU","Texas Tech",2014
 400548357,2014,9,"Tennessee","Alabama",2014
+400548144,2014,9,"Toledo","Massachusetts",2014
 400548144,2014,9,"Toledo","UMass",2014
 400547698,2014,9,"UCF","Temple",2014
+400548433,2014,9,"UL Monroe","Texas State",2014
 400548060,2014,9,"UT San Antonio","UTEP",2014
+400548060,2014,9,"UTSA","UTEP",2014
 400548292,2014,9,"Utah","USC",2014
 400548225,2014,9,"Utah State","UNLV",2014
 400547799,2014,9,"Virginia","North Carolina",2014
@@ -11793,11 +11823,14 @@
 400548134,2014,8,"Kent State","Army",2014
 400548360,2014,8,"LSU","Kentucky",2014
 400548052,2014,8,"Louisiana Tech","UT San Antonio",2014
+400548052,2014,8,"Louisiana Tech","UTSA",2014
 400547805,2014,8,"Louisville","NC State",2014
 400547931,2014,8,"Maryland","Iowa",2014
+400548136,2014,8,"Massachusetts","Eastern Michigan",2014
 400548053,2014,8,"Middle Tennessee","UAB",2014
 400547964,2014,8,"Minnesota","Purdue",2014
 400547775,2014,8,"North Carolina","Georgia Tech",2014
+400548054,2014,8,"North Texas","Southern Miss",2014
 400548054,2014,8,"North Texas","Southern Mississippi",2014
 400548137,2014,8,"Northern Illinois","Miami (OH)",2014
 400547971,2014,8,"Northwestern","Nebraska",2014
@@ -11816,6 +11849,7 @@
 400547875,2014,8,"Texas","Iowa State",2014
 400548427,2014,8,"Texas State","Louisiana",2014
 400547873,2014,8,"Texas Tech","Kansas",2014
+400548428,2014,8,"Troy","App State",2014
 400548428,2014,8,"Troy","Appalachian State",2014
 400547695,2014,8,"Tulsa","South Florida",2014
 400547692,2014,8,"UCF","Tulane",2014
@@ -11825,6 +11859,7 @@
 400547874,2014,8,"West Virginia","Baylor",2014
 400548220,2014,8,"Wyoming","San José State",2014
 400548130,2014,7,"Akron","Miami (OH)",2014
+400548423,2014,7,"App State","Liberty",2014
 400548423,2014,7,"Appalachian State","Liberty",2014
 400548281,2014,7,"Arizona","USC",2014
 400548365,2014,7,"Arkansas","Alabama",2014
@@ -11842,8 +11877,10 @@
 400547921,2014,7,"Iowa","Indiana",2014
 400547872,2014,7,"Iowa State","Toledo",2014
 400547871,2014,7,"Kansas","Oklahoma State",2014
+400548131,2014,7,"Kent State","Massachusetts",2014
 400548131,2014,7,"Kent State","UMass",2014
 400548367,2014,7,"Kentucky","Louisiana Monroe",2014
+400548367,2014,7,"Kentucky","UL Monroe",2014
 400548046,2014,7,"Marshall","Middle Tennessee",2014
 400547690,2014,7,"Memphis","Houston",2014
 400547687,2014,7,"Miami","Cincinnati",2014
@@ -11869,19 +11906,23 @@
 400547869,2014,7,"Texas Tech","West Virginia",2014
 400548426,2014,7,"Troy","New Mexico State",2014
 400547688,2014,7,"Tulane","Connecticut",2014
+400547688,2014,7,"Tulane","UConn",2014
 400548047,2014,7,"UAB","North Texas",2014
 400547686,2014,7,"UCF","BYU",2014
 400548282,2014,7,"UCLA","Oregon",2014
 400548212,2014,7,"UNLV","Fresno State",2014
 400548045,2014,7,"UT San Antonio","Florida International",2014
 400548048,2014,7,"UTEP","Old Dominion",2014
+400548045,2014,7,"UTSA","Florida International",2014
 400548210,2014,7,"Utah State","Air Force",2014
 400548372,2014,7,"Vanderbilt","Charleston Southern",2014
 400547910,2014,7,"Wisconsin","Illinois",2014
 400548205,2014,6,"Air Force","Navy",2014
 400548122,2014,6,"Akron","Eastern Michigan",2014
+400548418,2014,6,"App State","South Alabama",2014
 400548418,2014,6,"Appalachian State","South Alabama",2014
 400548419,2014,6,"Arkansas State","Louisiana Monroe",2014
+400548419,2014,6,"Arkansas State","UL Monroe",2014
 400548120,2014,6,"Army","Ball State",2014
 400548373,2014,6,"Auburn","LSU",2014
 400548204,2014,6,"BYU","Utah State",2014
@@ -11905,8 +11946,10 @@
 400548420,2014,6,"Louisiana","Georgia State",2014
 400548040,2014,6,"Louisiana Tech","UTEP",2014
 400547937,2014,6,"Maryland","Ohio State",2014
+400548126,2014,6,"Miami (OH)","Massachusetts",2014
 400548126,2014,6,"Miami (OH)","UMass",2014
 400547956,2014,6,"Michigan State","Nebraska",2014
+400548042,2014,6,"Middle Tennessee","Southern Miss",2014
 400548042,2014,6,"Middle Tennessee","Southern Mississippi",2014
 400548377,2014,6,"Mississippi State","Texas A&M",2014
 400548206,2014,6,"Nevada","Boise State",2014
@@ -11930,6 +11973,7 @@
 400548276,2014,6,"UCLA","Utah",2014
 400548275,2014,6,"USC","Arizona State",2014
 400548044,2014,6,"UT San Antonio","New Mexico",2014
+400548044,2014,6,"UTSA","New Mexico",2014
 400547812,2014,6,"Virginia","Pittsburgh",2014
 400548278,2014,6,"Washington State","California",2014
 400547866,2014,6,"West Virginia","Kansas",2014
@@ -11942,7 +11986,9 @@
 400547743,2014,5,"Clemson","North Carolina",2014
 400547675,2014,5,"Connecticut","Temple",2014
 400548034,2014,5,"Florida Atlantic","UT San Antonio",2014
+400548034,2014,5,"Florida Atlantic","UTSA",2014
 400548381,2014,5,"Georgia","Tennessee",2014
+400550418,2014,5,"Georgia Southern","App State",2014
 400550418,2014,5,"Georgia Southern","Appalachian State",2014
 400547860,2014,5,"Iowa State","Baylor",2014
 400547862,2014,5,"Kansas","Texas",2014
@@ -11951,6 +11997,7 @@
 400548379,2014,5,"LSU","New Mexico State",2014
 400548417,2014,5,"Louisiana Monroe","Troy",2014
 400547833,2014,5,"Louisville","Wake Forest",2014
+400548116,2014,5,"Massachusetts","Bowling Green",2014
 400547754,2014,5,"Miami","Duke",2014
 400547947,2014,5,"Michigan","Minnesota",2014
 400547955,2014,5,"Michigan State","Wyoming",2014
@@ -11971,12 +12018,15 @@
 400548202,2014,5,"San Diego State","UNLV",2014
 400548201,2014,5,"San José State","Nevada",2014
 400548380,2014,5,"South Carolina","Missouri",2014
+400548037,2014,5,"Southern Miss","Rice",2014
 400548037,2014,5,"Southern Mississippi","Rice",2014
 400547818,2014,5,"Syracuse","Notre Dame",2014
 400548382,2014,5,"Texas A&M","Arkansas",2014
 400548117,2014,5,"Toledo","Central Michigan",2014
 400547680,2014,5,"Tulsa","Texas State",2014
 400548033,2014,5,"UAB","Florida International",2014
+400547675,2014,5,"UConn","Temple",2014
+400548417,2014,5,"UL Monroe","Troy",2014
 400548116,2014,5,"UMass","Bowling Green",2014
 400548270,2014,5,"USC","Oregon State",2014
 400548272,2014,5,"Utah","Washington State",2014
@@ -12013,6 +12063,7 @@
 400547954,2014,4,"Michigan State","Eastern Michigan",2014
 400547962,2014,4,"Minnesota","San José State",2014
 400547918,2014,4,"Missouri","Indiana",2014
+400547804,2014,4,"NC State","Presbyterian",2014
 400547804,2014,4,"NC State","Presbyterian College",2014
 400547996,2014,4,"Navy","Rutgers",2014
 400547789,2014,4,"Nebraska","Miami",2014
@@ -12021,6 +12072,7 @@
 400547977,2014,4,"Northwestern","Western Illinois",2014
 400548112,2014,4,"Ohio","Idaho",2014
 400548198,2014,4,"Oregon State","San Diego State",2014
+400547987,2014,4,"Penn State","Massachusetts",2014
 400547987,2014,4,"Penn State","UMass",2014
 400547810,2014,4,"Pittsburgh","Iowa",2014
 400547991,2014,4,"Purdue","Southern Illinois",2014
@@ -12028,6 +12080,8 @@
 400547671,2014,4,"SMU","Texas A&M",2014
 400548414,2014,4,"South Alabama","Georgia Southern",2014
 400547666,2014,4,"South Florida","Connecticut",2014
+400547666,2014,4,"South Florida","UConn",2014
+400548032,2014,4,"Southern Miss","App State",2014
 400548032,2014,4,"Southern Mississippi","Appalachian State",2014
 400547817,2014,4,"Syracuse","Maryland",2014
 400547672,2014,4,"Temple","Delaware State",2014
@@ -12042,6 +12096,7 @@
 400548113,2014,4,"Western Michigan","Murray State",2014
 400548002,2014,4,"Wisconsin","Bowling Green",2014
 400548027,2014,4,"Wyoming","Florida Atlantic",2014
+400548024,2014,3,"Alabama","Southern Miss",2014
 400548024,2014,3,"Alabama","Southern Mississippi",2014
 400548192,2014,3,"Arizona","Nevada",2014
 400547658,2014,3,"BYU","Houston",2014
@@ -12064,6 +12119,7 @@
 400548110,2014,3,"Idaho","Western Michigan",2014
 400547852,2014,3,"Iowa","Iowa State",2014
 400548389,2014,3,"LSU","Louisiana Monroe",2014
+400548389,2014,3,"LSU","UL Monroe",2014
 400548019,2014,3,"Marshall","Ohio",2014
 400547849,2014,3,"Maryland","West Virginia",2014
 400547788,2014,3,"Miami","Arkansas State",2014
@@ -12075,6 +12131,7 @@
 400547983,2014,3,"Ohio State","Kent State",2014
 400547850,2014,3,"Oklahoma","Tennessee",2014
 400547853,2014,3,"Oklahoma State","UT San Antonio",2014
+400547853,2014,3,"Oklahoma State","UTSA",2014
 400548022,2014,3,"Old Dominion","Eastern Michigan",2014
 400548390,2014,3,"Ole Miss","Louisiana",2014
 400548193,2014,3,"Oregon","Wyoming",2014
@@ -12089,17 +12146,21 @@
 400548412,2014,3,"Texas State","Navy",2014
 400547851,2014,3,"Texas Tech","Arkansas",2014
 400548413,2014,3,"Troy","Abilene Christian",2014
+400547664,2014,3,"Tulane","SE Louisiana",2014
 400547664,2014,3,"Tulane","Southeastern Louisiana",2014
 400548025,2014,3,"UAB","Alabama A&M",2014
+400547661,2014,3,"UConn","Boise State",2014
 400548108,2014,3,"UNLV","Northern Illinois",2014
 400548026,2014,3,"UTEP","New Mexico State",2014
 400547831,2014,3,"Utah State","Wake Forest",2014
+400548109,2014,3,"Vanderbilt","Massachusetts",2014
 400548109,2014,3,"Vanderbilt","UMass",2014
 400547781,2014,3,"Virginia","Louisville",2014
 400547662,2014,3,"Virginia Tech","East Carolina",2014
 400547906,2014,3,"Washington","Illinois",2014
 400548264,2014,3,"Washington State","Portland State",2014
 400548013,2014,2,"Alabama","Florida Atlantic",2014
+400548408,2014,2,"App State","Campbell",2014
 400548408,2014,2,"Appalachian State","Campbell",2014
 400548393,2014,2,"Arkansas","Nicholls",2014
 400548098,2014,2,"Army","Buffalo",2014
@@ -12113,6 +12174,7 @@
 400547649,2014,2,"Connecticut","Stony Brook",2014
 400548101,2014,2,"Florida","Eastern Michigan",2014
 400547763,2014,2,"Florida State","The Citadel",2014
+400548410,2014,2,"Georgia Southern","Savannah St",2014
 400548410,2014,2,"Georgia Southern","Savannah State",2014
 400548183,2014,2,"Hawai'i","Oregon State",2014
 400547651,2014,2,"Houston","Grambling",2014
@@ -12122,11 +12184,13 @@
 400547847,2014,2,"Kansas","Southeast Missouri State",2014
 400548104,2014,2,"Kent State","South Alabama",2014
 400548103,2014,2,"Kentucky","Ohio",2014
+400548394,2014,2,"LSU","Sam Houston",2014
 400548394,2014,2,"LSU","Sam Houston State",2014
 400548014,2014,2,"Louisiana","Louisiana Tech",2014
 400548411,2014,2,"Louisiana Monroe","Idaho",2014
 400547780,2014,2,"Louisville","Murray State",2014
 400548015,2014,2,"Marshall","Rhode Island",2014
+400548099,2014,2,"Massachusetts","Colorado",2014
 400547787,2014,2,"Miami","Florida A&M",2014
 400548100,2014,2,"Miami (OH)","Eastern Kentucky",2014
 400547961,2014,2,"Minnesota","Middle Tennessee",2014
@@ -12147,6 +12211,7 @@
 400547994,2014,2,"Rutgers","Howard",2014
 400547650,2014,2,"South Carolina","East Carolina",2014
 400547654,2014,2,"South Florida","Maryland",2014
+400548016,2014,2,"Southern Miss","Alcorn State",2014
 400548016,2014,2,"Southern Mississippi","Alcorn State",2014
 400548260,2014,2,"Stanford","USC",2014
 400547655,2014,2,"Temple","Navy",2014
@@ -12158,10 +12223,13 @@
 400547656,2014,2,"Tulane","Georgia Tech",2014
 400547657,2014,2,"Tulsa","Oklahoma",2014
 400547652,2014,2,"UCLA","Memphis",2014
+400547649,2014,2,"UConn","Stony Brook",2014
+400548411,2014,2,"UL Monroe","Idaho",2014
 400548099,2014,2,"UMass","Colorado",2014
 400548187,2014,2,"UNLV","Northern Colorado",2014
 400548018,2014,2,"UT San Antonio","Arizona",2014
 400547845,2014,2,"UTEP","Texas Tech",2014
+400548018,2014,2,"UTSA","Arizona",2014
 400548182,2014,2,"Utah","Fresno State",2014
 400548188,2014,2,"Utah State","Idaho State",2014
 400548395,2014,2,"Vanderbilt","Ole Miss",2014
@@ -12202,6 +12270,7 @@
 400610180,2014,1,"Georgia Tech","Mississippi State",2014
 400547772,2014,1,"Georgia Tech","Wofford",2014
 400547644,2014,1,"Houston","UT San Antonio",2014
+400547644,2014,1,"Houston","UTSA",2014
 400547904,2014,1,"Illinois","Youngstown State",2014
 400547916,2014,1,"Indiana","Indiana State",2014
 400547928,2014,1,"Iowa","Northern Iowa",2014
@@ -12218,14 +12287,18 @@
 400610215,2014,1,"Louisville","Georgia",2014
 400547786,2014,1,"Louisville","Miami",2014
 400547936,2014,1,"Maryland","James Madison",2014
+400547728,2014,1,"Massachusetts","Boston College",2014
 400547645,2014,1,"Memphis","Austin Peay",2014
 400610225,2014,1,"Memphis","BYU",2014
 400548005,2014,1,"Miami (OH)","Marshall",2014
+400547943,2014,1,"Michigan","App State",2014
 400547943,2014,1,"Michigan","Appalachian State",2014
 400547952,2014,1,"Michigan State","Jacksonville State",2014
+400548006,2014,1,"Middle Tennessee","Savannah St",2014
 400548006,2014,1,"Middle Tennessee","Savannah State",2014
 400547960,2014,1,"Minnesota","Eastern Illinois",2014
 400610217,2014,1,"Minnesota","Missouri",2014
+400548009,2014,1,"Mississippi State","Southern Miss",2014
 400548009,2014,1,"Mississippi State","Southern Mississippi",2014
 400548401,2014,1,"Missouri","South Dakota State",2014
 400547802,2014,1,"NC State","Georgia Southern",2014
@@ -12237,6 +12310,7 @@
 400547795,2014,1,"North Carolina","Liberty",2014
 400610212,2014,1,"North Carolina","Rutgers",2014
 400610203,2014,1,"Northern Illinois","Marshall",2014
+400548091,2014,1,"Northern Illinois","Presbyterian",2014
 400548091,2014,1,"Northern Illinois","Presbyterian College",2014
 400547975,2014,1,"Northwestern","California",2014
 400548008,2014,1,"Notre Dame","Rice",2014
@@ -12276,6 +12350,8 @@
 400610209,2014,1,"UCF","NC State",2014
 400547642,2014,1,"UCF","Penn State",2014
 400610218,2014,1,"UCLA","Kansas State",2014
+400547641,2014,1,"UConn","BYU",2014
+400547829,2014,1,"UL Monroe","Wake Forest",2014
 400547728,2014,1,"UMass","Boston College",2014
 400548172,2014,1,"USC","Fresno State",2014
 400610220,2014,1,"USC","Nebraska",2014
