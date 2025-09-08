@@ -2,12 +2,12 @@ name: Annual Roster Update
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '5 4 1 1-8 *'
-    - cron: '30 8 * 9-12 SUN'
-    - cron: '0 16 * 9-12 SAT'
-    - cron: '15 20 * 9-12 SAT'
-    - cron: '5 4 * 1,12 *'
+  # schedule:
+  #   - cron: '5 4 1 1-8 *'
+  #   - cron: '30 8 * 9-12 SUN'
+  #   - cron: '0 16 * 9-12 SAT'
+  #   - cron: '15 20 * 9-12 SAT'
+  #   - cron: '5 4 * 1,12 *'
 
 jobs:
   update:

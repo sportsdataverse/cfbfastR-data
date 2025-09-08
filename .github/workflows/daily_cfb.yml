@@ -61,8 +61,8 @@ jobs:
       - name: Check for empty inputs
         if: ${{ env.START_YEAR == ''}}
         run: |
-          echo START_YEAR=$(Rscript -e "cat(cfbfastR::most_recent_cfb_season())") >> $GITHUB_ENV
-          echo END_YEAR=$(Rscript -e "cat(cfbfastR::most_recent_cfb_season())") >> $GITHUB_ENV
+          echo START_YEAR=$(Rscript -e "cat(cfbfastR:::most_recent_cfb_season())") >> $GITHUB_ENV
+          echo END_YEAR=$(Rscript -e "cat(cfbfastR:::most_recent_cfb_season())") >> $GITHUB_ENV
       - name: Update CFB Data ${{ env.START_YEAR }}-${{ env.END_YEAR }}
         env:
           GITHUB_PAT: ${{ secrets.SDV_GH_TOKEN }}
