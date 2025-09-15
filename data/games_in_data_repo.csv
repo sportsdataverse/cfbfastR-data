@@ -1,69 +1,124 @@
 "game_id","year","week","home","away","season"
 401752696,2025,3,"Alabama","Wisconsin",2025
+401767360,2025,3,"Alabama State","Miles College",2025
+401756888,2025,3,"Arizona","Kansas State",2025
 401756889,2025,3,"Arizona State","Texas State",2025
 401756890,2025,3,"Arkansas State","Iowa State",2025
 401767380,2025,3,"Arkansas-Pine Bluff","Lincoln (CA)",2025
 401752697,2025,3,"Auburn","South Alabama",2025
+401767248,2025,3,"Austin Peay","Morehead State",2025
 401762818,2025,3,"Ball State","New Hampshire",2025
 401756891,2025,3,"Baylor","Samford",2025
+401757256,2025,3,"Bowling Green","Liberty",2025
+401767030,2025,3,"Bryant","Bentley",2025
 401767588,2025,3,"Bucknell","VMI",2025
+401767071,2025,3,"Cal Poly","Western Oregon",2025
 401752840,2025,3,"California","Minnesota",2025
 401767141,2025,3,"Campbell","Furman",2025
+401767305,2025,3,"Central Arkansas","Tarleton State",2025
 401767742,2025,3,"Central Connecticut","St. Francis (PA)",2025
+401767161,2025,3,"Charleston Southern","Lindenwood",2025
 401762464,2025,3,"Charlotte","Monmouth",2025
 401767529,2025,3,"Chattanooga","Stetson",2025
 401756892,2025,3,"Cincinnati","Northwestern State",2025
 401761604,2025,3,"Coastal Carolina","East Carolina",2025
+401757168,2025,3,"Delaware","UConn",2025
+401767341,2025,3,"Delaware State","Bowie State",2025
+401767733,2025,3,"Duquesne","Lehigh",2025
+401767173,2025,3,"Eastern Illinois","Illinois State",2025
+401757233,2025,3,"Florida International","Florida Atlantic",2025
+401760369,2025,3,"Fresno State","Southern",2025
+401767202,2025,3,"Gardner-Webb","The Citadel",2025
+401767720,2025,3,"Georgetown","Lafayette",2025
+401757234,2025,3,"Georgia Southern","Jacksonville State",2025
+401761605,2025,3,"Georgia State","Murray State",2025
 401754623,2025,3,"Georgia Tech","Clemson",2025
 401767395,2025,3,"Grambling","Kentucky State",2025
+401769892,2025,3,"Hanover College","Butler",2025
+401760370,2025,3,"Hawai'i","Portland State",2025
+401767318,2025,3,"Holy Cross","Rhode Island",2025
 401756893,2025,3,"Houston","Colorado",2025
+401767351,2025,3,"Howard","Morehouse College",2025
 401767090,2025,3,"Idaho","Utah Tech",2025
 401752829,2025,3,"Illinois","Western Michigan",2025
 401752836,2025,3,"Indiana","Indiana State",2025
 401752830,2025,3,"Iowa","Massachusetts",2025
+401767421,2025,3,"Jackson State","Tuskegee",2025
+401757235,2025,3,"Kennesaw State","Merrimack",2025
+401762817,2025,3,"Kent State","Buffalo",2025
 401752698,2025,3,"Kentucky","Eastern Michigan",2025
 401752699,2025,3,"LSU","Florida",2025
+401757257,2025,3,"Louisiana Tech","New Mexico State",2025
 401767190,2025,3,"Maine","Stonehill",2025
+401761606,2025,3,"Marshall","Eastern Kentucky",2025
 401752838,2025,3,"Maryland","Towson",2025
+401767159,2025,3,"McNeese","Weber State",2025
 401767573,2025,3,"Mercer","Wofford",2025
 401754535,2025,3,"Miami","South Florida",2025
 401752839,2025,3,"Michigan","Central Michigan",2025
+401752834,2025,3,"Michigan State","Youngstown State",2025
 401752701,2025,3,"Mississippi State","Alcorn State",2025
 401752702,2025,3,"Missouri","Louisiana",2025
+401754615,2025,3,"Missouri State","SMU",2025
 401767098,2025,3,"Montana","North Dakota",2025
 401767106,2025,3,"Montana State","San Diego",2025
+401752828,2025,3,"Nebraska","Houston Christian",2025
+401757258,2025,3,"Nevada","Middle Tennessee",2025
 401767285,2025,3,"North Alabama","Northeastern State",2025
 401754639,2025,3,"North Carolina","Richmond",2025
+401767181,2025,3,"North Carolina A&T","Hampton",2025
+401767411,2025,3,"North Carolina Central","Fayetteville State",2025
 401767217,2025,3,"North Dakota State","Southeast Missouri State",2025
 401752949,2025,3,"North Texas","Washington State",2025
+401767060,2025,3,"Northern Iowa","Eastern Washington",2025
 401767648,2025,3,"Northern Michigan","St. Thomas (MN)",2025
+401752831,2025,3,"Northwestern","Oregon",2025
 401752707,2025,3,"Notre Dame","Texas A&M",2025
 401752827,2025,3,"Ohio State","Ohio",2025
 401752700,2025,3,"Ole Miss","Arkansas",2025
 401752835,2025,3,"Penn State","Villanova",2025
+401767639,2025,3,"Presbyterian","ERSKINE",2025
 401752832,2025,3,"Purdue","USC",2025
+401762466,2025,3,"Rice","Prairie View A&M",2025
 401767762,2025,3,"Robert Morris","West Liberty",2025
 401752833,2025,3,"Rutgers","Norfolk State",2025
+401767426,2025,3,"SE Louisiana","Mississippi Valley State",2025
+401767131,2025,3,"Sacramento State","Mercyhurst",2025
 401752704,2025,3,"South Carolina","Vanderbilt",2025
 401767388,2025,3,"South Carolina State","Bethune-Cookman",2025
+401767120,2025,3,"South Dakota","Northern Colorado",2025
 401767544,2025,3,"South Dakota State","Drake",2025
 401761607,2025,3,"Southern Miss","App State",2025
 401754533,2025,3,"Stanford","Boston College",2025
+401767524,2025,3,"Stephen F. Austin","Sul Ross State",2025
+401767322,2025,3,"Stony Brook","Fordham",2025
 401754532,2025,3,"Syracuse","Colgate",2025
 401756894,2025,3,"TCU","Abilene Christian",2025
+401752703,2025,3,"Temple","Oklahoma",2025
 401752705,2025,3,"Tennessee","Georgia",2025
+401767225,2025,3,"Tennessee State","Alabama A&M",2025
+401767232,2025,3,"Tennessee Tech","Davidson",2025
 401752706,2025,3,"Texas","UTEP",2025
+401767458,2025,3,"Texas Southern","Lamar",2025
+401752938,2025,3,"Texas Tech","Oregon State",2025
 401762819,2025,3,"Toledo","Morgan State",2025
 401761608,2025,3,"Troy","Memphis",2025
 401754534,2025,3,"Tulane","Duke",2025
 401762465,2025,3,"Tulsa","Navy",2025
+401762463,2025,3,"UAB","Akron",2025
+401783278,2025,3,"UAlbany","New Haven",2025
+401752837,2025,3,"UCLA","New Mexico",2025
+401767235,2025,3,"UT Martin","Southern Illinois",2025
+401767527,2025,3,"UT Rio Grande Valley","Langston University",2025
 401762467,2025,3,"UTSA","Incarnate Word",2025
 401760368,2025,3,"Utah State","Air Force",2025
 401754619,2025,3,"Virginia","William & Mary",2025
 401754536,2025,3,"Virginia Tech","Old Dominion",2025
+401767627,2025,3,"Wagner","Marist",2025
 401754531,2025,3,"Wake Forest","NC State",2025
 401767300,2025,3,"West Georgia","East Tennessee State",2025
 401754638,2025,3,"West Virginia","Pittsburgh",2025
+401767150,2025,3,"Western Carolina","Elon",2025
 401756895,2025,3,"Wyoming","Utah",2025
 401767238,2025,2,"Abilene Christian","Stephen F. Austin",2025
 401752681,2025,2,"Alabama","UL Monroe",2025
