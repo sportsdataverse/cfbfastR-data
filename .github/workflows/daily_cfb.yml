@@ -26,7 +26,7 @@ jobs:
       fail-fast: false
       matrix:
         config:
-          - {os: 'ubuntu-latest',   r: 'release'}
+          - {os: 'windows-latest',   r: 'release'}
 
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -43,7 +43,6 @@ jobs:
         with:
           r-version: ${{ matrix.config.r }}
           http-user-agent: ${{ matrix.config.http-user-agent }}
-          use-public-rspm: true
       - uses: r-lib/actions/setup-pandoc@v2
       - name: Setting up R dependencies
         uses: r-lib/actions/setup-r-dependencies@v2

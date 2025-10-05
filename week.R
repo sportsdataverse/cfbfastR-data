@@ -942,8 +942,8 @@ purrr::insistently(
   file_name = glue::glue("play_by_play_{current_season}"),
   sportsdataverse_type = "play-by-play data",
   release_tag = "cfbfastR_cfb_pbp",
-  file_types = c("rds", "csv", "parquet")
-  # .token = Sys.getenv("GITHUB_PAT")
+  file_types = c("rds", "csv", "parquet"),
+  .token = Sys.getenv("GITHUB_PAT")
 )
 # sportsdataversedata::sportsdataverse_save(
 #   pkg_function = "cfbfastR::load_cfb_pbp()",
