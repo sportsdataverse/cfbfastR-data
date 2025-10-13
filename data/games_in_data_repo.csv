@@ -1,8 +1,119 @@
 "game_id","year","week","home","away","season"
+401762833,2025,7,"Akron","Miami (OH)",2025
+401767313,2025,7,"Alabama A&M","Mississippi Valley State",2025
+401767372,2025,7,"Alcorn State","Lincoln (CA)",2025
+401756916,2025,7,"Arizona","BYU",2025
+401762483,2025,7,"Army","Charlotte",2025
+401752731,2025,7,"Auburn","Georgia",2025
+401760387,2025,7,"Boise State","New Mexico",2025
+401754558,2025,7,"Boston College","Clemson",2025
+401762835,2025,7,"Bowling Green","Toledo",2025
+401767034,2025,7,"Bryant","Brown",2025
+401767596,2025,7,"Butler","Presbyterian",2025
+401767165,2025,7,"Charleston Southern","Tennessee Tech",2025
+401756917,2025,7,"Cincinnati","UCF",2025
+401761623,2025,7,"Coastal Carolina","UL Monroe",2025
+401767739,2025,7,"Colgate","Richmond",2025
+401756918,2025,7,"Colorado","Iowa State",2025
+401760388,2025,7,"Colorado State","Fresno State",2025
+401767736,2025,7,"Columbia","Lehigh",2025
+401767699,2025,7,"Dartmouth","Yale",2025
+401767605,2025,7,"Davidson","St. Thomas (MN)",2025
+401767344,2025,7,"Delaware State","Southern Connecticut State",2025
+401767752,2025,7,"Duquesne","St. Francis (PA)",2025
+401767560,2025,7,"East Tennessee State","VMI",2025
+401767461,2025,7,"East Texas A&M","Lamar",2025
+401767196,2025,7,"Eastern Illinois","Gardner-Webb",2025
+401767251,2025,7,"Eastern Kentucky","Austin Peay",2025
+401762836,2025,7,"Eastern Michigan","Northern Illinois",2025
+401767154,2025,7,"Elon","Villanova",2025
+401767413,2025,7,"Florida A&M","North Carolina Central",2025
+401762482,2025,7,"Florida Atlantic","UAB",2025
+401754559,2025,7,"Florida State","Pittsburgh",2025
+401761622,2025,7,"Georgia Southern","Southern Miss",2025
+401761624,2025,7,"Georgia State","App State",2025
+401754560,2025,7,"Georgia Tech","Virginia Tech",2025
+401767418,2025,7,"Grambling","Texas Southern",2025
+401767143,2025,7,"Hampton","Campbell",2025
+401767691,2025,7,"Harvard","Cornell",2025
+401760389,2025,7,"Hawai'i","Utah State",2025
+401767470,2025,7,"Houston Christian","Northwestern State",2025
+401767122,2025,7,"Idaho","Northern Colorado",2025
+401752865,2025,7,"Illinois","Ohio State",2025
+401767448,2025,7,"Indiana State","South Dakota",2025
+401767363,2025,7,"Jackson State","Alabama State",2025
+401761625,2025,7,"James Madison","Louisiana",2025
+401756919,2025,7,"Kansas State","TCU",2025
+401757280,2025,7,"Kennesaw State","Louisiana Tech",2025
+401762837,2025,7,"Kent State","Massachusetts",2025
+401752732,2025,7,"LSU","South Carolina",2025
+401767667,2025,7,"Lafayette","Bucknell",2025
+401761626,2025,7,"Marshall","Old Dominion",2025
+401752867,2025,7,"Maryland","Nebraska",2025
+401767192,2025,7,"Merrimack","Maine",2025
+401752863,2025,7,"Michigan State","UCLA",2025
+401757278,2025,7,"Middle Tennessee","Missouri State",2025
+401752864,2025,7,"Minnesota","Purdue",2025
+401752734,2025,7,"Missouri","Alabama",2025
+401767079,2025,7,"Montana","Cal Poly",2025
+401767084,2025,7,"Montana State","Idaho State",2025
+401767400,2025,7,"Morgan State","Virginia University Of Lynchburg",2025
+401767439,2025,7,"Murray State","Illinois State",2025
+401760390,2025,7,"Nevada","San Diego State",2025
+401779512,2025,7,"New Haven","Western Connecticut St",2025
+401767287,2025,7,"North Alabama","Central Arkansas",2025
+401767274,2025,7,"North Carolina A&T","South Carolina State",2025
+401767504,2025,7,"North Dakota","Youngstown State",2025
+401767511,2025,7,"North Dakota State","Southern Illinois",2025
+401762481,2025,7,"North Texas","South Florida",2025
+401754562,2025,7,"Notre Dame","NC State",2025
+401756920,2025,7,"Oklahoma State","Houston",2025
+401752733,2025,7,"Ole Miss","Washington State",2025
+401752870,2025,7,"Oregon","Indiana",2025
+401754563,2025,7,"Oregon State","Wake Forest",2025
+401752866,2025,7,"Penn State","Northwestern",2025
+401767629,2025,7,"Pennsylvania","Marist",2025
+401767576,2025,7,"Princeton","Mercer",2025
+401767270,2025,7,"Rhode Island","New Hampshire",2025
+401767744,2025,7,"Robert Morris","Central Connecticut",2025
+401754561,2025,7,"SMU","Stanford",2025
+401767353,2025,7,"Sacred Heart","Howard",2025
+401757279,2025,7,"Sam Houston","Jacksonville State",2025
+401767622,2025,7,"San Diego","Drake",2025
+401767537,2025,7,"South Dakota State","Northern Iowa",2025
+401767220,2025,7,"Southeast Missouri State","Tennessee State",2025
+401767637,2025,7,"Stetson","Morehead State",2025
+401762484,2025,7,"Temple","Navy",2025
+401752735,2025,7,"Tennessee","Arkansas",2025
+401752736,2025,7,"Texas","Oklahoma",2025
+401752737,2025,7,"Texas A&M","Florida",2025
+401761627,2025,7,"Texas State","Troy",2025
+401756921,2025,7,"Texas Tech","Kansas",2025
+401767260,2025,7,"Towson","Monmouth",2025
+401762480,2025,7,"Tulane","East Carolina",2025
+401767116,2025,7,"UC Davis","Northern Arizona",2025
+401760386,2025,7,"UNLV","Air Force",2025
+401752868,2025,7,"USC","Michigan",2025
+401767236,2025,7,"UT Martin","Western Illinois",2025
+401757277,2025,7,"UTEP","Liberty",2025
+401762485,2025,7,"UTSA","Rice",2025
+401756922,2025,7,"Utah","Arizona State",2025
+401767307,2025,7,"Utah Tech","Tarleton State",2025
+401767616,2025,7,"Valparaiso","Dayton",2025
+401767776,2025,7,"Wagner","Mercyhurst",2025
+401752862,2025,7,"Washington","Rutgers",2025
+401767133,2025,7,"Weber State","Sacramento State",2025
+401767242,2025,7,"West Georgia","Abilene Christian",2025
+401767567,2025,7,"Western Carolina","Furman",2025
+401762834,2025,7,"Western Michigan","Ball State",2025
+401752869,2025,7,"Wisconsin","Iowa",2025
+401767407,2025,7,"Wofford","Norfolk State",2025
+401760391,2025,7,"Wyoming","San José State",2025
 401767241,2025,6,"Abilene Christian","North Alabama",2025
 401762829,2025,6,"Akron","Central Michigan",2025
 401752726,2025,6,"Alabama","Vanderbilt",2025
 401767312,2025,6,"Alabama A&M","Jackson State",2025
+401767362,2025,6,"Alabama State","Bethune-Cookman",2025
 401767371,2025,6,"Alcorn State","Prairie View A&M",2025
 401752940,2025,6,"App State","Oregon State",2025
 401756910,2025,6,"Arizona","Oklahoma State",2025
@@ -12,8 +123,12 @@
 401762830,2025,6,"Ball State","Ohio",2025
 401756911,2025,6,"Baylor","Kansas State",2025
 401767320,2025,6,"Brown","Rhode Island",2025
+401767033,2025,6,"Bryant","Maine",2025
 401767666,2025,6,"Bucknell","Richmond",2025
+401762831,2025,6,"Buffalo","Eastern Michigan",2025
+401767074,2025,6,"Cal Poly","UC Davis",2025
 401754551,2025,6,"California","Duke",2025
+401769869,2025,6,"Central Arkansas","Utah Tech",2025
 401767660,2025,6,"Central Connecticut","Sacred Heart",2025
 401756912,2025,6,"Cincinnati","Iowa State",2025
 401767690,2025,6,"Cornell","Colgate",2025
@@ -26,15 +141,19 @@
 401754553,2025,6,"Florida State","Miami",2025
 401760383,2025,6,"Fresno State","Nevada",2025
 401767559,2025,6,"Furman","East Tennessee State",2025
+401767164,2025,6,"Gardner-Webb","Charleston Southern",2025
+401767399,2025,6,"Georgetown","Morgan State",2025
 401752728,2025,6,"Georgia","Kentucky",2025
 401761618,2025,6,"Georgia State","James Madison",2025
 401767183,2025,6,"Hampton","Norfolk State",2025
 401767727,2025,6,"Holy Cross","Harvard",2025
+401756913,2025,6,"Houston","Texas Tech",2025
 401767083,2025,6,"Idaho State","Montana",2025
 401767438,2025,6,"Illinois State","North Dakota State",2025
 401767477,2025,6,"Incarnate Word","Stephen F. Austin",2025
 401767674,2025,6,"Lafayette","Fordham",2025
 401767484,2025,6,"Lamar","Nicholls",2025
+401767735,2025,6,"Lehigh","Yale",2025
 401767211,2025,6,"Lindenwood","UT Martin",2025
 401754554,2025,6,"Louisville","Virginia",2025
 401767628,2025,6,"Marist","San Diego",2025
@@ -46,11 +165,13 @@
 401767757,2025,6,"Mercyhurst","Long Island University",2025
 401767763,2025,6,"Merrimack","Robert Morris",2025
 401752856,2025,6,"Michigan","Wisconsin",2025
+401767259,2025,6,"Monmouth","Delaware State",2025
 401767615,2025,6,"Morehead State","Dayton",2025
 401754557,2025,6,"NC State","Campbell",2025
 401760381,2025,6,"Navy","Air Force",2025
 401752860,2025,6,"Nebraska","Michigan State",2025
 401767269,2025,6,"New Hampshire","Villanova",2025
+401777983,2025,6,"New Haven","Pace",2025
 401757275,2025,6,"New Mexico State","Sam Houston",2025
 401754552,2025,6,"North Carolina","Clemson",2025
 401767108,2025,6,"Northern Arizona","Montana State",2025
@@ -71,19 +192,25 @@
 401760382,2025,6,"San Diego State","Colorado State",2025
 401760384,2025,6,"San José State","New Mexico",2025
 401767436,2025,6,"South Carolina State","Savannah St",2025
+401767496,2025,6,"South Dakota","Murray State",2025
 401762475,2025,6,"South Florida","Charlotte",2025
+401767447,2025,6,"Southern Illinois","Indiana State",2025
 401767595,2025,6,"St. Thomas (MN)","Butler",2025
 401767604,2025,6,"Stetson","Davidson",2025
 401756914,2025,6,"TCU","Colorado",2025
 401767294,2025,6,"Tarleton State","Southern Utah",2025
 401762479,2025,6,"Temple","UTSA",2025
+401767233,2025,6,"Tennessee Tech","Western Illinois",2025
 401752730,2025,6,"Texas A&M","Mississippi State",2025
+401767381,2025,6,"Texas Southern","Arkansas-Pine Bluff",2025
 401767153,2025,6,"Towson","Elon",2025
+401761621,2025,6,"Troy","South Alabama",2025
 401762476,2025,6,"UAB","Army",2025
 401767324,2025,6,"UAlbany","Stony Brook",2025
 401756915,2025,6,"UCF","Kansas",2025
 401752855,2025,6,"UCLA","Penn State",2025
 401757171,2025,6,"UConn","Florida International",2025
+401767469,2025,6,"UT Rio Grande Valley","Houston Christian",2025
 401767531,2025,6,"VMI","Chattanooga",2025
 401754556,2025,6,"Virginia Tech","Wake Forest",2025
 401767273,2025,6,"William & Mary","North Carolina A&T",2025

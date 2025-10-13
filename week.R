@@ -54,7 +54,7 @@ if (interactive()) {
   progressr::with_progress({
     p <- progressr::progressor(along = y)
     
-    pbp_df <- purrr::possibly(furrr::future_map2_dfr(
+    pbp_df <- furrr::future_map2_dfr(
       .x = x,
       .y = y,
       function(.x, .y) {
@@ -68,13 +68,13 @@ if (interactive()) {
         p()
         return(pbp)
       }
-    ), otherwise = data.frame())
+    )
   })
   
   future::plan("sequential")
 } else {
   # Non-interactive version
-  pbp_df <- purrr::possibly(purrr::map2(
+  pbp_df <- purrr::map2(
     .x = x,
     .y = y,
     function(.x, .y) {
@@ -87,7 +87,7 @@ if (interactive()) {
     },
     .progress = TRUE
   ) %>%
-    purrr::list_rbind(), otherwise = data.frame())
+    purrr::list_rbind()
 }
 
 
