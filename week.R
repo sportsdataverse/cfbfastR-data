@@ -46,11 +46,15 @@ x <- week_year_split[[1]]$year
 y <- week_year_split[[1]]$week
 yr_epa_start_time <- proc.time()
 
+#possibly
+
+
 if (interactive()) {
   future::plan("multisession", workers = 8)
   progressr::with_progress({
     p <- progressr::progressor(along = y)
-    pbp_df <- furrr::future_map2_dfr(
+    
+    pbp_df <- purrr::possibly(furrr::future_map2_dfr(
       .x = x,
       .y = y,
       function(.x, .y) {
@@ -64,12 +68,13 @@ if (interactive()) {
         p()
         return(pbp)
       }
-    )
+    ), otherwise = data.frame())
   })
+  
   future::plan("sequential")
 } else {
   # Non-interactive version
-  pbp_df <- purrr::map2(
+  pbp_df <- purrr::possibly(purrr::map2(
     .x = x,
     .y = y,
     function(.x, .y) {
@@ -82,7 +87,7 @@ if (interactive()) {
     },
     .progress = TRUE
   ) %>%
-    purrr::list_rbind()
+    purrr::list_rbind(), otherwise = data.frame())
 }
 
 
