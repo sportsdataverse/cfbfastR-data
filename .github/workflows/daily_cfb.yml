@@ -74,7 +74,9 @@ jobs:
         env:
           GITHUB_PAT: ${{ secrets.SDV_GH_TOKEN }}
         run: |
-          bash scripts/daily_cfb_R_processor.sh -s ${{ env.START_YEAR }} -e ${{ env.END_YEAR }}
+          echo $(pwd)
+          echo $(ls -a)
+          bash -c "cd D:/a/cfbfastR-data/cfbfastR-data/ && scripts/daily_cfb_R_processor.sh -s ${{ env.START_YEAR }} -e ${{ env.END_YEAR }}"
       - name: Repository Dispatch
         uses: peter-evans/repository-dispatch@v2
         with:
