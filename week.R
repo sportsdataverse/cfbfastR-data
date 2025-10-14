@@ -281,10 +281,24 @@ df_year_players <- pbp_df %>%
     )
   )
 
-
-df_team_rosters <- read.csv(glue::glue(
+# Join Roster Info -------------------------------------------------------------
+if (file.exists(glue::glue(
   "rosters/csv/cfb_rosters_{current_season}.csv"
-))
+))) {
+  df_team_rosters <- read.csv(glue::glue(
+    "rosters/csv/cfb_rosters_{current_season}.csv"
+  ))
+} else {
+  df_team_rosters <- cfbfastR::cfbd_team_roster(
+    year = current_season,
+    team = NULL
+  )
+  ifelse(!dir.exists(file.path("rosters/csv")), dir.create(file.path("rosters/csv"), recursive = TRUE), FALSE)
+  readr::write_csv(
+    df_team_rosters,
+    glue::glue("rosters/csv/cfb_rosters_{current_season}.csv")
+  )
+}
 
 
 df_year_players_pos <- df_year_players %>%
@@ -410,7 +424,7 @@ df_year_players_pos <- df_year_players_pos %>%
   ) %>%
   as.data.frame()
 
-
+# Reorder Columns ---------------------------------------------------------
 play_columns <- c(
   "year",
   "week",
@@ -944,6 +958,7 @@ saveRDS(
 df_year_players_pos <- readRDS(glue::glue(
   "data/rds/pbp_players_pos_{current_season}.rds"
 ))
+# Push to sportsdataverse-data releases -----------------------------------------------
 retry_rate <- purrr::rate_backoff(
   pause_base = 1,
   pause_min = 60,
@@ -972,6 +987,8 @@ purrr::insistently(
 #   .token = Sys.getenv("GITHUB_PAT")
 # )
 
+
+# Git Commit and Push -----------------------------------------------------
 message <- sprintf(
   "Updated %s (ET) using cfbfastR version %s",
   lubridate::now("America/New_York"),

@@ -46,18 +46,13 @@ jobs:
             .
             scripts
             .github
-            data
-            R
-            models
-            cfb
-            pbp
-            player_stats
             betting
+            data
+            models
+            player_stats
+            R
             rosters
             schedules
-            team_info
-            teams
-            themes
       - name: Setting up R
         uses: r-lib/actions/setup-r@v2
         with:
@@ -90,8 +85,7 @@ jobs:
           GITHUB_PAT: ${{ secrets.SDV_GH_TOKEN }}
         run: |
           echo $(pwd)
-          echo $(ls -aR)
-          bash -c "cd D:/a/cfbfastR-data/cfbfastR-data/ && scripts/daily_cfb_R_processor.sh -s ${{ env.START_YEAR }} -e ${{ env.END_YEAR }}"
+          bash scripts/daily_cfb_R_processor.sh -s ${{ env.START_YEAR }} -e ${{ env.END_YEAR }}
       - name: Repository Dispatch
         uses: peter-evans/repository-dispatch@v2
         with:
