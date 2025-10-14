@@ -58,14 +58,13 @@ if (interactive()) {
       .x = x,
       .y = y,
       function(.x, .y) {
-        Sys.sleep(1)
         pbp <- cfbfastR::cfbd_pbp_data(
           year = .x,
           week = .y,
           season_type = "both",
           epa_wpa = TRUE
         )
-        p()
+        p(sprintf("Year %s Week %s", .x, .y))
         return(pbp)
       }
     )
@@ -74,20 +73,26 @@ if (interactive()) {
   future::plan("sequential")
 } else {
   # Non-interactive version
-  pbp_df <- purrr::map2(
-    .x = x,
-    .y = y,
-    function(.x, .y) {
-      cfbfastR::cfbd_pbp_data(
-        year = .x,
-        week = .y,
-        season_type = "both",
-        epa_wpa = TRUE
-      )
-    },
-    .progress = TRUE
-  ) %>%
-    purrr::list_rbind()
+  future::plan("multisession", workers = 3)
+  progressr::with_progress({
+    p <- progressr::progressor(along = y)
+    
+    pbp_df <- furrr::future_map2_dfr(
+      .x = x,
+      .y = y,
+      function(.x, .y) {
+        pbp <- cfbfastR::cfbd_pbp_data(
+          year = .x,
+          week = .y,
+          season_type = "both",
+          epa_wpa = TRUE
+        )
+        p(sprintf("Year %s Week %s", .x, .y))
+        return(pbp)
+      }
+    )
+  })
+  future::plan("sequential")
 }
 
 
@@ -168,7 +173,8 @@ if (interactive()) {
         player_stats <- cfbfastR::cfbd_play_stats_player(
           game_id = .x
         )
-        p()
+        # progress update with game_id and game number/count of games
+        p(sprintf("Processing game %s of %s (game_id: %s)", which(df_game_ids == .x), length(df_game_ids), .x)) 
         return(player_stats)
       }
     )
@@ -176,16 +182,22 @@ if (interactive()) {
   future::plan("sequential")
 } else {
   # Non-interactive version
-  df_player_stats <- purrr::map(
-    .x = df_game_ids,
-    function(.x) {
-      cfbfastR::cfbd_play_stats_player(
-        game_id = .x
-      )
-    },
-    .progress = TRUE
-  ) %>%
-    purrr::list_rbind()
+  future::plan("multisession", workers = 3)
+  progressr::with_progress({
+    p <- progressr::progressor(along = df_game_ids)
+    df_player_stats <- furrr::future_map_dfr(
+      .x = df_game_ids,
+      function(.x) {
+        player_stats <- cfbfastR::cfbd_play_stats_player(
+          game_id = .x
+        )
+        # progress update with game_id and game number/count of games
+        p(sprintf("Processing game %s of %s (game_id: %s)", which(df_game_ids == .x), length(df_game_ids), .x)) 
+        return(player_stats)
+      }
+    )
+  })
+  future::plan("sequential")
 }
 
 player_stats_df <- df_player_stats

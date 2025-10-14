@@ -69,3 +69,10 @@ jobs:
           GITHUB_PAT: ${{ secrets.SDV_GH_TOKEN }}
         run: |
           bash scripts/daily_cfb_R_processor.sh -s ${{ env.START_YEAR }} -e ${{ env.END_YEAR }}
+      - name: Repository Dispatch
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.CFB_TEAM_SUMMARIES_TRIGGER_KEY }}
+          repository: akeaswaran/cfb-team-summaries
+          event-type: deploy
+          client-payload: '{"ref": "main"}'
