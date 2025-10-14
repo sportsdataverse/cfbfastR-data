@@ -2,20 +2,22 @@ name: Update CFB Data
 
 on:
   schedule:
-    - cron: '5 4 1 1-8 *'
-    - cron: '30 6 * 9-12 SUN'
-    - cron: '0 16 * 9-12 SAT'
-    - cron: '15 20 * 9-12 SAT'
-    - cron: '5 4 * 1,12 *'
+    - cron: "5 4 1 1-8 *"
+    - cron: "30 6 * 9-12 SUN"
+    - cron: "0 16 * 9-12 SAT"
+    - cron: "15 20 * 9-12 SAT"
+    - cron: "5 4 * 1,12 *"
   repository_dispatch:
     types: [daily_cfb_data]
   workflow_dispatch:
     inputs:
       start_year:
         required: false
+        description: "Start Year (e.g., 2023)"
         type: string
       end_year:
         required: false
+        description: "End Year (e.g., 2023)"
         type: string
 
 jobs:
@@ -26,11 +28,12 @@ jobs:
       fail-fast: false
       matrix:
         config:
-          - {os: 'ubuntu-latest',   r: 'release'}
+          - { os: "windows-latest", r: "release" }
 
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
+      CFB_TEAM_SUMMARIES_TRIGGER_KEY: ${{ secrets.CFB_TEAM_SUMMARIES_TRIGGER_KEY }}
       R_KEEP_PKG_SOURCE: yes
       START_YEAR: ${{ inputs.start_year }}
       END_YEAR: ${{ inputs.end_year }}
@@ -56,15 +59,18 @@ jobs:
             ropensci/piggyback
       - name: Check cfbfastR_data_trigger for inputs
         if: ${{ github.event.client_payload.event_name == 'daily_cfb_data'}}
+        shell: bash
         run: |
           echo START_YEAR=$(echo "${{ github.event.client_payload.commit_message}}" | grep -o -E '[0-9]+' | head -1) >> $GITHUB_ENV
           echo END_YEAR=$(echo "${{ github.event.client_payload.commit_message}}" | grep -o -E '[0-9]+' | tail -1) >> $GITHUB_ENV
       - name: Check for empty inputs
         if: ${{ env.START_YEAR == ''}}
+        shell: bash
         run: |
           echo START_YEAR=$(Rscript -e "cat(cfbfastR:::most_recent_cfb_season())") >> $GITHUB_ENV
           echo END_YEAR=$(Rscript -e "cat(cfbfastR:::most_recent_cfb_season())") >> $GITHUB_ENV
       - name: Update CFB Data ${{ env.START_YEAR }}-${{ env.END_YEAR }}
+        shell: bash
         env:
           GITHUB_PAT: ${{ secrets.SDV_GH_TOKEN }}
         run: |
