@@ -1,4 +1,14 @@
 "game_id","year","week","home","away","season"
+401762492,2025,9,"Charlotte","North Texas",2025
+401767701,2025,9,"Dartmouth","Columbia",2025
+401757287,2025,9,"Delaware","Middle Tennessee",2025
+401757285,2025,9,"Florida International","Kennesaw State",2025
+401761634,2025,9,"Georgia State","South Alabama",2025
+401757286,2025,9,"Louisiana Tech","Western Kentucky",2025
+401760397,2025,9,"Nevada","Boise State",2025
+401757288,2025,9,"New Mexico State","Missouri State",2025
+401767101,2025,9,"Sacramento State","Montana",2025
+401754372,2025,9,"Virginia Tech","California",2025
 401760392,2025,8,"Air Force","Wyoming",2025
 401752738,2025,8,"Alabama","Tennessee",2025
 401761629,2025,8,"App State","Coastal Carolina",2025
@@ -28,6 +38,8 @@
 401752741,2025,8,"Florida","Mississippi State",2025
 401767373,2025,8,"Florida A&M","Alcorn State",2025
 401767700,2025,8,"Fordham","Dartmouth",2025
+401767203,2025,8,"Gardner-Webb","UT Martin",2025
+401767722,2025,8,"Georgetown","Colgate",2025
 401752742,2025,8,"Georgia","Ole Miss",2025
 401761630,2025,8,"Georgia Southern","Georgia State",2025
 401767704,2025,8,"Harvard","Merrimack",2025
@@ -35,6 +47,7 @@
 401767440,2025,8,"Illinois State","Youngstown State",2025
 401767462,2025,8,"Incarnate Word","East Texas A&M",2025
 401752878,2025,8,"Indiana","Michigan State",2025
+401767449,2025,8,"Indiana State","North Dakota State",2025
 401752875,2025,8,"Iowa","Penn State",2025
 401757283,2025,8,"Jacksonville State","Delaware",2025
 401761631,2025,8,"James Madison","Old Dominion",2025
@@ -52,24 +65,35 @@
 401762841,2025,8,"Miami (OH)","Eastern Michigan",2025
 401752873,2025,8,"Michigan","Washington",2025
 401752872,2025,8,"Minnesota","Nebraska",2025
+401767261,2025,8,"Monmouth","Stony Brook",2025
 401767100,2025,8,"Montana","Sacred Heart",2025
+401767630,2025,8,"Morehead State","Marist",2025
 401760395,2025,8,"New Mexico","Nevada",2025
 401767280,2025,8,"North Alabama","Eastern Kentucky",2025
 401762491,2025,8,"North Texas","UTSA",2025
 401767538,2025,8,"Northern Iowa","South Dakota",2025
+401752874,2025,8,"Northwestern","Purdue",2025
 401752871,2025,8,"Notre Dame","USC",2025
 401762843,2025,8,"Ohio","Northern Illinois",2025
 401756926,2025,8,"Oklahoma State","Cincinnati",2025
+401752941,2025,8,"Oregon State","Lafayette",2025
+401767128,2025,8,"Portland State","Weber State",2025
+401767641,2025,8,"Presbyterian","Stetson",2025
 401767728,2025,8,"Richmond","Holy Cross",2025
 401752876,2025,8,"Rutgers","Oregon",2025
+401767521,2025,8,"SE Louisiana","Northwestern State",2025
 401767123,2025,8,"Sacramento State","Northern Colorado",2025
 401757284,2025,8,"Sam Houston","UTEP",2025
 401761628,2025,8,"South Alabama","Arkansas State",2025
 401752744,2025,8,"South Carolina","Oklahoma",2025
+401762490,2025,8,"South Florida","Florida Atlantic",2025
 401767197,2025,8,"Southeast Missouri State","Eastern Illinois",2025
 401767434,2025,8,"Southern","Prairie View A&M",2025
+401767505,2025,8,"Southern Illinois","North Dakota",2025
+401767243,2025,8,"Southern Utah","Abilene Christian",2025
 401767649,2025,8,"St. Thomas (MN)","Valparaiso",2025
 401754567,2025,8,"Stanford","Florida State",2025
+401767517,2025,8,"Stephen F. Austin","Nicholls",2025
 401754568,2025,8,"Syracuse","Pittsburgh",2025
 401756927,2025,8,"TCU","Baylor",2025
 401767301,2025,8,"Tarleton State","West Georgia",2025
@@ -78,6 +102,7 @@
 401762842,2025,8,"Toledo","Kent State",2025
 401762488,2025,8,"Tulane","Army",2025
 401762487,2025,8,"UAB","Memphis",2025
+401767321,2025,8,"UAlbany","Rhode Island",2025
 401756928,2025,8,"UCF","West Virginia",2025
 401752879,2025,8,"UCLA","Maryland",2025
 401761633,2025,8,"UL Monroe","Troy",2025
@@ -90,6 +115,7 @@
 401767166,2025,8,"Western Illinois","Charleston Southern",2025
 401757281,2025,8,"Western Kentucky","Florida International",2025
 401767155,2025,8,"William & Mary","Elon",2025
+401752877,2025,8,"Wisconsin","Ohio State",2025
 401767568,2025,8,"Wofford","Furman",2025
 401767773,2025,8,"Yale","Stonehill",2025
 401762833,2025,7,"Akron","Miami (OH)",2025
