@@ -1,44 +1,103 @@
 "game_id","year","week","home","away","season"
+401767314,2025,9,"Alabama A&M","Alabama State",2025
+401767374,2025,9,"Alcorn State","Mississippi Valley State",2025
 401752746,2025,9,"Arkansas","Auburn",2025
+401761636,2025,9,"Arkansas State","Georgia Southern",2025
+401767384,2025,9,"Bethune-Cookman","Arkansas-Pine Bluff",2025
 401767668,2025,9,"Bucknell","Georgetown",2025
 401762844,2025,9,"Buffalo","Akron",2025
+401767075,2025,9,"Cal Poly","Montana State",2025
+401762847,2025,9,"Central Michigan","Massachusetts",2025
+401767167,2025,9,"Charleston Southern","Eastern Illinois",2025
 401762492,2025,9,"Charlotte","North Texas",2025
+401756930,2025,9,"Cincinnati","Baylor",2025
+401767554,2025,9,"Cornell","Brown",2025
 401767701,2025,9,"Dartmouth","Columbia",2025
 401767607,2025,9,"Davidson","San Diego",2025
 401767617,2025,9,"Dayton","Presbyterian",2025
 401757287,2025,9,"Delaware","Middle Tennessee",2025
+401767561,2025,9,"East Tennessee State","Wofford",2025
+401767463,2025,9,"East Texas A&M","Stephen F. Austin",2025
+401767281,2025,9,"Eastern Kentucky","Tarleton State",2025
 401757285,2025,9,"Florida International","Kennesaw State",2025
 401767675,2025,9,"Fordham","Lehigh",2025
+401760399,2025,9,"Fresno State","San Diego State",2025
+401767569,2025,9,"Furman","The Citadel",2025
 401761634,2025,9,"Georgia State","South Alabama",2025
+401767419,2025,9,"Grambling","Jackson State",2025
 401767729,2025,9,"Holy Cross","Colgate",2025
+401767472,2025,9,"Houston Christian","SE Louisiana",2025
+401767354,2025,9,"Howard","Morgan State",2025
+401767093,2025,9,"Idaho","Portland State",2025
+401767085,2025,9,"Idaho State","Northern Arizona",2025
 401752885,2025,9,"Indiana","UCLA",2025
+401752882,2025,9,"Iowa","Minnesota",2025
+401756931,2025,9,"Iowa State","BYU",2025
 401756932,2025,9,"Kansas","Kansas State",2025
 401762846,2025,9,"Kent State","Bowling Green",2025
+401752747,2025,9,"Kentucky","Tennessee",2025
+401752748,2025,9,"LSU","Texas A&M",2025
+401767204,2025,9,"Lindenwood","Gardner-Webb",2025
 401779510,2025,9,"Long Island University","New Haven",2025
 401757286,2025,9,"Louisiana Tech","Western Kentucky",2025
 401767176,2025,9,"Maine","Elon",2025
 401767623,2025,9,"Marist","Drake",2025
 401762494,2025,9,"Memphis","South Florida",2025
+401767577,2025,9,"Mercer","VMI",2025
 401767774,2025,9,"Mercyhurst","Stonehill",2025
+401754572,2025,9,"Miami","Stanford",2025
+401752881,2025,9,"Michigan State","Michigan",2025
+401752749,2025,9,"Mississippi State","Texas",2025
+401762493,2025,9,"Navy","Florida Atlantic",2025
 401752883,2025,9,"Nebraska","Northwestern",2025
 401760397,2025,9,"Nevada","Boise State",2025
 401767271,2025,9,"New Hampshire","William & Mary",2025
+401760400,2025,9,"New Mexico","Utah State",2025
 401757288,2025,9,"New Mexico State","Missouri State",2025
 401754573,2025,9,"North Carolina","Virginia",2025
 401767145,2025,9,"North Carolina A&T","Campbell",2025
 401767345,2025,9,"North Carolina Central","Delaware State",2025
+401767450,2025,9,"North Dakota","Indiana State",2025
+401767124,2025,9,"Northern Colorado","UC Davis",2025
+401762845,2025,9,"Northern Illinois","Ball State",2025
 401752750,2025,9,"Oklahoma","Ole Miss",2025
 401761635,2025,9,"Old Dominion","App State",2025
+401752886,2025,9,"Oregon","Wisconsin",2025
+401754574,2025,9,"Pittsburgh","NC State",2025
+401767435,2025,9,"Prairie View A&M","Lincoln (CA)",2025
 401767705,2025,9,"Princeton","Harvard",2025
 401752884,2025,9,"Purdue","Rutgers",2025
 401767035,2025,9,"Rhode Island","Bryant",2025
+401757172,2025,9,"Rice","UConn",2025
 401767101,2025,9,"Sacramento State","Montana",2025
+401767533,2025,9,"Samford","Chattanooga",2025
+401752751,2025,9,"South Carolina","Alabama",2025
+401767441,2025,9,"South Dakota","Illinois State",2025
+401767512,2025,9,"South Dakota State","North Dakota State",2025
+401767456,2025,9,"Southern","Florida A&M",2025
+401767539,2025,9,"Southern Illinois","Northern Iowa",2025
+401767764,2025,9,"St. Francis (PA)","Robert Morris",2025
 401767650,2025,9,"Stetson","St. Thomas (MN)",2025
+401767325,2025,9,"Stony Brook","Towson",2025
+401767228,2025,9,"Tennessee State","Western Illinois",2025
 401767221,2025,9,"Tennessee Tech","Southeast Missouri State",2025
+401756933,2025,9,"Texas Tech","Oklahoma State",2025
+401761638,2025,9,"Troy","Louisiana",2025
+401767478,2025,9,"UT Rio Grande Valley","Incarnate Word",2025
+401756934,2025,9,"Utah","Colorado",2025
+401767295,2025,9,"Utah Tech","Southern Utah",2025
 401767638,2025,9,"Valparaiso","Morehead State",2025
+401767334,2025,9,"Villanova","UAlbany",2025
 401754372,2025,9,"Virginia Tech","California",2025
 401767754,2025,9,"Wagner","Duquesne",2025
+401752880,2025,9,"Washington","Illinois",2025
+401752952,2025,9,"Washington State","Toledo",2025
+401767065,2025,9,"Weber State","Eastern Washington",2025
+401767302,2025,9,"West Georgia","Central Arkansas",2025
+401756935,2025,9,"West Virginia","TCU",2025
+401760398,2025,9,"Wyoming","Colorado State",2025
 401788997,2025,9,"Yale","Pennsylvania",2025
+401767498,2025,9,"Youngstown State","Murray State",2025
 401760392,2025,8,"Air Force","Wyoming",2025
 401752738,2025,8,"Alabama","Tennessee",2025
 401761629,2025,8,"App State","Coastal Carolina",2025
