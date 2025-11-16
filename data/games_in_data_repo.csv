@@ -1,32 +1,120 @@
 "game_id","year","week","home","away","season"
 401762856,2025,12,"Akron","Kent State",2025
+401752765,2025,12,"Alabama","Oklahoma",2025
+401767357,2025,12,"Alabama A&M","Florida A&M",2025
+401767377,2025,12,"Alcorn State","Grambling",2025
+401756948,2025,12,"Arizona State","West Virginia",2025
+401767255,2025,12,"Austin Peay","Samford",2025
+401756950,2025,12,"BYU","TCU",2025
 401762861,2025,12,"Ball State","Eastern Michigan",2025
+401756949,2025,12,"Baylor","Utah",2025
+401754592,2025,12,"Boston College","Georgia Tech",2025
 401767138,2025,12,"Bryant","New Hampshire",2025
 401767670,2025,12,"Bucknell","Holy Cross",2025
+401767147,2025,12,"Campbell","Elon",2025
 401762858,2025,12,"Central Michigan","Buffalo",2025
 401762507,2025,12,"Charlotte","UTSA",2025
 401756951,2025,12,"Cincinnati","Arizona",2025
+401767737,2025,12,"Colgate","Lehigh",2025
 401767677,2025,12,"Columbia","Brown",2025
+401767695,2025,12,"Dartmouth","Cornell",2025
 401767619,2025,12,"Dayton","Drake",2025
+401767348,2025,12,"Delaware State","Howard",2025
+401754593,2025,12,"Duke","Virginia",2025
 401767748,2025,12,"Duquesne","Central Connecticut",2025
+401762508,2025,12,"East Carolina","Memphis",2025
+401767466,2025,12,"East Texas A&M","Houston Christian",2025
+401767246,2025,12,"Eastern Kentucky","Abilene Christian",2025
+401767067,2025,12,"Eastern Washington","Northern Colorado",2025
+401757301,2025,12,"Florida International","Liberty",2025
+401754594,2025,12,"Florida State","Virginia Tech",2025
+401767571,2025,12,"Furman","VMI",2025
+401767717,2025,12,"Georgetown","Fordham",2025
+401752766,2025,12,"Georgia","Texas",2025
+401761650,2025,12,"Georgia Southern","Coastal Carolina",2025
+401761651,2025,12,"Georgia State","Marshall",2025
+401767187,2025,12,"Hampton","William & Mary",2025
 401767707,2025,12,"Harvard","Pennsylvania",2025
+401767087,2025,12,"Idaho State","Weber State",2025
+401752906,2025,12,"Illinois","Maryland",2025
+401767481,2025,12,"Incarnate Word","SE Louisiana",2025
 401752901,2025,12,"Indiana","Wisconsin",2025
+401767393,2025,12,"Jackson State","Bethune-Cookman",2025
+401757302,2025,12,"Jacksonville State","Kennesaw State",2025
+401761652,2025,12,"James Madison","App State",2025
+401752767,2025,12,"Kentucky","Tennessee Tech",2025
+401752768,2025,12,"LSU","Arkansas",2025
+401767200,2025,12,"Lindenwood","Eastern Illinois",2025
 401754591,2025,12,"Louisville","Clemson",2025
+401767194,2025,12,"Maine","Rhode Island",2025
 401767610,2025,12,"Marist","Davidson",2025
 401762859,2025,12,"Massachusetts","Northern Illinois",2025
+401767495,2025,12,"McNeese","UT Rio Grande Valley",2025
+401767556,2025,12,"Mercer","Chattanooga",2025
 401767767,2025,12,"Mercyhurst","Robert Morris",2025
+401754595,2025,12,"Miami","NC State",2025
 401762860,2025,12,"Miami (OH)","Toledo",2025
+401752903,2025,12,"Michigan State","Penn State",2025
+401752770,2025,12,"Missouri","Mississippi State",2025
+401757304,2025,12,"Missouri State","UTEP",2025
+401767111,2025,12,"Montana State","UC Davis",2025
 401767501,2025,12,"Murray State","North Dakota",2025
 401762510,2025,12,"Navy","South Florida",2025
+401760413,2025,12,"Nevada","San José State",2025
+401760411,2025,12,"New Mexico","Colorado State",2025
+401767519,2025,12,"Nicholls","Northwestern State",2025
 401767402,2025,12,"Norfolk State","Morgan State",2025
 401767263,2025,12,"North Carolina A&T","Monmouth",2025
 401767414,2025,12,"North Carolina Central","South Carolina State",2025
+401767514,2025,12,"North Dakota State","Northern Iowa",2025
+401767078,2025,12,"Northern Arizona","Cal Poly",2025
+401752905,2025,12,"Northwestern","Michigan",2025
+401752900,2025,12,"Ohio State","UCLA",2025
 401756952,2025,12,"Oklahoma State","Kansas State",2025
 401761649,2025,12,"Old Dominion","Troy",2025
+401752769,2025,12,"Ole Miss","Florida",2025
 401752904,2025,12,"Oregon","Minnesota",2025
 401754597,2025,12,"Pittsburgh","Notre Dame",2025
+401767103,2025,12,"Portland State","Montana",2025
+401767387,2025,12,"Prairie View A&M","Arkansas-Pine Bluff",2025
 401788998,2025,12,"Princeton","Yale",2025
+401767740,2025,12,"Richmond","Lafayette",2025
+401767096,2025,12,"Sacramento State","Idaho",2025
+401767663,2025,12,"Sacred Heart","Merrimack",2025
+401757300,2025,12,"Sam Houston","Delaware",2025
+401767600,2025,12,"San Diego","Butler",2025
+401760410,2025,12,"San Diego State","Boise State",2025
+401767444,2025,12,"South Dakota State","Illinois State",2025
+401767457,2025,12,"Southern","Texas Southern",2025
+401767543,2025,12,"Southern Illinois","South Dakota",2025
+401761654,2025,12,"Southern Miss","Texas State",2025
+401767296,2025,12,"Southern Utah","Central Arkansas",2025
+401767643,2025,12,"St. Thomas (MN)","Presbyterian",2025
+401767488,2025,12,"Stephen F. Austin","Lamar",2025
+401767290,2025,12,"Tarleton State","North Alabama",2025
+401752771,2025,12,"Tennessee","New Mexico State",2025
+401767207,2025,12,"Tennessee State","Gardner-Webb",2025
+401752772,2025,12,"Texas A&M","South Carolina",2025
+401756953,2025,12,"Texas Tech","UCF",2025
+401767586,2025,12,"The Citadel","Wofford",2025
+401762509,2025,12,"Tulane","Florida Atlantic",2025
+401752945,2025,12,"Tulsa","Oregon State",2025
+401762506,2025,12,"UAB","North Texas",2025
+401767331,2025,12,"UAlbany","Towson",2025
+401761653,2025,12,"UL Monroe","South Alabama",2025
+401760414,2025,12,"UNLV","Utah State",2025
+401752907,2025,12,"USC","Iowa",2025
+401767169,2025,12,"UT Martin","Charleston Southern",2025
+401767654,2025,12,"Valparaiso","Stetson",2025
+401767326,2025,12,"Villanova","Stony Brook",2025
 401767775,2025,12,"Wagner","Stonehill",2025
+401754596,2025,12,"Wake Forest","North Carolina",2025
+401752902,2025,12,"Washington","Purdue",2025
+401752953,2025,12,"Washington State","Louisiana Tech",2025
+401767303,2025,12,"West Georgia","Utah Tech",2025
+401767563,2025,12,"Western Carolina","East Tennessee State",2025
+401767222,2025,12,"Western Illinois","Southeast Missouri State",2025
+401757303,2025,12,"Western Kentucky","Middle Tennessee",2025
 401762857,2025,12,"Western Michigan","Ohio",2025
 401767452,2025,12,"Youngstown State","Indiana State",2025
 401767245,2025,11,"Abilene Christian","Utah Tech",2025
