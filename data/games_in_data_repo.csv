@@ -1,6 +1,7 @@
 "game_id","year","week","home","away","season"
 401760415,2025,13,"Air Force","New Mexico",2025
 401752773,2025,13,"Alabama","Eastern Illinois",2025
+401767367,2025,13,"Alabama State","Arkansas-Pine Bluff",2025
 401767378,2025,13,"Alcorn State","Jackson State",2025
 401761656,2025,13,"App State","Marshall",2025
 401756954,2025,13,"Arizona","Baylor",2025
@@ -44,6 +45,7 @@
 401752913,2025,13,"Iowa","Michigan State",2025
 401756958,2025,13,"Iowa State","Kansas",2025
 401752954,2025,13,"James Madison","Washington State",2025
+401757306,2025,13,"Kennesaw State","Missouri State",2025
 401762866,2025,13,"Kent State","Central Michigan",2025
 401752777,2025,13,"LSU","Western Kentucky",2025
 401767738,2025,13,"Lafayette","Lehigh",2025
@@ -79,6 +81,7 @@
 401767188,2025,13,"Rhode Island","Hampton",2025
 401762514,2025,13,"Rice","North Texas",2025
 401767756,2025,13,"Robert Morris","Duquesne",2025
+401767520,2025,13,"SE Louisiana","Nicholls",2025
 401754602,2025,13,"SMU","Louisville",2025
 401760420,2025,13,"San Diego State","San José State",2025
 401761658,2025,13,"South Alabama","Southern Miss",2025
@@ -101,6 +104,7 @@
 401762511,2025,13,"UAB","South Florida",2025
 401767134,2025,13,"UC Davis","Sacramento State",2025
 401756959,2025,13,"UCF","Oklahoma State",2025
+401752910,2025,13,"UCLA","Washington",2025
 401760418,2025,13,"UNLV","Hawai'i",2025
 401767467,2025,13,"UT Rio Grande Valley","East Texas A&M",2025
 401757309,2025,13,"UTEP","New Mexico State",2025
