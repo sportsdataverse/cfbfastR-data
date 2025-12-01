@@ -1,4 +1,5 @@
 "game_id","year","week","home","away","season"
+401833969,2025,14,"Abilene Christian","Lamar",2025
 401767368,2025,14,"Alabama State","Tuskegee",2025
 401761661,2025,14,"App State","Arkansas State",2025
 401756961,2025,14,"Arizona State","Arizona",2025
@@ -17,6 +18,7 @@
 401752785,2025,14,"Florida","Florida State",2025
 401762519,2025,14,"Florida Atlantic","East Carolina",2025
 401752786,2025,14,"Georgia Tech","Georgia",2025
+401760424,2025,14,"Hawai'i","Wyoming",2025
 401752922,2025,14,"Illinois","Northwestern",2025
 401757312,2025,14,"Jacksonville State","Western Kentucky",2025
 401756964,2025,14,"Kansas","Utah",2025
@@ -40,6 +42,7 @@
 401760426,2025,14,"New Mexico","San Diego State",2025
 401757315,2025,14,"New Mexico State","Middle Tennessee",2025
 401762442,2025,14,"North Texas","Temple",2025
+401762871,2025,14,"Northern Illinois","Kent State",2025
 401752789,2025,14,"Oklahoma","LSU",2025
 401756966,2025,14,"Oklahoma State","Iowa State",2025
 401761664,2025,14,"Old Dominion","Georgia State",2025
@@ -47,6 +50,7 @@
 401752924,2025,14,"Purdue","Indiana",2025
 401836102,2025,14,"Rhode Island","Central Connecticut",2025
 401752920,2025,14,"Rutgers","Penn State",2025
+401836095,2025,14,"SE Louisiana","Illinois State",2025
 401757311,2025,14,"Sam Houston","Florida International",2025
 401760423,2025,14,"San José State","Fresno State",2025
 401752790,2025,14,"South Carolina","Clemson",2025
@@ -55,6 +59,7 @@
 401762520,2025,14,"South Florida","Rice",2025
 401767420,2025,14,"Southern","Grambling",2025
 401761666,2025,14,"Southern Miss","Troy",2025
+401754614,2025,14,"Stanford","Notre Dame",2025
 401754608,2025,14,"Syracuse","Boston College",2025
 401756967,2025,14,"TCU","Cincinnati",2025
 401752791,2025,14,"Tennessee","Vanderbilt",2025
