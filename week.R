@@ -953,7 +953,8 @@ write.csv(df_game_ids, "data/games_in_data_repo.csv", row.names = FALSE)
 saveRDS(df_game_ids, "data/games_in_data_repo.rds")
 saveRDS(
   df_year_players_pos,
-  glue::glue("data/rds/pbp_players_pos_{current_season}.rds")
+  glue::glue("data/rds/pbp_players_pos_{current_season}.rds"),
+  compress = "xz"
 )
 df_year_players_pos <- readRDS(glue::glue(
   "data/rds/pbp_players_pos_{current_season}.rds"
