@@ -33,7 +33,7 @@ options(stringsAsFactors = FALSE)
 options(scipen = 999)
 
 # Play-by-Play Data Pull --------------------------------------------------
-week_vector <- 1:15
+week_vector <- 1:16
 year_vector <- opt$start_year:opt$end_year
 
 current_season <- year_vector[length(year_vector)] # in case year_vector is actually a vector, grab last year
