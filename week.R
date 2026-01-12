@@ -100,7 +100,7 @@ yr_epa_season_run <- proc.time() - yr_epa_start_time
 print(yr_epa_season_run["elapsed"] / 60)
 
 # Update schedules ---------------------------------------------------------
-schedules <- cfbd_game_info(year_vector[length(year_vector)])
+schedules <- cfbd_game_info(year_vector[length(year_vector)], season_type = "both")
 schedules <- schedules %>%
   cfbfastR:::make_cfbfastR_data(
     "Games and schedules from data repository",
