@@ -8,7 +8,6 @@ suppressPackageStartupMessages(suppressMessages(library(jsonlite, lib.loc = lib_
 suppressPackageStartupMessages(suppressMessages(library(purrr, lib.loc = lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(progressr, lib.loc = lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(data.table, lib.loc = lib_path)))
-suppressPackageStartupMessages(suppressMessages(library(qs, lib.loc = lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(arrow, lib.loc = lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(glue, lib.loc = lib_path)))
 suppressPackageStartupMessages(suppressMessages(library(optparse, lib.loc = lib_path)))
@@ -31,7 +30,7 @@ suppressPackageStartupMessages(suppressMessages(library(optparse, lib.loc = lib_
       file_name =  glue::glue("play_by_play_{y}"),
       sportsdataverse_type = "play-by-play data",
       release_tag = "cfbfastR_cfb_pbp",
-      file_types = c("rds", "csv", "parquet", "qs"),
+      file_types = c("rds", "csv", "parquet"),
       .token = Sys.getenv("GITHUB_PAT")
     )
   })
