@@ -21,6 +21,9 @@ on:
         description: "End Year (e.g., 2023)"
         type: string
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   update_cfb_data:
     runs-on: ${{ matrix.config.os }}
@@ -88,7 +91,7 @@ jobs:
           echo $(pwd)
           bash scripts/daily_cfb_R_processor.sh -s ${{ env.START_YEAR }} -e ${{ env.END_YEAR }}
       - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v2
+        uses: peter-evans/repository-dispatch@v3
         with:
           token: ${{ secrets.CFB_TEAM_SUMMARIES_TRIGGER_KEY }}
           repository: akeaswaran/cfb-team-summaries
