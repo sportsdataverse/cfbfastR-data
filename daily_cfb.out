@@ -1,6 +1,51 @@
 2024
+withr   (3.0.2 -> 3.0.3) [CRAN]
+openssl (2.4.1 -> 2.4.2) [CRAN]
+httr2   (1.2.2 -> 1.2.3) [CRAN]
+Found pkg-config cflags and libs!
+Using PKG_CFLAGS=
+Using PKG_LIBS=-L/usr/lib/x86_64-linux-gnu -l:libssl.so.1.1 -l:libcrypto.so.1.1 
+rm -f aes.o base64.o bignum.o cert.o compatibility.o diffie.o envelope.o error.o hash.o info.o keygen.o keys.o onload.o openssh.o password.o pbkdf.o pem.o pkcs12.o pkcs7.o rand.o rsa.o signing.o ssl.o stream.o write.o x25519.o openssl.so bcrypt/libstatbcrypt.a bcrypt/bcrypt_pbkdf.o bcrypt/blowfish.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c aes.c -o aes.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c base64.c -o base64.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bignum.c -o bignum.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c cert.c -o cert.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c compatibility.c -o compatibility.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c diffie.c -o diffie.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c envelope.c -o envelope.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c error.c -o error.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c hash.c -o hash.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c info.c -o info.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c keygen.c -o keygen.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c keys.c -o keys.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c onload.c -o onload.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c openssh.c -o openssh.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c password.c -o password.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pbkdf.c -o pbkdf.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pem.c -o pem.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pkcs12.c -o pkcs12.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c pkcs7.c -o pkcs7.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rand.c -o rand.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c rsa.c -o rsa.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c signing.c -o signing.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c ssl.c -o ssl.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c stream.c -o stream.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c write.c -o write.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c x25519.c -o x25519.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bcrypt/bcrypt_pbkdf.c -o bcrypt/bcrypt_pbkdf.o
+gcc -I"/usr/share/R/include" -DNDEBUG -DSTRICT_R_HEADERS -DR_NO_REMAP      -fpic  -g -O2 -fdebug-prefix-map=/build/r-base-5KMO92/r-base-4.5.2=. -fstack-protector-strong -Wformat -Werror=format-security -Wdate-time -D_FORTIFY_SOURCE=2  -c bcrypt/blowfish.c -o bcrypt/blowfish.o
+ar rcs bcrypt/libstatbcrypt.a bcrypt/bcrypt_pbkdf.o bcrypt/blowfish.o
+gcc -shared -L/usr/lib/R/lib -Wl,-Bsymbolic-functions -Wl,-z,relro -o openssl.so aes.o base64.o bignum.o cert.o compatibility.o diffie.o envelope.o error.o hash.o info.o keygen.o keys.o onload.o openssh.o password.o pbkdf.o pem.o pkcs12.o pkcs7.o rand.o rsa.o signing.o ssl.o stream.o write.o x25519.o -Lbcrypt -lstatbcrypt -L/usr/lib/x86_64-linux-gnu -l:libssl.so.1.1 -l:libcrypto.so.1.1 -L/usr/lib/R/lib -lR
+── R CMD build ─────────────────────────────────────────────────────────────────
+* checking for file ‘/tmp/RtmprniKwx/remotes564007b3be1b/sportsdataverse-cfbfastR-f4681d5/DESCRIPTION’ ... OK
+* preparing ‘cfbfastR’:
+* checking DESCRIPTION meta-information ... OK
+* checking for LF line-endings in source and make files and shell scripts
+* checking for empty or unneeded directories
+* building ‘cfbfastR_2.3.0.tar.gz’
+
  elapsed 
-34.38242 
+33.91045 
 
 
 
@@ -8,12 +53,4 @@
 
 
 
-[1] "cli-1818014-33"
-[main 9427c46] Updated 2026-06-01 05:00:07.629617 (ET) using cfbfastR version 2.2.1
- 10 files changed, 9395 insertions(+), 2357 deletions(-)
- rewrite daily_cfb.out (96%)
- rewrite data/games_in_data_repo.rds (98%)
- rewrite player_stats/rds/player_stats_2024.rds (61%)
- rewrite schedules/parquet/cfb_schedules_2024.parquet (87%)
- rewrite schedules/rds/cfb_schedules_2024.rds (97%)
-Already up to date.
+[1] "cli-1818014-32"
