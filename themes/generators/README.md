@@ -56,3 +56,27 @@ Two things this QA pass changed:
 `origin/main`. `touchup_cards.py` reads from there, never from a sibling
 working tree -- pointing it at the live repos made it read back its own output
 on the second run, which the hoopR sky assertion caught.
+
+## `make_house_cards.py` — cards for packages that never had one
+
+baseballr, softballR, oddsapiR, sportyR, sportypy and cfbseedR had no social
+card at all. Rather than invent artwork, this builds them in the **house
+style** the existing cards use (wehoop's is the clearest example): take the
+package's own hex, extend its flat field colour across the card, and carry the
+hex's own artwork and wordmark onto it. sportyR and sportypy already ship
+exactly that as `*-logo-full.png`, so those are lifted directly.
+
+Lifting the artwork out of a hex needs three steps, each of which was a visible
+bug before it was handled:
+
+1. **Mask outside the hex to the field colour.** Otherwise the crop carries the
+   hex's corners onto the card — white triangles under oddsapiR's dice, and a
+   faint hexagon ghost behind baseballr's stitching.
+2. **Erode the hex before measuring.** The border ring is "content" by any
+   colour test, so an un-eroded region gives a bbox equal to the whole file.
+3. **Despeckle before taking the bbox.** One stray pixel high in sportyR's
+   panel stretched its bbox to 1343x759 for a pictogram that is really a
+   1289x253 strip — the artwork came out at 57% of the card instead of 86%.
+
+Data-repo variants name the repo in the footer bar. The wordmark is baked into
+the logo artwork, so it cannot be two-toned the way the vector cards do it.
