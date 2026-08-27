@@ -8,7 +8,7 @@ These three files are stored in XGBoost's **legacy binary format**, which was
 deprecated in XGBoost 1.6 and **removed in 3.1**. Verified 2026-08-27 against R
 `xgboost` 3.2.1.1 — every one of them fails to load:
 
-```
+```text
 Failed to load model: .../xgb_wp_spread_model.model
 The binary format has been deprecated in 1.6 and removed in 3.1, use UBJ or JSON
 instead.
