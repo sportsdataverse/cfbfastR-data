@@ -17,6 +17,9 @@ from PIL import Image, ImageDraw, ImageFont
 from scipy import ndimage
 
 R = pathlib.Path("C:/Users/saiem/Documents/GitHub-Data/sdv-dev")
+# softballR's shipped logo has clipped side vertices and a 6px border; the
+# rebuilt one (correct geometry, 9px border, 2x available) is used instead.
+REBUILT = pathlib.Path(__file__).parent.parent / "softballR" / "logo-2x.png"
 OUT = pathlib.Path(__file__).parent / "out"; OUT.mkdir(parents=True, exist_ok=True)
 INTER_S = "C:/Windows/Fonts/Inter-SemiBold.ttf"
 GOLD = (255, 182, 18)
@@ -26,7 +29,7 @@ W, H, BAR = 1280, 640, 84
 CARDS = {
     "baseballr":  ("baseball-dev/baseballr/data-raw/baseballr-logo1036.png",
                    "baseballr.sportsdataverse.org", (58, 12, 24), 0.60),
-    "softballR":  ("softballR-dev/softballR/logo.png",
+    "softballR":  ("__REBUILT_SOFTBALLR__",
                    "github.com/sportsdataverse/softballR", (196, 124, 32), 0.62),
     "oddsapiR":   ("oddsapiR-dev/oddsapiR/man/figures/logo.png",
                    "oddsapiR.sportsdataverse.org", (74, 16, 16), 0.68),
@@ -47,7 +50,8 @@ def lift(rel):
     The opaque (or on-field) region is eroded first, then the artwork is
     whatever differs from the field colour inside what remains.
     """
-    im = Image.open(R / rel).convert("RGBA")
+    im = Image.open(REBUILT if rel == "__REBUILT_SOFTBALLR__"
+                    else R / rel).convert("RGBA")
     w, h = im.size
     flat = Image.new("RGBA", im.size, (255, 255, 255, 255))
     flat.alpha_composite(im)
@@ -128,8 +132,48 @@ DATA_REPOS = {
     "oddsapiR": "github.com/sportsdataverse/odds-data",
 }
 
+def photo_card(rel, url, bar_rgb):
+    """Keep an existing 1280x640 composite, add the family footer bar.
+
+    baseballr already had `data-raw/baseballr-gh.png`: the hex laid over the
+    mowed outfield, the same treatment hoopR's card uses. It simply never
+    reached the data repo. Rebuilding it on a flat white field would have
+    thrown away the better artwork.
+    """
+    im = Image.open(R / rel).convert("RGB")
+    if im.size != (W, H):
+        im = im.resize((W, H), Image.LANCZOS)
+    field_h = H - BAR
+    im = im.crop((0, 0, W, field_h)).resize((W, field_h), Image.LANCZOS)
+    canvas = Image.new("RGB", (W, H), bar_rgb)
+    canvas.paste(im, (0, 0))
+    d = ImageDraw.Draw(canvas)
+    d.rectangle([0, field_h, W, field_h + 4], fill=GOLD)
+    f = ImageFont.truetype(INTER_S, 32)
+    widths = [d.textlength(c, font=f) for c in url]
+    x = W / 2 - (sum(widths) + 2 * (len(url) - 1)) / 2
+    for c, cw in zip(url, widths):
+        d.text((x, field_h + 22), c, font=f, fill=(240, 244, 248))
+        x += cw + 2
+    return canvas
+
+
+PHOTO = {
+    "baseballr": ("baseball-dev/baseballr/data-raw/baseballr-gh.png",
+                  "baseballr.sportsdataverse.org", (28, 44, 22)),
+}
+
+
 if __name__ == "__main__":
     for pkg, (rel, url, bar, fill) in CARDS.items():
+        if pkg in PHOTO:
+            prel, purl, pbar = PHOTO[pkg]
+            im = photo_card(prel, purl, pbar)
+            im.save(OUT / f"{pkg}_gh.png"); print(f"built {pkg}_gh.png (photo)")
+            im2 = photo_card(prel, DATA_REPOS[pkg], pbar)
+            im2.save(OUT / f"{pkg}_social_card_data_repo.png")
+            print(f"built {pkg}_social_card_data_repo.png (photo)")
+            continue
         im = card(pkg, rel, url, bar, fill)
         im.save(OUT / f"{pkg}_gh.png")
         print(f"built {pkg}_gh.png  {im.size}")
