@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+  <!--
+    cfbseedR social card, 1280x640 to match the cfbfastR-data/themes family
+    (social_card_cfbplotR.png, social_card_cfb4th.png).
+
+    Same visual language as the package hex: navy field, gold championship
+    diamond, cyan seeds on slate bracket lines. The bracket is the 16-slot
+    skeleton carrying 12 filled seeds and 4 open ones, so the card tells the
+    same "12 today, room for 16" story the logo does.
+  -->
+  <defs>
+    <linearGradient id="field" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12243A"/>
+      <stop offset="100%" stop-color="#0B1622"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="640" fill="url(#field)"/>
+
+  <!-- bracket watermark: 4 first-round games per side -> QF -> SF -> final -->
+  <g opacity="0.5">
+    <g stroke="#41566B" stroke-width="9" fill="none"
+       stroke-linecap="round" stroke-linejoin="round">
+      <!-- LEFT first round -->
+      <path d="M150,150 H250 V190 H150 M250,170 H350"/>
+      <path d="M150,250 H250 V290 H150 M250,270 H350"/>
+      <path d="M150,350 H250 V390 H150 M250,370 H350"/>
+      <path d="M150,450 H250 V490 H150 M250,470 H350"/>
+      <!-- LEFT quarterfinals -->
+      <path d="M350,170 V270 M350,220 H470"/>
+      <path d="M350,370 V470 M350,420 H470"/>
+      <!-- LEFT semifinal into the title game -->
+      <path d="M470,220 V420 M470,320 H600"/>
+
+      <!-- RIGHT first round -->
+      <path d="M1130,150 H1030 V190 H1130 M1030,170 H930"/>
+      <path d="M1130,250 H1030 V290 H1130 M1030,270 H930"/>
+      <path d="M1130,350 H1030 V390 H1130 M1030,370 H930"/>
+      <path d="M1130,450 H1030 V490 H1130 M1030,470 H930"/>
+      <!-- RIGHT quarterfinals -->
+      <path d="M930,170 V270 M930,220 H810"/>
+      <path d="M930,370 V470 M930,420 H810"/>
+      <!-- RIGHT semifinal into the title game -->
+      <path d="M810,220 V420 M810,320 H680"/>
+    </g>
+
+    <!-- the twelve seeds in today's field -->
+    <g fill="#A9D6E5">
+      <circle cx="150" cy="150" r="14"/>
+      <circle cx="150" cy="250" r="14"/><circle cx="150" cy="290" r="14"/>
+      <circle cx="150" cy="350" r="14"/><circle cx="150" cy="390" r="14"/>
+      <circle cx="150" cy="490" r="14"/>
+      <circle cx="1130" cy="150" r="14"/>
+      <circle cx="1130" cy="250" r="14"/><circle cx="1130" cy="290" r="14"/>
+      <circle cx="1130" cy="350" r="14"/><circle cx="1130" cy="390" r="14"/>
+      <circle cx="1130" cy="490" r="14"/>
+    </g>
+    <!-- four open slots: the top seeds' byes today, seats 13-16 tomorrow -->
+    <g fill="none" stroke="#A9D6E5" stroke-width="5" stroke-opacity="0.55">
+      <circle cx="150" cy="190" r="12"/><circle cx="150" cy="450" r="12"/>
+      <circle cx="1130" cy="190" r="12"/><circle cx="1130" cy="450" r="12"/>
+    </g>
+  </g>
+
+  <!-- wordmark -->
+  <text x="640" y="352" text-anchor="middle"
+        font-family="'DejaVu Sans','Segoe UI',Verdana,sans-serif"
+        font-size="150" font-weight="700" fill="#FFFFFF"
+        stroke="#0B1622" stroke-width="16" paint-order="stroke">cfbseedR</text>
+
+  <!-- tagline -->
+  <text x="640" y="430" text-anchor="middle"
+        font-family="'DejaVu Sans','Segoe UI',Verdana,sans-serif"
+        font-size="30" font-weight="600" fill="#A9D6E5"
+        letter-spacing="3">SIMULATE &amp; EVALUATE COLLEGE FOOTBALL SEASONS</text>
+
+  <!-- gold divider carrying the championship diamond -->
+  <rect x="430" y="470" width="170" height="4" fill="#FFB612"/>
+  <rect x="680" y="470" width="170" height="4" fill="#FFB612"/>
+  <polygon points="640,454 658,472 640,490 622,472" fill="#FFB612"/>
+  <text x="640" y="522" text-anchor="middle"
+        font-family="'DejaVu Sans','Segoe UI',Verdana,sans-serif"
+        font-size="26" font-weight="400" fill="#8FA3B5"
+        letter-spacing="2">cfbseedR.sportsdataverse.org</text>
+</svg>
