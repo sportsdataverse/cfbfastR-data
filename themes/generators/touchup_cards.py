@@ -19,7 +19,11 @@ import pathlib
 from PIL import Image, ImageDraw, ImageFont
 import numpy as np
 
-R = pathlib.Path("C:/Users/saiem/Documents/GitHub-Data/sdv-dev")
+# Sources are PRISTINE copies pulled from each repo's origin/main into src/
+# (see README). Reading them from the working tree made the script read back
+# its own output on a second run -- it is destructive and non-idempotent that
+# way, and the hoopR sky assertion caught it.
+R = pathlib.Path(__file__).parent / "src"
 OUT = pathlib.Path(__file__).parent / "out"; OUT.mkdir(parents=True, exist_ok=True)
 
 CHIVO = "C:/Users/saiem/AppData/Local/Microsoft/Windows/Fonts/Chivo-VariableFont_wght.ttf"
@@ -107,6 +111,29 @@ def scrim(im, height=150, strength=150, colour=(0, 0, 0)):
     return Image.alpha_composite(im.convert("RGBA"), ov).convert("RGB")
 
 
+def inset(im, pct=0.055):
+    """Shrink the artwork and edge-replicate the margin.
+
+    cfb4th's and cfbplotR's wordmarks run right off both edges, and at a real
+    unfurl width (~600px) that reads as a rendering error rather than a bleed.
+    The art cannot be re-laid-out, so it is scaled down and the new margin is
+    filled by replicating the outermost row/column -- seamless on the flat and
+    gradient fields these cards use.
+    """
+    w, h = im.size
+    iw, ih = int(w * (1 - 2 * pct)), int(h * (1 - 2 * pct))
+    small = im.resize((iw, ih), Image.LANCZOS)
+    a = np.asarray(small)
+    ox, oy = (w - iw) // 2, (h - ih) // 2
+    out = np.zeros((h, w, 3), dtype=np.uint8)
+    out[oy:oy + ih, ox:ox + iw] = a
+    out[:oy, ox:ox + iw] = a[0]                      # top
+    out[oy + ih:, ox:ox + iw] = a[-1]                # bottom
+    out[:, :ox] = out[:, ox:ox + 1]                  # left
+    out[:, ox + iw:] = out[:, ox + iw - 1:ox + iw]   # right
+    return Image.fromarray(out)
+
+
 def footer(im, url, light=True, bar=(14, 22, 34)):
     """A solid footer bar carrying the URL every one of these cards lacked.
 
@@ -117,15 +144,15 @@ def footer(im, url, light=True, bar=(14, 22, 34)):
     what sits behind it. The gold border is the thread shared with the _alt set.
     """
     w, h = im.size
-    bh = max(46, int(h * 0.098))
+    bh = max(62, int(h * 0.132))
     d = ImageDraw.Draw(im)
     d.rectangle([0, h - bh, w, h], fill=bar)
     d.rectangle([0, h - bh, w, h - bh + max(3, h // 200)], fill=GOLD)
-    f = ImageFont.truetype(INTER_M, max(19, int(w / 62)))
+    f = ImageFont.truetype(INTER_S, max(26, int(w / 42)))
     asc, desc = f.getmetrics()
     y = h - bh + (bh - (asc + desc)) / 2 + max(3, h // 200) / 2
-    track(d, (w // 2, y), url, f, (238, 242, 246),
-          spacing=max(1.2, w / 780), anchor_mid=True)
+    track(d, (w // 2, y), url, f, (240, 244, 248),
+          spacing=max(1.4, w / 700), anchor_mid=True)
     return im
 
 
@@ -160,10 +187,10 @@ def hoopR(src, out, data=False):
     assert clean_row(im, 150, 170, thresh=0.95) >= 156, "row 156 is not sky"
     im = repaint_gradient(im, 26, 154, above=24, below=156)
     if data:
-        wordmark(im, "hoopR", "-data", y=34, size=158, accent=(214, 58, 48),
+        wordmark(im, "hoopR", "-data", y=52, size=150, accent=(214, 58, 48),
                  spacing=-2.0, shadow=(3, 4, (10, 26, 44)))
     else:
-        wordmark(im, "hoopR", y=34, size=158, spacing=-2.0,
+        wordmark(im, "hoopR", y=52, size=150, spacing=-2.0,
                  shadow=(3, 4, (10, 26, 44)))
     return footer(im, "hoopR.sportsdataverse.org", bar=(13, 30, 50)), out
 
@@ -201,48 +228,51 @@ def cfbfastR(src, out, data=False):
         arr[y] *= 1.0 - 0.16 * (y / h) ** 1.6
     im = Image.fromarray(arr.clip(0, 255).astype(np.uint8))
     if data:
-        wordmark(im, "cfbfastR", "-data", y=28, size=124,
+        wordmark(im, "cfbfastR", "-data", y=46, size=118,
                  accent=(196, 40, 44), spacing=-2.0,
                  shadow=(3, 4, tuple(max(0, c - 45) for c in base)))
     else:
-        wordmark(im, "cfbfastR", y=28, size=124, spacing=-2.0,
+        wordmark(im, "cfbfastR", y=46, size=118, spacing=-2.0,
                  shadow=(3, 4, tuple(max(0, c - 45) for c in base)))
     return footer(im, "cfbfastR.sportsdataverse.org", bar=(46, 8, 8)), out
 
 
-def art_only(src, out, url, light=True, bar=(14, 22, 34)):
+def art_only(src, out, url, light=True, bar=(14, 22, 34), inset_pct=0.0):
     """Wordmark IS the artwork -- add the footer and rule, touch nothing else."""
     im = Image.open(R / src).convert("RGB")
     if im.size != (1280, 640):
         im = im.resize((1280, 640), Image.LANCZOS)
+    if inset_pct:
+        im = inset(im, inset_pct)
     return footer(im, url, bar=bar), out
 
 
 JOBS = [
-    (hoopR, "hoopR-dev/hoopR-mbb-data/themes/hoopR_gh.png", "hoopR_gh.png", {}),
-    (hoopR, "hoopR-dev/hoopR-mbb-data/themes/hoopR_social_card_data_repo.png",
+    (hoopR, "hoopR_gh.png", "hoopR_gh.png", {}),
+    (hoopR, "hoopR_social_card_data_repo.png",
      "hoopR_social_card_data_repo.png", {"data": True}),
-    (hoopR, "hoopR-dev/hoopR-mbb-data/themes/hoopR_data_repo_social_card.png",
+    (hoopR, "hoopR_data_repo_social_card.png",
      "hoopR_data_repo_social_card.png", {"data": True}),
-    (wehoop, "wehoop-dev/wehoop-data/themes/wehoop_gh.png", "wehoop_gh.png", {}),
-    (wehoop, "wehoop-dev/wehoop-data/themes/wehoop_social_card_data_repo.png",
+    (wehoop, "wehoop_gh.png", "wehoop_gh.png", {}),
+    (wehoop, "wehoop_social_card_data_repo.png",
      "wehoop_social_card_data_repo.png", {"data": True}),
-    (wehoop, "wehoop-dev/wehoop-data/themes/wehoop-py-gh.png",
+    (wehoop, "wehoop-py-gh.png",
      "wehoop-py-gh.png", {"py": True}),
-    (cfbfastR, "cfbfastR-dev/cfbfastR-data/themes/social_card_cfbfastR_data_repo.png",
+    (cfbfastR, "social_card_cfbfastR_data_repo.png",
      "social_card_cfbfastR_data_repo.png", {"data": True}),
-    (cfbfastR, "cfbfastR-dev/cfbfastR-data/themes/social_card_cfbfastR_final_quote.png",
+    (cfbfastR, "social_card_cfbfastR_final_quote.png",
      "social_card_cfbfastR_final_quote.png", {}),
 ]
+# (src, out, url, bar colour, inset) -- inset only where the art bleeds off
 ART = [
-    ("cfbfastR-dev/cfbfastR-data/themes/social_card_cfb4th.png",
-     "social_card_cfb4th.png", "cfb4th.sportsdataverse.org", True),
-    ("cfbfastR-dev/cfbfastR-data/themes/social_card_cfbplotR.png",
-     "social_card_cfbplotR.png", "cfbplotR.sportsdataverse.org", True),
-    ("hockey-dev/fastRhockey-data/themes/powerplay_gh.png",
-     "powerplay_gh.png", "fastRhockey.sportsdataverse.org", True),
-    ("hockey-dev/fastRhockey-data/themes/powerplay_data_repo_gh.png",
-     "powerplay_data_repo_gh.png", "fastRhockey.sportsdataverse.org", True),
+    ("social_card_cfb4th.png",
+     "social_card_cfb4th.png", "cfb4th.sportsdataverse.org", (20, 12, 12), 0.085),
+    ("social_card_cfbplotR.png",
+     "social_card_cfbplotR.png", "cfbplotR.sportsdataverse.org", (10, 22, 38), 0.075),
+    ("powerplay_gh.png",
+     "powerplay_gh.png", "fastRhockey.sportsdataverse.org", (10, 14, 26), 0.03),
+    ("powerplay_data_repo_gh.png",
+     "powerplay_data_repo_gh.png", "fastRhockey.sportsdataverse.org", (10, 14, 26), 0.055),
 ]
 
 if __name__ == "__main__":
@@ -250,7 +280,7 @@ if __name__ == "__main__":
         im, _ = fn(src, name, **kw)
         im.save(OUT / name)
         print("touched", name, im.size)
-    for src, name, url, light in ART:
-        im, _ = art_only(src, name, url, light=light)
+    for src, name, url, bar, ins in ART:
+        im, _ = art_only(src, name, url, bar=bar, inset_pct=ins)
         im.save(OUT / name)
         print("footer ", name, im.size)

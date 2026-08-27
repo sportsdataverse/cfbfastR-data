@@ -36,3 +36,23 @@ them from a full workspace. Fonts used: Chivo (variable, weight axis driven to
 - **`odds-data` does not start with `oddsapiR`.** The two-tone data-repo
   wordmark splits on the first hyphen; slicing the package name off the front
   rendered it as "ta".
+
+## Sizing is driven by the preview, not the file
+
+X/`summary_large_image` and most unfurls render these around **600px wide**, so
+every element is sized to survive a ~47% downscale. `qa2.py` asserts it:
+URL cap-height must clear **13px at 600w**, the footer bar must keep >=14px
+padding, and no text may sit within 6% of a side edge. All 31 cards pass.
+
+Two things this QA pass changed:
+
+- **The URL moved into a solid bar on both sets.** Loose 26px text measured
+  under 12px at preview width and the motif ran through it.
+- **The `_alt` cards lost their gold divider + diamond.** It landed ~140px
+  above the bar's own gold border, so two gold elements competed for the same
+  job and the pair ate the vertical breathing room.
+
+`src/` holds **pristine** copies of the original cards, pulled from each repo's
+`origin/main`. `touchup_cards.py` reads from there, never from a sibling
+working tree -- pointing it at the live repos made it read back its own output
+on the second run, which the hoopR sky assertion caught.
