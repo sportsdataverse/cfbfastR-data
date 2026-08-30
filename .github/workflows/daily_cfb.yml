@@ -44,7 +44,6 @@ jobs:
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       CFBD_API_KEY: ${{ secrets.CFBD_API_KEY }}
-      CFB_TEAM_SUMMARIES_TRIGGER_KEY: ${{ secrets.CFB_TEAM_SUMMARIES_TRIGGER_KEY }}
       R_KEEP_PKG_SOURCE: yes
       START_YEAR: ${{ inputs.start_year }}
       END_YEAR: ${{ inputs.end_year }}
@@ -96,10 +95,3 @@ jobs:
         run: |
           echo $(pwd)
           bash scripts/daily_cfb_R_processor.sh -s ${{ env.START_YEAR }} -e ${{ env.END_YEAR }}
-      - name: Repository Dispatch
-        uses: peter-evans/repository-dispatch@v4
-        with:
-          token: ${{ secrets.CFB_TEAM_SUMMARIES_TRIGGER_KEY }}
-          repository: akeaswaran/cfb-team-summaries
-          event-type: deploy
-          client-payload: '{"ref": "main"}'
