@@ -49,6 +49,7 @@ Imports:
     optparse (>= 1.6.2),
     progressr (>= 0.6.0),
     purrr (>= 0.3.0),
+    readr,
     Rcpp (>= 1.0.7),
     RcppParallel (>= 5.1.4),
     remotes (>= 2.4.0),
