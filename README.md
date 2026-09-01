@@ -70,6 +70,63 @@ pbp <- purrr::map_df(seasons, function(x) {
 })
 ```
 
+## Repository layout
+
+<!-- BEGIN GENERATED: layout -->
+
+```
+cfbfastR-data/
+├── R/   # R pipeline stages and publish toolchain
+│   ├── 0000_create_cfbfastR_releases_init.R
+│   ├── 0001_push_existing_release_data.R
+│   ├── espn_cfb_01_pbp_creation.R
+│   ├── espn_cfb_02_team_box_creation.R
+│   ├── espn_cfb_03_player_box_creation.R
+│   ├── espn_cfb_04_roster_creation.R
+│   ├── make_pbp_commit.R
+│   └── models_prep.R
+├── betting/
+│   ├── csv/
+│   ├── parquet/
+│   └── rds/
+├── cfb/
+│   ├── pbp/
+│   ├── roster/
+│   └── schedules/
+├── data/   # committed datasets
+│   ├── parquet/
+│   └── rds/
+├── dev/   # working notes, not part of the pipeline
+│   ├── _sched_release/
+│   └── _sched_stage/
+├── figures/   # generated figures
+├── models/   # model artifacts, cards and the registry
+├── pbp/
+│   └── parquet/
+├── player_stats/
+│   ├── csv/
+│   ├── parquet/
+│   └── rds/
+├── rosters/
+│   ├── csv/
+│   ├── parquet/
+│   └── rds/
+├── schedules/
+│   ├── csv/
+│   ├── parquet/
+│   └── rds/
+├── scripts/   # bash drivers (the daily/weekly entry points)
+│   └── daily_cfb_R_processor.sh
+├── team_info/
+│   ├── parquet/
+│   └── rds/
+├── teams/
+└── themes/   # plot themes
+    └── generators/
+```
+
+<!-- END GENERATED: layout -->
+
 ## Reports & explainers
 
 <!-- BEGIN GENERATED: reports -->
