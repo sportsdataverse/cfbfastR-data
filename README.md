@@ -5,6 +5,36 @@
 
 ### __cfbfastR data 2002-2020__
 
+## cfbfastR-data workflow diagram
+
+```mermaid
+  graph LR;
+    S[ESPN]-->A[cfbfastR-data];
+    A[cfbfastR-data]-->T[committed tree: pbp/ schedules/ rosters/ teams/ team_info/ player_stats/ betting/];
+    T-->U[cfbfastR users via raw.githubusercontent.com];
+```
+
+```mermaid
+flowchart TB;
+    subgraph A[cfbfastR-data — legacy R producer, still scheduled];
+        direction TB;
+        A0[scripts/daily_cfb_R_processor.sh]-->A1[R/espn_cfb_01_pbp_creation.R];
+        A1[R/espn_cfb_01_pbp_creation.R]-->A2[R/espn_cfb_02_team_box_creation.R];
+        A2[R/espn_cfb_02_team_box_creation.R]-->A3[R/espn_cfb_03_player_box_creation.R];
+        A3[R/espn_cfb_03_player_box_creation.R]-->A4[R/espn_cfb_04_roster_creation.R];
+    end;
+```
+
+This repo commits datasets to its own tree (consumed over
+`raw.githubusercontent.com`, per the snippets below). The `espn_cfb_*` release
+tags on `sportsdataverse-data` are produced by the successor
+[cfbfastR-cfb-data](https://github.com/sportsdataverse/cfbfastR-cfb-data)
+python pipeline — not from here.
+
+[cfbfastR-cfb-raw repository (source: ESPN)](https://github.com/sportsdataverse/cfbfastR-cfb-raw)
+
+[cfbfastR-cfb-data repository (modeling + releases)](https://github.com/sportsdataverse/cfbfastR-cfb-data)
+
 ## RDS
 ```
 seasons <- 2002:2020
@@ -39,3 +69,14 @@ pbp <- purrr::map_df(seasons, function(x) {
   return(df)
 })
 ```
+
+## Automation & status
+
+<!-- BEGIN GENERATED: status -->
+
+| workflow | schedule | last run |
+|---|---|---|
+| [![daily_cfb.yml](https://github.com/sportsdataverse/cfbfastR-data/actions/workflows/daily_cfb.yml/badge.svg)](https://github.com/sportsdataverse/cfbfastR-data/actions/workflows/daily_cfb.yml) | day 1 04:05 UTC in Jan-Aug; Mondays 06:30 UTC in Sep-Dec; Sundays 06:30 UTC in Sep-Dec; Saturdays 16:00 UTC in Sep-Dec; Saturdays 20:15 UTC in Sep-Dec; daily 04:05 UTC in Jan, Dec | 2026-08-30 |
+| [![update_rosters.yml](https://github.com/sportsdataverse/cfbfastR-data/actions/workflows/update_rosters.yml/badge.svg)](https://github.com/sportsdataverse/cfbfastR-data/actions/workflows/update_rosters.yml) | on dispatch | 2026-08-30 |
+
+<!-- END GENERATED: status -->
