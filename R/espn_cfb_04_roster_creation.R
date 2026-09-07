@@ -46,8 +46,11 @@ games <- purrr::map(years_vec, function(x) {
     # list type and write_parquet() aborts with "Invalid: cannot convert",
     # which is what failed the 2026-09-07 run at espn_cfb_04_roster.
     #
-    # Coercing every element to integer is lossless here: all 12,127 character
-    # values are plain numeric id strings, with none non-coercible and no ""/NA.
+    # Coercing every element to integer is lossless here: those 12,121
+    # character ELEMENTS hold 12,127 individual VALUES between them (element
+    # lengths are 1 or 2), and all 12,127 are plain numeric id strings -- none
+    # non-coercible, no ""/NA. The two counts differ because a player can carry
+    # more than one recruit id, not because they disagree.
     # The length-0 -> as.integer(0) behaviour is left alone so already-published
     # rosters keep their existing semantics.
     roster$recruit_ids <- lapply(roster$recruit_ids, function(y) {
