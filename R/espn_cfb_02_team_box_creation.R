@@ -39,6 +39,18 @@ cfb_team_box_games <- function(y) {
   espn_df <- data.frame()
   sched <- readRDS(paste0("cfb/schedules/rds/cfb_schedule_", y, ".rds"))
 
+  # stage 01 refuses to write an empty schedule, but a previously-committed
+  # empty file can still be on disk (cfb_schedule_2024.rds and _2026.rds are
+  # both empty on main). Fail with the cause rather than an rlang pronoun error
+  # from filter(.data$game_json).
+  if (!is.data.frame(sched) || nrow(sched) == 0L || !"game_json" %in% names(sched)) {
+    cli::cli_abort(c(
+      "No usable ESPN schedule on disk for {y}.",
+      x = "cfb/schedules/rds/cfb_schedule_{y}.rds has {nrow(sched)} rows and {ncol(sched)} columns.",
+      i = "cfbfastR-raw publishes schedules only through 2023; stage 01 cannot build {y}."
+    ))
+  }
+
   season_team_box_list <- sched %>%
     dplyr::filter(.data$game_json == TRUE) %>%
     dplyr::pull("game_id")

@@ -37,6 +37,30 @@ cfb_pbp_games <- function(y) {
 
   espn_df <- data.frame()
   sched <- cfbfastR:::rds_from_url(paste0("https://raw.githubusercontent.com/sportsdataverse/cfbfastR-raw/main/cfb/schedules/rds/cfb_schedule_", y, ".rds"))
+
+  # cfbfastR:::rds_from_url() returns an EMPTY data.table on a failed download
+  # rather than erroring. cfbfastR-raw only publishes schedules through 2023, so
+  # for 2024+ that URL 404s and `sched` comes back with 0 rows and 0 columns.
+  #
+  # Writing that straight to disk is destructive twice over: it overwrites the
+  # committed cfb/schedules/rds/cfb_schedule_{y}.rds with an empty frame and the
+  # run then COMMITS it (cfb_schedule_2024.rds is 140 bytes on main and
+  # cfb_schedule_2026.rds 137 bytes for exactly this reason), and stage 02
+  # rebuilds the master schedule by listing every file in that directory, so an
+  # empty year silently truncates the master. Downstream, stages 02 and 03 read
+  # the file back and die on `.data$game_json` with an rlang pronoun error that
+  # says nothing about the real cause.
+  #
+  # Refuse to overwrite good data with a failed fetch, and say why.
+  if (!is.data.frame(sched) || nrow(sched) == 0L || !"game_json" %in% names(sched)) {
+    cli::cli_abort(c(
+      "No usable ESPN schedule for {y}.",
+      x = "The cfbfastR-raw schedule fetch returned {nrow(sched)} rows and {ncol(sched)} columns.",
+      i = "cfbfastR-raw publishes cfb/schedules/rds/ only through 2023; {y} 404s.",
+      i = "Refusing to overwrite cfb/schedules/rds/cfb_schedule_{y}.rds with an empty frame."
+    ))
+  }
+
   ifelse(!dir.exists(file.path("cfb/schedules")), dir.create(file.path("cfb/schedules")), FALSE)
   ifelse(!dir.exists(file.path("cfb/schedules/rds")), dir.create(file.path("cfb/schedules/rds")), FALSE)
   ifelse(!dir.exists(file.path("cfb/schedules/parquet")), dir.create(file.path("cfb/schedules/parquet")), FALSE)
