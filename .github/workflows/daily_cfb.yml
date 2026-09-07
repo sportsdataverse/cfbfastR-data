@@ -52,6 +52,13 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v5
         with:
+          # NOTE: every non-empty line below is passed straight to
+          # `git sparse-checkout` as a pattern -- do not put comments inside the
+          # block. cfb/schedules is required because espn_cfb_02 rebuilds the
+          # master schedule by listing every file in cfb/schedules/rds; without
+          # the history it is silently rebuilt from the single year in this run
+          # (18MB). The other cfb/ subtrees -- pbp (1.1GB), roster, team_box,
+          # player_box -- are write-only, so the driver creates them instead.
           sparse-checkout: |
             .
             scripts
@@ -63,6 +70,7 @@ jobs:
             R
             rosters
             schedules
+            cfb/schedules
       - name: Setting up R
         uses: r-lib/actions/setup-r@v2
         with:
