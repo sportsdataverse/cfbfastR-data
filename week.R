@@ -80,7 +80,19 @@ if (interactive()) {
           year = .x,
           week = .y,
           season_type = "both",
-          epa_wpa = TRUE
+          epa_wpa = TRUE,
+          # cfbfastR 3.0.0 defaults to the v2 engine, which applies output
+          # tiers; the "default" tier drops an 82-column lag/lead set. Four of
+          # those -- lead_pos_team, lag_pos_team, lead_play_type, lag_play_type
+          # -- are named in team_columns and selected with all_of() below, so
+          # the default tier makes that select abort with "Can't subset
+          # elements that don't exist". "full" keeps them.
+          #
+          # This does NOT widen the published release: the final select is a
+          # whitelist of all_of() groups whose union is exactly the 362 columns
+          # already on cfbfastR_cfb_pbp, verified against the 2025 asset. The
+          # extra columns "full" restores are dropped by that select.
+          output = "full"
         )
         p(sprintf("Year %s Week %s", .x, .y))
         return(pbp)
@@ -103,7 +115,19 @@ if (interactive()) {
           year = .x,
           week = .y,
           season_type = "both",
-          epa_wpa = TRUE
+          epa_wpa = TRUE,
+          # cfbfastR 3.0.0 defaults to the v2 engine, which applies output
+          # tiers; the "default" tier drops an 82-column lag/lead set. Four of
+          # those -- lead_pos_team, lag_pos_team, lead_play_type, lag_play_type
+          # -- are named in team_columns and selected with all_of() below, so
+          # the default tier makes that select abort with "Can't subset
+          # elements that don't exist". "full" keeps them.
+          #
+          # This does NOT widen the published release: the final select is a
+          # whitelist of all_of() groups whose union is exactly the 362 columns
+          # already on cfbfastR_cfb_pbp, verified against the 2025 asset. The
+          # extra columns "full" restores are dropped by that select.
+          output = "full"
         )
         p(sprintf("Year %s Week %s", .x, .y))
         return(pbp)
