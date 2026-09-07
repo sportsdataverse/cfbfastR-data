@@ -12,6 +12,24 @@ library(glue)
 library(optparse)
 
 
+# CFBD request concurrency ------------------------------------------------
+#
+# Every worker is an independent CFBD caller, so this is a rate-limit dial, not
+# just a speed dial. At 3 workers the 2026-09-06 run took HTTP 429 sixty-three
+# times from cfbd_play_stats_player(); cfbfastR reported each one as "no
+# play-level player stats data available", sack_player_id never materialised,
+# and the roster join below aborted the script 628 lines before the
+# cfbfastR_cfb_pbp upload. cfbfastR_cfb_pbp published nothing from 2026-07-01.
+#
+# Env-tunable rather than hardcoded so the pace can be re-tuned without a code
+# change, per the repo convention for rate limits. CFBD_WORKERS overrides;
+# anything unset, non-numeric or < 1 falls back to the argument.
+cfbd_workers <- function(default) {
+  n <- suppressWarnings(as.integer(Sys.getenv("CFBD_WORKERS", "")))
+  if (is.na(n) || n < 1L) default else n
+}
+
+
 option_list <- list(
   make_option(
     c("-s", "--start_year"),
@@ -50,7 +68,7 @@ yr_epa_start_time <- proc.time()
 
 
 if (interactive()) {
-  future::plan("multisession", workers = 8)
+  future::plan("multisession", workers = cfbd_workers(8))
   progressr::with_progress({
     p <- progressr::progressor(along = y)
     
@@ -73,7 +91,7 @@ if (interactive()) {
   future::plan("sequential")
 } else {
   # Non-interactive version
-  future::plan("multisession", workers = 3)
+  future::plan("multisession", workers = cfbd_workers(2))
   progressr::with_progress({
     p <- progressr::progressor(along = y)
     
@@ -164,7 +182,7 @@ arrow::write_parquet(
 df_game_ids <- unique(pbp_df$game_id)
 
 if (interactive()) {
-  future::plan("multisession", workers = 8)
+  future::plan("multisession", workers = cfbd_workers(8))
   progressr::with_progress({
     p <- progressr::progressor(along = df_game_ids)
     df_player_stats <- furrr::future_map_dfr(
@@ -182,7 +200,7 @@ if (interactive()) {
   future::plan("sequential")
 } else {
   # Non-interactive version
-  future::plan("multisession", workers = 3)
+  future::plan("multisession", workers = cfbd_workers(2))
   progressr::with_progress({
     p <- progressr::progressor(along = df_game_ids)
     df_player_stats <- furrr::future_map_dfr(
