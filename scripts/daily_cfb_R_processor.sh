@@ -80,10 +80,36 @@ do
     git config --local user.email "action@github.com"
     git config --local user.name "Github Action"
     run_stage "week.R ($i)"            Rscript week.R -s $i -e $i
-    run_stage "espn_cfb_01_pbp ($i)"   Rscript R/espn_cfb_01_pbp_creation.R -s $i -e $i
-    run_stage "espn_cfb_02_team ($i)"  Rscript R/espn_cfb_02_team_box_creation.R -s $i -e $i
-    run_stage "espn_cfb_03_player ($i)" Rscript R/espn_cfb_03_player_box_creation.R -s $i -e $i
-    run_stage "espn_cfb_04_roster ($i)" Rscript R/espn_cfb_04_roster_creation.R -s $i -e $i
+
+    # The four espn_cfb_0*.R stages are OFF by default.
+    #
+    # They read cfb/schedules/rds/cfb_schedule_{y}.rds, which stage 01 fetches
+    # from cfbfastR-raw -- and cfbfastR-raw publishes schedules only through
+    # 2023. For 2024+ that URL 404s, so stages 01-03 cannot succeed at all and
+    # stage 01 additionally overwrote the committed schedule with the empty
+    # frame rds_from_url() returns on failure (cfb_schedule_2024.rds is 140
+    # bytes on main for exactly that reason).
+    #
+    # Nothing is lost by skipping them, verified against the live release tags:
+    #   01 -> espn_cfb_pbp          also published by cfbfastR-cfb-data (python), 73 assets, current
+    #   02 -> espn_cfb_team_boxscores    0 assets, has never published
+    #   03 -> espn_cfb_player_boxscores  0 assets, has never published
+    #   03 -> espn_cfb_schedules    also published by the python repo, 95 assets, current
+    #   04 -> espn_cfb_rosters      also published by the python repo, 76 assets, current
+    #
+    # Stage 04 does work -- it published rosters in run 34079239613 -- and is
+    # disabled only because the python repo already covers its tag. Set
+    # RUN_ESPN_STAGES=1 to re-enable all four once cfbfastR-raw publishes
+    # 2024+ schedules; the guards in those scripts will refuse to run against a
+    # missing or empty schedule rather than corrupt one.
+    if [ "${RUN_ESPN_STAGES:-0}" = "1" ]; then
+      run_stage "espn_cfb_01_pbp ($i)"   Rscript R/espn_cfb_01_pbp_creation.R -s $i -e $i
+      run_stage "espn_cfb_02_team ($i)"  Rscript R/espn_cfb_02_team_box_creation.R -s $i -e $i
+      run_stage "espn_cfb_03_player ($i)" Rscript R/espn_cfb_03_player_box_creation.R -s $i -e $i
+      run_stage "espn_cfb_04_roster ($i)" Rscript R/espn_cfb_04_roster_creation.R -s $i -e $i
+    else
+      echo "espn_cfb_0[1-4] stages skipped (RUN_ESPN_STAGES != 1); their tags are served by cfbfastR-cfb-data"
+    fi
     sdv_commit_push "CFB Data Update (Start: $i End: $i)" . || PUSH_RC=1
 done
 

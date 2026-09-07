@@ -105,6 +105,11 @@ jobs:
           # < 1 value. Set the repository variable CFBD_WORKERS to re-tune the
           # pace from the GitHub UI without touching code.
           CFBD_WORKERS: ${{ vars.CFBD_WORKERS }}
+          # The espn_cfb_0*.R stages are off unless this is "1". They depend on
+          # cfbfastR-raw schedules, which stop at 2023, and their release tags
+          # are already served by cfbfastR-cfb-data. Set the repository variable
+          # RUN_ESPN_STAGES=1 to turn them back on.
+          RUN_ESPN_STAGES: ${{ vars.RUN_ESPN_STAGES }}
         run: |
           echo $(pwd)
           bash scripts/daily_cfb_R_processor.sh -s ${{ env.START_YEAR }} -e ${{ env.END_YEAR }}
