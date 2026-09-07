@@ -100,6 +100,11 @@ jobs:
         shell: bash
         env:
           GITHUB_PAT: ${{ secrets.SDV_GH_TOKEN }}
+          # CFBD request concurrency for week.R. Unset is fine -- the script
+          # falls back to its own default, as it does for any non-numeric or
+          # < 1 value. Set the repository variable CFBD_WORKERS to re-tune the
+          # pace from the GitHub UI without touching code.
+          CFBD_WORKERS: ${{ vars.CFBD_WORKERS }}
         run: |
           echo $(pwd)
           bash scripts/daily_cfb_R_processor.sh -s ${{ env.START_YEAR }} -e ${{ env.END_YEAR }}
