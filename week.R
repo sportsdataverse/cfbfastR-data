@@ -281,7 +281,34 @@ arrow::write_parquet(
 )
 
 
+# cfbfastR 3.0.0's pbp engine now attaches its own player-id columns
+# (helper_pbp_attach_player_ids.R / pbp_output_schema.R), and six of those names
+# also come from df_player_stats. On collision dplyr suffixes BOTH sides to
+# .x/.y, so the bare name disappears and the roster joins below -- which join on
+# the bare name -- fail with "Join columns in `x` must be present in the data".
+#
+# That is what broke the 2026-09-07 run at week.R:349 on sack_player_id, with
+# zero HTTP 429s in the run. The adjacent join on sack_taken_player_id succeeded
+# in the same chain precisely because cfbfastR does not emit that name, which is
+# what identified the collision.
+#
+# df_player_stats is the authority for these: they come from
+# cfbd_play_stats_player() ids rather than from parsing play text, and before
+# cfbfastR emitted them this join produced exactly these values. Dropping the
+# pbp-side copies restores that behaviour rather than changing it. any_of() so
+# this neither errors if cfbfastR stops emitting one nor silently breaks if the
+# names drift again.
+pbp_player_id_cols <- c(
+  "fumble_forced_player_id",
+  "fumble_player_id",
+  "fumble_recovered_player_id",
+  "interception_player_id",
+  "pass_breakup_player_id",
+  "sack_player_id"
+)
+
 df_year_players <- pbp_df %>%
+  dplyr::select(-dplyr::any_of(pbp_player_id_cols)) %>%
   dplyr::left_join(
     df_player_stats,
     by = c(
