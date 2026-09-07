@@ -40,8 +40,18 @@ games <- purrr::map(years_vec, function(x) {
 
   if (nrow(roster) > 0) {
     roster$season <- x
+    # recruit_ids is a list-column and CFBD returns its elements with mixed
+    # types -- measured on the 2026 roster: 18,515 integer vectors and 12,121
+    # character vectors. csv and rds tolerate that; arrow cannot infer a single
+    # list type and write_parquet() aborts with "Invalid: cannot convert",
+    # which is what failed the 2026-09-07 run at espn_cfb_04_roster.
+    #
+    # Coercing every element to integer is lossless here: all 12,127 character
+    # values are plain numeric id strings, with none non-coercible and no ""/NA.
+    # The length-0 -> as.integer(0) behaviour is left alone so already-published
+    # rosters keep their existing semantics.
     roster$recruit_ids <- lapply(roster$recruit_ids, function(y) {
-      if (length(y) == 0) as.integer(0) else y
+      if (length(y) == 0) as.integer(0) else as.integer(y)
     })
     roster <- roster %>%
       cfbfastR:::make_cfbfastR_data("ESPN CFB Roster from cfbfastR data repository", Sys.time())
