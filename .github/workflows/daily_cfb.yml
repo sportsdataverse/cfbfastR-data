@@ -87,9 +87,17 @@ jobs:
       - name: Check cfbfastR_data_trigger for inputs
         if: ${{ github.event.client_payload.event_name == 'daily_cfb_data'}}
         shell: bash
+        # The subject reaches the shell only through env, never expanded into the
+        # script, and only an explicit `Start: YYYY` / `End: YYYY` counts. The old
+        # `grep -o -E '[0-9]+'` read a docs commit "(#5)" as season 5 and a run id
+        # as END_YEAR; anything without the pattern falls to the default below.
+        env:
+          COMMIT_MESSAGE: ${{ github.event.client_payload.commit_message }}
         run: |
-          echo START_YEAR=$(echo "${{ github.event.client_payload.commit_message}}" | grep -o -E '[0-9]+' | head -1) >> $GITHUB_ENV
-          echo END_YEAR=$(echo "${{ github.event.client_payload.commit_message}}" | grep -o -E '[0-9]+' | tail -1) >> $GITHUB_ENV
+          start=$(printf '%s' "$COMMIT_MESSAGE" | grep -oE 'Start: *[0-9]{4}' | head -1 | grep -oE '[0-9]{4}')
+          end=$(printf '%s' "$COMMIT_MESSAGE" | grep -oE 'End: *[0-9]{4}' | head -1 | grep -oE '[0-9]{4}')
+          echo "START_YEAR=$start" >> "$GITHUB_ENV"
+          echo "END_YEAR=${end:-$start}" >> "$GITHUB_ENV"
       - name: Check for empty inputs
         if: ${{ env.START_YEAR == ''}}
         shell: bash
