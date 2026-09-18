@@ -5,6 +5,8 @@
 
 ### __cfbfastR data 2002-2020__
 
+> **Frozen trees — do not read these for current data.** `pbp/` (2002–2021), `teams/` (`teams_colors_logos.csv`) and `data/parquet/` are legacy artifacts that are no longer rebuilt. The live play-by-play is the `espn_cfb_pbp` release on [sportsdataverse-data](https://github.com/sportsdataverse/sportsdataverse-data/releases) (every season through the current one, rebuilt September 2026), which is what `cfbfastR::load_cfb_pbp()` reads; team info comes from `cfbfastR::espn_cfb_teams()` / the ESPN teams release. The datasets this repo still updates daily are the CFBD-derived ones under `data/` (rosters, betting, player stats, `games_in_data_repo.csv`).
+
 ## cfbfastR-data workflow diagram
 
 ```mermaid
