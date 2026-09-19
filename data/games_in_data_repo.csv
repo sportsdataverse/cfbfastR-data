@@ -1,4 +1,8 @@
 "game_id","year","week","home","away","season"
+401858455,2026,3,"Oregon","Portland State",2026
+401858225,2026,3,"Pittsburgh","Syracuse",2026
+401856811,2026,3,"Texas Tech","Houston",2026
+401858226,2026,3,"Wake Forest","Miami",2026
 401868050,2026,2,"Abilene Christian","Stephen F. Austin",2026
 401864502,2026,2,"Air Force","North Dakota State",2026
 401866412,2026,2,"Akron","Robert Morris",2026
@@ -194,6 +198,7 @@
 401869127,2026,1,"Howard","Richmond",2026
 401868101,2026,1,"Idaho State","VMI",2026
 401858424,2026,1,"Illinois","UAB",2026
+401913104,2026,1,"Incarnate Word","Oklahoma Panhandle",2026
 401858425,2026,1,"Indiana","North Texas",2026
 401867855,2026,1,"Indiana State","Southeast Missouri State",2026
 401858426,2026,1,"Iowa","Northern Illinois",2026
