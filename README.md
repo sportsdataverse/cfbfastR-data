@@ -3,7 +3,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/saiemgilani?color=blue&label=%40saiemgilani&logo=twitter&style=for-the-badge)](https://twitter.com/saiemgilani) 
 <a href="https://github.com/saiemgilani" target="blank"><img src="https://img.shields.io/github/followers/saiemgilani?color=eee&logo=Github&style=for-the-badge" alt="@saiemgilani" /></a>
 
-### __cfbfastR data 2002-2020__
+### __cfbfastR data (legacy committed tree 2002–2021; CFBD datasets under `data/` still updated)__
+
+> **Frozen trees — do not read these for current data.** `pbp/` (2002–2021), `teams/` (`teams_colors_logos.csv`) and `data/parquet/` are legacy artifacts that are no longer rebuilt. The live play-by-play lives on [sportsdataverse-data](https://github.com/sportsdataverse/sportsdataverse-data/releases) as two releases: `cfbfastR_cfb_pbp` (the CFBD-based line, read by `cfbfastR::load_cfb_pbp()`) and `espn_cfb_pbp` (the ESPN-processed line, every season through the current one, rebuilt September 2026, read by `cfbfastR::load_espn_cfb_pbp()`). Team info comes from `cfbfastR::espn_cfb_teams()` / the ESPN teams release. The datasets this repo still updates daily are the CFBD-derived ones under `data/` (rosters, betting, player stats, `games_in_data_repo.csv`).
 
 ## cfbfastR-data workflow diagram
 
@@ -16,7 +18,7 @@
 
 ```mermaid
 flowchart TB;
-    subgraph A[cfbfastR-data — legacy R producer, still scheduled];
+    subgraph A[cfbfastR-data — legacy R producer (pbp/ frozen at 2021; CFBD datasets still scheduled)];
         direction TB;
         A0[scripts/daily_cfb_R_processor.sh]-->A1[R/espn_cfb_01_pbp_creation.R];
         A1[R/espn_cfb_01_pbp_creation.R]-->A2[R/espn_cfb_02_team_box_creation.R];
