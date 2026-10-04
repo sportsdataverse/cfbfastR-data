@@ -53,9 +53,13 @@ jobs:
       END_YEAR: ${{ inputs.end_year }}
 
     steps:
+      # A run queued in the concurrency group would otherwise check out the SHA of
+      # its trigger, not the branch as it is when the job starts, and build on a
+      # stale tree (wehoop-wnba-stats-data run 37207505807, 2026-10-04).
       - name: Checkout repo
         uses: actions/checkout@v5
         with:
+          ref: main
           # NOTE: every non-empty line below is passed straight to
           # `git sparse-checkout` as a pattern -- do not put comments inside the
           # block. cfb/schedules is required because espn_cfb_02 rebuilds the
