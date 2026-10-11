@@ -1,12 +1,16 @@
 "game_id","year","week","home","away","season"
+401868054,2026,6,"Abilene Christian","Central Arkansas",2026
 401866435,2026,6,"Akron","Eastern Michigan",2026
+401856712,2026,6,"Alabama","Georgia",2026
 401868300,2026,6,"Alabama A&M","Bethune-Cookman",2026
 401868329,2026,6,"Alabama State","Florida A&M",2026
 401868360,2026,6,"Alcorn State","Arkansas Baptist",2026
 401869843,2026,6,"App State","Old Dominion",2026
+401856808,2026,6,"Arizona State","Hawai'i",2026
 401856713,2026,6,"Arkansas","Tennessee",2026
 401869933,2026,6,"Arkansas State","South Alabama",2026
 401862795,2026,6,"Army","Tulane",2026
+401868065,2026,6,"Austin Peay","Tarleton State",2026
 401856826,2026,6,"BYU","Iowa State",2026
 401866436,2026,6,"Bowling Green","Sacramento State",2026
 401866662,2026,6,"Brown","Bryant",2026
@@ -19,21 +23,30 @@
 401868229,2026,6,"Dayton","Morehead State",2026
 401867911,2026,6,"Duquesne","Long Island University",2026
 401862797,2026,6,"East Carolina","Rice",2026
+401868087,2026,6,"Eastern Washington","Northern Colorado",2026
 401866661,2026,6,"Elon","Wofford",2026
 401856714,2026,6,"Florida","South Carolina",2026
 401871066,2026,6,"Florida International","New Mexico State",2026
 401868011,2026,6,"Fordham","Richmond",2026
+401860901,2026,6,"Fresno State","Boise State",2026
 401867992,2026,6,"Georgetown","Bucknell",2026
+401869949,2026,6,"Georgia Southern","James Madison",2026
 401858255,2026,6,"Georgia Tech","Duke",2026
+401868955,2026,6,"Grambling","Jackson State",2026
+401868078,2026,6,"Idaho State","Cal Poly",2026
 401867860,2026,6,"Indiana State","Youngstown State",2026
 401856825,2026,6,"Kansas State","Houston",2026
 401871051,2026,6,"Kennesaw State","Jacksonville State",2026
+401856715,2026,6,"Kentucky","LSU",2026
 401869144,2026,6,"Lamar","Incarnate Word",2026
 401870766,2026,6,"Liberty","Sam Houston",2026
 401871473,2026,6,"Lindenwood","Southeast Missouri State",2026
+401869965,2026,6,"Louisiana Tech","Louisiana",2026
 401858254,2026,6,"Louisville","Florida State",2026
 401868265,2026,6,"Marist","Columbia",2026
+401869943,2026,6,"Marshall","Coastal Carolina",2026
 401866440,2026,6,"Massachusetts","Miami (OH)",2026
+401862798,2026,6,"Memphis","UAB",2026
 401868382,2026,6,"Mercer","Western Carolina",2026
 401858480,2026,6,"Michigan State","Illinois",2026
 401856716,2026,6,"Missouri","Texas A&M",2026
@@ -44,6 +57,9 @@
 401867974,2026,6,"Norfolk State","Virginia Lynchburg",2026
 401866658,2026,6,"North Carolina A&T","New Hampshire",2026
 401862796,2026,6,"North Texas","Charlotte",2026
+401868115,2026,6,"Northern Arizona","Montana",2026
+401864516,2026,6,"Northern Illinois","Air Force",2026
+401867877,2026,6,"Northern Iowa","North Dakota",2026
 401858482,2026,6,"Northwestern","Ball State",2026
 401858257,2026,6,"Notre Dame","Stanford",2026
 401866438,2026,6,"Ohio","Central Michigan",2026
@@ -51,11 +67,14 @@
 401856717,2026,6,"Oklahoma","Texas",2026
 401856824,2026,6,"Oklahoma State","UCF",2026
 401858484,2026,6,"Oregon","UCLA",2026
+401860902,2026,6,"Oregon State","San Diego State",2026
+401858485,2026,6,"Penn State","USC",2026
 401867960,2026,6,"Pennsylvania","Howard",2026
 401858256,2026,6,"Pittsburgh","North Carolina",2026
 401868156,2026,6,"Portland State","Utah Tech",2026
 401868968,2026,6,"Prairie View A&M","Southern",2026
 401868221,2026,6,"Presbyterian","Davidson",2026
+401858486,2026,6,"Purdue","Minnesota",2026
 401866660,2026,6,"Sacred Heart","Stonehill",2026
 401864519,2026,6,"San José State","Wyoming",2026
 401867886,2026,6,"South Dakota","Southern Illinois",2026
@@ -68,10 +87,15 @@
 401866437,2026,6,"Toledo","Buffalo",2026
 401866659,2026,6,"Towson","Stony Brook",2026
 401871090,2026,6,"Troy","Southern Miss",2026
+401864518,2026,6,"UNLV","North Dakota State",2026
+401868249,2026,6,"UT Rio Grande Valley","SE Louisiana",2026
+401864517,2026,6,"UTEP","Nevada",2026
 401862794,2026,6,"UTSA","South Florida",2026
+401856827,2026,6,"Utah","Kansas",2026
 401860922,2026,6,"Utah State","Washington State",2026
 401868256,2026,6,"Valparaiso","Drake",2026
 401856718,2026,6,"Vanderbilt","Ole Miss",2026
+401858258,2026,6,"Virginia","Syracuse",2026
 401867930,2026,6,"Wagner","Princeton",2026
 401858487,2026,6,"Washington","Iowa",2026
 401868095,2026,6,"Weber State","Idaho",2026
