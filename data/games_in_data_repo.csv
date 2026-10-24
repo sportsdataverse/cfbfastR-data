@@ -1,4 +1,22 @@
 "game_id","year","week","home","away","season"
+401869845,2026,8,"App State","James Madison",2026
+401867902,2026,8,"Central Connecticut","New Haven",2026
+401868230,2026,8,"Dayton","San Diego",2026
+401871069,2026,8,"Delaware","Missouri State",2026
+401867955,2026,8,"Delaware State","North Carolina Central",2026
+401871055,2026,8,"Florida International","Middle Tennessee",2026
+401871056,2026,8,"Kennesaw State","Liberty",2026
+401867913,2026,8,"Long Island University","Stonehill",2026
+401871092,2026,8,"Marshall","South Alabama",2026
+401862807,2026,8,"Memphis","East Carolina",2026
+401870841,2026,8,"Pennsylvania","Yale",2026
+401866670,2026,8,"Rhode Island","UAlbany",2026
+401871070,2026,8,"Sam Houston","New Mexico State",2026
+401858272,2026,8,"Stanford","NC State",2026
+401862808,2026,8,"Tulsa","Army",2026
+401861965,2026,8,"UConn","Massachusetts",2026
+401858271,2026,8,"Virginia","Duke",2026
+401864525,2026,8,"Wyoming","Air Force",2026
 401864524,2026,7,"Air Force","UNLV",2026
 401868301,2026,7,"Alabama A&M","Grambling",2026
 401868330,2026,7,"Arkansas-Pine Bluff","Alabama State",2026
@@ -139,6 +157,7 @@
 401868340,2026,6,"Chattanooga","Samford",2026
 401867829,2026,6,"Cornell","Harvard",2026
 401868229,2026,6,"Dayton","Morehead State",2026
+401867954,2026,6,"Delaware State","Franklin Pierce",2026
 401867911,2026,6,"Duquesne","Long Island University",2026
 401862797,2026,6,"East Carolina","Rice",2026
 401868144,2026,6,"Eastern Kentucky","West Georgia",2026
@@ -784,6 +803,7 @@
 401869127,2026,1,"Howard","Richmond",2026
 401868101,2026,1,"Idaho State","VMI",2026
 401858424,2026,1,"Illinois","UAB",2026
+401891332,2026,1,"Illinois State","St. Francis (IL)",2026
 401913104,2026,1,"Incarnate Word","Oklahoma Panhandle",2026
 401858425,2026,1,"Indiana","North Texas",2026
 401867855,2026,1,"Indiana State","Southeast Missouri State",2026
