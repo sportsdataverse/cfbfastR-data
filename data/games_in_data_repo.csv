@@ -1,20 +1,29 @@
 "game_id","year","week","home","away","season"
+401856727,2026,8,"Alabama","Texas A&M",2026
 401869845,2026,8,"App State","James Madison",2026
+401856838,2026,8,"Arizona","Iowa State",2026
+401856839,2026,8,"Arizona State","Kansas State",2026
+401869935,2026,8,"Arkansas State","Georgia State",2026
 401856728,2026,8,"Auburn","LSU",2026
 401866447,2026,8,"Ball State","Sacramento State",2026
 401868944,2026,8,"Bethune-Cookman","Jackson State",2026
 401867808,2026,8,"Brown","Cornell",2026
 401866672,2026,8,"Bryant","Stony Brook",2026
 401866448,2026,8,"Buffalo","Bowling Green",2026
+401868080,2026,8,"Cal Poly","Utah Tech",2026
+401868135,2026,8,"Central Arkansas","UT Rio Grande Valley",2026
 401867902,2026,8,"Central Connecticut","New Haven",2026
 401866476,2026,8,"Central Michigan","Miami (OH)",2026
 401856840,2026,8,"Cincinnati","Texas Tech",2026
+401858276,2026,8,"Clemson","Virginia Tech",2026
+401860905,2026,8,"Colorado State","San Diego State",2026
 401867822,2026,8,"Columbia","Dartmouth",2026
 401868230,2026,8,"Dayton","San Diego",2026
 401871069,2026,8,"Delaware","Missouri State",2026
 401867955,2026,8,"Delaware State","North Carolina Central",2026
 401868214,2026,8,"Drake","Butler",2026
 401867931,2026,8,"Duquesne","Wagner",2026
+401868969,2026,8,"East Texas A&M","Prairie View A&M",2026
 401868182,2026,8,"Eastern Illinois","Southeast Missouri State",2026
 401868146,2026,8,"Eastern Kentucky","West Florida",2026
 401868937,2026,8,"Florida A&M","Arkansas-Pine Bluff",2026
@@ -26,13 +35,19 @@
 401866673,2026,8,"Hampton","Monmouth",2026
 401867842,2026,8,"Harvard","Princeton",2026
 401867994,2026,8,"Holy Cross","Bucknell",2026
+401868097,2026,8,"Idaho","Southern Utah",2026
+401868106,2026,8,"Idaho State","Portland State",2026
 401858495,2026,8,"Illinois","Oregon",2026
 401867850,2026,8,"Illinois State","Indiana State",2026
+401869138,2026,8,"Incarnate Word","McNeese",2026
 401856834,2026,8,"Kansas","Baylor",2026
 401871056,2026,8,"Kennesaw State","Liberty",2026
 401866446,2026,8,"Kent State","Akron",2026
+401856729,2026,8,"Kentucky","Vanderbilt",2026
+401869145,2026,8,"Lamar","Houston Christian",2026
 401867689,2026,8,"Lindenwood","Chicago State",2026
 401867913,2026,8,"Long Island University","Stonehill",2026
+401871093,2026,8,"Louisiana Tech","Old Dominion",2026
 401866671,2026,8,"Maine","Campbell",2026
 401868266,2026,8,"Marist","St. Thomas (MN)",2026
 401871092,2026,8,"Marshall","South Alabama",2026
@@ -40,36 +55,60 @@
 401866674,2026,8,"Merrimack","New Hampshire",2026
 401858274,2026,8,"Miami","Pittsburgh",2026
 401858496,2026,8,"Michigan","Indiana",2026
+401858497,2026,8,"Minnesota","Iowa",2026
 401856730,2026,8,"Mississippi State","Oklahoma",2026
 401868121,2026,8,"Montana State","Weber State",2026
 401868271,2026,8,"Morehead State","Stetson",2026
 401867962,2026,8,"Morgan State","Howard",2026
 401862810,2026,8,"Navy","North Texas",2026
+401864528,2026,8,"Nevada","San José State",2026
+401864527,2026,8,"New Mexico","North Dakota State",2026
+401868067,2026,8,"North Alabama","Austin Peay",2026
+401858275,2026,8,"North Carolina","Syracuse",2026
 401864526,2026,8,"Northern Illinois","Hawai'i",2026
 401858498,2026,8,"Northwestern","Rutgers",2026
 401869133,2026,8,"Northwestern State","Nicholls",2026
+401866449,2026,8,"Ohio","Eastern Michigan",2026
+401856836,2026,8,"Oklahoma State","Colorado",2026
 401870841,2026,8,"Pennsylvania","Yale",2026
 401866670,2026,8,"Rhode Island","UAlbany",2026
+401868003,2026,8,"Richmond","Colgate",2026
 401867921,2026,8,"Robert Morris","Mercyhurst",2026
 401858270,2026,8,"SMU","California",2026
 401871070,2026,8,"Sam Houston","New Mexico State",2026
+401856731,2026,8,"South Carolina","Tennessee",2026
 401867975,2026,8,"South Carolina State","Norfolk State",2026
 401867879,2026,8,"South Dakota","North Dakota",2026
 401867871,2026,8,"South Dakota State","Murray State",2026
 401867892,2026,8,"Southern Illinois","Northern Iowa",2026
+401869967,2026,8,"Southern Miss","Louisiana",2026
 401858272,2026,8,"Stanford","NC State",2026
+401868311,2026,8,"Stephen F. Austin","SE Louisiana",2026
 401856841,2026,8,"TCU","West Virginia",2026
+401868174,2026,8,"Tennessee State","Charleston Southern",2026
+401856732,2026,8,"Texas","Ole Miss",2026
 401868972,2026,8,"Texas Southern","Southern",2026
+401860906,2026,8,"Texas State","Utah State",2026
 401868392,2026,8,"The Citadel","Tennessee Tech",2026
 401866450,2026,8,"Toledo","Western Michigan",2026
+401871094,2026,8,"Troy","UL Monroe",2026
+401862811,2026,8,"Tulane","UTSA",2026
 401862808,2026,8,"Tulsa","Army",2026
+401868132,2026,8,"UC Davis","Northern Colorado",2026
+401856835,2026,8,"UCF","BYU",2026
+401858499,2026,8,"UCLA","Michigan State",2026
 401861965,2026,8,"UConn","Massachusetts",2026
+401856837,2026,8,"Utah","Houston",2026
 401868348,2026,8,"VMI","East Tennessee State",2026
 401868278,2026,8,"Valparaiso","Presbyterian",2026
 401868035,2026,8,"Villanova","Lehigh",2026
 401858271,2026,8,"Virginia","Duke",2026
+401860907,2026,8,"Washington State","Boise State",2026
 401868238,2026,8,"West Georgia","Tarleton State",2026
 401868341,2026,8,"Western Carolina","Chattanooga",2026
+401868201,2026,8,"Western Illinois","UT Martin",2026
+401868019,2026,8,"William & Mary","Georgetown",2026
+401858500,2026,8,"Wisconsin","USC",2026
 401864525,2026,8,"Wyoming","Air Force",2026
 401864524,2026,7,"Air Force","UNLV",2026
 401868301,2026,7,"Alabama A&M","Grambling",2026
