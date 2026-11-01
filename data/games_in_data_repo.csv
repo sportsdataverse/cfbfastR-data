@@ -2,9 +2,12 @@
 401868056,2026,9,"Abilene Christian","West Georgia",2026
 401861966,2026,9,"Air Force","UConn",2026
 401868296,2026,9,"Alabama A&M","Alabama State",2026
+401856733,2026,9,"Arkansas","Missouri",2026
 401868938,2026,9,"Arkansas-Pine Bluff","Bethune-Cookman",2026
 401856843,2026,9,"BYU","Arizona State",2026
+401860908,2026,9,"Boise State","Texas State",2026
 401867809,2026,9,"Brown","Pennsylvania",2026
+401868136,2026,9,"Central Arkansas","North Alabama",2026
 401867903,2026,9,"Central Connecticut","Robert Morris",2026
 401868175,2026,9,"Charleston Southern","Western Illinois",2026
 401862813,2026,9,"Charlotte","Tulane",2026
@@ -21,14 +24,18 @@
 401868320,2026,9,"East Texas A&M","SE Louisiana",2026
 401868089,2026,9,"Eastern Washington","Montana",2026
 401868950,2026,9,"Florida A&M","Southern",2026
+401858280,2026,9,"Florida State","Clemson",2026
+401860924,2026,9,"Fresno State","Oregon State",2026
 401868378,2026,9,"Furman","Western Carolina",2026
 401856734,2026,9,"Georgia","Florida",2026
+401869846,2026,9,"Georgia Southern","App State",2026
 401869944,2026,9,"Georgia State","Coastal Carolina",2026
 401868026,2026,9,"Holy Cross","Richmond",2026
 401867851,2026,9,"Illinois State","Murray State",2026
 401869134,2026,9,"Incarnate Word","Northwestern State",2026
 401858501,2026,9,"Indiana","Minnesota",2026
 401858502,2026,9,"Iowa","Wisconsin",2026
+401856847,2026,9,"Iowa State","Oklahoma State",2026
 401869963,2026,9,"James Madison","Troy",2026
 401868030,2026,9,"Lafayette","Villanova",2026
 401867995,2026,9,"Lehigh","Bucknell",2026
@@ -37,6 +44,7 @@
 401858283,2026,9,"Louisville","Stanford",2026
 401858503,2026,9,"Maryland","Illinois",2026
 401869139,2026,9,"McNeese","Nicholls",2026
+401862814,2026,9,"Memphis","Army",2026
 401868384,2026,9,"Mercer","The Citadel",2026
 401867932,2026,9,"Merrimack","Wagner",2026
 401871058,2026,9,"Middle Tennessee","Kennesaw State",2026
@@ -51,23 +59,30 @@
 401869154,2026,9,"New Haven","Duquesne",2026
 401871057,2026,9,"New Mexico State","Jacksonville State",2026
 401867956,2026,9,"Norfolk State","Delaware State",2026
+401858282,2026,9,"North Carolina","Miami",2026
 401866679,2026,9,"North Carolina A&T","Elon",2026
 401867963,2026,9,"North Carolina Central","Howard",2026
 401864531,2026,9,"North Dakota State","UTEP",2026
 401862812,2026,9,"North Texas","Florida Atlantic",2026
 401867861,2026,9,"Northern Iowa","Indiana State",2026
+401856736,2026,9,"Oklahoma","South Carolina",2026
 401871096,2026,9,"Old Dominion","Marshall",2026
 401856735,2026,9,"Ole Miss","Auburn",2026
 401858505,2026,9,"Oregon","Northwestern",2026
 401858506,2026,9,"Penn State","Purdue",2026
+401858281,2026,9,"Pittsburgh","Georgia Tech",2026
 401868098,2026,9,"Portland State","Idaho",2026
 401868215,2026,9,"Presbyterian","Butler",2026
 401867831,2026,9,"Princeton","Cornell",2026
 401866676,2026,9,"Rhode Island","Maine",2026
 401858507,2026,9,"Rutgers","Michigan",2026
 401866451,2026,9,"Sacramento State","Kent State",2026
+401868388,2026,9,"Samford","Wofford",2026
+401868267,2026,9,"San Diego","Marist",2026
+401860909,2026,9,"San Diego State","Washington State",2026
 401864529,2026,9,"San José State","New Mexico",2026
 401871097,2026,9,"South Alabama","Louisiana Tech",2026
+401867887,2026,9,"South Dakota State","South Dakota",2026
 401862816,2026,9,"South Florida","UAB",2026
 401868190,2026,9,"Southeast Missouri State","Gardner-Webb",2026
 401868126,2026,9,"Southern Utah","Northern Arizona",2026
@@ -78,13 +93,19 @@
 401866677,2026,9,"Stony Brook","Sacred Heart",2026
 401858278,2026,9,"Syracuse","SMU",2026
 401856845,2026,9,"TCU","Kansas",2026
+401868147,2026,9,"Tarleton State","Eastern Kentucky",2026
+401856737,2026,9,"Texas","Mississippi State",2026
+401868956,2026,9,"Texas Southern","Grambling",2026
 401856842,2026,9,"Texas Tech","Arizona",2026
 401866680,2026,9,"Towson","Hampton",2026
 401866675,2026,9,"UAlbany","Campbell",2026
 401856844,2026,9,"UCF","Baylor",2026
 401858508,2026,9,"UCLA","Nevada",2026
 401871095,2026,9,"UL Monroe","Southern Miss",2026
+401864530,2026,9,"UNLV","Northern Illinois",2026
+401858509,2026,9,"USC","Ohio State",2026
 401868183,2026,9,"UT Martin","Eastern Illinois",2026
+401868251,2026,9,"UT Rio Grande Valley","Lamar",2026
 401860910,2026,9,"Utah State","Colorado State",2026
 401868107,2026,9,"Utah Tech","Idaho State",2026
 401858284,2026,9,"Wake Forest","Virginia",2026
