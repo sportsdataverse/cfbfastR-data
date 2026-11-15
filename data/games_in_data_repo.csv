@@ -1,39 +1,94 @@
 "game_id","year","week","home","away","season"
 401866458,2026,11,"Akron","Western Michigan",2026
+401868303,2026,11,"Alabama A&M","Texas Southern",2026
+401868940,2026,11,"Arkansas-Pine Bluff","Prairie View A&M",2026
+401868058,2026,11,"Austin Peay","Abilene Christian",2026
 401866461,2026,11,"Ball State","Buffalo",2026
+401868946,2026,11,"Bethune-Cookman","Grambling",2026
 401866459,2026,11,"Bowling Green","Kent State",2026
 401867811,2026,11,"Brown","Columbia",2026
 401866462,2026,11,"Central Michigan","Sacramento State",2026
+401868177,2026,11,"Charleston Southern","Southeast Missouri State",2026
+401862825,2026,11,"Charlotte","East Carolina",2026
+401915931,2026,11,"Chicago State","Virginia Lynchburg",2026
+401858297,2026,11,"Clemson","Georgia Tech",2026
+401869937,2026,11,"Coastal Carolina","Arkansas State",2026
+401868006,2026,11,"Colgate","Lafayette",2026
 401856860,2026,11,"Colorado","Houston",2026
+401867833,2026,11,"Cornell","Dartmouth",2026
 401868225,2026,11,"Dayton","Davidson",2026
+401871060,2026,11,"Delaware","Florida International",2026
 401869155,2026,11,"Duquesne","Mercyhurst",2026
+401868138,2026,11,"Eastern Kentucky","Central Arkansas",2026
+401866692,2026,11,"Elon","Campbell",2026
+401868951,2026,11,"Florida A&M","Mississippi Valley State",2026
 401868014,2026,11,"Fordham","Georgetown",2026
+401868344,2026,11,"Furman","Chattanooga",2026
+401856883,2026,11,"Georgia","Missouri",2026
+401869952,2026,11,"Georgia State","Georgia Southern",2026
+401866690,2026,11,"Hampton","North Carolina A&T",2026
 401868027,2026,11,"Holy Cross","Villanova",2026
+401867958,2026,11,"Howard","Delaware State",2026
+401858518,2026,11,"Indiana","USC",2026
+401867863,2026,11,"Indiana State","Murray State",2026
 401856859,2026,11,"Iowa State","Cincinnati",2026
+401871061,2026,11,"Liberty","Middle Tennessee",2026
 401867905,2026,11,"Long Island University","Central Connecticut",2026
 401868217,2026,11,"Marist","Butler",2026
 401858520,2026,11,"Maryland","Wisconsin",2026
 401858296,2026,11,"Miami","Duke",2026
 401866460,2026,11,"Miami (OH)","Ohio",2026
+401870796,2026,11,"Missouri State","New Mexico State",2026
 401866693,2026,11,"Monmouth","Merrimack",2026
 401868272,2026,11,"Morehead State","Presbyterian",2026
 401867970,2026,11,"Morgan State","Norfolk State",2026
 401858300,2026,11,"NC State","Syracuse",2026
+401866691,2026,11,"New Hampshire","Stony Brook",2026
+401864536,2026,11,"Northern Illinois","Nevada",2026
+401869135,2026,11,"Northwestern State","Houston Christian",2026
+401858294,2026,11,"Notre Dame","Boston College",2026
 401858522,2026,11,"Ohio State","Northwestern",2026
+401858523,2026,11,"Oregon","Michigan",2026
+401867843,2026,11,"Pennsylvania","Harvard",2026
 401858293,2026,11,"Pittsburgh","Florida State",2026
 401868157,2026,11,"Portland State","Southern Utah",2026
 401866689,2026,11,"Rhode Island","Towson",2026
+401868036,2026,11,"Richmond","Lehigh",2026
 401867923,2026,11,"Robert Morris","Stonehill",2026
 401858525,2026,11,"Rutgers","Nebraska",2026
 401858301,2026,11,"SMU","Wake Forest",2026
 401866688,2026,11,"Sacred Heart","Bryant",2026
+401870769,2026,11,"Sam Houston","Kennesaw State",2026
+401868389,2026,11,"Samford","Western Carolina",2026
+401867981,2026,11,"South Carolina State","North Carolina Central",2026
+401867888,2026,11,"South Dakota","Northern Iowa",2026
 401862824,2026,11,"South Florida","Memphis",2026
+401868364,2026,11,"Southern","Alcorn State",2026
+401867893,2026,11,"Southern Illinois","South Dakota State",2026
+401868260,2026,11,"St. Thomas (MN)","Drake",2026
+401868286,2026,11,"Stetson","Valparaiso",2026
+401856862,2026,11,"TCU","Kansas State",2026
+401862829,2026,11,"Temple","UAB",2026
+401868185,2026,11,"Tennessee State","Eastern Illinois",2026
+401868385,2026,11,"Tennessee Tech","Mercer",2026
+401856888,2026,11,"Texas A&M","Tennessee",2026
 401866463,2026,11,"Toledo","Massachusetts",2026
 401866687,2026,11,"UAlbany","Maine",2026
 401858526,2026,11,"UCLA","Illinois",2026
 401861967,2026,11,"UConn","James Madison",2026
 401869969,2026,11,"UL Monroe","Louisiana",2026
+401868202,2026,11,"UT Martin","Lindenwood",2026
+401868395,2026,11,"VMI","The Citadel",2026
+401856889,2026,11,"Vanderbilt","Alabama",2026
+401858295,2026,11,"Virginia","California",2026
 401867934,2026,11,"Wagner","New Haven",2026
+401868239,2026,11,"West Florida","Tarleton State",2026
+401868233,2026,11,"West Georgia","North Alabama",2026
+401856861,2026,11,"West Virginia","Kansas",2026
+401868192,2026,11,"Western Illinois","Gardner-Webb",2026
+401870752,2026,11,"Western Kentucky","Jacksonville State",2026
+401867997,2026,11,"William & Mary","Bucknell",2026
+401868351,2026,11,"Wofford","East Tennessee State",2026
 401870842,2026,11,"Yale","Princeton",2026
 401866453,2026,10,"Akron","Ohio",2026
 401868363,2026,10,"Alcorn State","Florida A&M",2026
