@@ -5,16 +5,20 @@
 401868353,2026,12,"Alabama State","Prairie View A&M",2026
 401868365,2026,12,"Alcorn State","Jackson State",2026
 401869929,2026,12,"App State","UL Monroe",2026
+401856870,2026,12,"Arizona State","Oklahoma State",2026
 401862831,2026,12,"Army","East Carolina",2026
 401856747,2026,12,"Auburn","Samford",2026
 401856871,2026,12,"Baylor","Texas Tech",2026
 401868947,2026,12,"Bethune-Cookman","Florida A&M",2026
+401860925,2026,12,"Boise State","San Diego State",2026
 401858309,2026,12,"Boston College","Syracuse",2026
 401866696,2026,12,"Bryant","Rhode Island",2026
 401867998,2026,12,"Bucknell","Colgate",2026
 401866469,2026,12,"Buffalo","Central Michigan",2026
 401868218,2026,12,"Butler","Morehead State",2026
+401858308,2026,12,"California","Stanford",2026
 401866697,2026,12,"Campbell","Monmouth",2026
+401868069,2026,12,"Central Arkansas","Austin Peay",2026
 401867906,2026,12,"Central Connecticut","Duquesne",2026
 401856867,2026,12,"Cincinnati","Colorado",2026
 401867825,2026,12,"Columbia","Cornell",2026
@@ -25,47 +29,61 @@
 401868178,2026,12,"Eastern Illinois","Charleston Southern",2026
 401868092,2026,12,"Eastern Washington","Portland State",2026
 401856748,2026,12,"Florida","Vanderbilt",2026
+401862833,2026,12,"Florida Atlantic","South Florida",2026
 401858304,2026,12,"Florida State","NC State",2026
+401860918,2026,12,"Fresno State","Colorado State",2026
 401868193,2026,12,"Gardner-Webb","Tennessee State",2026
 401858310,2026,12,"Georgia Tech","Wake Forest",2026
 401867844,2026,12,"Harvard","Yale",2026
 401868015,2026,12,"Holy Cross","Fordham",2026
+401868294,2026,12,"Houston Christian","UT Rio Grande Valley",2026
+401868100,2026,12,"Idaho State","Idaho",2026
 401858527,2026,12,"Illinois","Iowa",2026
 401867854,2026,12,"Illinois State","South Dakota",2026
 401871079,2026,12,"Jacksonville State","Missouri State",2026
 401856866,2026,12,"Kansas","BYU",2026
+401856865,2026,12,"Kansas State","Arizona",2026
 401871078,2026,12,"Kennesaw State","Florida International",2026
 401866466,2026,12,"Kent State","Miami (OH)",2026
 401868032,2026,12,"Lafayette","Lehigh",2026
 401871080,2026,12,"Liberty","Western Kentucky",2026
 401868208,2026,12,"Lindenwood","Western Illinois",2026
 401869946,2026,12,"Louisiana","Coastal Carolina",2026
+401869938,2026,12,"Louisiana Tech","Arkansas State",2026
+401858306,2026,12,"Louisville","Pittsburgh",2026
 401866699,2026,12,"Maine","New Hampshire",2026
 401869958,2026,12,"Marshall","Georgia State",2026
 401866467,2026,12,"Massachusetts","Akron",2026
+401869141,2026,12,"McNeese","Lamar",2026
 401868352,2026,12,"Mercer","East Tennessee State",2026
 401872643,2026,12,"Mercyhurst","New Haven",2026
 401866700,2026,12,"Merrimack","Sacred Heart",2026
+401858302,2026,12,"Miami","Virginia Tech",2026
 401858528,2026,12,"Michigan","UCLA",2026
 401858529,2026,12,"Michigan State","Oregon",2026
 401858530,2026,12,"Minnesota","Northwestern",2026
 401856750,2026,12,"Mississippi State","Tennessee Tech",2026
 401868304,2026,12,"Mississippi Valley State","Alabama A&M",2026
+401856751,2026,12,"Missouri","Kentucky",2026
 401868117,2026,12,"Montana State","Montana",2026
 401867873,2026,12,"Murray State","Northern Iowa",2026
 401862834,2026,12,"Navy","Memphis",2026
 401858531,2026,12,"Nebraska","Ohio State",2026
+401864541,2026,12,"Nevada","Hawai'i",2026
 401871077,2026,12,"New Mexico State","Delaware",2026
 401868323,2026,12,"Nicholls","SE Louisiana",2026
 401867965,2026,12,"Norfolk State","Howard",2026
+401868234,2026,12,"North Alabama","Tarleton State",2026
 401866694,2026,12,"North Carolina A&T","UAlbany",2026
 401867971,2026,12,"North Carolina Central","Morgan State",2026
 401867881,2026,12,"North Dakota","Southern Illinois",2026
 401864543,2026,12,"North Dakota State","Northern Illinois",2026
 401868128,2026,12,"Northern Arizona","Northern Colorado",2026
+401858307,2026,12,"Notre Dame","SMU",2026
 401866464,2026,12,"Ohio","Ball State",2026
 401856752,2026,12,"Oklahoma","Texas A&M",2026
 401856749,2026,12,"Ole Miss","Wofford",2026
+401860919,2026,12,"Oregon State","Utah State",2026
 401858532,2026,12,"Penn State","Rutgers",2026
 401868253,2026,12,"Presbyterian","Dayton",2026
 401872619,2026,12,"Princeton","Pennsylvania",2026
@@ -73,23 +91,33 @@
 401868039,2026,12,"Richmond","William & Mary",2026
 401867915,2026,12,"Robert Morris","Long Island University",2026
 401871081,2026,12,"Sam Houston","Middle Tennessee",2026
+401868287,2026,12,"San Diego","Stetson",2026
+401864544,2026,12,"San José State","UNLV",2026
+401856753,2026,12,"South Carolina","Georgia",2026
 401867959,2026,12,"South Carolina State","Delaware State",2026
 401867864,2026,12,"South Dakota State","Indiana State",2026
 401868203,2026,12,"Southeast Missouri State","UT Martin",2026
 401871101,2026,12,"Southern Miss","South Alabama",2026
+401891330,2026,12,"Southern Utah","Chicago State",2026
 401868314,2026,12,"Stephen F. Austin","Northwestern State",2026
 401867927,2026,12,"Stonehill","Wagner",2026
 401866695,2026,12,"Stony Brook","Hampton",2026
+401856872,2026,12,"TCU","Utah",2026
 401862830,2026,12,"Temple","Rice",2026
+401856754,2026,12,"Tennessee","LSU",2026
 401856755,2026,12,"Texas","Arkansas",2026
 401868941,2026,12,"Texas Southern","Arkansas-Pine Bluff",2026
+401860920,2026,12,"Texas State","Washington State",2026
 401866468,2026,12,"Toledo","Bowling Green",2026
 401866698,2026,12,"Towson","Elon",2026
 401869953,2026,12,"Troy","Georgia Southern",2026
 401862835,2026,12,"Tulane","North Texas",2026
 401862832,2026,12,"Tulsa","Charlotte",2026
+401862836,2026,12,"UAB","UTSA",2026
+401868083,2026,12,"UC Davis","Cal Poly",2026
 401856869,2026,12,"UCF","Iowa State",2026
 401861968,2026,12,"UConn","Old Dominion",2026
+401858534,2026,12,"USC","Maryland",2026
 401868380,2026,12,"VMI","Furman",2026
 401868283,2026,12,"Valparaiso","St. Thomas (MN)",2026
 401868021,2026,12,"Villanova","Georgetown",2026
